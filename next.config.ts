@@ -1,7 +1,27 @@
 import type { NextConfig } from "next";
+import legacyRedirects from "./src/data/legacy-redirects.json";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // 301 redirects from URLs of the previous tsevending.com site that were
+  // indexed by Google / carry external backlinks, so existing rankings and
+  // link equity carry over to the closest equivalent page on the new site.
+  // legacyRedirects is generated from the Wayback Machine URL history via
+  // scripts/generate-legacy-redirects.mjs.
+  async redirects() {
+    return [
+      {
+        source: "/en/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/giao-thong-thong-minh",
+        destination: "/",
+        permanent: true,
+      },
+      ...legacyRedirects,
+    ];
+  },
 };
 
 export default nextConfig;

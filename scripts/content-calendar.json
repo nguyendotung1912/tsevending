@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-hang-lanh",
+    "topic": "Máy bán hàng đông lạnh tự động: Giải pháp cho siêu thị mini không nhân viên",
+    "keywords": ["máy bán hàng đông lạnh", "siêu thị mini tự động", "vending machine hàng lạnh"],
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-hang-lanh",
+    "topic": "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Những điều cần biết",
+    "keywords": ["bảo quản thực phẩm", "máy bán hàng lạnh", "an toàn thực phẩm vending"],
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-gas",
+    "topic": "Lắp máy bán gas mini tự động tại khu dân cư: Lợi ích và lưu ý an toàn",
+    "keywords": ["máy bán gas tự động", "bình gas mini", "an toàn PCCC vending"],
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "linh-kien-phu-tung",
+    "topic": "5 linh kiện máy bán hàng tự động thường hỏng và cách bảo trì",
+    "keywords": ["linh kiện máy bán hàng tự động", "bảo trì vending machine", "sửa máy bán hàng tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "linh-kien-phu-tung",
+    "topic": "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?",
+    "keywords": ["block nén lạnh", "sửa máy vending", "linh kiện làm lạnh"],
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-nuoc-giai-khat",
+    "topic": "Máy bán nước tự động cho văn phòng: Nên chọn dung tích bao nhiêu?",
+    "keywords": ["máy bán nước văn phòng", "dung tích máy vending", "máy bán nước tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-do-an-vat",
+    "topic": "Mô hình máy bán snack tự động tại nhà máy, khu công nghiệp",
+    "keywords": ["máy bán snack khu công nghiệp", "vending machine nhà máy", "máy bán đồ ăn vặt"],
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-van-phong",
+    "topic": "Tủ locker thông minh cho văn phòng: Giải pháp lưu trữ đồ cá nhân nhân viên",
+    "keywords": ["tủ locker văn phòng", "smart locker nhân viên", "tủ khóa điện tử văn phòng"],
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-van-phong",
+    "topic": "Tủ locker thông minh tích hợp thẻ chấm công cho nhà máy",
+    "keywords": ["tủ locker nhà máy", "thẻ chấm công locker", "tủ locker RFID"],
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-giao-nhan-hang",
+    "topic": "Tủ locker giao nhận hàng: Giải pháp cho shipper và sàn thương mại điện tử",
+    "keywords": ["tủ locker giao hàng", "smart locker logistics", "tủ locker shipper"],
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-giao-nhan-hang",
+    "topic": "Tích hợp tủ locker thông minh với hệ thống quản lý vận đơn",
+    "keywords": ["tích hợp API locker", "quản lý vận đơn", "tủ locker logistics"],
+    "status": "pending"
+  },
+  {
+    "id": 12,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-chung-cu",
+    "topic": "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư",
+    "keywords": ["so sánh tủ locker", "tủ gửi đồ chung cư", "tủ locker thông minh"],
+    "status": "pending"
+  },
+  {
+    "id": 13,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-gui-do-thong-minh",
+    "topic": "Tủ gửi đồ thông minh cho gym, hồ bơi: Nâng cao trải nghiệm khách hàng",
+    "keywords": ["tủ gửi đồ gym", "locker hồ bơi", "tủ gửi đồ thông minh"],
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "silo": "giai-phap-kinh-doanh",
+    "sub": null,
+    "topic": "Cách tính ROI khi đầu tư máy bán hàng tự động",
+    "keywords": ["ROI vending machine", "tính toán đầu tư vending", "đầu tư máy bán hàng tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 15,
+    "silo": "giai-phap-kinh-doanh",
+    "sub": null,
+    "topic": "Quản lý từ xa hệ thống máy bán hàng tự động: Phần mềm cần có những gì?",
+    "keywords": ["quản lý vending từ xa", "phần mềm quản lý vending", "IoT vending machine"],
+    "status": "pending"
+  },
+  {
+    "id": 16,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": null,
+    "topic": "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn",
+    "keywords": ["bảo trì máy bán hàng tự động", "quy trình bảo trì vending", "vận hành máy vending"],
+    "status": "pending"
+  },
+  {
+    "id": 17,
+    "silo": "tu-locker-thong-minh",
+    "sub": null,
+    "topic": "Vật liệu và độ bền của tủ locker thông minh ngoài trời",
+    "keywords": ["tủ locker ngoài trời", "vật liệu locker", "độ bền tủ locker thông minh"],
+    "status": "pending"
+  },
+  {
+    "id": 18,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-nuoc-giai-khat",
+    "topic": "Máy bán nước tự động mùa hè: Tối ưu doanh thu cao điểm",
+    "keywords": ["máy bán nước mùa hè", "tối ưu doanh thu vending", "kinh doanh máy bán nước"],
+    "status": "pending"
+  },
+  {
+    "id": 19,
+    "silo": "tu-locker-thong-minh",
+    "sub": "tu-locker-chung-cu",
+    "topic": "Tủ locker thông minh và bài toán an ninh chung cư cao tầng",
+    "keywords": ["an ninh chung cư", "tủ locker thông minh", "smart locker an ninh"],
+    "status": "pending"
+  },
+  {
+    "id": 20,
+    "silo": "giai-phap-kinh-doanh",
+    "sub": null,
+    "topic": "Kinh doanh tủ locker thông minh: Mô hình cho thuê ô tủ theo tháng",
+    "keywords": ["cho thuê locker", "kinh doanh tủ locker thông minh", "mô hình cho thuê tủ"],
+    "status": "pending"
+  }
+]

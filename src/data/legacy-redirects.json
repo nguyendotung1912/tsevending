@@ -1,0 +1,3207 @@
+[
+  {
+    "source": "/05-cau-hoi-khi-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/05-cau-hoi-khi-kinh-doanh-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/05-ly-do-khien-may-ban-nuoc-tu-dong-duoc-ua-chuong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/05-ly-do-nen-kinh-doanh-may-ban-nuoc-tu-dong-ngay",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/05-tien-ich-cua-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/07-dia-diem-ly-tuong-lap-dat-tu-smart-locker",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/10-dia-diem-lap-may-ban-khau-trang-tu-dong-khuan",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/3-luu-y-khi-tim-mua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/3-ly-do-nen-lap-dat-may-ban-nuoc-tu-dong-o-cay-xang",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/3-vi-tri-lap-dat-may-ban-nuoc-tu-dong-o-chung-cu",
+    "destination": "/tu-locker-thong-minh/tu-locker-chung-cu",
+    "permanent": true
+  },
+  {
+    "source": "/5-kinh-nghiem-mua-may-ban-nuoc-tu-dong-ban-nen-biet",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/5-loi-ich-lap-may-ban-nuoc-tu-dong-tai-khu-vui-choi",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/5-luu-y-chon-nuoc-may-ban-nuoc-tu-dong-khu-du-lich",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/5-luu-y-khi-lua-chon-may-ban-hang-tu-dong-phuc-vu-viec-kinh-doanh-cua-ban",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/5-tieu-chi-lua-chon-san-pham-kinh-doanh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/7-buoc-khoi-nghiep-voi-mo-hinh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/8-diem-dat-may-ban-hang-tu-dong-hai-ra-tien",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/8-loi-ich-cua-may-ban-nuoc-tu-dong-o-chung-cu",
+    "destination": "/tu-locker-thong-minh/tu-locker-chung-cu",
+    "permanent": true
+  },
+  {
+    "source": "/9-luu-y-khi-mua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/9-luu-y-khong-the-bo-qua-khi-mua-may-ban-hang-tu-dong-de-kinh-doanh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/9-mau-may-ban-hang-tu-dong-tse-made-in-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/an-ninh-va-chong-trom-giai-phap-toi-uu-bao-ve-tai-san",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/anh-huong-cua-may-ban-hang-tu-dong-den-xa-hoi",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ap-dung-cong-nghe-vr-va-ar-trong-trai-nghiem-khach-hang-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/bai-giu-xe-thong-minh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ban-giao-may-ban-hang-tu-dong-cho-cty-ba-trai-farm",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ban-giao-may-ban-hang-tu-dong-cho-truong-mam-non-quoc-te-viet-my-binh-duong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ban-lanh-dao",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/ban-phim-may-ban-hang-tu-dong-chat-luong-tot",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/bao-mat-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/bao-tri-va-sua-chua-quy-trinh-va-chien-luoc-toi-uu",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/bi-quyet-tang-trai-nghiem-du-lich-su-dung-locker-thong-minh-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/blog",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/bo-mach-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/bo-nhan-va-tra-lai-tien-thua-1-menh-gia-brv-ict",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/bo-nhan-va-tra-lai-tien-thua-1-menh-gia-nv-11",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/buoc-dot-pha-trong-bao-quan-hang-hoa-voi-locker-thong-minh",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/cabin-ao",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cabin-lai-xe",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cac-bo-phan-chinh-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-buoc-cai-dat-locker-cho-shipper-tai-cac-vi-tri-chien-luoc",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-buoc-can-thiet-de-bat-dau-su-dung-dich-vu-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-buoc-dot-pha-quan-trong-trong-cong-nghe-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-chien-luoc-phat-trien-mo-hinh-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/cac-chien-luoc-toi-uu-hoa-loi-nhuan-tu-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/cac-cong-ty-hang-dau-trong-linh-vuc-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-giai-phap-ai-cho-chien-luoc-gia-va-khuyen-mai-danh-cho-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/cac-giai-phap-bao-mat-cho-locker-danh-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-loai-linh-kien-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/cac-loai-locker-thong-minh-danh-cho-shipper-hien-nay",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-loai-man-hinh-hien-thi-va-tuong-tac-tren-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/cac-loai-smart-locker-for-shipper-phu-hop-voi-thi-truong-viet-nam",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-loi-ich-cua-may-ban-dua-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-mo-hinh-gia-ca-linh-hoat-cho-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-mo-hinh-kinh-doanh-may-ban-hang-tu-dong-pho-bien",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/cac-moc-thoi-gian-quan-trong-trong-lich-su-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-nha-sang-lap-va-cong-ty-tien-phong-trong-linh-vuc-nay",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-quy-dinh-phap-ly-lien-quan-den-viec-su-dung-locker-cho-shipper-tai-viet-nam",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cac-san-pham-noi-bat-tren-thi-truong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-tien-ich-mo-rong-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-tieu-chi-can-thiet-de-lua-chon-may-ban-hang-tu-dong-chat-luong-cao",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cac-yeu-to-anh-huong-den-thi-truong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cach-hoat-dong-cua-locker-gui-nhan-do-giai-phap-toi-uu-cho-giao-nhan-khong-tiep-xuc",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cach-hoat-dong-cua-locker-nhan-dien-khuon-mat-tu-dang-ky-den-mo-khoa",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/cach-hoat-dong-cua-may-ban-hang-tu-dong-su-dung-cong-nghe-nhan-dien-khuon-mat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cach-lap-trinh-may-giat-say-tu-dong-toi-uu-hieu-suat-va-tiet-kiem-nang-luong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cach-locker-thong-minh-giup-toi-uu-hoa-khong-gian-trong-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/cach-mo-khoa-tu-locker",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/cach-su-dung-locker-cho-shipper-mot-cach-hieu-qua",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cach-su-dung-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cach-su-dung-smart-locker-for-shipper-hieu-qua",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cai-tien-quan-ly-can-tin-he-thong-dat-mon-va-quet-the-thong-minh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cam-bien-hong-ngoai-va-song-sieu-am-giai-phap-chong-xam-nhap-hieu-qua",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/can-ho-3d-ao-mau",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cau-chuyen-thanh-cong-cua-cac-doanh-nghiep-su-dung-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cau-tao-may-ban-hang-tu-dong-cac-thanh-phan-va-tinh-nang-can-biet",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/chat-lieu-va-be-mat-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/chi-phi-dau-tu-ban-dau-nhung-yeu-to-can-can-nhac-cho-doanh-nghiep",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/chi-phi-dau-tu-may-ban-hang-tu-dong-nhu-the-nao",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/chi-phi-dau-tu-may-ban-hang-tu-dong-nhu-the-nao-2",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/chi-phi-su-dung-locker-cho-shipper-co-dang-dau-tu-khong",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/chia-se-kinh-nghiem-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/chia-se-kinh-nghiem-kinh-doanh-may-ban-hang-tu-dong-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/chien-luoc-canh-tranh-trong-nganh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/chinh-sach-bao-mat",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/chinh-sach-va-quy-dinh",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/chuan-bi-truoc-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/chuyen-cung-cap-may-ban-nuoc-ngot-tu-dong-uy-tin",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/co-cau-to-chuc",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/co-hoi-dau-tu-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/co-nen-hay-khong-chon-mua-may-ban-nuoc-cam-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/co-nen-lap-dat-may-ban-nuoc-tu-dong-tai-benh-vien",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/co-nen-su-dung-o-khoa-tu-locker-khong",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-bao-quan-va-lam-mat-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-cam-bien-va-camera-xac-thuc-bao-chay-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-giao-tiep-khong-day-va-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-ket-noi-internet-va-iot-ap-dung-tren-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-kiem-soat-cua-ket-hop-cham-cong-giai-phap-an-ninh-va-quan-ly-hien-dai",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-nhan-dien-khuon-mat-trong-locker-thong-minh-cach-hoat-dong-va-ung-dung-thuc-tien",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-nhan-dien-khuon-mat-trong-tu-locker-lam-the-nao-de-hoat-dong",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-tiet-kiem-nang-luong-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-trong-locker-thong-minh-cach-no-thay-doi-nganh-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-trong-tam-tay-cach-locker-thong-minh-dang-dinh-hinh-tuong-lai-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/cong-nghe-xu-ly-hinh-anh-va-video-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/covid-kinh-doanh-gi",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/dam-bao-chat-luong-san-pham-yeu-to-cot-loi-trong-kinh-doanh-thanh-cong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/dam-bao-niem-phong-chinh-hang-may-phat-seal-container-tu-dong-dang-tin-cay",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/danh-gia-cac-he-thong-locker-cho-shipper-pho-bien-hien-nay",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/danh-gia-hieu-qua-cua-cac-giai-phap-ai-trong-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/danh-gia-tac-dong-cua-ai-tren-may-ban-hang-tu-dong-den-su-hai-long-cua-khach-hang",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/khac",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/kiosk",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/kiosk-tra-cuu-thong-tin",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/linh-kien-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/may-ban-dung-dich-chat-long-va-bao-bi-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/may-ban-hang",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/mo-hinh-thuc-te-ao-3d",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/nha-ve-sinh-thong-minh-wc-smart",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/san-pham",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/danh-muc-san-pham/tu-thong-minh-smart-locker",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/dau-tu-may-ban-hang-tu-dong-voi-5-buoc-sinh-loi-deu-dan",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/de-dang-trien-khai-may-ban-hang-tu-dong-o-nhieu-dia-diem",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/dem-xe-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/dich-vu",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/dich-vu-2",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/dich-vu-sua-chua-may-ban-hang-tu-dong-hang-dau",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/dieu-chinh-theo-nhu-cau-cua-khach-hang-tao-ra-gia-tri-va-duy-tri-su-canh-tranh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/doi-pho-voi-bien-dong-thi-truong-chien-luoc-toi-uu-hoa-va-duy-tri-su-on-dinh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/du-an",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-10-may-ban-hang-tu-dong-tai-dong-nai-kcn-ho-nai",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-dat-4-may-ban-hang-tu-dong-tai-benh-vien-da-khoa-bac-lieu",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-o-ha-tien-kien-giang",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-an-giang",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-benh-vien-nhi-hau-giang",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-dong-thap",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-mang-den-kontum",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-phong-gym-o-ho-chi-minh-hcm",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-trung-tam-tieng-anh-binh-duong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-hang-tu-dong-tai-truong-cao-dang-nghe-dong-nai",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-ban-nuoc-tu-dong-o-truong-hoc-tai-binh-duong",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/lap-may-tai-trang-trai-ca-xau-long-xuyen-an-giang",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/du-an/may-ban-hang-tu-dong-tai-hung-yen-lap-tai-nha-may-thuan-duc",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/gang-tay-vinyl",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/gia-cabin-mo-phong-lai-xe-o-to",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/gia-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/gia-may-ban-hang-tu-dong-la-bao-nhieu-tien-mua-loai-nao-tot-nhat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/gia-mot-chiec-may-ban-hang-tu-dong-la-bao-nhieu",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-cay-xang-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-giao-hang-an-toan-toi-uu-hoa-quy-trinh-giao-nhan-voi-tu-locker",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kiem-soat-vao-ra-bang-cong-nghe-sinh-trac-hoc-xu-huong-bao-mat-hien-dai",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kiem-soat-vao-ra-bang-ma-qr-cong-nghe-hien-dai-cho-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kiem-soat-vao-ra-bang-the-tu-an-toan-hieu-qua-va-tien-loi",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kiem-soat-vao-ra-thong-minh-xu-huong-tat-yeu-cua-nha-may-hien-dai",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kinh-doanh-may-ban-hang-tu-dong-tai-cac-trung-tam-the-thao",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-kinh-doanh-may-ban-hang-tu-dong-tai-cac-trung-tam-the-thao-2",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-may-giat-say-tu-dong-cho-khu-can-ho-chung-cu-cao-cap",
+    "destination": "/tu-locker-thong-minh/tu-locker-chung-cu",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-phat-hien-xam-nhap-cho-nha-may-bao-ve-tai-san-va-du-lieu-quan-trong",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-quan-ly-can-tin-hien-dai-giam-lang-phi-va-tang-hieu-suat-van-hanh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-theo-yeu-cau",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/giai-phap-tu-dong-hoa-quan-ly-kho-hang-va-can-tai-hang-hoa-cho-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/giai-quyet-su-co-ky-thuat-chien-luoc-dam-bao-hoat-dong-lien-tuc",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/giam-chi-phi-nhan-cong-cua-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/giam-sat-thong-minh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/giam-thieu-lang-phi-thuc-pham-loi-ich-tu-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/giam-thieu-rui-ro-bao-chay-gia-qua-he-thong-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/giat-say-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/gioi-thieu-chung",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/gioi-thieu-ve-may-ban-khau-trang-va-nuoc-diet-khuan",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-bao-chay-tu-dong-va-dieu-khien-chua-chay-qua-trung-tam-giam-sat",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-cabin-huan-luyen-lai",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-camera-giam-sat-cctv-trong-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-chieu-sang-va-hien-thi-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-kiem-tra-xuat-nhap-kho-va-can-tai-hang-hoa-toi-uu-hoa-van-chuyen-va-quan-ly-don-hang",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-locker-cho-shipper-giup-giam-chi-phi-van-hanh-nhu-the-nao",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-locker-hien-dai-giai-phap-toi-uu-cho-quy-trinh-giao-nhan",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-locker-thong-minh-cau-noi-giua-tien-ich-va-su-hai-long-cua-khach-hang",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-mo-phong-lai-xe",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-phat-hien-va-canh-bao-thieu-ppe-cong-nghe-ai-nang-cao-an-toan-lao-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-phat-hien-xam-nhap-cong-nghe-hien-dai-tang-cuong-an-ninh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-thanh-toan-dien-tu-tren-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/he-thong-tu-locker-giai-phap-hien-dai-cho-giao-nhan",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/hoat-dong-247-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/hoi-cho-ao-3d",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-bao-tri-va-bao-duong-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-cach-su-dung-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-kinh-doanh-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-lap-trinh-he-thong-may-giat-say-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-lua-chon-locker-phu-hop-cho-nhu-cau-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-thiet-ke-he-thong-may-giat-say-tu-dong-cho-cua-hang-giat-ui",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/huong-dan-ung-dung-locker-cho-shipper-trong-cac-diem-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/kenh-tiktok-ve-may-ban-hang-tu-dong-cua-tse-chinh-thuc-len-song",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/kha-nang-tuong-thich-voi-moi-truong-xung-quanh-yeu-to-quyet-dinh-trong-quan-ly-van-hanh",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kha-nang-tuy-chinh-san-pham-loi-ich-tu-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/khai-thac-kinh-doanh-may-ban-hang-tu-dong-ngoai-cong-cong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/khai-thac-may-ban-hang-tu-dong-tai-ho-chi-minh-hcm",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/khoa-smart-locker-la-gi",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/khoi-nghiep-voi-mo-hinh-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/khoi-nghiep-voi-mo-hinh-kinh-doanh-may-ban-hang-tu-dong-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/khoi-nguon-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kich-thuoc-va-kha-nang-luu-tru-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kiem-soat-vao-ra",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-gi-voi-so-von-100-trieu",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-may-ban-hang-tu-dong-co-loi-nhuan-nhieu-khong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-may-ban-hang-tu-dong-tai-cay-xang",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-may-ban-nuoc-ngot-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-may-ban-nuoc-tu-dong-tai-phong-gym",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-tu-may-ban-hang-tu-dong-co-lai-khong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-voi-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-doanh-voi-may-ban-nuoc-tu-dong-tai-sao-khong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-nghiem-kinh-doanh-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/kinh-nghiem-mua-may-ban-dua-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kios-ban-ve-thanh-toan-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kiosk",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kiosk-ban-hang-thong-minh-toi-uu-hoa-doanh-thu-va-tao-nen-su-noi-bat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/kiosk-tra-cuu-thong-tin",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lam-the-nao-de-bao-tri-va-ve-sinh-may-giat-say-tu-dong-dung-cach",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/lam-the-nao-de-toi-uu-hoa-viec-su-dung-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-hang-tu-dong-chuyen-nghiep",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-hang-tu-dong-tai-ha-noi",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-hang-tu-dong-tai-quang-ninh-nha-may-han-quoc",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-hang-tu-dong-trong-benh-vien",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-hang-tu-dong-trong-truong-hoc",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-may-ban-nuoc-tu-dong-tai-binh-duong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/lap-dat-tu-gui-do-thong-minh-phong-gym",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/lap-may-ban-hang-tu-dong-tai-binh-duong-anh-ngu-tu-nhien",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lap-may-ban-nuoc-tu-dong-o-cac-truong-dai-tai-hcm",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/lap-may-ban-nuoc-tu-dong-tai-cac-cong-vien-o-tp-hcm",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/lap-may-ban-nuoc-tu-dong-tai-nha-trang",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/lap-tu-smart-locker-o-dau",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/lich-su-may-ban-hang-tu-dong-tai-cac-quoc-gia",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lich-su-va-su-phat-trien-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/lien-he",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/linh-kien-may-ban-hang",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/linh-kien-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/locker-an-toan-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/locker-cho-shipper-xu-huong-moi-trong-nganh-logistics",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/locker-dien-tu-cho-shipper-giai-phap-hien-dai-cho-quy-trinh-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/locker-nhan-dien-khuon-mat-giai-phap-tien-loi-va-an-toan-cho-cuoc-song-hien-dai",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/locker-nhan-dien-khuon-mat-so-voi-locker-truyen-thong-dau-la-lua-chon-tot-nhat",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/locker-shipper-thong-minh-giai-phap-hien-dai-cho-quy-trinh-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-buoc-chuyen-minh-cua-nganh-du-lich-ben-vung",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-buoc-dot-pha-trong-quan-ly-tai-san-tai-cac-diem-du-lich",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-cau-noi-tuong-lai-trong-ky-nguyen-sieu-thi-so",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-dat-o-khach-san-giai-phap-tien-ich-hien-dai-cho-khach-luu-tru",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-dat-o-sieu-thi-giai-phap-tien-loi-an-toan-va-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-giai-phap-bao-mat-toi-uu-cho-khach-hang-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-giai-phap-quan-ly-hanh-ly-toi-uu-cho-san-bay-nha-ga",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-giai-phap-tang-hieu-qua-van-hanh-cho-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-tai-bai-bien-va-khu-du-lich-giai-phap-tien-ich-va-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-tai-san-bay-nha-ga-ben-tau-giai-phap-hien-dai-cho-su-tien-nghi-va-an-toan",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-va-cuoc-cach-mang-ve-an-toan-tai-san-trong-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/locker-thong-minh-va-kha-nang-tang-doanh-thu-cho-khach-san",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-he-thong-kiem-soat-cua-ket-hop-cham-cong-trong-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-locker-gui-nhan-do-giai-phap-hien-dai-cho-cuoc-song-tien-nghi",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-locker-nhan-dien-khuon-mat-trong-cuoc-song-hien-dai",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-may-ban-nuoc-tu-dong-trong-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-tu-smart-locker",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-viec-su-dung-locker-cho-shipper-tai-viet-nam",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-cua-viec-su-dung-locker-tu-dong-trong-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-khi-su-dung-he-thong-may-giat-say-tu-dong-trong-gia-dinh-va-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-moi-truong-khi-trien-khai-locker-thong-minh-tai-khach-san",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/loi-ich-va-hieu-qua-cua-smart-video-wall-trong-quan-ly-an-ninh-nha-may-thong-minh",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/loi-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/loi-nhuan-kinh-doanh-tu-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/loi-nhuan-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/loi-the-cua-viec-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/lua-chon-vi-tri-toi-uu-cho-may-ban-hang-tu-dong-chien-luoc-de-dat-hieu-qua-cao",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/luu-y-mua-may-ban-nuoc-tu-dong-tot-nhat",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/ly-do-chon-lap-may-ban-hang-tu-dong-tai-chung-cu",
+    "destination": "/tu-locker-thong-minh/tu-locker-chung-cu",
+    "permanent": true
+  },
+  {
+    "source": "/ly-do-sieu-thi-can-locker-thong-minh-cuoc-cach-mang-trong-trai-nghiem-mua-sam",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/mam-khay-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/mang-tien-ich-den-cho-nguoi-lao-dong-tai-cac-nha-may-binh-duong-bang-may-ban-hang-tu-dong",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-banh-keo-giai-phap-tien-loi-cho-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-banh-trang-tron-tu-dong-tse-tai-ho-chi-minh-hcm",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-banh-trang-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-banh-tron-tu-dong-tai-ho-chi-minh-hcm",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-ca-phe-giai-phap-tien-loi-cho-tin-do-ca-phe",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-com-hop-an-lien-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-do-an-nhanh-giai-phap-tien-loi-cho-cac-bua-an-nhanh",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-do-bao-ho-lao-dong-tu-dong-tai-cong-trinh-va-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-do-dien-tu-giai-phap-tien-loi-cho-nguoi-tieu-dung-hien-dai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-do-dung-van-phong-giai-phap-toi-uu-cho-noi-lam-viec-hien-dai",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-dua-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-dua-tu-dong-tse-v05",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-dung-dich-chat-long-va-bao-bi-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-dung-dich-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-40-thanh-toan-nhanh-chong-qua-nhan-dien-khuon-mat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-bang-nhan-dien-khuon-mat-xu-huong-mua-sam-thong-minh",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-co-the-dieu-khien-tu-xa-tien-ich-va-hieu-qua",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-diem-nhan-cho-su-phat-trien-kinh-doanh-cua-ban",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-doi-co-man-hinh-quang-cao",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-giai-phap-hieu-qua-thay-the-cong-viec-ganh-hang-rong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-giai-phap-kinh-doanh-cong-nghe",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-giai-phap-kinh-doanh-cong-nghe-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-giai-phap-kinh-doanh-cong-nghe-3",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-kep-tse-v07",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-la-gi-tim-hieu-cach-no-hoat-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-lua-chon-cua-nha-dau-tu",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-mo-hinh-kinh-doanh-tiem-nang",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-mo-hinh-kinh-doanh-tiem-nang-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-mo-hinh-kinh-doanh-tiem-nang-3",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-nang-tam-du-lich-viet",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-nang-tam-du-lich-viet-2",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-nhat-ban",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-san-xuat-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-ben-tre",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-benh-vien-da-khoa-binh-tan",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-binh-duong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-can-tho",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-dong-nai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-hung-yen",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-kontum",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-long-an",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-tay-ninh",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tai-vietbuild-2022",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tich-hop-he-thong-thanh-toan-da-dang-doi-moi-cach-thanh-toan",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tich-hop-he-thong-thu-hoi-vo-chai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tich-hop-wi-fi-mua-sam-hien-dai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-treo-tuong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-trong-truong-hoc",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tse-su-lua-chon-hoan-hao",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tse-v01",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tse-v03",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tseveding",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-tsvending",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-v02",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-cac-mo-hinh-doanh-thu-dua-tren-quang-cao",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-cac-mo-hinh-kinh-doanh-theo-mua",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-cong-nghe-iot",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-cong-nghe-ket-noi-da-dang",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-cong-nghe-nhan-dien-van-tay",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-mo-hinh-thanh-toan-theo-luot-su-dung",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-va-tich-hop-cong-nghe-blockchain",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-chuc-nang-ham-nong-do-an",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-he-thong-canh-bao-hang-ton-kho",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-he-thong-luu-tru-du-lieu-khach-hang",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-he-thong-nhan-dien-khuon-mat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-man-hinh-cam-ung-nang-cao-trai-nghiem-mua-sam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-hang-tu-dong-voi-ung-dung-di-dong-tien-loi-va-hien-dai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-kem-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-khau-trang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-khau-trang-tu-dong-tse-v06",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-mi-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-my-pham-giai-phap-mua-sam-thong-minh-cho-phai-dep",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-cam-tu-dong-tse-v04",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-giai-khat-giai-phap-tien-loi-cho-doi-song-hien-dai",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-giat-nuoc-xa-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-mia-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-diem-den-ly-tuong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-duoc-yeu-thich-boi-moi-nguoi",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-la-gi-va-co-che-hoat-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tai-bai-bien",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tai-ben-cang",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tai-cac-truong-dai-hoc",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tai-cac-truong-hoc-o-ha-noi",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tai-long-an",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-toan-thanh-pho-da-nang",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tse-co-tot-khong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-nuoc-tu-dong-tse-co-tot-khong-2",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-quan-ao-va-phu-kien-xu-huong-moi-trong-nganh-ban-le",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-rau-cu-trai-cay-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-rau-cu-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-sach-doi-moi-trai-nghiem-mua-sam-van-hoa-doc",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-sach-tu-dong-tl02",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-thuoc-giai-phap-tien-loi-cho-nhu-cau-y-te-cap-bach",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-trai-cay-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-trung-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-trung-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong/may-ban-hang-lanh",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-vang-tu-dong-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-ban-xu-tu-dong-trong-cac-khu-vui-choi",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-choi-game-tang-qua-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/may-giat-say-thanh-toan-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/menu-thong-minh-mot-san-pham-thiet-thuc-cho-cac-nha-hang-quan-an-quan-cafe",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/meo-chon-may-ban-nuoc-cam-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-hop-tac-giua-may-ban-hang-tu-dong-va-cac-doanh-nghiep-khac",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-40",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-ket-hop-may-ban-hang-tu-dong-voi-dich-vu-giao-hang",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-may-ban-hang-tu-dong-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-kinh-doanh-may-ban-hang-tu-dong-va-hop-tac-voi-cac-thuong-hieu-lon",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/mo-hinh-thuc-te-ao-3d",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/mot-so-dieu-luu-y-khi-su-dung-may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/mua-may-ban-hang-tu-dong-o-dau-chat-luong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/mua-may-ban-nuoc-ngot-tu-dong-o-dau-gia-tot",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/mua-may-ban-nuoc-ngot-tu-dong-o-dau-gia-tot-2",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/mua-may-ban-nuoc-tu-dong-gia-tot-o-dau",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/mua-may-ban-nuoc-tu-dong-gia-tot-o-dau-2",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/nang-cao-tien-ich-cong-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nen-hay-khong-chon-mua-may-ban-nuoc-cam-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/nen-mua-hay-thue-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nghien-cuu-va-thiet-ke-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nha-san-xuat-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nha-ve-sinh-thong-minh-wc-smart",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-cong-nghe-ban-dau-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-loai-may-ban-hang-thong-minh-pho-bien",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-loi-ich-cua-tu-locker-nhan-dien-khuon-mat-trong-quan-ly-tai-san-ca-nhan",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-luu-y-khi-lap-dat-locker-cho-shipper-tai-dia-diem-kinh-doanh",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-luu-y-khi-lap-dat-locker-thong-minh-tai-khach-san",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-ly-do-ban-nen-mua-may-ban-hang-tu-dong-cu",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-sai-lam-thuong-gap-khi-mua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-van-de-thuong-gap-khi-su-dung-locker-cho-shipper-va-cach-khac-phuc",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/nhung-yeu-to-can-xem-xet-khi-chon-nha-cung-cap-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/phan-mem-mo-phong-lai-xe-o-to",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/phan-mem-quan-ly-an-ninh-tich-hop-nen-tang-cho-trung-tam-giam-sat-hieu-qua",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/phan-mem-quan-ly-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/phan-mem-quan-ly-va-dieu-khien-tu-xa-cua-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/phan-tich-loi-ich-kinh-te-cua-locker-cho-shipper-cho-cac-doanh-nghiep-vua-va-nho",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/phat-trien-cac-giai-phap-thanh-toan-di-dong-tren-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/phat-trien-cac-tinh-nang-moi-cho-may-ban-hang-su-dung-ai",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/phuc-vu-nhu-cau-da-dang-cua-khach-hang-giai-phap-tu-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/portfolio",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/qr-code-va-nhan-dien-khuon-mat-cong-nghe-tuong-lai-tai-cac-khu-du-lich",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-an-ninh-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-an-ninh-toa-nha",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-camera-tap-trung",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-de-dang-voi-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-hang-ton-kho-chien-luoc-toi-uu-hoa-nguon-luc-va-gia-tang-hieu-qua-kinh-doanh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-tram-can",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/quan-ly-va-phan-tich-du-lieu-an-ninh-nang-cao-hieu-suat-trung-tam-giam-sat-an-ninh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/quy-trinh-dao-tao-mo-hinh-ai-cho-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/quy-trinh-san-xuat-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/sach-3d-ung-dung-cong-nghe-ar",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-bay-ben-xe-lap-dat-may-ban-nuoc-tu-dong",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham-cho-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham-khac",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/9-mau-may-ban-hang-tu-dong-tse-made-in-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/ban-phim-may-ban-hang-tu-dong-chat-luong-tot",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/bo-mach-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/bo-nhan-va-tra-lai-tien-thua-1-menh-gia-brv-ict",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/bo-nhan-va-tra-lai-tien-thua-1-menh-gia-nv-11",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/can-ho-3d-ao-mau",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/gang-tay-vinyl",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/giai-phap-cay-xang-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/he-thong-cabin-huan-luyen-lai",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/he-thong-mo-phong-3d-truong-ban-bo-binh",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/hoi-cho-ao-3d",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/kiosk-thong-tin-comq-q-kiosk-1519-cmt",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-dua-tu-dong-tse-v04",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-dua-tu-dong-tse-v05",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-dung-dich-chat-long-bao-bi-tu",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-kep-tse-v07",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-treo-tuong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-tse-v01",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-tse-v02",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-tse-v03",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-hang-tu-dong-v02",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-khau-trang-tu-dong-tse-v06",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-nuoc-cam-tu-dong-tse-v03",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-nuoc-cam-tu-dong-tse-v04",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/may-ban-sach-tu-dong-tl02",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/nha-ve-sinh-thong-minh-wc-smart",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/sach-3d-ung-dung-cong-nghe-ar",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/tu-dong-thong-minh-tl04",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/tu-khoa-thong-minh-tl03",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/tu-sach-thong-minh-tl02",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/san-pham/tu-thong-minh-smart-locker-tl01",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/san-xuat-vo-may-ban-hang-tu-dong-ket-hop-su-ky-thuat-va-tham-my",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/services",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/sinh-vien-thich-thu-voi-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/smart-video-wall-trong-giam-sat-an-ninh-nha-may-cong-nghe-va-ung-dung-thuc-te",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/smart-video-wall-va-trung-tam-giam-sat-an-ninh-giai-phap-toi-uu-cho-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-cac-cong-nghe-phat-hien-xam-nhap-dau-la-giai-phap-tot-nhat",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-giua-locker-truyen-thong-va-locker-thong-minh-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-locker-nhan-dien-khuon-mat-va-locker-truyen-thong-dau-la-giai-phap-tot-hon",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-locker-thong-minh-va-locker-truyen-thong-dau-la-su-lua-chon-toi-uu",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-may-ban-hang-tu-dong-co-dien-va-hien-dai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-may-ban-hang-tu-dong-tse-va-may-khac",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-ve-hieu-qua-may-ban-hang-tu-dong-voi-kinh-doanh-truyen-thong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/so-sanh-ve-hieu-qua-may-ban-hang-tu-dong-voi-kinh-doanh-truyen-thong-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/su-dung-may-ban-hang-tu-dong-tot-va-hieu-qua-nhat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/su-menh-tam-nhin",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/su-phat-trien-cua-may-ban-hang-tu-dong-qua-cac-thoi-ky",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/su-ra-doi-cua-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/su-ra-doi-cua-may-ban-hang-tu-dong-tai-viet-nam-2",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/su-xuat-hien-va-xu-huong-phat-trien-cua-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/su-xuat-hien-va-xu-huong-phat-trien-cua-may-ban-hang-tu-dong-tai-viet-nam-2",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/sua-chua",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/sua-chua-may-ban-hang-tu-dong",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/sua-chua-may-ban-hang-tu-dong-2",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/tac-dong-cua-locker-cho-shipper-den-trai-nghiem-khach-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tac-gia/sudo",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tai-sao-locker-cho-shipper-la-giai-phap-toi-uu-cho-giao-hang-an-toan",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tai-sao-locker-thong-minh-la-tro-thu-dac-luc-cho-du-khach-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tai-sao-may-ban-nuoc-tu-dong-dat-o-bai-do-xe",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/tai-sao-nen-lap-may-ban-nuoc-tu-dong-tai-bai-bien",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tam-quan-trong-cua-cay-ban-nuoc-tu-dong-tai-cac-noi-cong-cong-loi-ich-va-anh-huong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/tang-cuong-tiep-can-san-pham-loi-ich-tu-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tang-doanh-thu-cho-doanh-nghiep-nho-may-ban-hang-tu-dong",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/tang-trai-nghiem-du-khach-quoc-te-voi-locker-thong-minh",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tao-dau-an-khac-biet-locker-thong-minh-va-su-tang-truong-canh-tranh-trong-kinh-doanh-sieu-thi",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tao-hinh-anh-va-thuong-hieu-trong-nganh-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tao-lap-cac-bao-cao-va-phan-tich-ai-ve-hieu-suat-tren-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/testimonial",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/cay-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/cay-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/the/co-hoi-dau-tu-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/the/co-hoi-sinh-loi-tu-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/dau-tu-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+    "permanent": true
+  },
+  {
+    "source": "/the/gia-may-ban-khau-trang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/the/loi-nhuan-kinh-doanh-tu-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/the/loi-nhuan-tu-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tai-ben-tre",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tai-benh-vien-nhi-dong-nai",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tai-can-tho",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tai-long-an",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tai-tay-ninh",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-hang-tu-dong-tse",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-khau-trang",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-khau-trang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/the/may-ban-nuoc-tu-dong-tai-long-an",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/the/tinh-kinh-te-tu-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/tu-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/the/tu-ban-nuoc-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/thi-truong-may-ban-hang-tu-dong-tai-chau-a",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/thi-truong-may-ban-hang-tu-dong-tai-chau-au",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/thi-truong-may-ban-hang-tu-dong-tai-my",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/thi-truong-toan-cau-tinh-hinh-hien-tai-va-xu-huong-phat-trien",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/thiet-bi-kiem-soat-ra-vao-doi-voi-phuong-tien-trong-nha-may",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/thiet-bi-kiem-soat-ra-vao-voi-con-nguoi-giai-phap-an-ninh-hien-dai-cho-doanh-nghiep",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/thiet-ke-ben-ngoai-va-giao-dien-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/thiet-ke-may-ban-hang-theo-yeu-cau",
+    "destination": "/lien-he",
+    "permanent": true
+  },
+  {
+    "source": "/thoat-khoi-kho-khan-nho-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/thong-tin-can-biet-ve-kios-thanh-toan-tu-dong-cho-bai-gui-xe-hieu-qua-va-nhanh-chong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/thong-tin-noi-bo",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/thuc-trang-may-ban-hang-tu-dong-tai-chau-a-va-tiem-nang-thi-truong-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-cac-giai-phap-cong-nghe-ben-vung-vao-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-locker-cho-shipper-vao-quy-trinh-van-hanh",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-locker-thong-minh-voi-dich-vu-le-tan-khach-san",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-nhan-dien-khuon-mat-van-tay-va-the-tu-trong-he-thong-kiem-soat-cua-ket-hop-cham-cong",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-smart-video-wall-voi-he-thong-an-ninh-toan-dien-cho-nha-may-thong-minh",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/tich-hop-tri-tue-nhan-tao-trong-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/tien-ich-ma-may-ban-hang-tu-dong-mang-lai-trong-doi-song",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tien-ich-ma-may-ban-hang-tu-dong-mang-lai-trong-doi-song-2",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tien-loi-va-nhanh-chong-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tieu-chi-chon-may-ban-hang-tu-dong-tsevending",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tieu-chi-lua-chon-diem-dat-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/tieu-chi-lua-chon-diem-dat-may-ban-hang-tu-dong-2",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/tim-hieu-ve-loai-hinh-thue-may-ban-hang-tu-dong-uu-diem-va-nhung-kho-khan-can-phai-giai-quyet",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tin-tuc",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tinh-chinh-thiet-ke-theo-loai-san-pham-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tinh-chinh-thuat-toan-ai-de-nang-cao-kha-nang-du-doan-tren-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+    "permanent": true
+  },
+  {
+    "source": "/tinh-nang-bao-ve-va-chong-va-dap-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tinh-nang-thiet-ke-cua-may-ban-hang-tu-dong-than-thien-voi-nguoi-dung",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/toi-uu-an-toan-lao-dong-voi-he-thong-canh-bao-thieu-ppe-tu-dong",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/tong-quan-ve-locker-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tong-quan-ve-may-giat-say-tu-dong-giai-phap-tien-loi-cho-cuoc-song-hien-dai",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/tong-quan-ve-smart-locker-for-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/top-10-don-vi-cung-cap-locker-cho-shipper-uy-tin-tai-viet-nam",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/top-5-loi-ich-cua-viec-su-dung-locker-cho-shipper-tai-viet-nam",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/top-5-loi-ich-noi-bat-khi-su-dung-locker-thong-minh-tai-bai-bien",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/top-cac-sai-lam-su-dung-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/trai-nghiem-thu-vi-tai-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tse-dia-chi-cung-cap-may-ban-hang-tu-dong-uy-tin",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tsevending-lap-7-may-ban-hang-tu-dong-tai-benh-vien-nhi-dong-nai",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tu-dong-thong-minh-tl04",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-giao-nhan-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tu-gui-do-thong-minh-la-gi",
+    "destination": "/tu-locker-thong-minh/tu-gui-do-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-giao-nhan-giai-phap-an-toan-cho-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/ban-phim-may-ban-hang",
+    "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/may-ban-hang-tse-v02",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/may-ban-hang-tu-dong",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/may-ban-khau-trang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong/may-ban-do-an-vat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/nha-ve-sinh-thong-minh-wc-mart",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-san-pham/tse-v02",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-thong-minh-tl03",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-tu-dong-giai-phap-an-toan-va-tien-loi-cho-giao-hang",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tu-khoa-tu-dong-thong-minh",
+    "destination": "/tin-tuc",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-giai-phap-an-toan-cho-cac-doanh-nghiep-va-co-quan",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-giai-phap-tien-loi-cho-cac-doanh-nghiep",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-huong-di-moi-cho-cac-to-chuc-chinh-phu-va-co-so-quan-ly-cong",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-mot-cach-moi-de-dam-bao-an-ninh-moi-truong-cong-cong",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-trong-nganh-du-lich-cai-thien-trai-nghiem-khach-hang",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-nhan-dien-khuon-mat-va-nhung-ung-dung-an-ninh-moi",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-tiet-kiem-thoi-gian",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-locker-tu-dong",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-oem-den-noi-dia-hoa-goc-nhin-voi-san-pham-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tu-smart-locker",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-smartlocker-cho-chung-cu-giai-phap-toi-uu-cho-cuoc-song-hien-dai",
+    "destination": "/tu-locker-thong-minh/tu-locker-chung-cu",
+    "permanent": true
+  },
+  {
+    "source": "/tu-smartlocker-cho-khach-san-giai-phap-luu-tru-thong-minh-va-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tu-smartlocker-cho-sieu-thi-giai-phap-luu-tru-hien-dai-cho-khach-hang",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/tu-thong-minh-smart-locker",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-thong-minh-smart-locker-tl01",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-van-giai-phap",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-van-kinh-doanh-may-ban-hang-tu-dong",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-van-kinh-doanh-may-ban-hang-tu-dong-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-van-trien-khai-mo-hinh-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/tu-van-trien-khai-mo-hinh-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/tuong-lai-cua-locker-cho-shipper-xu-huong-va-du-doan",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/tuong-lai-cua-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tuong-lai-cua-may-ban-hang-tu-dong-khong-tien-mat-khong-the-chi-can-khuon-mat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/tuong-lai-cua-thi-truong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cong-nghe-giong-noi-trong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cong-nghe-iot-trong-may-giat-say-tu-dong-xu-huong-tuong-lai",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cong-nghe-sinh-trac-hoc-tren-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cong-nghe-trong-locker-thong-minh-qr-code-nhan-dien-khuon-mat-va-hon-the-nua",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cua-ai-trong-he-thong-locker-thong-minh-cho-shipper",
+    "destination": "/tin-tuc/tu-locker-giao-nhan-hang-cho-shipper-logistics",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-cua-locker-thong-minh-trong-viec-nang-tam-trai-nghiem-du-lich-bien",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-di-dong-trong-quan-ly-can-tin-toi-uu-hoa-chat-luong-bua-an",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-he-thong-kiem-soat-cua-ket-hop-cham-cong-trong-nha-may-va-toa-nha-hieu-qua-va-an-ninh-toi-uu",
+    "destination": "/tu-locker-thong-minh/tu-locker-van-phong",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-he-thong-phat-hien-thieu-ppe-trong-moi-truong-cong-nghiep",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-iot-va-ai-trong-trung-tam-giam-sat-an-ninh-cong-nghe-an-ninh-the-he-moi",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-locker-thong-minh-trong-quan-ly-hanh-ly-khach-san-cao-cap",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-thuc-tien-cua-locker-gui-nhan-do-trong-doi-song-hien-dai",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-tri-tue-nhan-tao-trong-he-thong-phat-hien-xam-nhap",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/ung-dung-tu-locker-nhan-dien-khuon-mat-trong-cac-moi-truong-cong-cong",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/uu-diem-may-ban-nuoc-cam-tu-dong-tse",
+    "destination": "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat",
+    "permanent": true
+  },
+  {
+    "source": "/uu-diem-noi-bat-cua-may-ban-hang-tu-dong-bang-nhan-dien-khuon-mat",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/vai-tro-cua-locker-thong-minh-trong-xay-dung-hinh-anh-khach-san-hien-dai",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/van-de-ve-sinh-yeu-to-quan-trong-trong-quan-ly-va-van-hanh",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/van-hanh-may-ban-hang-tu-dong-the-nao-de-tiet-kiem-thoi-gian-ma-van-dat-doanh-so",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/van-hanh-may-ban-hang-tu-dong-the-nao-de-tiet-kiem-thoi-gian-ma-van-dat-doanh-so-2",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/van-hoa-su-dung-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/ve-chung-toi",
+    "destination": "/gioi-thieu",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-dat-may-ban-hang-tu-dong",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-benh-vien-dap-ung-nhu-cau-khan-cap",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-cong-vien-va-khu-vui-choi-nang-cao-trai-nghiem-giai-tri",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-nha-ga-va-san-bay-tao-su-tien-loi-cho-hanh-khach",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-sieu-thi-bi-quyet-toi-uu-hoa-doanh-thu",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-toa-nha-van-phong-co-hoi-kinh-doanh-hieu-qua",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-trong-truong-hoc-va-dai-hoc-dap-ung-nhu-cau-sinh-vien",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-tu-dong-tai-cac-diem-du-lich-tao-su-tien-loi-cho-du-khach",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-tu-dong-tai-cac-su-kien-va-hoi-cho-dem-den-su-tien-loi-toi-oi",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/vi-tri-lap-may-ban-hang-tu-dong-tai-cac-trung-tam-the-thao-tang-cuong-tien-loi-cho-nguoi-tap-luyen",
+    "destination": "/tin-tuc/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-cong-nghe-trong-nganh-khach-san-tai-sao-locker-thong-minh-la-su-lua-chon-tat-yeu",
+    "destination": "/tin-tuc/tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam-2",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-locker-nhan-dien-khuon-mat-tuong-lai-cua-giai-phap-luu-tru-an-toan",
+    "destination": "/tin-tuc/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-locker-thong-minh-giai-phap-luu-tru-hien-dai-cho-cuoc-song-tien-loi",
+    "destination": "/tu-locker-thong-minh",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-phat-trien-cua-may-giat-say-tu-dong-trong-tuong-lai",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/xu-huong-va-du-doan-thi-truong-may-ban-hang-tu-dong",
+    "destination": "/may-ban-hang-tu-dong",
+    "permanent": true
+  },
+  {
+    "source": "/y-tuong-kinh-doanh-von-it",
+    "destination": "/giai-phap-kinh-doanh",
+    "permanent": true
+  }
+]

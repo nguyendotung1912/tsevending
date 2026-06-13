@@ -1,0 +1,44 @@
+name: Daily SEO article
+
+on:
+  schedule:
+    # 00:00 UTC = 07:00 (Asia/Ho_Chi_Minh)
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate article
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: npm run generate:article
+
+      - name: Commit new article
+        run: |
+          git config user.name "tse-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/content/blog scripts/content-calendar.json
+          if git diff --cached --quiet; then
+            echo "No new content to commit."
+          else
+            git commit -m "chore: daily SEO article $(date -u +%Y-%m-%d)"
+            git push
+          fi
