@@ -5,7 +5,9 @@
     "sub": "may-ban-hang-lanh",
     "topic": "Máy bán hàng đông lạnh tự động: Giải pháp cho siêu thị mini không nhân viên",
     "keywords": ["máy bán hàng đông lạnh", "siêu thị mini tự động", "vending machine hàng lạnh"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "may-ban-hang-dong-lanh-tu-dong-giai-phap-sieu-thi-mini-khong-nhan-vien",
+    "publishedDate": "2026-06-22"
   },
   {
     "id": 2,
@@ -61,7 +63,9 @@
     "sub": "tu-locker-van-phong",
     "topic": "Tủ locker thông minh cho văn phòng: Giải pháp lưu trữ đồ cá nhân nhân viên",
     "keywords": ["tủ locker văn phòng", "smart locker nhân viên", "tủ khóa điện tử văn phòng"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-cho-van-phong-luu-tru-do-ca-nhan-nhan-vien",
+    "publishedDate": "2026-06-23"
   },
   {
     "id": 9,
