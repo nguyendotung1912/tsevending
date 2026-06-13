@@ -35,6 +35,12 @@ const SKIP = [
   /^2020\/10\/12$/,
   /^en$/, // already redirected
   /^giao-thong-thong-minh$/, // already redirected
+
+  // Old site paths that coincide with paths on the new site - redirecting
+  // them would create a self-redirect loop and break the live page.
+  /^lien-he$/,
+  /^may-ban-hang-tu-dong$/,
+  /^tin-tuc$/,
 ];
 
 // Ordered rules - first match wins. Tested against the slug (lowercase).

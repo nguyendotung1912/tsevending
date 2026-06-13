@@ -1165,11 +1165,6 @@
     "permanent": true
   },
   {
-    "source": "/lien-he",
-    "destination": "/lien-he",
-    "permanent": true
-  },
-  {
     "source": "/linh-kien-may-ban-hang",
     "destination": "/may-ban-hang-tu-dong/linh-kien-phu-tung",
     "permanent": true
@@ -1446,11 +1441,6 @@
   },
   {
     "source": "/may-ban-dung-dich-tu-dong-tse",
-    "destination": "/may-ban-hang-tu-dong",
-    "permanent": true
-  },
-  {
-    "source": "/may-ban-hang-tu-dong",
     "destination": "/may-ban-hang-tu-dong",
     "permanent": true
   },
@@ -2737,11 +2727,6 @@
   {
     "source": "/tim-hieu-ve-loai-hinh-thue-may-ban-hang-tu-dong-uu-diem-va-nhung-kho-khan-can-phai-giai-quyet",
     "destination": "/may-ban-hang-tu-dong",
-    "permanent": true
-  },
-  {
-    "source": "/tin-tuc",
-    "destination": "/tin-tuc",
     "permanent": true
   },
   {
