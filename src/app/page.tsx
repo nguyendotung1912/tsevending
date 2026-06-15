@@ -28,6 +28,10 @@ const generalFaqs = [
     q: "Làm sao để nhận tư vấn báo giá nhanh nhất?",
     a: `Bạn có thể gọi trực tiếp hotline ${siteConfig.phoneDisplay} hoặc điền form liên hệ trên website, đội ngũ TSE Vending sẽ phản hồi trong thời gian sớm nhất.`,
   },
+  {
+    q: "Giá máy bán hàng tự động và tủ locker thông minh hiện nay khoảng bao nhiêu?",
+    a: "Giá phụ thuộc vào dòng máy/tủ, dung tích, số ô và công nghệ tích hợp (thanh toán, mở khóa, IoT). TSE Vending khảo sát nhu cầu thực tế và đề xuất mức đầu tư phù hợp, kèm các mô hình hợp tác giúp giảm áp lực vốn ban đầu.",
+  },
 ];
 
 export default function Home() {

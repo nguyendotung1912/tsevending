@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd } from "@/lib/seo";
 import { SOLUTIONS_SILO, SILOS } from "@/content/categories";
 import { getPostsBySilo } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
 import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
+import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = buildMetadata({
   title: SOLUTIONS_SILO.metaTitle,
@@ -18,6 +20,13 @@ export default function SolutionsPage() {
 
   return (
     <>
+      <JsonLd
+        data={serviceJsonLd({
+          name: SOLUTIONS_SILO.title,
+          description: SOLUTIONS_SILO.metaDescription,
+          path: `/${SOLUTIONS_SILO.slug}`,
+        })}
+      />
       <PageHeader
         eyebrow="Đồng hành kinh doanh"
         title={SOLUTIONS_SILO.h1}
@@ -69,6 +78,7 @@ export default function SolutionsPage() {
         </div>
       </section>
 
+      <FaqSection faqs={SOLUTIONS_SILO.faqs} />
       <Cta />
     </>
   );

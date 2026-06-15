@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd } from "@/lib/seo";
 import { getAllSilos, getSiloBySlug } from "@/content/categories";
 import { getPostsBySilo } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
 import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
+import ComparisonTable from "@/components/ComparisonTable";
 import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
+import JsonLd from "@/components/JsonLd";
 
 export function generateStaticParams() {
   return getAllSilos().map((silo) => ({ silo: silo.slug }));
@@ -38,6 +40,13 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
 
   return (
     <>
+      <JsonLd
+        data={serviceJsonLd({
+          name: silo.title,
+          description: silo.metaDescription,
+          path: `/${silo.slug}`,
+        })}
+      />
       <PageHeader
         eyebrow="Sản phẩm & dịch vụ"
         title={silo.h1}
@@ -80,6 +89,16 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                 ))}
               </ul>
             </aside>
+          </div>
+
+          <div className="mt-14">
+            <h2 className="mb-2 text-xl font-bold text-slate-900">Nên chọn dòng nào? Bảng so sánh nhanh</h2>
+            <p className="mb-5 max-w-3xl text-sm text-slate-600">
+              Mỗi dòng sản phẩm trong nhóm {silo.title.toLowerCase()} phù hợp với một nhóm vị trí và mục tiêu kinh
+              doanh khác nhau. Tham khảo bảng dưới đây để chọn dòng phù hợp nhất, hoặc liên hệ TSE Vending để được
+              tư vấn chi tiết theo vị trí thực tế.
+            </p>
+            <ComparisonTable subcategories={silo.subcategories} />
           </div>
 
           {posts.length > 0 && (

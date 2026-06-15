@@ -124,6 +124,29 @@ export function faqJsonLd(faqs: { q: string; a: string }[]) {
   };
 }
 
+export interface ServiceJsonLdInput {
+  name: string;
+  description: string;
+  path: string;
+}
+
+export function serviceJsonLd({ name, description, path }: ServiceJsonLdInput) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    serviceType: name,
+    name,
+    description,
+    url: absoluteUrl(path),
+    provider: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    areaServed: siteConfig.areasServed,
+  };
+}
+
 export interface ArticleJsonLdInput {
   title: string;
   description: string;

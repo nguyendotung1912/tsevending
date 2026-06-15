@@ -14,6 +14,8 @@ export interface SubCategory {
   features: string[];
   faqs: Faq[];
   icon: string;
+  idealFor: string;
+  investmentTier: "Thấp" | "Trung bình" | "Cao";
 }
 
 export interface Silo {
@@ -64,6 +66,14 @@ export const SILOS: Silo[] = [
         q: "Có thể hợp tác đặt máy miễn phí mặt bằng không?",
         a: "Có. TSE Vending có nhiều mô hình hợp tác: đầu tư trọn gói, hợp tác chia sẻ doanh thu hoặc cho thuê mặt bằng đặt máy - phù hợp với chủ tòa nhà, trường học, doanh nghiệp.",
       },
+      {
+        q: "Nên mua hay thuê máy bán hàng tự động?",
+        a: "Nếu muốn chủ động vận hành lâu dài, mua máy là lựa chọn tối ưu chi phí theo thời gian. Nếu muốn thử nghiệm trước hoặc hạn chế vốn đầu tư ban đầu, có thể chọn mô hình hợp tác/cho thuê của TSE Vending - xem chi tiết tại trang giải pháp kinh doanh.",
+      },
+      {
+        q: "Máy bán hàng tự động của TSE Vending được bảo hành trong bao lâu?",
+        a: "Mỗi dòng máy có chính sách bảo hành riêng theo linh kiện và hãng sản xuất. TSE Vending cung cấp thông tin bảo hành cụ thể kèm hợp đồng khi tư vấn báo giá, đồng thời hỗ trợ bảo trì - sửa chữa sau bảo hành trên toàn quốc.",
+      },
     ],
     icon: "🥤",
     subcategories: [
@@ -96,6 +106,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🥤",
+        idealFor: "Văn phòng, chung cư, trường học - nơi có nhu cầu nước uống thường xuyên",
+        investmentTier: "Trung bình",
       },
       {
         slug: "may-ban-do-an-vat",
@@ -122,6 +134,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🍪",
+        idealFor: "Căng-tin trường học, pantry văn phòng, khu nghỉ ca tại nhà máy",
+        investmentTier: "Trung bình",
       },
       {
         slug: "may-ban-hang-lanh",
@@ -148,6 +162,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🧊",
+        idealFor: "Siêu thị mini, bệnh viện, khu công nghiệp cần thực phẩm chế biến sẵn",
+        investmentTier: "Cao",
       },
       {
         slug: "may-ban-gas",
@@ -174,6 +190,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🔥",
+        idealFor: "Khu dân cư, chung cư, cửa hàng tiện lợi cần mua gas mini nhanh, ngoài giờ",
+        investmentTier: "Trung bình",
       },
       {
         slug: "linh-kien-phu-tung",
@@ -200,6 +218,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🔧",
+        idealFor: "Đơn vị đang vận hành máy cần thay thế linh kiện, bảo trì định kỳ",
+        investmentTier: "Thấp",
       },
     ],
   },
@@ -236,6 +256,14 @@ export const SILOS: Silo[] = [
         q: "Phần mềm quản lý tủ locker có cần kết nối internet liên tục không?",
         a: "Tủ hoạt động ổn định với kết nối Wi-Fi/4G; trong trường hợp mất kết nối tạm thời, hệ thống vẫn lưu nhật ký và đồng bộ lại khi có mạng trở lại.",
       },
+      {
+        q: "Chi phí lắp đặt tủ locker thông minh phụ thuộc vào yếu tố nào?",
+        a: "Chi phí phụ thuộc vào số lượng ô tủ, kích thước ô, công nghệ mở khóa (QR, RFID, vân tay, nhận diện khuôn mặt) và yêu cầu tích hợp phần mềm/API riêng. TSE Vending khảo sát thực tế để đưa ra báo giá phù hợp với nhu cầu và ngân sách.",
+      },
+      {
+        q: "Tủ locker thông minh có cần bảo trì định kỳ không?",
+        a: "Có. TSE Vending khuyến nghị kiểm tra định kỳ hệ thống khóa điện tử, cảm biến và phần mềm quản lý để đảm bảo vận hành ổn định, đồng thời cung cấp dịch vụ bảo trì - hỗ trợ kỹ thuật trên toàn quốc.",
+      },
     ],
     icon: "🔐",
     subcategories: [
@@ -264,6 +292,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🏢",
+        idealFor: "Chung cư, tòa nhà dân cư cần điểm nhận hàng hộ cư dân 24/7",
+        investmentTier: "Trung bình",
       },
       {
         slug: "tu-locker-van-phong",
@@ -290,6 +320,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🏭",
+        idealFor: "Văn phòng, nhà máy, khu công nghiệp cần lưu trữ đồ cá nhân nhân viên",
+        investmentTier: "Trung bình",
       },
       {
         slug: "tu-gui-do-thong-minh",
@@ -316,6 +348,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "🎒",
+        idealFor: "Trường học, trung tâm thương mại, gym, hồ bơi - nơi đông người gửi đồ tạm thời",
+        investmentTier: "Trung bình",
       },
       {
         slug: "tu-locker-giao-nhan-hang",
@@ -342,6 +376,8 @@ export const SILOS: Silo[] = [
           },
         ],
         icon: "📦",
+        idealFor: "Bưu cục, sàn TMĐT, khu dân cư cần điểm giao nhận hàng tự động 24/7",
+        investmentTier: "Cao",
       },
     ],
   },
@@ -401,6 +437,20 @@ export const SOLUTIONS_SILO = {
       icon: "🛠️",
     },
   ] as SolutionItem[],
+  faqs: [
+    {
+      q: "TSE Vending có những mô hình hợp tác đầu tư nào?",
+      a: "TSE Vending cung cấp 3 mô hình phổ biến: đầu tư trọn gói (đối tác sở hữu máy, TSE hỗ trợ vận hành), hợp tác chia sẻ doanh thu với chủ mặt bằng, và thuê vận hành theo gói dịch vụ - phù hợp với từng quy mô và ngân sách đầu tư.",
+    },
+    {
+      q: "Làm sao để bắt đầu hợp tác với TSE Vending?",
+      a: "Bạn chỉ cần liên hệ qua hotline hoặc form trên website, TSE Vending sẽ khảo sát vị trí, tư vấn dòng máy/tủ locker phù hợp và đề xuất mô hình hợp tác cụ thể cho không gian của bạn.",
+    },
+    {
+      q: "Phần mềm quản lý từ xa của TSE Vending hoạt động như thế nào?",
+      a: "Phần mềm cho phép theo dõi doanh thu, tồn kho, tình trạng thiết bị của toàn bộ hệ thống máy bán hàng và tủ locker theo thời gian thực trên một giao diện duy nhất, kèm cảnh báo tự động khi có sự cố hoặc hàng hóa sắp hết.",
+    },
+  ] as Faq[],
 };
 
 export function getAllSilos(): Silo[] {

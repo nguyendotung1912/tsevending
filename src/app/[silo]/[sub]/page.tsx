@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { buildMetadata } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd } from "@/lib/seo";
 import { getAllCategorySlugs, getSubcategory } from "@/content/categories";
 import { getPostsBySilo } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
@@ -9,6 +9,7 @@ import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
 import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
+import JsonLd from "@/components/JsonLd";
 
 export function generateStaticParams() {
   return getAllCategorySlugs()
@@ -48,6 +49,13 @@ export default async function SubCategoryPage({
 
   return (
     <>
+      <JsonLd
+        data={serviceJsonLd({
+          name: sub.title,
+          description: sub.metaDescription,
+          path: `/${silo.slug}/${sub.slug}`,
+        })}
+      />
       <PageHeader
         eyebrow={silo.title}
         title={sub.h1}
