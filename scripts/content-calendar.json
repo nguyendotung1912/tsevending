@@ -15,7 +15,9 @@
     "sub": "may-ban-hang-lanh",
     "topic": "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Những điều cần biết",
     "keywords": ["bảo quản thực phẩm", "máy bán hàng lạnh", "an toàn thực phẩm vending"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "bao-quan-thuc-pham-trong-may-ban-hang-lanh-tu-dong",
+    "publishedDate": "2026-06-24"
   },
   {
     "id": 3,
@@ -97,7 +99,9 @@
     "sub": "tu-locker-chung-cu",
     "topic": "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư",
     "keywords": ["so sánh tủ locker", "tủ gửi đồ chung cư", "tủ locker thông minh"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "so-sanh-tu-locker-thong-minh-va-tu-gui-do-truyen-thong-tai-chung-cu",
+    "publishedDate": "2026-06-26"
   },
   {
     "id": 13,
@@ -113,7 +117,9 @@
     "sub": null,
     "topic": "Cách tính ROI khi đầu tư máy bán hàng tự động",
     "keywords": ["ROI vending machine", "tính toán đầu tư vending", "đầu tư máy bán hàng tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "cach-tinh-roi-khi-dau-tu-may-ban-hang-tu-dong",
+    "publishedDate": "2026-06-25"
   },
   {
     "id": 15,
