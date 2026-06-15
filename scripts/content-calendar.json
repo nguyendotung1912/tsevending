@@ -25,7 +25,9 @@
     "sub": "may-ban-gas",
     "topic": "Lắp máy bán gas mini tự động tại khu dân cư: Lợi ích và lưu ý an toàn",
     "keywords": ["máy bán gas tự động", "bình gas mini", "an toàn PCCC vending"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "lap-may-ban-gas-mini-tu-dong-tai-khu-dan-cu-loi-ich-va-luu-y-an-toan",
+    "publishedDate": "2026-06-29"
   },
   {
     "id": 4,
@@ -167,6 +169,90 @@
     "sub": null,
     "topic": "Kinh doanh tủ locker thông minh: Mô hình cho thuê ô tủ theo tháng",
     "keywords": ["cho thuê locker", "kinh doanh tủ locker thông minh", "mô hình cho thuê tủ"],
+    "status": "pending"
+  },
+  {
+    "id": 21,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": null,
+    "topic": "Giá máy bán hàng tự động bao nhiêu? Bảng giá tham khảo theo từng dòng máy 2026",
+    "keywords": ["giá máy bán hàng tự động", "giá máy bán hàng tự động bao nhiêu", "bảng giá máy bán hàng tự động 2026"],
+    "status": "published",
+    "publishedSlug": "gia-may-ban-hang-tu-dong-bao-nhieu-bang-gia-tham-khao-2026",
+    "publishedDate": "2026-06-27"
+  },
+  {
+    "id": 22,
+    "silo": "tu-locker-thong-minh",
+    "sub": null,
+    "topic": "Giá tủ locker thông minh bao nhiêu? Bảng giá tham khảo theo số ô và công nghệ mở khóa 2026",
+    "keywords": ["giá tủ locker thông minh", "giá tủ locker thông minh bao nhiêu", "bảng giá smart locker 2026"],
+    "status": "published",
+    "publishedSlug": "gia-tu-locker-thong-minh-bao-nhieu-bang-gia-tham-khao-2026",
+    "publishedDate": "2026-06-28"
+  },
+  {
+    "id": 23,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "linh-kien-phu-tung",
+    "topic": "Cấu tạo bên trong máy bán hàng tự động: Từ khoang hàng đến bo mạch điều khiển",
+    "keywords": ["cấu tạo máy bán hàng tự động", "linh kiện vending machine", "bo mạch máy bán hàng tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 24,
+    "silo": "giai-phap-kinh-doanh",
+    "sub": null,
+    "topic": "Quy định pháp lý khi kinh doanh máy bán hàng tự động tại Việt Nam",
+    "keywords": ["quy định kinh doanh vending machine", "pháp lý máy bán hàng tự động", "đăng ký kinh doanh vending"],
+    "status": "pending"
+  },
+  {
+    "id": 25,
+    "silo": "giai-phap-kinh-doanh",
+    "sub": null,
+    "topic": "Vốn ít có nên đầu tư máy bán hàng tự động không?",
+    "keywords": ["đầu tư vốn ít vending machine", "kinh doanh máy bán hàng tự động vốn nhỏ", "có nên đầu tư máy bán hàng tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 26,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": null,
+    "topic": "Máy bán hàng tự động trong nước và nhập khẩu: Nên chọn loại nào?",
+    "keywords": ["máy bán hàng tự động trong nước", "máy bán hàng tự động nhập khẩu", "so sánh máy bán hàng tự động"],
+    "status": "pending"
+  },
+  {
+    "id": 27,
+    "silo": "tu-locker-thong-minh",
+    "sub": null,
+    "topic": "Tủ locker thông minh tích hợp camera AI và nhận diện khuôn mặt: Có thực sự cần thiết?",
+    "keywords": ["camera AI tủ locker", "nhận diện khuôn mặt smart locker", "tủ locker AI"],
+    "status": "pending"
+  },
+  {
+    "id": 28,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": null,
+    "topic": "Thị trường máy bán hàng tự động Việt Nam: Xu hướng phát triển 2026",
+    "keywords": ["thị trường vending machine Việt Nam", "xu hướng máy bán hàng tự động 2026", "vending machine Việt Nam"],
+    "status": "pending"
+  },
+  {
+    "id": 29,
+    "silo": "tu-locker-thong-minh",
+    "sub": null,
+    "topic": "Tủ locker thông minh có chống được trộm cắp, phá khóa không?",
+    "keywords": ["tủ locker thông minh chống trộm", "bảo mật smart locker", "an toàn tủ locker thông minh"],
+    "status": "pending"
+  },
+  {
+    "id": 30,
+    "silo": "may-ban-hang-tu-dong",
+    "sub": "may-ban-nuoc-giai-khat",
+    "topic": "Máy bán cà phê tự động: Có nên tích hợp vào máy bán nước giải khát?",
+    "keywords": ["máy bán cà phê tự động", "vending machine cà phê", "máy bán nước tích hợp cà phê"],
     "status": "pending"
   }
 ]
