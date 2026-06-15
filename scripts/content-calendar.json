@@ -35,7 +35,9 @@
     "sub": "linh-kien-phu-tung",
     "topic": "5 linh kiện máy bán hàng tự động thường hỏng và cách bảo trì",
     "keywords": ["linh kiện máy bán hàng tự động", "bảo trì vending machine", "sửa máy bán hàng tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "5-linh-kien-may-ban-hang-tu-dong-thuong-hong-va-cach-bao-tri",
+    "publishedDate": "2026-06-30"
   },
   {
     "id": 5,
@@ -43,7 +45,9 @@
     "sub": "linh-kien-phu-tung",
     "topic": "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?",
     "keywords": ["block nén lạnh", "sửa máy vending", "linh kiện làm lạnh"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "khi-nao-nen-thay-block-nen-lanh-cho-may-ban-hang-tu-dong",
+    "publishedDate": "2026-07-01"
   },
   {
     "id": 6,
@@ -51,7 +55,9 @@
     "sub": "may-ban-nuoc-giai-khat",
     "topic": "Máy bán nước tự động cho văn phòng: Nên chọn dung tích bao nhiêu?",
     "keywords": ["máy bán nước văn phòng", "dung tích máy vending", "máy bán nước tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "may-ban-nuoc-tu-dong-cho-van-phong-nen-chon-dung-tich-bao-nhieu",
+    "publishedDate": "2026-07-02"
   },
   {
     "id": 7,
