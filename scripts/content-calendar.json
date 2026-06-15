@@ -65,7 +65,9 @@
     "sub": "may-ban-do-an-vat",
     "topic": "Mô hình máy bán snack tự động tại nhà máy, khu công nghiệp",
     "keywords": ["máy bán snack khu công nghiệp", "vending machine nhà máy", "máy bán đồ ăn vặt"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "mo-hinh-may-ban-snack-tu-dong-tai-nha-may-khu-cong-nghiep",
+    "publishedDate": "2026-07-03"
   },
   {
     "id": 8,
@@ -83,7 +85,9 @@
     "sub": "tu-locker-van-phong",
     "topic": "Tủ locker thông minh tích hợp thẻ chấm công cho nhà máy",
     "keywords": ["tủ locker nhà máy", "thẻ chấm công locker", "tủ locker RFID"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-tich-hop-the-cham-cong-cho-nha-may",
+    "publishedDate": "2026-07-04"
   },
   {
     "id": 10,
@@ -91,7 +95,8 @@
     "sub": "tu-locker-giao-nhan-hang",
     "topic": "Tủ locker giao nhận hàng: Giải pháp cho shipper và sàn thương mại điện tử",
     "keywords": ["tủ locker giao hàng", "smart locker logistics", "tủ locker shipper"],
-    "status": "pending"
+    "status": "skipped",
+    "note": "Trùng nội dung với bài đã xuất bản tu-locker-giao-nhan-hang-cho-shipper-logistics.md"
   },
   {
     "id": 11,
@@ -117,7 +122,9 @@
     "sub": "tu-gui-do-thong-minh",
     "topic": "Tủ gửi đồ thông minh cho gym, hồ bơi: Nâng cao trải nghiệm khách hàng",
     "keywords": ["tủ gửi đồ gym", "locker hồ bơi", "tủ gửi đồ thông minh"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-gui-do-thong-minh-cho-gym-ho-boi-nang-cao-trai-nghiem-khach-hang",
+    "publishedDate": "2026-07-05"
   },
   {
     "id": 14,
