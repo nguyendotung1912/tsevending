@@ -104,7 +104,9 @@
     "sub": "tu-locker-giao-nhan-hang",
     "topic": "Tích hợp tủ locker thông minh với hệ thống quản lý vận đơn",
     "keywords": ["tích hợp API locker", "quản lý vận đơn", "tủ locker logistics"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tich-hop-tu-locker-thong-minh-voi-he-thong-quan-ly-van-don",
+    "publishedDate": "2026-07-06"
   },
   {
     "id": 12,
@@ -142,7 +144,9 @@
     "sub": null,
     "topic": "Quản lý từ xa hệ thống máy bán hàng tự động: Phần mềm cần có những gì?",
     "keywords": ["quản lý vending từ xa", "phần mềm quản lý vending", "IoT vending machine"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "quan-ly-tu-xa-he-thong-may-ban-hang-tu-dong-phan-mem-can-co-nhung-gi",
+    "publishedDate": "2026-07-07"
   },
   {
     "id": 16,
@@ -150,7 +154,9 @@
     "sub": null,
     "topic": "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn",
     "keywords": ["bảo trì máy bán hàng tự động", "quy trình bảo trì vending", "vận hành máy vending"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "bao-tri-may-ban-hang-tu-dong-dinh-ky-quy-trinh-chuan",
+    "publishedDate": "2026-07-08"
   },
   {
     "id": 17,
