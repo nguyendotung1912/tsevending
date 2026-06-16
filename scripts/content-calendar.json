@@ -244,7 +244,9 @@
     "sub": null,
     "topic": "Vốn ít có nên đầu tư máy bán hàng tự động không?",
     "keywords": ["đầu tư vốn ít vending machine", "kinh doanh máy bán hàng tự động vốn nhỏ", "có nên đầu tư máy bán hàng tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "von-it-co-nen-dau-tu-may-ban-hang-tu-dong-khong",
+    "publishedDate": "2026-07-15"
   },
   {
     "id": 26,
@@ -252,7 +254,9 @@
     "sub": null,
     "topic": "Máy bán hàng tự động trong nước và nhập khẩu: Nên chọn loại nào?",
     "keywords": ["máy bán hàng tự động trong nước", "máy bán hàng tự động nhập khẩu", "so sánh máy bán hàng tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "may-ban-hang-tu-dong-trong-nuoc-va-nhap-khau-nen-chon-loai-nao",
+    "publishedDate": "2026-07-16"
   },
   {
     "id": 27,
@@ -260,7 +264,9 @@
     "sub": null,
     "topic": "Tủ locker thông minh tích hợp camera AI và nhận diện khuôn mặt: Có thực sự cần thiết?",
     "keywords": ["camera AI tủ locker", "nhận diện khuôn mặt smart locker", "tủ locker AI"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-tich-hop-camera-ai-nhan-dien-khuon-mat-co-thuc-su-can-thiet",
+    "publishedDate": "2026-07-17"
   },
   {
     "id": 28,
@@ -268,7 +274,9 @@
     "sub": null,
     "topic": "Thị trường máy bán hàng tự động Việt Nam: Xu hướng phát triển 2026",
     "keywords": ["thị trường vending machine Việt Nam", "xu hướng máy bán hàng tự động 2026", "vending machine Việt Nam"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "thi-truong-may-ban-hang-tu-dong-viet-nam-xu-huong-phat-trien-2026",
+    "publishedDate": "2026-07-18"
   },
   {
     "id": 29,
@@ -276,7 +284,9 @@
     "sub": null,
     "topic": "Tủ locker thông minh có chống được trộm cắp, phá khóa không?",
     "keywords": ["tủ locker thông minh chống trộm", "bảo mật smart locker", "an toàn tủ locker thông minh"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-co-chong-duoc-trom-cap-pha-khoa-khong",
+    "publishedDate": "2026-07-19"
   },
   {
     "id": 30,
@@ -284,6 +294,8 @@
     "sub": "may-ban-nuoc-giai-khat",
     "topic": "Máy bán cà phê tự động: Có nên tích hợp vào máy bán nước giải khát?",
     "keywords": ["máy bán cà phê tự động", "vending machine cà phê", "máy bán nước tích hợp cà phê"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "may-ban-ca-phe-tu-dong-co-nen-tich-hop-vao-may-ban-nuoc-giai-khat",
+    "publishedDate": "2026-07-20"
   }
 ]
