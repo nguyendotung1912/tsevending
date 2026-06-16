@@ -194,7 +194,9 @@
     "sub": null,
     "topic": "Kinh doanh tủ locker thông minh: Mô hình cho thuê ô tủ theo tháng",
     "keywords": ["cho thuê locker", "kinh doanh tủ locker thông minh", "mô hình cho thuê tủ"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "kinh-doanh-tu-locker-thong-minh-mo-hinh-cho-thue-o-tu-theo-thang",
+    "publishedDate": "2026-07-12"
   },
   {
     "id": 21,
@@ -222,7 +224,9 @@
     "sub": "linh-kien-phu-tung",
     "topic": "Cấu tạo bên trong máy bán hàng tự động: Từ khoang hàng đến bo mạch điều khiển",
     "keywords": ["cấu tạo máy bán hàng tự động", "linh kiện vending machine", "bo mạch máy bán hàng tự động"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "cau-tao-ben-trong-may-ban-hang-tu-dong-tu-khoang-hang-den-bo-mach-dieu-khien",
+    "publishedDate": "2026-07-13"
   },
   {
     "id": 24,
@@ -230,7 +234,9 @@
     "sub": null,
     "topic": "Quy định pháp lý khi kinh doanh máy bán hàng tự động tại Việt Nam",
     "keywords": ["quy định kinh doanh vending machine", "pháp lý máy bán hàng tự động", "đăng ký kinh doanh vending"],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "quy-dinh-phap-ly-khi-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+    "publishedDate": "2026-07-14"
   },
   {
     "id": 25,
