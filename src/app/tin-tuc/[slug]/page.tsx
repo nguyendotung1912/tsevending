@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { buildMetadata, articleJsonLd } from "@/lib/seo";
+import { siteConfig } from "@/content/site";
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts } from "@/lib/content";
 import { getSiloBySlug, getSubcategory } from "@/content/categories";
 import PageHeader from "@/components/PageHeader";
@@ -25,6 +27,7 @@ export async function generateMetadata({
     title: post.title,
     description: post.description,
     path: `/tin-tuc/${slug}`,
+    image: post.image ? `${siteConfig.url}${post.image}` : undefined,
   });
 }
 
@@ -56,7 +59,22 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       />
       <PageHeader title={post.title} breadcrumbs={breadcrumbs} />
 
-      <section className="py-12">
+      {post.image && (
+        <div className="mx-auto max-w-5xl px-4 sm:px-6 pt-8">
+          <div className="relative w-full h-64 sm:h-80 rounded-2xl overflow-hidden shadow-md">
+            <Image
+              src={post.image}
+              alt={post.imageAlt ?? post.title}
+              fill
+              priority
+              sizes="(max-width: 1024px) 100vw, 960px"
+              className="object-cover"
+            />
+          </div>
+        </div>
+      )}
+
+      <section className="py-10">
         <div className="mx-auto grid max-w-5xl gap-10 px-4 sm:px-6 lg:grid-cols-[1fr_260px]">
           <article>
             <p className="mb-6 text-sm text-slate-500">Cập nhật: {date}</p>

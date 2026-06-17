@@ -4,6 +4,7 @@ import { siteConfig } from "@/content/site";
 import { getAllPostsMeta } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
 import ArticleCard from "@/components/ArticleCard";
+import WorldNewsWidget from "@/components/WorldNewsWidget";
 
 export const metadata: Metadata = buildMetadata({
   title: `Tin tức & Kiến thức Vending, Locker Thông Minh`,
@@ -36,6 +37,8 @@ export default function BlogIndexPage() {
           )}
         </div>
       </section>
+
+      <WorldNewsWidget />
     </>
   );
 }

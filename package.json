@@ -7,9 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "generate:article": "tsx scripts/generate-article.ts"
+    "generate:article": "tsx scripts/generate-article.ts",
+    "generate:article:gemini": "tsx scripts/generate-article-gemini.ts",
+    "fetch:news": "tsx scripts/fetch-world-news.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/typography": "^0.5.20",
     "gray-matter": "^4.0.3",
     "next": "16.2.9",

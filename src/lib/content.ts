@@ -14,6 +14,8 @@ export interface BlogFrontmatter {
   silo: string;
   sub?: string;
   keywords?: string[];
+  image?: string;
+  imageAlt?: string;
 }
 
 export interface BlogPost extends BlogFrontmatter {
