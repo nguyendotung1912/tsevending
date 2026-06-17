@@ -12,6 +12,7 @@ import path from "path";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { getSiloBySlug, getSubcategory, SOLUTIONS_SILO } from "../src/content/categories";
 import { saveArticleImage } from "./generate-svg-image";
+import { fetchPexelsImage } from "./fetch-pexels-image";
 
 const ROOT = path.join(__dirname, "..");
 const CALENDAR_PATH = path.join(ROOT, "scripts", "content-calendar.json");
@@ -169,12 +170,26 @@ async function generateArticle(
   const baseSlug = slugify(title).slice(0, 80);
   const slug = uniqueSlug(baseSlug || slugify(item.topic).slice(0, 80));
 
-  // Generate SVG image
-  console.log(`  🖼  Creating SVG image for "${slug}"...`);
-  const imagePath = saveArticleImage(slug, imageAlt, item.silo);
+  // Try Pexels first, fall back to SVG
+  let imagePath: string;
+  let finalContent = withDate;
 
-  // Replace placeholder image path
-  const finalContent = withDate.replace("PLACEHOLDER_IMAGE", imagePath);
+  console.log(`  🖼  Fetching image for "${slug}"...`);
+  const pexels = await fetchPexelsImage(slug, item.silo, item.sub ?? null);
+
+  if (pexels) {
+    imagePath = pexels.imagePath;
+    // Inject credit into frontmatter after imageAlt line
+    finalContent = finalContent
+      .replace("PLACEHOLDER_IMAGE", imagePath)
+      .replace(
+        /^(imageAlt:.*)/m,
+        `$1\nimageCredit: "Photo by ${pexels.credit} on Pexels"`
+      );
+  } else {
+    imagePath = saveArticleImage(slug, imageAlt, item.silo);
+    finalContent = finalContent.replace("PLACEHOLDER_IMAGE", imagePath);
+  }
 
   return { slug, content: finalContent };
 }
