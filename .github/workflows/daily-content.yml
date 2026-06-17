@@ -38,12 +38,6 @@ jobs:
           ARTICLES_PER_RUN: ${{ inputs.articles_per_run || '3' }}
         run: npm run generate:article:gemini
 
-      - name: Fallback — generate 1 article with Claude if Gemini failed
-        if: failure()
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
-        run: npm run generate:article
 
       - name: Commit new content
         run: |
@@ -62,7 +56,7 @@ jobs:
     name: Fetch & translate world news
     runs-on: ubuntu-latest
     needs: generate-articles
-    if: always()
+    if: always() && secrets.ANTHROPIC_API_KEY != ''
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
