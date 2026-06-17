@@ -1,46 +1,120 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e40af"/>
-      <stop offset="100%" style="stop-color:#1e3a8a"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="1080" cy="80" r="200" fill="#1d4ed8" opacity="0.4"/>
-  <!-- QR icon -->
-  <rect x="680" y="130" width="130" height="130" rx="12" fill="#ffffff" opacity="0.12"/>
-  <text x="745" y="215" font-family="Arial,sans-serif" font-size="64" text-anchor="middle" fill="#93c5fd">▣</text>
-  <text x="745" y="290" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#93c5fd" text-anchor="middle">QR CODE</text>
-  <!-- RFID icon -->
-  <rect x="840" y="130" width="130" height="130" rx="12" fill="#ffffff" opacity="0.12"/>
-  <text x="905" y="215" font-family="Arial,sans-serif" font-size="64" text-anchor="middle" fill="#bfdbfe">📶</text>
-  <text x="905" y="290" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#bfdbfe" text-anchor="middle">RFID</text>
-  <!-- Fingerprint icon -->
-  <rect x="1000" y="130" width="130" height="130" rx="12" fill="#ffffff" opacity="0.12"/>
-  <text x="1065" y="215" font-family="Arial,sans-serif" font-size="64" text-anchor="middle" fill="#dbeafe">👆</text>
-  <text x="1065" y="290" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#dbeafe" text-anchor="middle">VÂN TAY</text>
-  <!-- VS dividers -->
-  <text x="805" y="210" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#60a5fa" text-anchor="middle">vs</text>
-  <text x="966" y="210" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#60a5fa" text-anchor="middle">vs</text>
-  <!-- Comparison labels -->
-  <text x="745" y="340" font-family="Arial,sans-serif" font-size="15" fill="#93c5fd" text-anchor="middle">Linh hoạt nhất</text>
-  <text x="905" y="340" font-family="Arial,sans-serif" font-size="15" fill="#bfdbfe" text-anchor="middle">Nhanh nhất</text>
-  <text x="1065" y="340" font-family="Arial,sans-serif" font-size="15" fill="#dbeafe" text-anchor="middle">Bảo mật nhất</text>
-  <!-- Left content -->
-  <text x="115" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#93c5fd" letter-spacing="3">SO SÁNH</text>
-  <text x="115" y="145" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#ffffff">3 Phương thức</text>
-  <text x="115" y="205" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#93c5fd">Mở khóa Locker</text>
-  <text x="115" y="278" font-family="Arial,sans-serif" font-size="22" fill="#bfdbfe">Cái nào phù hợp nhất</text>
-  <text x="115" y="308" font-family="Arial,sans-serif" font-size="22" fill="#bfdbfe">với nhu cầu của bạn?</text>
-  <!-- Industry fit tags -->
-  <rect x="115" y="360" width="170" height="36" rx="18" fill="#1d4ed8"/>
-  <text x="200" y="383" font-family="Arial,sans-serif" font-size="14" fill="#dbeafe" text-anchor="middle">Siêu thị → QR</text>
-  <rect x="300" y="360" width="170" height="36" rx="18" fill="#1d4ed8"/>
-  <text x="385" y="383" font-family="Arial,sans-serif" font-size="14" fill="#dbeafe" text-anchor="middle">Văn phòng → RFID</text>
-  <rect x="115" y="410" width="170" height="36" rx="18" fill="#1d4ed8"/>
-  <text x="200" y="433" font-family="Arial,sans-serif" font-size="14" fill="#dbeafe" text-anchor="middle">Bệnh viện → Vân tay</text>
-  <!-- Branding -->
-  <rect x="115" y="500" width="260" height="50" rx="25" fill="#3b82f6"/>
-  <text x="245" y="533" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#1e3a8a" text-anchor="middle">TSE VENDING</text>
-  <text x="115" y="598" font-family="Arial,sans-serif" font-size="16" fill="#93c5fd">tsevending.com</text>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0c1445"/><stop offset="100%" stop-color="#060820"/>
+  </linearGradient>
+  <linearGradient id="bl" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#1d4ed8"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="sh"><feDropShadow dx="3" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/></filter>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1020" cy="-60" r="290" fill="#1e3a8a" opacity="0.2"/>
+<circle cx="80" cy="680" r="240" fill="#0c1445" opacity="0.3"/>
+
+<!-- 3 Method panels (right side) -->
+<!-- QR Panel -->
+<rect x="730" y="100" width="140" height="400" rx="10" fill="#0a1130" stroke="#3b82f6" stroke-width="1.5" filter="url(#sh)"/>
+<rect x="730" y="100" width="140" height="30" rx="10 10 0 0" fill="#1d4ed8"/>
+<text x="800" y="121" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">QR CODE</text>
+<!-- QR grid -->
+<rect x="752" y="148" width="96" height="96" rx="4" fill="#0c1445"/>
+<!-- Corner squares QR -->
+<rect x="756" y="152" width="22" height="22" fill="#3b82f6"/>
+<rect x="758" y="154" width="18" height="18" fill="#0a1130"/>
+<rect x="762" y="158" width="10" height="10" fill="#3b82f6"/>
+<rect x="820" y="152" width="22" height="22" fill="#3b82f6"/>
+<rect x="822" y="154" width="18" height="18" fill="#0a1130"/>
+<rect x="826" y="158" width="10" height="10" fill="#3b82f6"/>
+<rect x="756" y="216" width="22" height="22" fill="#3b82f6"/>
+<rect x="758" y="218" width="18" height="18" fill="#0a1130"/>
+<rect x="762" y="222" width="10" height="10" fill="#3b82f6"/>
+<!-- Data cells -->
+<rect x="784" y="152" width="5" height="5" fill="#3b82f6" opacity="0.8"/>
+<rect x="793" y="152" width="5" height="5" fill="#3b82f6" opacity="0.6"/>
+<rect x="802" y="152" width="5" height="5" fill="#3b82f6" opacity="0.8"/>
+<rect x="784" y="161" width="5" height="5" fill="#3b82f6" opacity="0.4"/>
+<rect x="802" y="161" width="5" height="5" fill="#3b82f6" opacity="0.7"/>
+<rect x="784" y="170" width="5" height="5" fill="#3b82f6" opacity="0.6"/>
+<rect x="793" y="170" width="5" height="5" fill="#3b82f6" opacity="0.9"/>
+<rect x="784" y="216" width="5" height="5" fill="#3b82f6" opacity="0.7"/>
+<rect x="793" y="216" width="5" height="5" fill="#3b82f6" opacity="0.5"/>
+<rect x="802" y="216" width="5" height="5" fill="#3b82f6" opacity="0.8"/>
+<rect x="820" y="184" width="5" height="5" fill="#3b82f6" opacity="0.7"/>
+<rect x="829" y="184" width="5" height="5" fill="#3b82f6" opacity="0.5"/>
+<rect x="838" y="184" width="5" height="5" fill="#3b82f6" opacity="0.8"/>
+<!-- QR info -->
+<text x="800" y="270" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Khách vãng lai</text>
+<text x="800" y="290" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Không cần thẻ</text>
+<text x="800" y="310" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Chia sẻ qua SMS</text>
+<text x="800" y="330" font-family="Arial,sans-serif" font-size="12" fill="#60a5fa" text-anchor="middle">→ Siêu thị, Ga tàu</text>
+<rect x="750" y="358" width="100" height="30" rx="15" fill="#1d4ed8"/>
+<text x="800" y="378" font-family="Arial,sans-serif" font-size="12" fill="#fff" text-anchor="middle" font-weight="700">LINH HOẠT</text>
+<text x="800" y="456" font-family="Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">2-3 giây mở</text>
+<text x="800" y="474" font-family="Arial,sans-serif" font-size="18" fill="#3b82f6" text-anchor="middle">⭐⭐⭐⭐</text>
+
+<!-- RFID Panel -->
+<rect x="888" y="100" width="140" height="400" rx="10" fill="#0a1130" stroke="#60a5fa" stroke-width="2" filter="url(#glow)"/>
+<rect x="888" y="100" width="140" height="30" rx="10 10 0 0" fill="url(#bl)"/>
+<text x="958" y="121" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">RFID</text>
+<!-- RFID card visual -->
+<rect x="908" y="150" width="100" height="68" rx="8" fill="#1e3a8a"/>
+<rect x="908" y="150" width="100" height="20" rx="8 8 0 0" fill="#2563eb" opacity="0.7"/>
+<rect x="918" y="180" width="30" height="22" rx="3" fill="#fbbf24" opacity="0.8"/>
+<rect x="954" y="182" width="44" height="5" rx="2.5" fill="#3b82f6" opacity="0.6"/>
+<rect x="954" y="192" width="34" height="4" rx="2" fill="#3b82f6" opacity="0.4"/>
+<!-- RFID signal arcs -->
+<path d="M 888 200 Q 878 200 873 200" stroke="#60a5fa" stroke-width="2" fill="none" opacity="0.5"/>
+<path d="M 888 200 Q 873 185 866 200 Q 873 215 888 200" stroke="#3b82f6" stroke-width="1.5" fill="none" opacity="0.4"/>
+<path d="M 888 200 Q 867 178 857 200 Q 867 222 888 200" stroke="#1d4ed8" stroke-width="1" fill="none" opacity="0.3"/>
+<!-- RFID info -->
+<text x="958" y="250" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Tốc độ &lt;1 giây</text>
+<text x="958" y="270" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Tích hợp thẻ NV</text>
+<text x="958" y="290" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd" text-anchor="middle">✓ Hoạt động offline</text>
+<text x="958" y="310" font-family="Arial,sans-serif" font-size="12" fill="#60a5fa" text-anchor="middle">→ VP, Nhà máy, ĐH</text>
+<rect x="908" y="340" width="100" height="30" rx="15" fill="url(#bl)"/>
+<text x="958" y="360" font-family="Arial,sans-serif" font-size="12" fill="#fff" text-anchor="middle" font-weight="700">NHANH NHẤT</text>
+<text x="958" y="456" font-family="Arial,sans-serif" font-size="11" fill="#60a5fa" text-anchor="middle">&lt;1 giây mở</text>
+<text x="958" y="474" font-family="Arial,sans-serif" font-size="18" fill="#60a5fa" text-anchor="middle">⭐⭐⭐⭐⭐</text>
+
+<!-- Fingerprint Panel -->
+<rect x="1046" y="100" width="140" height="400" rx="10" fill="#0a1130" stroke="#a5b4fc" stroke-width="1.5" filter="url(#sh)"/>
+<rect x="1046" y="100" width="140" height="30" rx="10 10 0 0" fill="#4338ca"/>
+<text x="1116" y="121" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">VÂN TAY</text>
+<!-- Fingerprint arcs -->
+<circle cx="1116" cy="196" r="40" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.6"/>
+<circle cx="1116" cy="196" r="32" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.5"/>
+<circle cx="1116" cy="196" r="24" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.4"/>
+<circle cx="1116" cy="196" r="16" fill="none" stroke="#a5b4fc" stroke-width="2" opacity="0.7"/>
+<circle cx="1116" cy="196" r="6" fill="#a5b4fc" opacity="0.8"/>
+<!-- Scan lines -->
+<rect x="1076" y="194" width="80" height="4" rx="2" fill="#818cf8" opacity="0.3" filter="url(#glow)"/>
+<!-- VT info -->
+<text x="1116" y="264" font-family="Arial,sans-serif" font-size="12" fill="#c7d2fe" text-anchor="middle">✓ Bảo mật cao nhất</text>
+<text x="1116" y="284" font-family="Arial,sans-serif" font-size="12" fill="#c7d2fe" text-anchor="middle">✓ Không cần mang gì</text>
+<text x="1116" y="304" font-family="Arial,sans-serif" font-size="12" fill="#c7d2fe" text-anchor="middle">✓ Không chạm</text>
+<text x="1116" y="324" font-family="Arial,sans-serif" font-size="12" fill="#a5b4fc" text-anchor="middle">→ Bệnh viện, Lab</text>
+<rect x="1066" y="355" width="100" height="30" rx="15" fill="#4338ca"/>
+<text x="1116" y="375" font-family="Arial,sans-serif" font-size="12" fill="#fff" text-anchor="middle" font-weight="700">AN TOÀN NHẤT</text>
+<text x="1116" y="456" font-family="Arial,sans-serif" font-size="11" fill="#818cf8" text-anchor="middle">1-2 giây mở</text>
+<text x="1116" y="474" font-family="Arial,sans-serif" font-size="18" fill="#818cf8" text-anchor="middle">⭐⭐⭐⭐⭐</text>
+
+<!-- TEXT LEFT -->
+<text x="80" y="64" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#60a5fa" letter-spacing="3">SO SÁNH CÔNG NGHỆ</text>
+<text x="80" y="148" font-family="Georgia,serif" font-size="56" font-weight="900" fill="#fff">QR · RFID</text>
+<text x="80" y="210" font-family="Georgia,serif" font-size="56" font-weight="900" fill="#60a5fa">Vân tay</text>
+<rect x="80" y="228" width="70" height="4" rx="2" fill="#3b82f6"/>
+<text x="80" y="268" font-family="Arial,sans-serif" font-size="21" fill="#93c5fd">3 phương thức mở locker</text>
+<text x="80" y="296" font-family="Arial,sans-serif" font-size="21" fill="#93c5fd">Cái nào phù hợp nhất?</text>
+<!-- Industry tags -->
+<rect x="80" y="340" width="120" height="34" rx="17" fill="#1e3a8a"/>
+<text x="140" y="362" font-family="Arial,sans-serif" font-size="13" fill="#93c5fd" text-anchor="middle">Siêu thị → QR</text>
+<rect x="214" y="340" width="140" height="34" rx="17" fill="#1e3a8a"/>
+<text x="284" y="362" font-family="Arial,sans-serif" font-size="13" fill="#93c5fd" text-anchor="middle">Văn phòng → RFID</text>
+<rect x="80" y="388" width="150" height="34" rx="17" fill="#1e3a8a"/>
+<text x="155" y="410" font-family="Arial,sans-serif" font-size="13" fill="#93c5fd" text-anchor="middle">Bệnh viện → Vân tay</text>
+<rect x="80" y="504" width="210" height="50" rx="25" fill="url(#bl)"/>
+<text x="185" y="534" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#fff" text-anchor="middle">TSE VENDING</text>
+<text x="80" y="600" font-family="Arial,sans-serif" font-size="14" fill="#3b82f6">tsevending.com</text>
 </svg>

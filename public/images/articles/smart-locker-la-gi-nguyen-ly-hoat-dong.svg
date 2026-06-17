@@ -1,43 +1,78 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#334155"/>
-      <stop offset="100%" style="stop-color:#0f172a"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="1080" cy="100" r="220" fill="#1e293b" opacity="0.6"/>
-  <!-- Locker diagram - 4 layers -->
-  <rect x="680" y="100" width="460" height="400" rx="16" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
-  <!-- Layer 1 -->
-  <rect x="700" y="120" width="420" height="70" rx="8" fill="#0f172a"/>
-  <text x="720" y="153" font-family="Arial,sans-serif" font-size="14" fill="#94a3b8">Lớp 1</text>
-  <text x="800" y="160" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">Phần cứng cơ học</text>
-  <!-- Layer 2 -->
-  <rect x="700" y="205" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-  <text x="720" y="238" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 2</text>
-  <text x="800" y="245" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Module xác thực</text>
-  <!-- Layer 3 -->
-  <rect x="700" y="290" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-  <text x="720" y="323" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 3</text>
-  <text x="800" y="330" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Bo điều khiển</text>
-  <!-- Layer 4 -->
-  <rect x="700" y="375" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
-  <text x="720" y="408" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 4</text>
-  <text x="800" y="415" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Phần mềm quản lý</text>
-  <!-- Connection arrows -->
-  <line x1="910" y1="190" x2="910" y2="205" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
-  <line x1="910" y1="275" x2="910" y2="290" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
-  <line x1="910" y1="360" x2="910" y2="375" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
-  <!-- Left content -->
-  <text x="115" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#94a3b8" letter-spacing="3">KIẾN THỨC CƠ BẢN</text>
-  <text x="115" y="148" font-family="Arial,sans-serif" font-size="56" font-weight="900" fill="#ffffff">Smart Locker</text>
-  <text x="115" y="208" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#94a3b8">là gì?</text>
-  <text x="115" y="280" font-family="Arial,sans-serif" font-size="22" fill="#64748b">Nguyên lý hoạt động</text>
-  <text x="115" y="310" font-family="Arial,sans-serif" font-size="22" fill="#64748b">&amp; khác biệt cốt lõi</text>
-  <text x="115" y="350" font-family="Arial,sans-serif" font-size="22" fill="#64748b">với locker cơ khí</text>
-  <!-- Branding -->
-  <rect x="115" y="490" width="260" height="50" rx="25" fill="#334155"/>
-  <text x="245" y="523" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#e2e8f0" text-anchor="middle">TSE VENDING</text>
-  <text x="115" y="598" font-family="Arial,sans-serif" font-size="16" fill="#64748b">tsevending.com</text>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#020617"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0891b2"/><stop offset="100%" stop-color="#06b6d4"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="sh"><feDropShadow dx="4" dy="7" stdDeviation="10" flood-color="#000" flood-opacity="0.5"/></filter>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1000" cy="-40" r="280" fill="#0c4a6e" opacity="0.15"/>
+<circle cx="100" cy="680" r="240" fill="#0f172a" opacity="0.4"/>
+<!-- Circuit lines -->
+<line x1="700" y1="0" x2="700" y2="630" stroke="#0e7490" stroke-width="0.5" opacity="0.3" stroke-dasharray="4,8"/>
+<line x1="0" y1="315" x2="1200" y2="315" stroke="#0e7490" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,12"/>
+
+<!-- Architecture 4-layer diagram (right side) -->
+<rect x="750" y="88" width="400" height="440" rx="12" fill="#070e1a" stroke="#0e7490" stroke-width="1" filter="url(#sh)"/>
+<!-- Layer 4 - Software (top, brightest) -->
+<rect x="762" y="100" width="376" height="76" rx="8" fill="#0c4a6e" stroke="#0ea5e9" stroke-width="1.5" filter="url(#glow)"/>
+<text x="840" y="127" font-family="Arial,sans-serif" font-size="11" fill="#7dd3fc" font-weight="700">LAYER 4</text>
+<text x="840" y="148" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">Phần mềm quản lý (Dashboard)</text>
+<text x="840" y="165" font-family="Arial,sans-serif" font-size="12" fill="#93c5fd">Quản lý từ xa · Báo cáo · API mở</text>
+<!-- Cloud icon -->
+<text x="1110" y="148" font-family="Arial,sans-serif" font-size="28" fill="#0ea5e9" text-anchor="middle">☁</text>
+<!-- Layer 3 -->
+<rect x="762" y="188" width="376" height="76" rx="8" fill="#083344" stroke="#0e7490" stroke-width="1"/>
+<text x="840" y="215" font-family="Arial,sans-serif" font-size="11" fill="#67e8f9" font-weight="700">LAYER 3</text>
+<text x="840" y="236" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#e2e8f0">Bo điều khiển (Controller)</text>
+<text x="840" y="253" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">Xử lý logic · Lưu cục bộ · Offline</text>
+<text x="1110" y="236" font-family="Arial,sans-serif" font-size="26" fill="#0e7490" text-anchor="middle">⚙</text>
+<!-- Layer 2 -->
+<rect x="762" y="276" width="376" height="76" rx="8" fill="#051520" stroke="#0e7490" stroke-width="1"/>
+<text x="840" y="303" font-family="Arial,sans-serif" font-size="11" fill="#67e8f9" font-weight="700">LAYER 2</text>
+<text x="840" y="324" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#e2e8f0">Module xác thực</text>
+<text x="840" y="341" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">QR · RFID · Vân tay · FaceID</text>
+<text x="1110" y="324" font-family="Arial,sans-serif" font-size="26" fill="#0e7490" text-anchor="middle">📶</text>
+<!-- Layer 1 (bottom) -->
+<rect x="762" y="364" width="376" height="76" rx="8" fill="#04101a" stroke="#0e7490" stroke-width="1"/>
+<text x="840" y="391" font-family="Arial,sans-serif" font-size="11" fill="#67e8f9" font-weight="700">LAYER 1</text>
+<text x="840" y="412" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#cbd5e1">Phần cứng cơ học</text>
+<text x="840" y="429" font-family="Arial,sans-serif" font-size="12" fill="#64748b">Khung thép · Khóa điện từ · Cửa ngăn</text>
+<text x="1110" y="412" font-family="Arial,sans-serif" font-size="26" fill="#0e7490" text-anchor="middle">🔩</text>
+<!-- Connection arrows between layers -->
+<line x1="950" y1="176" x2="950" y2="188" stroke="#0ea5e9" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="945,185 955,185 950,190" fill="#0ea5e9" opacity="0.7"/>
+<line x1="950" y1="264" x2="950" y2="276" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="945,273 955,273 950,278" fill="#0e7490" opacity="0.7"/>
+<line x1="950" y1="352" x2="950" y2="364" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="3,3"/>
+<polygon points="945,361 955,361 950,366" fill="#0e7490" opacity="0.5"/>
+<!-- vs label -->
+<rect x="762" y="452" width="376" height="62" rx="8" fill="#070e1a"/>
+<text x="950" y="476" font-family="Arial,sans-serif" font-size="13" fill="#475569" text-anchor="middle">Khóa cơ thường</text>
+<text x="950" y="496" font-family="Arial,sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">vs  Smart Locker = Audit trail đầy đủ + Quản lý từ xa</text>
+
+<!-- TEXT LEFT -->
+<text x="80" y="64" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#0ea5e9" letter-spacing="3">KIẾN THỨC</text>
+<text x="80" y="148" font-family="Georgia,serif" font-size="60" font-weight="900" fill="#fff">Smart Locker</text>
+<text x="80" y="212" font-family="Georgia,serif" font-size="50" font-weight="900" fill="#0ea5e9">là gì?</text>
+<rect x="80" y="228" width="70" height="4" rx="2" fill="#0ea5e9"/>
+<text x="80" y="270" font-family="Arial,sans-serif" font-size="20" fill="#7dd3fc">Nguyên lý hoạt động</text>
+<text x="80" y="298" font-family="Arial,sans-serif" font-size="20" fill="#7dd3fc">4 lớp cấu trúc hệ thống</text>
+<text x="80" y="326" font-family="Arial,sans-serif" font-size="20" fill="#7dd3fc">Khác gì locker cơ khí?</text>
+<!-- Feature pills -->
+<rect x="80" y="370" width="130" height="34" rx="17" fill="#0c4a6e"/>
+<text x="145" y="392" font-family="Arial,sans-serif" font-size="13" fill="#7dd3fc" text-anchor="middle">Audit trail</text>
+<rect x="224" y="370" width="130" height="34" rx="17" fill="#0c4a6e"/>
+<text x="289" y="392" font-family="Arial,sans-serif" font-size="13" fill="#7dd3fc" text-anchor="middle">API mở</text>
+<rect x="80" y="418" width="130" height="34" rx="17" fill="#0c4a6e"/>
+<text x="145" y="440" font-family="Arial,sans-serif" font-size="13" fill="#7dd3fc" text-anchor="middle">Offline OK</text>
+<rect x="224" y="418" width="130" height="34" rx="17" fill="#0c4a6e"/>
+<text x="289" y="440" font-family="Arial,sans-serif" font-size="13" fill="#7dd3fc" text-anchor="middle">AES-256</text>
+<rect x="80" y="504" width="210" height="50" rx="25" fill="url(#cyan)"/>
+<text x="185" y="534" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#0f172a" text-anchor="middle">TSE VENDING</text>
+<text x="80" y="600" font-family="Arial,sans-serif" font-size="14" fill="#0891b2">tsevending.com</text>
 </svg>

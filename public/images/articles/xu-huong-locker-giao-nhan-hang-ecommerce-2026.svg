@@ -1,50 +1,89 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#92400e"/>
-      <stop offset="100%" style="stop-color:#451a03"/>
-    </linearGradient>
-    <linearGradient id="box" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fbbf24"/>
-      <stop offset="100%" style="stop-color:#f59e0b"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="1100" cy="100" r="220" fill="#78350f" opacity="0.4"/>
-  <!-- Package boxes stacked -->
-  <rect x="700" y="200" width="110" height="100" rx="8" fill="url(#box)" opacity="0.9"/>
-  <line x1="700" y1="250" x2="810" y2="250" stroke="#92400e" stroke-width="2"/>
-  <line x1="755" y1="200" x2="755" y2="300" stroke="#92400e" stroke-width="2"/>
-  <rect x="830" y="170" width="130" height="120" rx="8" fill="url(#box)"/>
-  <line x1="830" y1="230" x2="960" y2="230" stroke="#92400e" stroke-width="2"/>
-  <line x1="895" y1="170" x2="895" y2="290" stroke="#92400e" stroke-width="2"/>
-  <rect x="980" y="220" width="90" height="90" rx="8" fill="url(#box)" opacity="0.85"/>
-  <line x1="980" y1="265" x2="1070" y2="265" stroke="#92400e" stroke-width="2"/>
-  <line x1="1025" y1="220" x2="1025" y2="310" stroke="#92400e" stroke-width="2"/>
-  <!-- Delivery arrow down to locker -->
-  <text x="895" y="340" font-family="Arial,sans-serif" font-size="40" fill="#fde68a" text-anchor="middle">↓</text>
-  <!-- Locker panel -->
-  <rect x="760" y="380" width="280" height="120" rx="12" fill="#1c1917" stroke="#fbbf24" stroke-width="2"/>
-  <rect x="780" y="400" width="50" height="40" rx="4" fill="#fbbf24" opacity="0.7"/>
-  <rect x="845" y="400" width="50" height="40" rx="4" fill="#fbbf24" opacity="0.5"/>
-  <rect x="910" y="400" width="50" height="40" rx="4" fill="#fbbf24" opacity="0.3"/>
-  <rect x="780" y="455" width="50" height="30" rx="4" fill="#fbbf24" opacity="0.4"/>
-  <rect x="845" y="455" width="50" height="30" rx="4" fill="#fbbf24" opacity="0.6"/>
-  <rect x="910" y="455" width="50" height="30" rx="4" fill="#fbbf24" opacity="0.2"/>
-  <text x="1060" y="455" font-family="Arial,sans-serif" font-size="14" fill="#fde68a" text-anchor="start">Smart</text>
-  <text x="1060" y="475" font-family="Arial,sans-serif" font-size="14" fill="#fde68a" text-anchor="start">Locker</text>
-  <!-- Left content -->
-  <text x="115" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fbbf24" letter-spacing="3">XU HƯỚNG LOGISTICS</text>
-  <text x="115" y="148" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#ffffff">Locker Giao</text>
-  <text x="115" y="208" font-family="Arial,sans-serif" font-size="50" font-weight="900" fill="#fbbf24">Nhận Hàng</text>
-  <text x="115" y="278" font-family="Arial,sans-serif" font-size="22" fill="#fde68a">TMĐT bùng nổ —</text>
-  <text x="115" y="308" font-family="Arial,sans-serif" font-size="22" fill="#fde68a">giao hàng không cần chờ</text>
-  <!-- Stat -->
-  <rect x="115" y="360" width="240" height="80" rx="12" fill="#78350f" opacity="0.8"/>
-  <text x="235" y="397" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#fbbf24" text-anchor="middle">25%</text>
-  <text x="235" y="425" font-family="Arial,sans-serif" font-size="15" fill="#fde68a" text-anchor="middle">Tỷ lệ giao thất bại</text>
-  <!-- Branding -->
-  <rect x="115" y="490" width="260" height="50" rx="25" fill="#fbbf24"/>
-  <text x="245" y="523" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#451a03" text-anchor="middle">TSE VENDING</text>
-  <text x="115" y="598" font-family="Arial,sans-serif" font-size="16" fill="#fbbf24">tsevending.com</text>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1c0f00"/><stop offset="100%" stop-color="#0c0600"/>
+  </linearGradient>
+  <linearGradient id="amb" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#d97706"/><stop offset="100%" stop-color="#f59e0b"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="sh"><feDropShadow dx="4" dy="7" stdDeviation="10" flood-color="#000" flood-opacity="0.5"/></filter>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1000" cy="-50" r="290" fill="#78350f" opacity="0.2"/>
+<circle cx="100" cy="680" r="240" fill="#1c0f00" opacity="0.3"/>
+
+<!-- Flow diagram: Package → Locker → Person -->
+<!-- Package boxes (top right) -->
+<rect x="790" y="92" width="80" height="72" rx="8" fill="#451a03" stroke="#d97706" stroke-width="1.5"/>
+<line x1="790" y1="128" x2="870" y2="128" stroke="#b45309" stroke-width="1.5" opacity="0.8"/>
+<line x1="830" y1="92" x2="830" y2="164" stroke="#b45309" stroke-width="1.5" opacity="0.8"/>
+<!-- Box label -->
+<text x="830" y="110" font-family="Arial,sans-serif" font-size="10" fill="#fbbf24" text-anchor="middle" opacity="0.8">PACKAGE</text>
+
+<rect x="890" y="78" width="95" height="86" rx="8" fill="#451a03" stroke="#f59e0b" stroke-width="1.5"/>
+<line x1="890" y1="121" x2="985" y2="121" stroke="#d97706" stroke-width="1.5" opacity="0.8"/>
+<line x1="937" y1="78" x2="937" y2="164" stroke="#d97706" stroke-width="1.5" opacity="0.8"/>
+
+<rect x="1005" y="100" width="70" height="64" rx="8" fill="#451a03" stroke="#d97706" stroke-width="1.5" opacity="0.8"/>
+<line x1="1005" y1="132" x2="1075" y2="132" stroke="#b45309" stroke-width="1.5" opacity="0.7"/>
+<line x1="1040" y1="100" x2="1040" y2="164" stroke="#b45309" stroke-width="1.5" opacity="0.7"/>
+
+<!-- Down arrow -->
+<rect x="920" y="175" width="40" height="50" rx="0" fill="#78350f" opacity="0.6"/>
+<polygon points="900,225 960,225 930,260" fill="#f59e0b" opacity="0.8"/>
+<text x="940" y="200" font-family="Arial,sans-serif" font-size="11" fill="#fbbf24" text-anchor="middle">Shipper</text>
+<text x="940" y="215" font-family="Arial,sans-serif" font-size="11" fill="#fbbf24" text-anchor="middle">giao vào tủ</text>
+
+<!-- LOCKER CABINET (center-right) -->
+<rect x="866" y="108" width="230" height="344" rx="8" fill="rgba(0,0,0,0.3)" filter="url(#sh)"/>
+<rect x="860" y="270" width="230" height="200" rx="8" fill="#1c0f00"/>
+<rect x="860" y="270" width="230" height="26" rx="8" fill="#451a03"/>
+<rect x="860" y="286" width="230" height="10" fill="#451a03"/>
+<rect x="860" y="270" width="5" height="200" rx="2" fill="#f59e0b" opacity="0.5"/>
+<!-- Mini doors 3x2 -->
+<rect x="870" y="304" width="58" height="44" rx="4" fill="#0c0600" stroke="#451a03" stroke-width="1"/>
+<rect x="870" y="356" width="58" height="44" rx="4" fill="#0c0600" stroke="#451a03" stroke-width="1"/>
+<rect x="936" y="304" width="58" height="44" rx="4" fill="#451a03" stroke="#f59e0b" stroke-width="2" filter="url(#glow)"/>
+<text x="965" y="332" font-family="Arial,sans-serif" font-size="22" fill="#f59e0b" text-anchor="middle" opacity="0.9">📦</text>
+<rect x="936" y="356" width="58" height="44" rx="4" fill="#0c0600" stroke="#451a03" stroke-width="1"/>
+<rect x="1002" y="304" width="58" height="44" rx="4" fill="#0c0600" stroke="#451a03" stroke-width="1"/>
+<rect x="1002" y="356" width="58" height="44" rx="4" fill="#1a0900" stroke="#6b3a1f" stroke-width="1"/>
+<!-- Cabinet label -->
+<text x="975" y="288" font-family="Arial,sans-serif" font-size="10" fill="#f59e0b" text-anchor="middle" letter-spacing="1.5" font-weight="700">TSE LOCKER · NHẬN HÀNG 24/7</text>
+<rect x="860" y="468" width="230" height="40" rx="0 0 8 8" fill="#120900"/>
+<text x="975" y="492" font-family="Arial,sans-serif" font-size="13" fill="#f59e0b" text-anchor="middle">📲 Nhận OTP · Tự lấy hàng</text>
+
+<!-- Right arrow + person silhouette -->
+<polygon points="1090,420 1120,400 1120,440" fill="#f59e0b" opacity="0.7"/>
+<!-- Person (silhouette) -->
+<circle cx="1155" cy="370" r="22" fill="#451a03" stroke="#d97706" stroke-width="1.5"/>
+<rect x="1138" y="396" width="34" height="52" rx="8" fill="#451a03" stroke="#d97706" stroke-width="1.5"/>
+<rect x="1118" y="398" width="18" height="38" rx="6" fill="#451a03" stroke="#d97706" stroke-width="1"/>
+<rect x="1174" y="398" width="18" height="38" rx="6" fill="#451a03" stroke="#d97706" stroke-width="1"/>
+<!-- Phone in hand -->
+<rect x="1174" y="410" width="12" height="20" rx="3" fill="#1c0f00" stroke="#f59e0b" stroke-width="1"/>
+<rect x="1156" y="450" width="16" height="44" rx="6" fill="#451a03" stroke="#d97706" stroke-width="1"/>
+<rect x="1178" y="450" width="16" height="44" rx="6" fill="#451a03" stroke="#d97706" stroke-width="1"/>
+<!-- Success check -->
+<circle cx="1155" cy="500" r="16" fill="#d97706" opacity="0.9"/>
+<text x="1155" y="506" font-family="Arial,sans-serif" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">✓</text>
+
+<!-- TEXT LEFT -->
+<text x="80" y="64" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#f59e0b" letter-spacing="3">XU HƯỚNG LOGISTICS</text>
+<text x="80" y="148" font-family="Georgia,serif" font-size="58" font-weight="900" fill="#fff">Locker Giao</text>
+<text x="80" y="216" font-family="Georgia,serif" font-size="58" font-weight="900" fill="#f59e0b">Nhận Hàng</text>
+<rect x="80" y="234" width="70" height="4" rx="2" fill="#f59e0b"/>
+<text x="80" y="276" font-family="Arial,sans-serif" font-size="20" fill="#fde68a">TMĐT bùng nổ — giao hàng</text>
+<text x="80" y="302" font-family="Arial,sans-serif" font-size="20" fill="#fde68a">mà không cần gặp người nhận</text>
+<!-- Stat box -->
+<rect x="80" y="344" width="145" height="62" rx="10" fill="#451a03" stroke="#92400e" stroke-width="1"/>
+<text x="152" y="370" font-family="Arial,sans-serif" font-size="28" font-weight="900" fill="#f59e0b" text-anchor="middle">25%</text>
+<text x="152" y="392" font-family="Arial,sans-serif" font-size="12" fill="#fde68a" text-anchor="middle">Tỷ lệ giao thất bại</text>
+<rect x="240" y="344" width="145" height="62" rx="10" fill="#451a03" stroke="#92400e" stroke-width="1"/>
+<text x="312" y="370" font-family="Arial,sans-serif" font-size="28" font-weight="900" fill="#f59e0b" text-anchor="middle">40%</text>
+<text x="312" y="392" font-family="Arial,sans-serif" font-size="12" fill="#fde68a" text-anchor="middle">Tiết kiệm last-mile</text>
+<rect x="80" y="504" width="210" height="50" rx="25" fill="url(#amb)"/>
+<text x="185" y="534" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#1c0f00" text-anchor="middle">TSE VENDING</text>
+<text x="80" y="600" font-family="Arial,sans-serif" font-size="14" fill="#d97706">tsevending.com</text>
 </svg>
