@@ -107,9 +107,18 @@ silo: "${item.silo}"${item.sub ? `\nsub: "${item.sub}"` : ""}
 keywords: [${item.keywords.map((k) => `"${k}"`).join(", ")}]
 image: "PLACEHOLDER_IMAGE"
 imageAlt: "[Mô tả ảnh chuẩn SEO, 80–100 ký tự, có từ khóa chính]"
+faqs:
+  - q: "[Câu hỏi thường gặp 1 — người dùng thực sự hay hỏi về chủ đề này]"
+    a: "[Câu trả lời ngắn gọn, chính xác, dưới 60 từ]"
+  - q: "[Câu hỏi thường gặp 2]"
+    a: "[Câu trả lời]"
+  - q: "[Câu hỏi thường gặp 3]"
+    a: "[Câu trả lời]"
 ---
 
-[Nội dung bài viết bắt đầu bằng đoạn mở — KHÔNG có H1, vì tiêu đề đã là H1 trên trang]
+**[Câu trả lời trực tiếp trong 1 câu, dưới 50 từ — đây là đoạn Google AI Overview sẽ lấy]**
+
+[Phần còn lại của đoạn mở — KHÔNG có H1, vì tiêu đề đã là H1 trên trang]
 
 ## [H2 đầu tiên]
 ...

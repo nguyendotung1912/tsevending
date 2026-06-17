@@ -16,6 +16,7 @@ export interface BlogFrontmatter {
   keywords?: string[];
   image?: string;
   imageAlt?: string;
+  faqs?: { q: string; a: string }[];
 }
 
 export interface BlogPost extends BlogFrontmatter {

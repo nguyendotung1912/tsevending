@@ -245,24 +245,44 @@ export const SILOS: Silo[] = [
     ],
     faqs: [
       {
+        q: "Tủ locker thông minh là gì?",
+        a: "Tủ locker thông minh (smart locker) là hệ thống tủ lưu trữ điện tử sử dụng công nghệ số để xác thực quyền truy cập — thay thế chìa khóa cơ truyền thống bằng mã PIN, QR code, thẻ RFID, vân tay hoặc nhận diện khuôn mặt. Toàn bộ lịch sử mở/đóng ô tủ được lưu trữ và quản lý tập trung qua phần mềm.",
+      },
+      {
         q: "Tủ locker thông minh phù hợp lắp ở đâu?",
-        a: "Phù hợp với chung cư (nhận hàng hộ dân), văn phòng/KCN (đồ dùng cá nhân, tài liệu), trường học (gửi đồ học sinh), trung tâm thương mại/gym (gửi đồ khách hàng) và các điểm giao nhận hàng logistics.",
+        a: "Phù hợp với chung cư (nhận hàng hộ dân 24/7), văn phòng và khu công nghiệp (bảo quản đồ dùng cá nhân, tài liệu nhân viên), trường học (gửi đồ học sinh không cần chìa), trung tâm thương mại và gym (gửi đồ khách hàng theo giờ) và các điểm giao nhận hàng logistics.",
+      },
+      {
+        q: "Giá tủ locker thông minh bao nhiêu tiền?",
+        a: "Giá tủ locker thông minh phụ thuộc vào số lượng ô (từ 4 đến 100+ ô), kích thước ô (S/M/L/XL), phương thức xác thực (PIN cơ bản đến nhận diện khuôn mặt) và mức độ tích hợp phần mềm. TSE Vending khảo sát thực tế miễn phí và báo giá chi tiết theo nhu cầu cụ thể.",
+      },
+      {
+        q: "Tủ locker thông minh mở bằng những phương thức nào?",
+        a: "Tủ locker thông minh TSE Vending hỗ trợ đa phương thức: mã PIN nhập trên bàn phím số, mã QR quét bằng điện thoại, thẻ RFID (tích hợp với thẻ nhân viên sẵn có), vân tay và nhận diện khuôn mặt. Một hệ thống có thể dùng đồng thời nhiều phương thức cho các nhóm người dùng khác nhau.",
       },
       {
         q: "Có thể tùy chỉnh số lượng và kích thước ô tủ không?",
-        a: "Có, TSE Vending thiết kế theo module nên có thể tùy biến số ô, kích thước ô (nhỏ, vừa, lớn) theo diện tích và nhu cầu sử dụng thực tế của khách hàng.",
+        a: "Có, TSE Vending thiết kế theo module nên có thể tùy biến số ô, kích thước ô (S nhỏ, M vừa, L lớn, XL hành lý) theo diện tích thực tế và nhu cầu sử dụng. Có thể bắt đầu với cụm nhỏ và mở rộng thêm module sau mà không cần thay toàn bộ hệ thống.",
       },
       {
         q: "Phần mềm quản lý tủ locker có cần kết nối internet liên tục không?",
-        a: "Tủ hoạt động ổn định với kết nối Wi-Fi/4G; trong trường hợp mất kết nối tạm thời, hệ thống vẫn lưu nhật ký và đồng bộ lại khi có mạng trở lại.",
+        a: "Tủ hoạt động ổn định với kết nối Wi-Fi hoặc 4G. Trong trường hợp mất kết nối tạm thời, hệ thống vẫn ghi nhận lịch sử mở/đóng tủ cục bộ và đồng bộ lên cloud khi có mạng trở lại. Quản trị viên có thể giám sát và điều hành từ xa qua trình duyệt hoặc app điện thoại.",
+      },
+      {
+        q: "Tủ locker thông minh có tích hợp được với hệ thống quản lý tòa nhà không?",
+        a: "Có. TSE Vending hỗ trợ tích hợp API với hệ thống BMS (Building Management System), phần mềm quản lý nhân sự, thẻ chấm công RFID sẵn có và các sàn thương mại điện tử/đơn vị logistics lớn như Shopee, Lazada, GHN, GHTK.",
       },
       {
         q: "Chi phí lắp đặt tủ locker thông minh phụ thuộc vào yếu tố nào?",
-        a: "Chi phí phụ thuộc vào số lượng ô tủ, kích thước ô, công nghệ mở khóa (QR, RFID, vân tay, nhận diện khuôn mặt) và yêu cầu tích hợp phần mềm/API riêng. TSE Vending khảo sát thực tế để đưa ra báo giá phù hợp với nhu cầu và ngân sách.",
+        a: "Chi phí phụ thuộc vào số lượng ô, kích thước ô, công nghệ xác thực và mức độ tích hợp phần mềm. Ngoài ra, chi phí lắp đặt thực địa (đi dây điện, gắn tường, kết nối mạng) cũng ảnh hưởng. TSE Vending khảo sát thực tế miễn phí và cung cấp báo giá trọn gói, không phát sinh ẩn phí.",
+      },
+      {
+        q: "Nếu người dùng quên mã hoặc mất thẻ thì xử lý thế nào?",
+        a: "Quản trị viên có thể mở ô tủ từ xa qua dashboard quản lý mà không cần đến tận nơi. Người dùng cũng có thể yêu cầu cấp lại mã qua app hoặc liên hệ admin. Với hệ thống sinh trắc học, người dùng không thể quên hay mất thông tin xác thực.",
       },
       {
         q: "Tủ locker thông minh có cần bảo trì định kỳ không?",
-        a: "Có. TSE Vending khuyến nghị kiểm tra định kỳ hệ thống khóa điện tử, cảm biến và phần mềm quản lý để đảm bảo vận hành ổn định, đồng thời cung cấp dịch vụ bảo trì - hỗ trợ kỹ thuật trên toàn quốc.",
+        a: "Có. TSE Vending khuyến nghị bảo trì định kỳ 6 tháng/lần: kiểm tra khóa điện tử, cảm biến, cập nhật firmware và vệ sinh tiếp điểm. Firmware được cập nhật tự động qua mạng. TSE Vending cung cấp dịch vụ bảo trì và hỗ trợ kỹ thuật 24/7 trên toàn quốc.",
       },
     ],
     icon: "🔐",
