@@ -102,7 +102,7 @@ CHUYÊN MỤC: ${siloTitle}${subTitle ? ` > ${subTitle}` : ""}
 OUTPUT FORMAT — trả về đúng block markdown, không có gì khác:
 ---
 title: "[Tiêu đề bài viết tiếng Việt, 50–65 ký tự, có từ khóa chính]"
-description: "[Mô tả meta, 140–155 ký tự, có từ khóa chính và call-to-action ngắn]"
+description: "[Mô tả meta, 140–155 ký tự thuần túy — KHÔNG dùng markdown link, KHÔNG dùng ký tự đặc biệt, chỉ text thường có từ khóa chính và call-to-action]"
 date: "PLACEHOLDER_DATE"
 silo: "${item.silo}"${item.sub ? `\nsub: "${item.sub}"` : ""}
 keywords: [${item.keywords.map((k) => `"${k}"`).join(", ")}]

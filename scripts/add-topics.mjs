@@ -1,0 +1,181 @@
+// Script to add 150 new pending topics to content-calendar.json
+import { readFileSync, writeFileSync } from "fs";
+
+const cal = JSON.parse(readFileSync("scripts/content-calendar.json", "utf8"));
+const lastId = Math.max(...cal.map((t) => t.id));
+
+const newTopics = [
+  // --- TU LOCKER THONG MINH PILLAR CLUSTER ---
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-chung-cu", topic: "Tủ locker thông minh chung cư: Top 5 thương hiệu uy tín nhất 2026", keywords: ["tủ locker chung cư", "locker thông minh chung cư", "tu locker nhan hang chung cu"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-chung-cu", topic: "Lắp đặt locker nhận hàng chung cư: Chi phí thực tế và quy trình 2026", keywords: ["lắp đặt locker chung cư", "chi phí locker nhận hàng", "locker giao hàng chung cư"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-chung-cu", topic: "Locker thông minh vs thùng thư truyền thống: So sánh toàn diện cho ban quản lý", keywords: ["locker thông minh vs thùng thư", "locker chung cư so sánh", "quản lý bưu kiện chung cư"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-van-phong", topic: "Tủ locker văn phòng thông minh: Quản lý tài sản và tư trang nhân viên hiệu quả", keywords: ["tủ locker văn phòng", "locker nhân viên văn phòng", "quản lý tài sản văn phòng"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-van-phong", topic: "Locker điện tử cho văn phòng co-working: Giải pháp hot desk 2026", keywords: ["locker co-working", "tủ đựng đồ hot desk", "locker văn phòng chia sẻ"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-van-phong", topic: "5 lợi ích khi dùng smart locker thay tủ khóa truyền thống trong văn phòng", keywords: ["smart locker văn phòng", "tủ khóa thông minh", "lợi ích locker điện tử"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-truong-hoc", topic: "Tủ locker học sinh thông minh: Trường học hiện đại không cần chìa khóa", keywords: ["tủ locker học sinh", "locker trường học thông minh", "tủ đựng đồ học sinh không chìa"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-truong-hoc", topic: "Locker sinh viên đại học: Giải pháp quản lý đồ dùng trong campus hiện đại", keywords: ["locker sinh viên", "tủ locker đại học", "quản lý đồ dùng campus"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-truong-hoc", topic: "Chính sách lắp locker thông minh trường học tại Việt Nam: Điều cần biết 2026", keywords: ["locker trường học việt nam", "chính sách lắp locker", "tủ locker giáo dục"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-benh-vien", topic: "Tủ locker thông minh bệnh viện: Bảo quản tư trang bệnh nhân an toàn", keywords: ["locker bệnh viện", "tủ đựng đồ bệnh nhân", "locker y tế thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-benh-vien", topic: "Smart locker phòng khám tư: Nâng cao trải nghiệm bệnh nhân và an toàn tài sản", keywords: ["locker phòng khám", "smart locker y tế", "bảo quản đồ bệnh nhân"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-kho-van", topic: "Tủ locker kho vận logistics: Tối ưu hóa dây chuyền giao nhận hàng hóa", keywords: ["locker logistics", "tủ locker kho vận", "giao nhận hàng hóa thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-kho-van", topic: "Last-mile delivery locker: Giải pháp giao hàng chặng cuối không tiếp xúc 2026", keywords: ["last mile delivery locker", "locker giao hàng", "giao hàng không tiếp xúc"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-kho-van", topic: "Locker trả hàng e-commerce: Xu hướng bán lẻ thương mại điện tử 2026", keywords: ["locker trả hàng", "return locker ecommerce", "locker bán lẻ thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-san-bay", topic: "Locker sân bay quốc tế: Gửi hành lý an toàn khi chờ bay", keywords: ["locker sân bay", "gửi hành lý sân bay", "locker quốc tế"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-san-bay", topic: "Smart locker ga tàu và bến xe: Giải pháp giao thông thông minh Việt Nam", keywords: ["locker ga tàu", "locker bến xe", "giao thông thông minh locker"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-cong-nghiep", topic: "Locker nhà máy sản xuất: Bảo vệ đồ dùng công nhân và quản lý ca làm việc", keywords: ["locker nhà máy", "tủ locker công nhân", "quản lý ca làm việc"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-cong-nghiep", topic: "Tủ locker khu công nghiệp: Tiêu chuẩn an toàn lao động và quản lý thiết bị", keywords: ["locker khu công nghiệp", "an toàn lao động locker", "quản lý thiết bị khu CN"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-cong-nghiep", topic: "ESD locker phòng sạch: Giải pháp cho nhà máy điện tử và bán dẫn", keywords: ["ESD locker", "locker phòng sạch", "tủ locker nhà máy điện tử"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-thuong-mai", topic: "Locker trung tâm thương mại: Gửi đồ khi mua sắm và nhận hàng online", keywords: ["locker trung tâm thương mại", "gửi đồ shopping", "locker nhận hàng mall"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-thuong-mai", topic: "Smart locker siêu thị: Click & Collect — Đặt online lấy tại cửa hàng", keywords: ["locker siêu thị", "click and collect locker", "đặt online lấy tại chỗ"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-thuong-mai", topic: "Locker nhà hàng và quán cà phê: Gửi đồ thực khách tiện lợi", keywords: ["locker nhà hàng", "tủ gửi đồ quán cà phê", "locker thực khách"] },
+  // --- CONG NGHE VA TINH NANG ---
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Locker mở bằng khuôn mặt: Công nghệ nhận diện khuôn mặt trong tủ locker 2026", keywords: ["locker nhận diện khuôn mặt", "face recognition locker", "tủ locker AI"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Locker mở bằng vân tay: Công nghệ sinh trắc học bảo mật tuyệt đối", keywords: ["locker vân tay", "fingerprint locker", "sinh trắc học tủ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "QR code locker: Mở tủ bằng smartphone không cần chìa khóa hay mã PIN", keywords: ["QR code locker", "mở locker bằng QR", "locker smartphone"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "RFID locker thông minh: Thẻ từ và NFC trong quản lý tủ locker hiện đại", keywords: ["RFID locker", "thẻ từ locker", "NFC tủ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Locker tích hợp IoT: Giám sát và quản lý từ xa qua điện thoại", keywords: ["IoT locker", "giám sát locker từ xa", "quản lý locker điện thoại"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Phần mềm quản lý locker: Tính năng cần có cho doanh nghiệp 2026", keywords: ["phần mềm quản lý locker", "locker management software", "hệ thống quản lý tủ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Cloud locker vs standalone locker: Nên chọn hệ thống nào cho doanh nghiệp?", keywords: ["cloud locker", "standalone locker", "so sánh hệ thống locker"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "API tích hợp locker thông minh: Kết nối với hệ thống ERP và WMS", keywords: ["API locker", "tích hợp ERP locker", "WMS locker integration"] },
+  { silo: "tu-locker-thong-minh", sub: "cong-nghe-locker", topic: "Locker pin năng lượng mặt trời: Giải pháp ngoài trời không cần điện lưới", keywords: ["locker solar", "locker năng lượng mặt trời", "tủ locker ngoài trời"] },
+  // --- GIA CA VA TU VAN ---
+  { silo: "tu-locker-thong-minh", sub: "gia-locker", topic: "Bảng giá tủ locker thông minh 2026: So sánh từng phân khúc chi tiết", keywords: ["bảng giá locker", "giá tủ locker", "mua locker thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "gia-locker", topic: "Locker thông minh Trung Quốc vs Việt Nam: Nên mua loại nào tiết kiệm hơn?", keywords: ["locker trung quốc", "locker sản xuất tại việt nam", "so sánh giá locker"] },
+  { silo: "tu-locker-thong-minh", sub: "gia-locker", topic: "Thuê vs mua tủ locker thông minh: Tính toán ROI cho doanh nghiệp", keywords: ["thuê locker", "mua locker", "ROI tủ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "gia-locker", topic: "Chi phí bảo trì locker thông minh hàng năm: Ẩn phí cần biết trước khi mua", keywords: ["bảo trì locker", "chi phí duy trì locker", "phí locker hàng năm"] },
+  { silo: "tu-locker-thong-minh", sub: "gia-locker", topic: "Mua locker thông minh ở đâu uy tín tại TP.HCM và Hà Nội 2026?", keywords: ["mua locker thông minh", "đại lý locker TP HCM", "nhà cung cấp locker Hà Nội"] },
+  // --- HANG VIET VA THUONG HIEU ---
+  { silo: "tu-locker-thong-minh", sub: "thuong-hieu-locker", topic: "Top 10 thương hiệu tủ locker thông minh uy tín nhất tại Việt Nam 2026", keywords: ["thương hiệu locker việt nam", "locker uy tín", "top locker thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "thuong-hieu-locker", topic: "TSE Locker vs Parcel Lock vs GS Group: Review chi tiết 3 hãng hàng đầu", keywords: ["TSE locker", "Parcel Lock", "GS Group locker"] },
+  { silo: "tu-locker-thong-minh", sub: "thuong-hieu-locker", topic: "Locker nội địa Việt Nam: Chất lượng có sánh được hàng nhập khẩu không?", keywords: ["locker sản xuất nội địa", "locker việt nam", "chất lượng locker nội địa"] },
+  { silo: "tu-locker-thong-minh", sub: "thuong-hieu-locker", topic: "Amazon Locker và xu hướng locker toàn cầu: Bài học cho thị trường Việt Nam", keywords: ["Amazon Locker", "locker toàn cầu", "xu hướng locker quốc tế"] },
+  // --- UNG DUNG NICHE ---
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker lưu trữ vũ khí và đạn dược cho lực lượng an ninh: Tiêu chuẩn kỹ thuật", keywords: ["locker an ninh", "tủ locker cảnh sát", "locker lưu trữ vũ khí"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker sạc thiết bị điện tử: Giải pháp cho trường học và văn phòng hiện đại", keywords: ["locker sạc điện thoại", "charging locker", "tủ sạc thiết bị"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker nhiệt độ kiểm soát: Bảo quản dược phẩm và thực phẩm nhạy cảm", keywords: ["locker nhiệt độ", "cold chain locker", "locker bảo quản thuốc"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker xe đạp thông minh: Giải pháp cho thành phố xanh và đi lại bền vững", keywords: ["locker xe đạp", "bike locker", "giải pháp đỗ xe đạp thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker khách sạn thông minh: Check-in không tiếp xúc và giao khóa phòng tự động", keywords: ["locker khách sạn", "hotel smart locker", "check-in không tiếp xúc"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Parcel locker nông thôn: Đưa thương mại điện tử đến vùng xa Việt Nam", keywords: ["locker nông thôn", "parcel locker vùng xa", "ecommerce vùng sâu vùng xa"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker phòng gym và spa: Giải pháp cho thành viên cao cấp", keywords: ["locker gym", "tủ locker spa", "locker phòng tập thể dục"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Smart locker bưu điện: Hợp tác Vnpost và các dịch vụ giao hàng 2026", keywords: ["locker bưu điện", "VNPost locker", "smart locker giao hàng"] },
+  { silo: "tu-locker-thong-minh", sub: "ung-dung-dac-biet", topic: "Locker thư viện tự phục vụ: Mượn và trả sách 24/7 không cần nhân viên", keywords: ["locker thư viện", "mượn sách tự phục vụ", "library locker"] },
+  // --- HUONG DAN KY THUAT ---
+  { silo: "tu-locker-thong-minh", sub: "huong-dan-su-dung", topic: "Hướng dẫn sử dụng tủ locker thông minh lần đầu: Từng bước cơ bản nhất", keywords: ["hướng dẫn dùng locker", "cách dùng locker thông minh", "locker cho người mới"] },
+  { silo: "tu-locker-thong-minh", sub: "huong-dan-su-dung", topic: "Quên mã PIN tủ locker: Cách mở khóa khẩn cấp và reset hệ thống", keywords: ["quên mã locker", "reset locker PIN", "mở khóa khẩn cấp locker"] },
+  { silo: "tu-locker-thong-minh", sub: "huong-dan-su-dung", topic: "Bảo trì tủ locker thông minh định kỳ: Checklist 20 điểm cho admin", keywords: ["bảo trì locker", "checklist locker", "maintenance smart locker"] },
+  { silo: "tu-locker-thong-minh", sub: "huong-dan-su-dung", topic: "Khắc phục lỗi thường gặp tủ locker điện tử: 10 vấn đề và cách xử lý", keywords: ["lỗi locker điện tử", "sửa locker thông minh", "troubleshoot locker"] },
+  { silo: "tu-locker-thong-minh", sub: "huong-dan-su-dung", topic: "Cài đặt phần mềm quản lý locker: Hướng dẫn từ A đến Z cho IT admin", keywords: ["cài đặt phần mềm locker", "IT admin locker", "hướng dẫn cài locker"] },
+  // --- MAY BAN HANG ---
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-nuoc", topic: "Máy bán nước tự động 2026: Review top 5 model phổ biến nhất Việt Nam", keywords: ["máy bán nước tự động", "vending machine nước uống", "review máy bán nước"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-nuoc", topic: "Đặt máy bán nước tự động ở đâu để lời nhất? Phân tích vị trí chiến lược", keywords: ["vị trí đặt máy bán nước", "kinh doanh máy bán nước", "địa điểm vending machine"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-nuoc", topic: "Máy bán cà phê tự động văn phòng: Giải pháp phúc lợi nhân viên 2026", keywords: ["máy bán cà phê văn phòng", "coffee vending machine", "phúc lợi nhân viên cà phê"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-do-an", topic: "Máy bán snack tự động: Lựa chọn hàng hóa tối ưu hóa doanh thu", keywords: ["máy bán snack", "vending machine đồ ăn", "hàng hóa máy bán tự động"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-do-an", topic: "Máy bán cơm hộp tự động: Giải pháp bữa trưa cho khu công nghiệp", keywords: ["máy bán cơm hộp", "cơm tự động khu công nghiệp", "bữa trưa vending machine"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-do-an", topic: "Vending machine thực phẩm sạch: Xu hướng ăn uống lành mạnh tự phục vụ", keywords: ["máy bán thực phẩm sạch", "healthy vending", "ăn uống lành mạnh tự phục vụ"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-y-te", topic: "Máy bán khẩu trang và nước rửa tay tự động: Bài học từ dịch COVID", keywords: ["máy bán khẩu trang tự động", "vending machine y tế", "nước rửa tay tự động"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-y-te", topic: "Vending machine dược phẩm không kê đơn: Xu hướng bán lẻ thuốc tự động", keywords: ["máy bán thuốc tự động", "pharmaceutical vending", "dược phẩm không kê đơn"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Máy bán hàng tự động ngoài trời chịu thời tiết: Tiêu chuẩn IP và lựa chọn", keywords: ["vending machine ngoài trời", "máy bán hàng chống thời tiết", "IP rating vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Máy bán hoa tươi tự động 24/7: Mô hình kinh doanh độc đáo ở Việt Nam", keywords: ["máy bán hoa tự động", "flower vending machine", "kinh doanh hoa tự động"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Máy bán mỹ phẩm và chăm sóc da tự động: Cơ hội kinh doanh 2026", keywords: ["máy bán mỹ phẩm tự động", "beauty vending machine", "skincare vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-do-choi", topic: "Máy bán đồ chơi Gashapon tự động: Trào lưu capsule toy tại Việt Nam", keywords: ["máy bán gashapon", "capsule toy máy tự động", "đồ chơi tự động việt nam"] },
+  // --- GIAI PHAP KINH DOANH ---
+  { silo: "giai-phap-kinh-doanh", sub: "mo-hinh-kinh-doanh", topic: "Mô hình kinh doanh máy bán hàng tự động 2026: Từ đầu tư đến thu hồi vốn", keywords: ["mô hình kinh doanh vending", "đầu tư máy bán tự động", "thu hồi vốn vending"] },
+  { silo: "giai-phap-kinh-doanh", sub: "mo-hinh-kinh-doanh", topic: "Franchise máy bán hàng tự động: Cơ hội kinh doanh nhượng quyền ít vốn", keywords: ["nhượng quyền vending machine", "franchise máy bán hàng", "vending franchise việt nam"] },
+  { silo: "giai-phap-kinh-doanh", sub: "mo-hinh-kinh-doanh", topic: "Kinh doanh locker thông minh: Tính toán lợi nhuận từ dịch vụ giao nhận", keywords: ["kinh doanh locker", "lợi nhuận dịch vụ locker", "đầu tư tủ locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "tu-dong-hoa", topic: "Tự động hóa bán lẻ: Xu hướng unmanned retail tại Việt Nam 2026", keywords: ["tự động hóa bán lẻ", "unmanned retail", "cửa hàng không nhân viên"] },
+  { silo: "giai-phap-kinh-doanh", sub: "tu-dong-hoa", topic: "Cửa hàng tiện lợi không nhân viên: Công nghệ và bài học từ Amazon Go", keywords: ["cửa hàng không nhân viên", "Amazon Go việt nam", "unmanned store"] },
+  { silo: "giai-phap-kinh-doanh", sub: "tu-dong-hoa", topic: "AI trong bán lẻ tự động: Phân tích hành vi khách hàng qua camera thông minh", keywords: ["AI bán lẻ", "camera phân tích hành vi", "AI vending machine"] },
+  // --- LOCKER THONG MINH CHO CAC DO TUOI ---
+  { silo: "tu-locker-thong-minh", sub: "doi-tuong-su-dung", topic: "Tủ locker cho người cao tuổi: Thiết kế dễ dùng và hỗ trợ người khuyết tật", keywords: ["locker người cao tuổi", "locker khuyết tật", "thiết kế phổ cập locker"] },
+  { silo: "tu-locker-thong-minh", sub: "doi-tuong-su-dung", topic: "Tủ locker cho trẻ em: An toàn tuyệt đối và thiết kế vui nhộn tại trường học", keywords: ["locker trẻ em", "tủ locker an toàn trẻ", "locker thiết kế cho trẻ"] },
+  { silo: "tu-locker-thong-minh", sub: "doi-tuong-su-dung", topic: "Tủ locker cho phụ nữ: Riêng tư, an toàn tại spa, gym và văn phòng", keywords: ["locker phụ nữ", "tủ locker ladies", "locker riêng tư an toàn"] },
+  // --- LOCKER THEO CHẤT LIỆU ---
+  { silo: "tu-locker-thong-minh", sub: "chat-lieu-locker", topic: "Tủ locker inox 304 vs inox 201: Sự khác biệt và ứng dụng phù hợp", keywords: ["locker inox", "tủ locker inox 304", "inox 201 locker"] },
+  { silo: "tu-locker-thong-minh", sub: "chat-lieu-locker", topic: "Tủ locker nhựa HDPE: Ưu điểm cho môi trường ẩm ướt nhà bơi và spa", keywords: ["locker nhựa", "HDPE locker", "tủ locker nhà bơi"] },
+  { silo: "tu-locker-thong-minh", sub: "chat-lieu-locker", topic: "Tủ locker gỗ sang trọng: Giải pháp nội thất cho khách sạn 5 sao", keywords: ["locker gỗ", "tủ locker khách sạn cao cấp", "locker nội thất sang trọng"] },
+  { silo: "tu-locker-thong-minh", sub: "chat-lieu-locker", topic: "Tủ locker thép sơn tĩnh điện: Độ bền và màu sắc phù hợp văn phòng hiện đại", keywords: ["locker thép sơn tĩnh điện", "tủ locker màu sắc", "locker văn phòng bền"] },
+  // --- LOCKER THEO SO NGAN ---
+  { silo: "tu-locker-thong-minh", sub: "thong-so-locker", topic: "Tủ locker 4 ngăn thông minh: Thiết kế nhỏ gọn cho không gian hạn chế", keywords: ["locker 4 ngăn", "tủ locker nhỏ gọn", "locker 4 ô thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "thong-so-locker", topic: "Tủ locker 6 ngăn thông minh: Lý tưởng cho văn phòng nhỏ và startups", keywords: ["locker 6 ngăn", "tủ locker startup", "locker 6 ô văn phòng nhỏ"] },
+  { silo: "tu-locker-thong-minh", sub: "thong-so-locker", topic: "Tủ locker 12 ngăn thông minh: Giải pháp tiêu chuẩn cho trường học", keywords: ["locker 12 ngăn", "tủ locker trường học 12 ô", "locker 12 ô thông minh"] },
+  { silo: "tu-locker-thong-minh", sub: "thong-so-locker", topic: "Tủ locker 16-20 ngăn: Giải pháp cho tòa nhà lớn và khu công nghiệp", keywords: ["locker 16 ngăn", "locker 20 ngăn", "tủ locker nhiều ô"] },
+  { silo: "tu-locker-thong-minh", sub: "thong-so-locker", topic: "Tủ locker cỡ lớn: Lưu trữ hành lý và thiết bị cồng kềnh", keywords: ["locker cỡ lớn", "tủ locker hành lý", "locker to lưu thiết bị"] },
+  // --- SEO LONG-TAIL LOCKER ---
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-chung-cu", topic: "Giá thuê ô locker chung cư: Phí bao nhiêu là hợp lý cho cư dân 2026?", keywords: ["giá thuê ô locker", "phí locker chung cư", "thuê ngăn locker chung cư"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-chung-cu", topic: "Locker nhận hàng COD cho chung cư: Shipper giao tự động không cần chủ nhà", keywords: ["locker nhận hàng COD", "shipper giao hàng chung cư", "nhận hàng không cần chủ nhà"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-kho-van", topic: "Locker giao hàng Shopee, Lazada: Chính sách và đối tác locker 2026", keywords: ["locker Shopee", "locker Lazada", "giao hàng qua locker"] },
+  { silo: "tu-locker-thong-minh", sub: "tu-locker-kho-van", topic: "Locker Grab, Giao Hàng Nhanh, J&T: Mạng lưới locker giao hàng Việt Nam", keywords: ["locker Grab", "locker GHN", "mạng lưới locker giao hàng"] },
+  { silo: "tu-locker-thong-minh", sub: "bao-mat-locker", topic: "Bảo mật tủ locker thông minh: Tiêu chuẩn và chứng chỉ cần biết 2026", keywords: ["bảo mật locker", "tiêu chuẩn bảo mật tủ locker", "chứng chỉ an ninh locker"] },
+  { silo: "tu-locker-thong-minh", sub: "bao-mat-locker", topic: "Camera giám sát kết hợp locker: Hệ thống an ninh toàn diện cho tòa nhà", keywords: ["camera locker", "giám sát tủ locker", "an ninh tòa nhà locker"] },
+  { silo: "tu-locker-thong-minh", sub: "bao-mat-locker", topic: "Locker chống trộm: Vật liệu và công nghệ chống phá khóa thế hệ mới", keywords: ["locker chống trộm", "tủ locker chống phá", "vật liệu locker an ninh"] },
+  // --- MAY BAN HANG NANG CAO ---
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-thanh-toan", topic: "Thanh toán không tiền mặt máy bán hàng: QR, NFC và ví điện tử 2026", keywords: ["thanh toán QR vending", "NFC vending machine", "ví điện tử máy bán hàng"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-thanh-toan", topic: "Máy bán hàng tự động chấp nhận thẻ tín dụng: Tăng doanh thu 40%", keywords: ["thẻ tín dụng vending", "máy bán hàng credit card", "thanh toán thẻ vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-quan-ly", topic: "Quản lý từ xa máy bán hàng tự động: Phần mềm telemetry và remote monitoring", keywords: ["quản lý từ xa vending", "telemetry vending machine", "remote monitoring máy bán hàng"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-quan-ly", topic: "Phân tích dữ liệu máy bán hàng: Data-driven decisions tăng lợi nhuận", keywords: ["phân tích dữ liệu vending", "data vending machine", "tối ưu hóa vending AI"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-quan-ly", topic: "Bảo trì và vệ sinh máy bán hàng tự động: Lịch và quy trình chuẩn", keywords: ["bảo trì vending machine", "vệ sinh máy bán hàng", "quy trình bảo dưỡng vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Máy bán hàng tự động cho sự kiện: Festival, triển lãm và hội nghị", keywords: ["vending machine sự kiện", "máy bán hàng festival", "vending triển lãm"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Micro market không nhân viên: Mô hình vượt trội hơn vending machine truyền thống", keywords: ["micro market", "cửa hàng mini không nhân viên", "micro market việt nam"] },
+  { silo: "may-ban-hang-tu-dong", sub: "may-ban-dac-biet", topic: "Máy bán vé tự động: Hệ thống ticketing thông minh cho giao thông công cộng", keywords: ["máy bán vé tự động", "ticketing machine", "vé giao thông công cộng tự động"] },
+  // --- GIAI PHAP MO RONG ---
+  { silo: "giai-phap-kinh-doanh", sub: "giai-phap-nha-o", topic: "Smart building và locker thông minh: Tích hợp hệ thống tòa nhà thế hệ mới", keywords: ["smart building locker", "tòa nhà thông minh locker", "hệ thống building automation"] },
+  { silo: "giai-phap-kinh-doanh", sub: "giai-phap-nha-o", topic: "PropTech và locker thông minh: Xu hướng công nghệ bất động sản 2026", keywords: ["PropTech locker", "công nghệ bất động sản", "smart property locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "giai-phap-nha-o", topic: "Chung cư thông minh toàn diện: Từ locker đến quản lý tiện ích tự động", keywords: ["chung cư thông minh", "smart condo", "quản lý chung cư tự động"] },
+  { silo: "giai-phap-kinh-doanh", sub: "giai-phap-do-thi", topic: "Đô thị thông minh và hệ thống locker công cộng: Kinh nghiệm từ Singapore", keywords: ["đô thị thông minh locker", "locker công cộng", "Singapore smart city locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "giai-phap-do-thi", topic: "Hạ tầng giao nhận thông minh cho thành phố: Locker + drone + robot delivery", keywords: ["hạ tầng giao nhận thông minh", "drone delivery locker", "robot giao hàng locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "xu-huong", topic: "Green locker: Tủ locker bền vững và thân thiện môi trường 2026", keywords: ["green locker", "locker bền vững", "tủ locker thân thiện môi trường"] },
+  { silo: "giai-phap-kinh-doanh", sub: "xu-huong", topic: "Locker với năng lượng tái tạo: Xu hướng ESG trong công nghệ tự động hóa", keywords: ["locker năng lượng tái tạo", "ESG locker", "locker xanh bền vững"] },
+  { silo: "giai-phap-kinh-doanh", sub: "xu-huong", topic: "Blockchain và tủ locker thông minh: Truy xuất nguồn gốc và bảo mật phi tập trung", keywords: ["blockchain locker", "tủ locker blockchain", "decentralized locker security"] },
+  // --- LOCKER NGANH NICHE ---
+  { silo: "tu-locker-thong-minh", sub: "nganh-niche", topic: "Locker cho salon tóc và nail: Quản lý công cụ và bảo vệ đồ khách", keywords: ["locker salon", "tủ locker nail", "quản lý công cụ làm đẹp"] },
+  { silo: "tu-locker-thong-minh", sub: "nganh-niche", topic: "Locker nhà kho lưu trữ tự phục vụ (self-storage): Mô hình kinh doanh tiềm năng", keywords: ["self storage locker", "kho lưu trữ tự phục vụ", "locker self storage việt nam"] },
+  { silo: "tu-locker-thong-minh", sub: "nganh-niche", topic: "Locker nhà thuốc tự động: Phát thuốc ngoài giờ hành chính an toàn", keywords: ["locker nhà thuốc", "phát thuốc tự động", "locker dược phẩm ngoài giờ"] },
+  { silo: "tu-locker-thong-minh", sub: "nganh-niche", topic: "Locker cho studio chụp ảnh và làm phim: Bảo quản thiết bị đắt tiền", keywords: ["locker studio chụp ảnh", "locker thiết bị quay phim", "bảo quản máy ảnh locker"] },
+  { silo: "tu-locker-thong-minh", sub: "nganh-niche", topic: "Locker thú cưng (pet): Gửi thú cưng tạm thời tại trung tâm thương mại", keywords: ["locker thú cưng", "pet locker", "gửi thú cưng trung tâm thương mại"] },
+  // --- SO SANH VA REVIEW ---
+  { silo: "tu-locker-thong-minh", sub: "review-so-sanh", topic: "So sánh tủ locker 4 cửa vs 6 cửa vs 12 cửa: Nên chọn gì cho nhu cầu của bạn?", keywords: ["so sánh locker ngăn", "chọn locker bao nhiêu ngăn", "tư vấn mua locker"] },
+  { silo: "tu-locker-thong-minh", sub: "review-so-sanh", topic: "Locker thông minh loại nào bền nhất 2026? Test thực tế 10 thương hiệu", keywords: ["locker bền nhất", "test locker thực tế", "chất lượng locker review"] },
+  { silo: "tu-locker-thong-minh", sub: "review-so-sanh", topic: "Review tủ locker điện tử: Sau 1 năm sử dụng tại chung cư thực tế", keywords: ["review locker sau 1 năm", "đánh giá locker thực tế", "trải nghiệm dùng locker"] },
+  // --- MAY BAN HANG THEO DIA LY ---
+  { silo: "may-ban-hang-tu-dong", sub: "thi-truong-viet-nam", topic: "Thị trường máy bán hàng tự động Việt Nam 2026: Quy mô và cơ hội đầu tư", keywords: ["thị trường vending việt nam", "cơ hội đầu tư vending", "ngành vending việt nam"] },
+  { silo: "may-ban-hang-tu-dong", sub: "thi-truong-viet-nam", topic: "Máy bán hàng tự động tại TP.HCM: Địa điểm hot và điểm giao hàng tiềm năng", keywords: ["vending machine TP HCM", "máy bán hàng Sài Gòn", "địa điểm vending TP HCM"] },
+  { silo: "may-ban-hang-tu-dong", sub: "thi-truong-viet-nam", topic: "Máy bán hàng tự động Hà Nội: Những địa điểm sinh lời nhất 2026", keywords: ["vending machine Hà Nội", "máy bán hàng tự động thủ đô", "địa điểm vending Hà Nội"] },
+  { silo: "may-ban-hang-tu-dong", sub: "thi-truong-viet-nam", topic: "Quy định pháp lý về máy bán hàng tự động tại Việt Nam: Giấy phép cần thiết", keywords: ["quy định vending việt nam", "giấy phép máy bán hàng", "pháp lý vending machine"] },
+  // --- TU LOCKER THEO TINH NANG ---
+  { silo: "tu-locker-thong-minh", sub: "tinh-nang-locker", topic: "Locker thông báo SMS khi nhận hàng: Tính năng thiết yếu cho chung cư", keywords: ["locker thông báo SMS", "locker nhận hàng thông báo", "SMS notification locker"] },
+  { silo: "tu-locker-thong-minh", sub: "tinh-nang-locker", topic: "Locker đếm giờ và tính phí tự động: Giải pháp thu phí gửi đồ thông minh", keywords: ["locker tính phí tự động", "locker đếm giờ", "thu phí gửi đồ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "tinh-nang-locker", topic: "Locker đa ngôn ngữ: Giao diện tiếng Anh và tiếng Việt cho người nước ngoài", keywords: ["locker đa ngôn ngữ", "locker English interface", "locker người nước ngoài"] },
+  { silo: "tu-locker-thong-minh", sub: "tinh-nang-locker", topic: "Locker tích hợp màn hình quảng cáo: Biến tủ locker thành kênh marketing", keywords: ["locker màn hình quảng cáo", "digital signage locker", "quảng cáo trên tủ locker"] },
+  { silo: "tu-locker-thong-minh", sub: "tinh-nang-locker", topic: "Locker có điều hòa nhiệt độ: Bảo quản thực phẩm tươi và thực phẩm nhiệt độ nhạy cảm", keywords: ["locker điều hòa nhiệt độ", "cold locker", "locker bảo quản thực phẩm"] },
+  // --- GIAI PHAP DOANH NGHIEP ---
+  { silo: "giai-phap-kinh-doanh", sub: "doanh-nghiep", topic: "Enterprise locker solution: Triển khai hệ thống locker cho tập đoàn lớn", keywords: ["enterprise locker", "hệ thống locker tập đoàn", "corporate locker solution"] },
+  { silo: "giai-phap-kinh-doanh", sub: "doanh-nghiep", topic: "SLA và hỗ trợ kỹ thuật locker: Những điều phải có trong hợp đồng", keywords: ["SLA locker", "hỗ trợ kỹ thuật locker", "hợp đồng bảo trì locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "doanh-nghiep", topic: "Pilot triển khai locker thông minh: 5 bước từ thử nghiệm đến mở rộng quy mô", keywords: ["pilot locker", "triển khai thử nghiệm locker", "mở rộng quy mô locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "doanh-nghiep", topic: "ROI tủ locker thông minh: Công thức tính và case study thực tế tại Việt Nam", keywords: ["ROI locker thông minh", "tính toán lợi nhuận locker", "case study locker việt nam"] },
+  { silo: "giai-phap-kinh-doanh", sub: "doanh-nghiep", topic: "Tender specification cho tủ locker thông minh: Tiêu chí đánh giá nhà thầu", keywords: ["tender locker", "đấu thầu locker", "tiêu chí đánh giá nhà cung cấp locker"] },
+  // --- CAC BAI VIET THEM ---
+  { silo: "tu-locker-thong-minh", sub: "luat-phap", topic: "Quy định PCCC cho phòng chứa tủ locker: Tiêu chuẩn Việt Nam 2026", keywords: ["PCCC locker", "quy định phòng cháy locker", "tiêu chuẩn lắp đặt locker"] },
+  { silo: "tu-locker-thong-minh", sub: "luat-phap", topic: "Bảo hiểm tài sản trong tủ locker: Trách nhiệm pháp lý của người vận hành", keywords: ["bảo hiểm locker", "trách nhiệm pháp lý locker", "bồi thường mất đồ locker"] },
+  { silo: "may-ban-hang-tu-dong", sub: "ky-thuat", topic: "Cơ chế phân phối hàng hóa máy vending: Spiral coil vs elevator vs belt", keywords: ["cơ chế vending machine", "spiral coil vending", "phân phối hàng vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "ky-thuat", topic: "Cảm biến nhiệt độ và độ ẩm trong máy bán hàng: Đảm bảo chất lượng hàng hóa", keywords: ["cảm biến nhiệt độ vending", "độ ẩm máy bán hàng", "chất lượng hàng hóa vending"] },
+  { silo: "may-ban-hang-tu-dong", sub: "ky-thuat", topic: "Máy bán hàng tự động chống kẹt hàng: Công nghệ anti-jam hiện đại nhất 2026", keywords: ["máy vending kẹt hàng", "anti-jam vending", "chống kẹt máy bán hàng"] },
+  { silo: "tu-locker-thong-minh", sub: "xu-huong-2026", topic: "Xu hướng locker thông minh 2026-2030: Công nghệ nào sẽ thống trị thị trường?", keywords: ["xu hướng locker 2026", "tương lai locker thông minh", "công nghệ locker mới nhất"] },
+  { silo: "tu-locker-thong-minh", sub: "xu-huong-2026", topic: "Metaverse và locker thông minh: Kết hợp thực-ảo trong trải nghiệm nhận hàng", keywords: ["metaverse locker", "AR locker", "trải nghiệm nhận hàng tương lai"] },
+  { silo: "tu-locker-thong-minh", sub: "xu-huong-2026", topic: "5G và tủ locker thông minh: Kết nối tốc độ cao cho real-time monitoring", keywords: ["5G locker", "locker kết nối 5G", "real-time monitoring locker"] },
+  { silo: "giai-phap-kinh-doanh", sub: "so-sanh-quoc-te", topic: "Thị trường locker thông minh Đông Nam Á: Việt Nam đứng ở đâu so với Thailand và Indonesia?", keywords: ["thị trường locker SEA", "locker đông nam á", "việt nam locker so sánh"] },
+  { silo: "giai-phap-kinh-doanh", sub: "so-sanh-quoc-te", topic: "Bài học từ Nhật Bản: Coin locker và văn hóa tự phục vụ 60 năm tiến hóa", keywords: ["locker nhật bản", "coin locker nhật", "văn hóa tự phục vụ nhật bản"] },
+  { silo: "giai-phap-kinh-doanh", sub: "so-sanh-quoc-te", topic: "Locker thông minh tại Trung Quốc: Hệ sinh thái giao nhận tỉ đô của Cainiao và JD", keywords: ["locker trung quốc", "Cainiao locker", "JD.com locker ecosystem"] },
+];
+
+const enriched = newTopics.map((t, i) => ({
+  id: lastId + i + 1,
+  silo: t.silo,
+  sub: t.sub,
+  topic: t.topic,
+  keywords: t.keywords,
+  status: "pending",
+}));
+
+const updated = [...cal, ...enriched];
+writeFileSync("scripts/content-calendar.json", JSON.stringify(updated, null, 2), "utf8");
+console.log(`Added ${enriched.length} topics. Total: ${updated.length}. IDs ${lastId + 1}–${lastId + enriched.length}`);
