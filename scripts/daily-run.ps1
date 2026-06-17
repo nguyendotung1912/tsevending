@@ -6,6 +6,8 @@ $RepoPath = "d:\vba\tsevending"
 $LogFile  = "$RepoPath\scripts\daily-run.log"
 $LockFile = "$RepoPath\scripts\daily-run.lock"
 $EnvFile  = "$RepoPath\scripts\.env.local"
+$env:VERCEL_ORG_ID     = "team_bFFLK2gWekhRhASuGWhsNypg"
+$env:VERCEL_PROJECT_ID = "prj_rsaZzFTCOhBVkOoWcJXHdvwOAweG"
 
 # Only run once per calendar day
 $Today = (Get-Date).ToString("yyyy-MM-dd")
@@ -65,6 +67,12 @@ if ($Changed) {
 } else {
     Write-Output "Nothing new to commit."
 }
+
+# Deploy to Vercel
+Write-Output "Deploying to Vercel..."
+Set-Location $RepoPath
+npx vercel --prod --yes --token $env:VERCEL_TOKEN
+Write-Output "Deployed."
 
 $Today | Out-File $LockFile -Encoding utf8 -Force
 Write-Output "=== Done ==="
