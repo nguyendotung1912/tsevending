@@ -192,9 +192,23 @@ async function main() {
     return;
   }
 
-  // How many to generate this run (env var or default 2)
-  const count = Math.min(parseInt(process.env.ARTICLES_PER_RUN || "2"), pending.length);
-  const toGenerate = pending.slice(0, count);
+  // How many to generate this run (env var or default 4)
+  const count = parseInt(process.env.ARTICLES_PER_RUN || "4");
+
+  // Pick 1 vending machine + rest smart locker (ratio enforced per run)
+  const vendingPending = pending.filter((i) => i.silo === "may-ban-hang-tu-dong");
+  const lockerPending = pending.filter((i) => i.silo === "tu-locker-thong-minh");
+  const otherPending = pending.filter(
+    (i) => i.silo !== "may-ban-hang-tu-dong" && i.silo !== "tu-locker-thong-minh"
+  );
+
+  const vendingPick = vendingPending.slice(0, 1);
+  const lockerCount = Math.min(count - vendingPick.length, lockerPending.length);
+  const lockerPick = lockerPending.slice(0, lockerCount);
+  const remaining = count - vendingPick.length - lockerPick.length;
+  const otherPick = otherPending.slice(0, remaining);
+
+  const toGenerate = [...lockerPick, ...vendingPick, ...otherPick].slice(0, count);
 
   console.log(`🚀 Generating ${count} article(s) with Gemini...\n`);
 
