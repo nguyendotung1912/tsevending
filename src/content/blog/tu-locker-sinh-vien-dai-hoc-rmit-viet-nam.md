@@ -3,6 +3,8 @@ title: "Smart locker sinh viên Đại học RMIT Việt Nam: Triển khai thự
 description: "Hệ thống tủ locker thông minh cho sinh viên Đại học RMIT Việt Nam do TSE Vending triển khai — quản lý tài sản không chìa khóa, tích hợp thẻ sinh viên, vận hành 24/7 trong khuôn viên campus."
 date: "2026-11-04"
 silo: "tu-locker-thong-minh"
+sub: "tu-locker-truong-hoc-dai-hoc"
+category: "du-an"
 keywords: ["locker đại học RMIT", "tủ gửi đồ sinh viên RMIT", "smart locker trường đại học", "locker campus đại học quốc tế", "tủ locker sinh viên không chìa khóa"]
 image: "/images/articles/tu-locker-sinh-vien-dai-hoc-rmit-viet-nam.svg"
 imageAlt: "Hệ thống smart locker cho sinh viên Đại học RMIT Việt Nam tích hợp thẻ sinh viên"

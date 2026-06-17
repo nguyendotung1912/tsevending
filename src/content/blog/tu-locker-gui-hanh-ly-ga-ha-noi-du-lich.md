@@ -3,6 +3,8 @@ title: "Tủ gửi đồ thông minh Ga Hà Nội: Giải pháp thu phí tự đ
 description: "Hệ thống tủ locker gửi đồ thông minh thu phí tự động tại Ga Hà Nội — giải pháp tiện lợi cho du khách trong nước và quốc tế. TSE Vending triển khai thực tế, vận hành 24/7."
 date: "2026-11-03"
 silo: "tu-locker-thong-minh"
+sub: "tu-locker-ga-tau"
+category: "du-an"
 keywords: ["tủ gửi đồ ga Hà Nội", "locker gửi hành lý ga tàu", "tủ locker thu phí du lịch", "gửi đồ ga Hà Nội", "smart locker ga tàu Việt Nam"]
 image: "/images/articles/tu-locker-gui-hanh-ly-ga-ha-noi-du-lich.svg"
 imageAlt: "Hệ thống tủ locker gửi đồ thông minh thu phí tự động tại Ga Hà Nội cho du khách"

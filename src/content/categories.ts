@@ -399,6 +399,118 @@ export const SILOS: Silo[] = [
         idealFor: "Bưu cục, sàn TMĐT, khu dân cư cần điểm giao nhận hàng tự động 24/7",
         investmentTier: "Cao",
       },
+      {
+        slug: "tu-locker-truong-hoc-dai-hoc",
+        title: "Tủ locker thông minh trường học, đại học",
+        shortTitle: "Trường học, đại học",
+        metaTitle: "Tủ Locker Thông Minh Cho Trường Học, Đại Học | TSE Vending",
+        metaDescription:
+          "Tủ locker thông minh cho trường học, đại học: học sinh/sinh viên gửi đồ bằng thẻ học sinh RFID, mã QR, không chìa khóa. Quản lý theo khoa, lớp học.",
+        h1: "Tủ Locker Thông Minh Cho Trường Học, Đại Học",
+        intro: [
+          "Tủ locker thông minh trong môi trường giáo dục thay thế hoàn toàn hệ thống tủ chìa khóa cơ truyền thống — học sinh và sinh viên sử dụng thẻ học sinh RFID sẵn có hoặc mã QR để mở tủ, không cần thêm thẻ hay phụ kiện riêng.",
+          "Bộ phận quản lý cơ sở vật chất theo dõi tỷ lệ sử dụng, nhận cảnh báo ô tủ quá hạn và xuất báo cáo theo học kỳ để tối ưu phân bổ locker giữa các khoa, khu giảng đường và ký túc xá.",
+        ],
+        features: [
+          "Tích hợp thẻ học sinh/sinh viên RFID sẵn có — một thẻ đa chức năng",
+          "Phân quyền theo lớp, khoa, học kỳ — tự động thu hồi khi hết hạn",
+          "Giao diện đa ngôn ngữ (Việt/Anh) cho trường quốc tế",
+          "Dashboard quản lý tỷ lệ lấp đầy, cảnh báo ô tủ quá hạn",
+        ],
+        faqs: [
+          {
+            q: "Tủ locker trường học có tự động giải phóng ô sau mỗi buổi học không?",
+            a: "Hệ thống hỗ trợ cấu hình thời hạn sử dụng linh hoạt: theo buổi, theo ngày hoặc cố định theo học kỳ. Admin nhận cảnh báo tự động khi có ô tủ quá hạn.",
+          },
+        ],
+        icon: "🎓",
+        idealFor: "Trường học, đại học cần quản lý locker theo học sinh/học kỳ",
+        investmentTier: "Trung bình",
+      },
+      {
+        slug: "tu-locker-khach-san-resort",
+        title: "Tủ locker thông minh khách sạn, resort",
+        shortTitle: "Khách sạn, resort",
+        metaTitle: "Tủ Locker Thông Minh Cho Khách Sạn, Resort | TSE Vending",
+        metaDescription:
+          "Tủ locker thông minh gửi hành lý tự phục vụ cho khách sạn, resort: khách gửi đồ sau check-out bằng mã OTP, lấy lại bất kỳ lúc nào 24/7.",
+        h1: "Tủ Locker Thông Minh Cho Khách Sạn, Resort",
+        intro: [
+          "Tủ locker thông minh tại khách sạn và resort giải quyết bài toán kinh điển: khách trả phòng lúc 12h nhưng chuyến bay lúc 22h — thay vì gửi hành lý tại quầy lễ tân, khách tự gửi vào ô locker và tự lấy khi cần, không cần nhờ nhân viên.",
+          "Hệ thống hỗ trợ đa ngôn ngữ, tích hợp PMS (Property Management System) và cấp mã OTP cá nhân hóa cho từng lượt gửi đồ, đảm bảo an toàn tuyệt đối.",
+        ],
+        features: [
+          "Khách tự gửi/lấy hành lý sau check-out 24/7 bằng mã OTP",
+          "Tích hợp với PMS khách sạn — cấp quyền tự động khi check-in",
+          "Đa ngôn ngữ: Việt, Anh, Trung — phục vụ khách quốc tế",
+          "Ngăn tủ đa kích thước từ túi xách đến vali 28 inch",
+        ],
+        faqs: [
+          {
+            q: "Tủ locker khách sạn có thể tích hợp với phần mềm quản lý khách sạn không?",
+            a: "TSE Vending hỗ trợ tích hợp API với hầu hết các PMS phổ biến tại Việt Nam. Khi khách check-in, tài khoản locker được kích hoạt tự động — không cần lễ tân thao tác thêm.",
+          },
+        ],
+        icon: "🏨",
+        idealFor: "Khách sạn, resort muốn nâng trải nghiệm dịch vụ lưu hành lý sau check-out",
+        investmentTier: "Trung bình",
+      },
+      {
+        slug: "tu-locker-sieu-thi-banlẻ",
+        title: "Tủ locker gửi đồ siêu thị, trung tâm thương mại",
+        shortTitle: "Siêu thị, TTTM",
+        metaTitle: "Tủ Gửi Đồ Thông Minh Siêu Thị, Trung Tâm Thương Mại | TSE Vending",
+        metaDescription:
+          "Tủ gửi đồ thông minh tự phục vụ cho siêu thị, trung tâm thương mại: khách hàng gửi đồ bằng QR/mã PIN trong 30 giây, vận hành không cần nhân viên trực.",
+        h1: "Tủ Gửi Đồ Thông Minh Cho Siêu Thị, Trung Tâm Thương Mại",
+        intro: [
+          "Tủ gửi đồ thông minh tại siêu thị và trung tâm thương mại thay thế hoàn toàn hệ thống tủ khóa cơ và quầy gửi đồ truyền thống — khách hàng hoàn tất giao dịch trong dưới 30 giây và tự lấy đồ khi ra về bằng QR hoặc mã PIN, không xếp hàng, không chờ nhân viên.",
+          "Ban quản lý siêu thị truy cập dashboard xem tỷ lệ lấp đầy, doanh thu phí gửi đồ và lịch sử giao dịch theo thời gian thực — đồng bộ toàn chuỗi chi nhánh trên một giao diện duy nhất.",
+        ],
+        features: [
+          "Khách gửi đồ tự phục vụ trong dưới 30 giây, không cần nhân viên",
+          "Tùy chọn miễn phí hoặc thu phí theo giờ, thanh toán QR tự động",
+          "Dashboard quản lý toàn chuỗi siêu thị theo thời gian thực",
+          "Lịch sử giao dịch đầy đủ, giảm tranh chấp mất đồ",
+        ],
+        faqs: [
+          {
+            q: "Tủ gửi đồ siêu thị có thể đặt cấu hình thu phí không?",
+            a: "Hoàn toàn có. Hệ thống hỗ trợ miễn phí hoàn toàn, miễn phí X giờ đầu rồi thu phí, hoặc thu phí theo giờ ngay từ đầu. Khách thanh toán qua QR (MoMo, ZaloPay, VietQR) trực tiếp tại màn hình tủ.",
+          },
+        ],
+        icon: "🛒",
+        idealFor: "Siêu thị, trung tâm thương mại cần giải pháp gửi đồ tự phục vụ đông khách",
+        investmentTier: "Trung bình",
+      },
+      {
+        slug: "tu-locker-benh-vien-y-te",
+        title: "Tủ locker thông minh bệnh viện, cơ sở y tế",
+        shortTitle: "Bệnh viện, y tế",
+        metaTitle: "Tủ Locker Thông Minh Cho Bệnh Viện, Cơ Sở Y Tế | TSE Vending",
+        metaDescription:
+          "Tủ locker thông minh cho bệnh viện: bảo quản đồ cá nhân bệnh nhân, nhân viên y tế. Chất liệu chống khuẩn, mở khóa không chạm, quản lý theo ca trực.",
+        h1: "Tủ Locker Thông Minh Cho Bệnh Viện, Cơ Sở Y Tế",
+        intro: [
+          "Trong môi trường bệnh viện, tủ locker thông minh phục vụ hai nhóm người dùng riêng biệt: bệnh nhân nội trú cần bảo quản đồ cá nhân trong suốt thời gian điều trị, và nhân viên y tế làm ca luân phiên cần lưu trữ tài sản cá nhân và trang thiết bị y tế không mang theo khi vào phòng vô trùng.",
+          "Tủ locker cho bệnh viện được thiết kế với chất liệu bề mặt kháng khuẩn, hỗ trợ mở khóa không chạm (QR/vân tay) và quản lý phân quyền theo ca trực, khoa phòng.",
+        ],
+        features: [
+          "Chất liệu bề mặt kháng khuẩn, dễ vệ sinh theo tiêu chuẩn y tế",
+          "Mở khóa không chạm: QR, vân tay — giảm nguy cơ lây nhiễm chéo",
+          "Phân quyền theo ca trực, khoa phòng — tự động reset sau mỗi ca",
+          "Ngăn tủ khóa đôi cho thiết bị y tế giá trị cao",
+        ],
+        faqs: [
+          {
+            q: "Tủ locker bệnh viện có thể dùng chung cho cả bệnh nhân và nhân viên y tế không?",
+            a: "Hệ thống cho phép phân vùng tủ theo nhóm người dùng: khu vực dành riêng cho bệnh nhân (theo khoa/phòng), khu vực nhân viên y tế (theo ca trực, bộ phận). Mỗi nhóm có cấu hình thời hạn và quyền truy cập riêng biệt.",
+          },
+        ],
+        icon: "🏥",
+        idealFor: "Bệnh viện, phòng khám, cơ sở y tế cần locker kháng khuẩn cho bệnh nhân và nhân viên",
+        investmentTier: "Cao",
+      },
     ],
   },
 ];

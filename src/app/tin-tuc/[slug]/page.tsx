@@ -4,7 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { buildMetadata, articleJsonLd, faqJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
-import { getAllPostSlugs, getPostBySlug, getRelatedPosts } from "@/lib/content";
+import { getAllPostSlugs, getPostBySlug, getRelatedPosts, CATEGORY_META } from "@/lib/content";
 import { getSiloBySlug, getSubcategory } from "@/content/categories";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
@@ -99,6 +99,19 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           </article>
 
           <aside className="space-y-4">
+            {post.category && (
+              <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5">
+                <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-400 mb-3">
+                  Loại bài viết
+                </h2>
+                <Link
+                  href={`/tin-tuc/${post.category}`}
+                  className={`inline-flex rounded-full px-3 py-1.5 text-sm font-bold ${CATEGORY_META[post.category].bg} ${CATEGORY_META[post.category].color} hover:opacity-80`}
+                >
+                  {CATEGORY_META[post.category].label}
+                </Link>
+              </div>
+            )}
             {silo && (
               <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5">
                 <h2 className="text-sm font-semibold uppercase tracking-wide text-accent-600">

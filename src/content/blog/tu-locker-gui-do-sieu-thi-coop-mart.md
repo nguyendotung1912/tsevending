@@ -3,6 +3,8 @@ title: "Tủ gửi đồ thông minh Co.opmart: Trải nghiệm mua sắm không
 description: "Hệ thống tủ locker gửi đồ thông minh tại siêu thị Co.opmart do TSE Vending triển khai — khách hàng gửi đồ tự phục vụ, nhận mã QR tức thì, vận hành không cần nhân viên trực."
 date: "2026-11-05"
 silo: "tu-locker-thong-minh"
+sub: "tu-locker-sieu-thi-banlẻ"
+category: "du-an"
 keywords: ["tủ gửi đồ Co.opmart", "locker siêu thị thông minh", "gửi đồ siêu thị tự động", "tủ locker bán lẻ", "smart locker siêu thị Việt Nam"]
 image: "/images/articles/tu-locker-gui-do-sieu-thi-coop-mart.svg"
 imageAlt: "Hệ thống tủ locker gửi đồ thông minh tự phục vụ tại siêu thị Co.opmart Việt Nam"

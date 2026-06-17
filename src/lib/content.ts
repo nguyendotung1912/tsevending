@@ -7,12 +7,24 @@ import remarkHtml from "remark-html";
 
 const BLOG_DIR = path.join(process.cwd(), "src", "content", "blog");
 
+export type ArticleCategory = "du-an" | "huong-dan" | "xu-huong" | "so-sanh" | "kien-thuc" | "tin-tuc";
+
+export const CATEGORY_META: Record<ArticleCategory, { label: string; color: string; bg: string }> = {
+  "du-an":     { label: "Dự án",     color: "text-orange-700", bg: "bg-orange-50" },
+  "huong-dan": { label: "Hướng dẫn", color: "text-green-700",  bg: "bg-green-50" },
+  "xu-huong":  { label: "Xu hướng",  color: "text-purple-700", bg: "bg-purple-50" },
+  "so-sanh":   { label: "So sánh",   color: "text-blue-700",   bg: "bg-blue-50" },
+  "kien-thuc": { label: "Kiến thức", color: "text-slate-700",  bg: "bg-slate-100" },
+  "tin-tuc":   { label: "Tin tức",   color: "text-red-700",    bg: "bg-red-50" },
+};
+
 export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
   silo: string;
   sub?: string;
+  category?: ArticleCategory;
   keywords?: string[];
   image?: string;
   imageAlt?: string;
@@ -67,6 +79,10 @@ export function getPostsBySilo(siloSlug: string, subSlug?: string): BlogPostMeta
   });
 }
 
+export function getPostsByCategory(category: ArticleCategory): BlogPostMeta[] {
+  return getAllPostsMeta().filter((post) => post.category === category);
+}
+
 export function getAllPostSlugs(): string[] {
   return readSlugs();
 }
@@ -84,6 +100,7 @@ export function getRelatedPosts(currentSlug: string, limit = 3): BlogPostMeta[] 
       let score = 0;
       if (current.sub && post.sub === current.sub) score += 3;
       else if (post.silo === current.silo) score += 2;
+      if (current.category && post.category === current.category) score += 1;
       const sharedKeywords = (post.keywords ?? []).filter((kw) =>
         (current.keywords ?? []).includes(kw)
       ).length;

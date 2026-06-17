@@ -1,12 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { BlogPostMeta } from "@/lib/content";
-
-const SILO_COLORS: Record<string, string> = {
-  "may-ban-hang-tu-dong": "bg-blue-50 text-blue-700",
-  "tu-locker-thong-minh": "bg-teal-50 text-teal-700",
-  "giai-phap-kinh-doanh": "bg-green-50 text-green-700",
-};
+import { CATEGORY_META } from "@/lib/content";
 
 const SILO_LABELS: Record<string, string> = {
   "may-ban-hang-tu-dong": "Máy bán hàng",
@@ -21,15 +16,14 @@ export default function ArticleCard({ post }: { post: BlogPostMeta }) {
     day: "2-digit",
   });
 
-  const badgeClass = SILO_COLORS[post.silo] ?? "bg-slate-100 text-slate-600";
-  const badgeLabel = SILO_LABELS[post.silo] ?? post.silo;
+  const catMeta = post.category ? CATEGORY_META[post.category] : null;
+  const siloLabel = SILO_LABELS[post.silo] ?? post.silo;
 
   return (
     <Link
       href={`/tin-tuc/${post.slug}`}
       className="group flex flex-col rounded-2xl border border-slate-200 bg-white overflow-hidden transition-all hover:-translate-y-1 hover:shadow-md"
     >
-      {/* Thumbnail */}
       {post.image ? (
         <div className="relative w-full h-40 overflow-hidden bg-slate-100">
           <Image
@@ -47,10 +41,16 @@ export default function ArticleCard({ post }: { post: BlogPostMeta }) {
       )}
 
       <div className="flex flex-col flex-1 p-5">
-        <div className="flex items-center gap-2 mb-2">
-          <span className={`rounded-full px-2 py-0.5 text-xs font-semibold ${badgeClass}`}>
-            {badgeLabel}
-          </span>
+        <div className="flex items-center gap-2 mb-2 flex-wrap">
+          {catMeta ? (
+            <span className={`rounded-full px-2 py-0.5 text-xs font-semibold ${catMeta.bg} ${catMeta.color}`}>
+              {catMeta.label}
+            </span>
+          ) : (
+            <span className="rounded-full px-2 py-0.5 text-xs font-semibold bg-teal-50 text-teal-700">
+              {siloLabel}
+            </span>
+          )}
           <span className="text-xs text-slate-400">{date}</span>
         </div>
         <h3 className="text-base font-bold text-slate-900 leading-snug group-hover:text-brand-700 line-clamp-2">

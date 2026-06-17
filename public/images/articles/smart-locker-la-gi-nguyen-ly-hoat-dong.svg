@@ -1,0 +1,43 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#334155"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="100" r="220" fill="#1e293b" opacity="0.6"/>
+  <!-- Locker diagram - 4 layers -->
+  <rect x="680" y="100" width="460" height="400" rx="16" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+  <!-- Layer 1 -->
+  <rect x="700" y="120" width="420" height="70" rx="8" fill="#0f172a"/>
+  <text x="720" y="153" font-family="Arial,sans-serif" font-size="14" fill="#94a3b8">Lớp 1</text>
+  <text x="800" y="160" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">Phần cứng cơ học</text>
+  <!-- Layer 2 -->
+  <rect x="700" y="205" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="720" y="238" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 2</text>
+  <text x="800" y="245" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Module xác thực</text>
+  <!-- Layer 3 -->
+  <rect x="700" y="290" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="720" y="323" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 3</text>
+  <text x="800" y="330" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Bo điều khiển</text>
+  <!-- Layer 4 -->
+  <rect x="700" y="375" width="420" height="70" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="720" y="408" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Lớp 4</text>
+  <text x="800" y="415" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#94a3b8">Phần mềm quản lý</text>
+  <!-- Connection arrows -->
+  <line x1="910" y1="190" x2="910" y2="205" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="910" y1="275" x2="910" y2="290" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="910" y1="360" x2="910" y2="375" stroke="#475569" stroke-width="2" stroke-dasharray="4,2"/>
+  <!-- Left content -->
+  <text x="115" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#94a3b8" letter-spacing="3">KIẾN THỨC CƠ BẢN</text>
+  <text x="115" y="148" font-family="Arial,sans-serif" font-size="56" font-weight="900" fill="#ffffff">Smart Locker</text>
+  <text x="115" y="208" font-family="Arial,sans-serif" font-size="40" font-weight="900" fill="#94a3b8">là gì?</text>
+  <text x="115" y="280" font-family="Arial,sans-serif" font-size="22" fill="#64748b">Nguyên lý hoạt động</text>
+  <text x="115" y="310" font-family="Arial,sans-serif" font-size="22" fill="#64748b">&amp; khác biệt cốt lõi</text>
+  <text x="115" y="350" font-family="Arial,sans-serif" font-size="22" fill="#64748b">với locker cơ khí</text>
+  <!-- Branding -->
+  <rect x="115" y="490" width="260" height="50" rx="25" fill="#334155"/>
+  <text x="245" y="523" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#e2e8f0" text-anchor="middle">TSE VENDING</text>
+  <text x="115" y="598" font-family="Arial,sans-serif" font-size="16" fill="#64748b">tsevending.com</text>
+</svg>

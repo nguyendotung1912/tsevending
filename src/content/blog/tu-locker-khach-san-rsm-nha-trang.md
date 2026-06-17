@@ -3,6 +3,8 @@ title: "Tủ locker thông minh khách sạn RSM Nha Trang: Gửi hành lý 24/7
 description: "Khách sạn RSM Nha Trang triển khai hệ thống tủ locker thông minh TSE Vending — khách gửi hành lý tự phục vụ sau giờ trả phòng, lễ tân giảm tải, trải nghiệm 5 sao không chờ đợi."
 date: "2026-11-06"
 silo: "tu-locker-thong-minh"
+sub: "tu-locker-khach-san-resort"
+category: "du-an"
 keywords: ["locker khách sạn Nha Trang", "tủ gửi hành lý khách sạn", "smart locker hotel", "gửi đồ sau check-out khách sạn", "locker khách sạn RSM"]
 image: "/images/articles/tu-locker-khach-san-rsm-nha-trang.svg"
 imageAlt: "Tủ locker thông minh gửi hành lý tự phục vụ tại khách sạn RSM Nha Trang"

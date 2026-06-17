@@ -1,0 +1,43 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="80" r="200" fill="#6d28d9" opacity="0.4"/>
+  <circle cx="150" cy="550" r="180" fill="#5b21b6" opacity="0.3"/>
+  <!-- Trend chart bars -->
+  <rect x="700" y="340" width="60" height="120" rx="8" fill="url(#accent)" opacity="0.8"/>
+  <rect x="780" y="290" width="60" height="170" rx="8" fill="url(#accent)" opacity="0.85"/>
+  <rect x="860" y="230" width="60" height="230" rx="8" fill="url(#accent)" opacity="0.9"/>
+  <rect x="940" y="160" width="60" height="300" rx="8" fill="#c4b5fd"/>
+  <rect x="1020" y="100" width="60" height="360" rx="8" fill="#ddd6fe"/>
+  <!-- Trend line -->
+  <polyline points="730,330 810,280 890,220 970,150 1050,90" stroke="#f5f3ff" stroke-width="3" fill="none" stroke-linecap="round" stroke-dasharray="8,4"/>
+  <!-- Arrow up -->
+  <text x="1060" y="80" font-size="36" fill="#f5f3ff">↑</text>
+  <!-- Category labels -->
+  <text x="115" y="70" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#c4b5fd" letter-spacing="3">XU HƯỚNG THỊ TRƯỜNG</text>
+  <text x="115" y="140" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#ffffff" xml:space="preserve">Smart Locker</text>
+  <text x="115" y="210" font-family="Arial,sans-serif" font-size="58" font-weight="900" fill="#ddd6fe" xml:space="preserve">Việt Nam 2026</text>
+  <text x="115" y="290" font-family="Arial,sans-serif" font-size="26" fill="#c4b5fd" xml:space="preserve">5 ngành dẫn đầu triển khai</text>
+  <!-- Stats -->
+  <rect x="115" y="340" width="200" height="90" rx="12" fill="#ffffff" opacity="0.12"/>
+  <text x="215" y="375" font-family="Arial,sans-serif" font-size="36" font-weight="900" fill="#ffffff" text-anchor="middle">35%</text>
+  <text x="215" y="410" font-family="Arial,sans-serif" font-size="15" fill="#ddd6fe" text-anchor="middle">Tăng trưởng/năm</text>
+  <rect x="340" y="340" width="200" height="90" rx="12" fill="#ffffff" opacity="0.12"/>
+  <text x="440" y="375" font-family="Arial,sans-serif" font-size="36" font-weight="900" fill="#ffffff" text-anchor="middle">1.500</text>
+  <text x="440" y="410" font-family="Arial,sans-serif" font-size="15" fill="#ddd6fe" text-anchor="middle">Tỷ đồng vào 2028</text>
+  <!-- Branding -->
+  <rect x="115" y="480" width="260" height="50" rx="25" fill="#c4b5fd"/>
+  <text x="245" y="513" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#4c1d95" text-anchor="middle">TSE VENDING</text>
+  <text x="115" y="590" font-family="Arial,sans-serif" font-size="16" fill="#a78bfa">tsevending.com</text>
+</svg>
