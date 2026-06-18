@@ -1,0 +1,58 @@
+{
+  "name_vi": "TSE Vending",
+  "name_en": "TSE Vending",
+  "legal_name_vi": "Công ty Cổ phần Công nghệ TSE",
+  "legal_name_en": "TSE Technology Joint Stock Company",
+  "website": "https://tsevending.com",
+  "phone": "0837375757",
+  "phone_intl": "+84837375757",
+  "email": "info@tsevending.com",
+  "founded": "2014",
+  "address": {
+    "street_vi": "66/2 Đường Tân Thới Nhất 05, Phường Tân Thới Nhất, Quận 12",
+    "street_en": "66/2 Tan Thoi Nhat 05 Street, Tan Thoi Nhat Ward, District 12",
+    "city_vi": "TP. Hồ Chí Minh",
+    "city_en": "Ho Chi Minh City",
+    "province": "Ho Chi Minh",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "postal_code": "700000",
+    "lat": 10.867,
+    "lng": 106.629
+  },
+  "description_short_vi": "Nhà sản xuất & cung cấp máy bán hàng tự động và tủ locker thông minh hàng đầu Việt Nam.",
+  "description_short_en": "Vietnam's leading manufacturer and provider of vending machines and smart locker systems.",
+  "description_long_vi": "TSE Vending (Công ty Cổ phần Công nghệ TSE) chuyên sản xuất, cung cấp và vận hành máy bán hàng tự động & tủ locker thông minh tại Việt Nam từ năm 2014. Chúng tôi cung cấp giải pháp trọn gói: thiết kế, lắp đặt, vận hành và bảo trì cho doanh nghiệp, chung cư, trường học, bệnh viện và khu công nghiệp. Khu vực phục vụ: TP. HCM, Hà Nội, Đà Nẵng, Bình Dương và toàn quốc.",
+  "description_long_en": "Founded in 2014 in Ho Chi Minh City, TSE Vending (TSE Technology JSC) is one of Vietnam's pioneering manufacturers and operators of vending machines and smart locker systems. We provide end-to-end solutions including design, installation, operation, and maintenance for enterprises, residential complexes, schools, hospitals, and industrial zones. Service areas: Ho Chi Minh City, Hanoi, Da Nang, Binh Duong, and nationwide.",
+  "categories": {
+    "vi": ["Máy bán hàng tự động", "Tủ locker thông minh", "Thiết bị bán lẻ tự động", "IoT", "Giải pháp thanh toán không tiền mặt"],
+    "en": ["Vending Machine", "Smart Locker", "Automated Retail", "IoT Devices", "Cashless Payment Solutions"]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/tsevendingmachine/",
+    "facebook_alt": "https://www.facebook.com/vendingmachineVN/"
+  },
+  "known_mentions": [
+    {
+      "site": "dropfoods.com",
+      "url": "https://www.dropfoods.com/en/blog/top-7-most-popular-vending-machines-in-vietnam",
+      "has_link": null,
+      "status": "check_needed",
+      "notes": "Competitor blog, mentions TSE Vending as top company. Check if dofollow link exists."
+    },
+    {
+      "site": "dauthau.asia",
+      "url": "https://dauthau.asia/en/businesslistings/detail/TSE-TECHNOLOGY-JOINT-STOCK-COMPANY-154137/",
+      "has_link": null,
+      "status": "check_needed",
+      "notes": "Government bidding DB. Already has TSE listed. Check if website field links to tsevending.com."
+    },
+    {
+      "site": "linkedin.com",
+      "url": "https://www.linkedin.com/in/tsevending/",
+      "has_link": true,
+      "status": "active",
+      "notes": "Personal profile, not company page. Create official company page."
+    }
+  ]
+}
