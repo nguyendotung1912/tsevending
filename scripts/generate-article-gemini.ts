@@ -9,6 +9,7 @@
  */
 import fs from "fs";
 import path from "path";
+import https from "https";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { getSiloBySlug, getSubcategory, SOLUTIONS_SILO } from "../src/content/categories";
 import { saveArticleImage } from "./generate-svg-image";
@@ -71,7 +72,12 @@ function buildSystemPrompt(item: CalendarItem): string {
 
   const isTopicList = /top\s*\d|review.*model|đánh giá.*model/i.test(item.topic);
 
-  return `Bạn là chuyên gia SEO content writer về máy bán hàng tự động và tủ locker thông minh tại Việt Nam, làm việc cho TSE Vending — công ty sản xuất nội địa từ năm 2014.
+  return `Bạn là Nguyễn Đỗ Tùng — chuyên gia hơn 10 năm kinh nghiệm về máy bán hàng tự động và smart locker, đồng sáng lập TSE Vending từ 2014. Viết bài từ góc nhìn của người trong ngành, dựa trên kinh nghiệm thực tế triển khai hàng trăm dự án.
+
+Yêu cầu E-E-A-T (Google):
+- Chia sẻ insight thực tế từ kinh nghiệm triển khai, không chỉ lý thuyết chung
+- Nếu đề cập số liệu, phải là ước tính thực tế từ kinh nghiệm thị trường VN (không bịa)
+- Thể hiện "Experience" — người từng làm việc này thực sự, biết điều gì thực sự quan trọng
 
 Viết một bài viết chuẩn SEO bằng tiếng Việt hoàn toàn TỰ NHIÊN cho trang tsevending.com.
 
@@ -135,7 +141,8 @@ faqs:
 async function generateArticle(
   genAI: GoogleGenerativeAI,
   item: CalendarItem,
-  date: string
+  date: string,
+  usedPhotoIds: Set<number> = new Set()
 ): Promise<{ slug: string; content: string }> {
   const model = genAI.getGenerativeModel({
     model: process.env.GEMINI_MODEL || "gemini-1.5-flash-latest",
@@ -150,8 +157,25 @@ async function generateArticle(
   const prompt = buildSystemPrompt(item) + `\n\nChủ đề: ${item.topic}\nTừ khóa: ${item.keywords.join(", ")}`;
 
   console.log(`  📝 Generating: "${item.topic}"...`);
-  const result = await model.generateContent(prompt);
-  const raw = result.response.text().trim();
+
+  // Retry up to 3 times on 503 (Gemini overload)
+  let raw = "";
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const result = await model.generateContent(prompt);
+      raw = result.response.text().trim();
+      break;
+    } catch (err: unknown) {
+      const msg = err instanceof Error ? err.message : String(err);
+      if (attempt < 3 && msg.includes("503")) {
+        const wait = attempt * 15000;
+        console.log(`  ⏳ 503 on attempt ${attempt} — retrying in ${wait / 1000}s...`);
+        await new Promise((r) => setTimeout(r, wait));
+      } else {
+        throw err;
+      }
+    }
+  }
 
   // Strip markdown code fences if Gemini wraps in ```
   const stripped = raw
@@ -197,10 +221,11 @@ async function generateArticle(
   let finalContent = withDate;
 
   console.log(`  🖼  Fetching image for "${slug}"...`);
-  const pexels = await fetchPexelsImage(slug, item.silo, item.sub ?? null);
+  const pexels = await fetchPexelsImage(slug, item.silo, item.sub ?? null, usedPhotoIds);
 
   if (pexels) {
     imagePath = pexels.imagePath;
+    usedPhotoIds.add(pexels.photoId);
     // Inject credit into frontmatter after imageAlt line
     finalContent = finalContent
       .replace("PLACEHOLDER_IMAGE", imagePath)
@@ -238,31 +263,34 @@ async function main() {
     return;
   }
 
-  // How many to generate this run (env var or default 4)
-  const count = parseInt(process.env.ARTICLES_PER_RUN || "4");
+  // Daily target: 2 vending + 3 locker (configurable via env)
+  const vendingTarget = parseInt(process.env.VENDING_PER_RUN || "2");
+  const lockerTarget = parseInt(process.env.LOCKER_PER_RUN || "3");
 
-  // Pick 1 vending machine + rest smart locker (ratio enforced per run)
   const vendingPending = pending.filter((i) => i.silo === "may-ban-hang-tu-dong");
   const lockerPending = pending.filter((i) => i.silo === "tu-locker-thong-minh");
   const otherPending = pending.filter(
     (i) => i.silo !== "may-ban-hang-tu-dong" && i.silo !== "tu-locker-thong-minh"
   );
 
-  const vendingPick = vendingPending.slice(0, 1);
-  const lockerCount = Math.min(count - vendingPick.length, lockerPending.length);
-  const lockerPick = lockerPending.slice(0, lockerCount);
-  const remaining = count - vendingPick.length - lockerPick.length;
-  const otherPick = otherPending.slice(0, remaining);
+  const vendingPick = vendingPending.slice(0, vendingTarget);
+  const lockerPick = lockerPending.slice(0, lockerTarget);
+  const totalSoFar = vendingPick.length + lockerPick.length;
+  const otherPick = otherPending.slice(0, Math.max(0, 5 - totalSoFar));
 
-  const toGenerate = [...lockerPick, ...vendingPick, ...otherPick].slice(0, count);
+  // locker first (higher priority keyword), then vending, then other
+  const toGenerate = [...lockerPick, ...vendingPick, ...otherPick];
+  const count = toGenerate.length;
 
-  console.log(`🚀 Generating ${count} article(s) with Gemini...\n`);
+  console.log(`🚀 Generating ${count} article(s): ${lockerPick.length} locker + ${vendingPick.length} vending\n`);
 
   let date = startIsoDate();
+  // Shared set to prevent image reuse across articles in this run
+  const usedPhotoIds = new Set<number>();
 
   for (const item of toGenerate) {
     try {
-      const { slug, content } = await generateArticle(genAI, item, date);
+      const { slug, content } = await generateArticle(genAI, item, date, usedPhotoIds);
 
       // Write article
       const filePath = path.join(BLOG_DIR, `${slug}.md`);
@@ -292,7 +320,18 @@ async function main() {
   // Save updated calendar
   fs.writeFileSync(CALENDAR_PATH, JSON.stringify(calendar, null, 2), "utf8");
   console.log("\n📅 Content calendar updated.");
-  console.log(`✅ Done. Generated ${count} article(s).`);
+  console.log(`✅ Done. ${toGenerate.length} queued → ${usedPhotoIds.size} unique Pexels photos used.`);
+
+  // Ping Google to re-crawl sitemap immediately
+  if (usedPhotoIds.size > 0) {
+    const sitemapUrl = "https://tsevending.com/sitemap.xml";
+    const pingUrl = `https://www.google.com/ping?sitemap=${encodeURIComponent(sitemapUrl)}`;
+    https.get(pingUrl, (res) => {
+      console.log(`🔔 Pinged Google sitemap: HTTP ${res.statusCode}`);
+    }).on("error", () => {
+      // Non-fatal — Google will re-crawl on its own schedule
+    });
+  }
 }
 
 main().catch((err) => {

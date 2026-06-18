@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { buildMetadata, articleJsonLd, faqJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
+import { mainAuthor } from "@/content/authors";
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts, CATEGORY_META } from "@/lib/content";
 import { getSiloBySlug, getSubcategory } from "@/content/categories";
 import PageHeader from "@/components/PageHeader";
@@ -99,6 +100,20 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 ))}
               </div>
             )}
+
+            <div className="mt-10 rounded-2xl border border-slate-200 bg-slate-50 p-5 flex gap-4 items-start">
+              <div className="flex-shrink-0 w-12 h-12 rounded-full bg-brand-700 flex items-center justify-center text-white text-lg font-bold">
+                {mainAuthor.name.split(" ").pop()?.charAt(0)}
+              </div>
+              <div>
+                <p className="text-xs text-slate-400 uppercase tracking-wide mb-0.5">Tác giả</p>
+                <Link href={mainAuthor.url} className="font-bold text-slate-900 hover:text-brand-700">
+                  {mainAuthor.name}
+                </Link>
+                <p className="text-xs text-brand-700 font-medium">{mainAuthor.jobTitle}</p>
+                <p className="text-xs text-slate-500 mt-1 line-clamp-2">{mainAuthor.description}</p>
+              </div>
+            </div>
           </article>
 
           <aside className="space-y-4">

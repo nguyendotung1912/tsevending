@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { buildMetadata } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
+import { mainAuthor } from "@/content/authors";
 import PageHeader from "@/components/PageHeader";
+import JsonLd from "@/components/JsonLd";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
@@ -10,9 +12,26 @@ export const metadata: Metadata = buildMetadata({
   path: "/gioi-thieu",
 });
 
+const authorJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": mainAuthor.url,
+  name: mainAuthor.name,
+  jobTitle: mainAuthor.jobTitle,
+  description: mainAuthor.description,
+  url: mainAuthor.url,
+  worksFor: {
+    "@type": "Organization",
+    name: siteConfig.name,
+    url: siteConfig.url,
+  },
+  knowsAbout: mainAuthor.expertise,
+};
+
 export default function AboutPage() {
   return (
     <>
+      <JsonLd data={authorJsonLd} />
       <PageHeader
         eyebrow="Về chúng tôi"
         title={`Giới thiệu ${siteConfig.name}`}
@@ -57,6 +76,29 @@ export default function AboutPage() {
               {siteConfig.areasServed.slice(0, -1).join(", ")} và đang tiếp tục mở rộng mạng lưới đối
               tác trên toàn quốc.
             </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="py-12 bg-slate-50" id="nguyen-do-tung">
+        <div className="mx-auto max-w-4xl px-4 sm:px-6">
+          <h2 className="text-2xl font-bold text-slate-900 mb-8">Đội ngũ chuyên gia</h2>
+          <div className="flex gap-6 items-start bg-white rounded-2xl border border-slate-200 p-6 shadow-sm">
+            <div className="flex-shrink-0 w-16 h-16 rounded-full bg-brand-700 flex items-center justify-center text-white text-2xl font-bold">
+              {mainAuthor.name.split(" ").pop()?.charAt(0)}
+            </div>
+            <div>
+              <h3 className="text-lg font-bold text-slate-900">{mainAuthor.name}</h3>
+              <p className="text-sm text-brand-700 font-medium mb-2">{mainAuthor.jobTitle}</p>
+              <p className="text-sm text-slate-600 mb-3">{mainAuthor.description}</p>
+              <div className="flex flex-wrap gap-2">
+                {mainAuthor.expertise.map((skill) => (
+                  <span key={skill} className="rounded-full bg-brand-50 px-3 py-1 text-xs font-medium text-brand-700 border border-brand-100">
+                    {skill}
+                  </span>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </section>

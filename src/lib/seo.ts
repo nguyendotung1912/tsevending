@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { siteConfig } from "@/content/site";
 import { aggregateRating } from "@/content/reviews";
+import { mainAuthor } from "@/content/authors";
 
 export function absoluteUrl(path: string): string {
   const clean = path.startsWith("/") ? path : `/${path}`;
@@ -260,16 +261,27 @@ export function articleJsonLd({
     ...(keywords && keywords.length > 0 ? { keywords: keywords.join(", ") } : {}),
     ...(articleSection ? { articleSection } : {}),
     author: {
-      "@type": "Organization",
-      name: siteConfig.name,
-      url: siteConfig.url,
+      "@type": "Person",
+      name: mainAuthor.name,
+      url: mainAuthor.url,
+      jobTitle: mainAuthor.jobTitle,
+      worksFor: {
+        "@type": "Organization",
+        "@id": `${siteConfig.url}/#organization`,
+        name: siteConfig.name,
+        url: siteConfig.url,
+      },
+      knowsAbout: mainAuthor.expertise,
     },
     publisher: {
       "@type": "Organization",
+      "@id": `${siteConfig.url}/#organization`,
       name: siteConfig.name,
-      logo: { "@type": "ImageObject", url: absoluteUrl("/logo.svg") },
+      url: siteConfig.url,
+      logo: { "@type": "ImageObject", url: absoluteUrl("/logo.svg"), width: 200, height: 60 },
     },
     isPartOf: { "@type": "Blog", name: `Blog ${siteConfig.name}`, url: absoluteUrl("/tin-tuc") },
+    about: { "@type": "Thing", name: "Máy bán hàng tự động và tủ locker thông minh" },
   };
 }
 

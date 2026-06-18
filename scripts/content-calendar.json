@@ -428,7 +428,9 @@
       "locker thÃ´ng minh chung cÆ°",
       "tu locker nhan hang chung cu"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-chung-cu-chon-lua-toi-uu-cho-cuoc-song-hien-dai",
+    "publishedDate": "2026-06-18"
   },
   {
     "id": 32,
@@ -468,7 +470,9 @@
       "locker nhÃ¢n viÃªn vÄƒn phÃ²ng",
       "quáº£n lÃ½ tÃ i sáº£n vÄƒn phÃ²ng"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "tu-locker-thong-minh-van-phong-giai-phap-quan-ly-hien-dai",
+    "publishedDate": "2026-06-19"
   },
   {
     "id": 35,
@@ -1094,7 +1098,9 @@
       "kinh doanh mÃ¡y bÃ¡n nÆ°á»›c",
       "Ä‘á»‹a Ä‘iá»ƒm vending machine"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "vi-tri-dat-may-ban-nuoc-tu-dong-noi-dau-dem-lai-loi-nhuan-toi-uu",
+    "publishedDate": "2026-06-20"
   },
   {
     "id": 87,

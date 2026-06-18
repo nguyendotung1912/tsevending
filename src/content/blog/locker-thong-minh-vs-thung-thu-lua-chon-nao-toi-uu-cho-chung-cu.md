@@ -4,7 +4,7 @@ description: "So sánh chi tiết locker thông minh và thùng thư truyền th
 date: "2026-06-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
-keywords: ["locker thÃ´ng minh vs thÃ¹ng thÆ°", "locker chung cÆ° so sÃ¡nh", "quáº£n lÃ½ bÆ°u kiá»‡n chung cÆ°"]
+keywords: ["locker thông minh vs thùng thư", "locker chung cư so sánh", "quản lý bưu kiện chung cư"]
 image: "/images/articles/locker-thong-minh-vs-thung-thu-lua-chon-nao-toi-uu-cho-chung-cu.jpg"
 imageAlt: "Hình ảnh so sánh tủ locker thông minh hiện đại và dãy thùng thư truyền thống trong bối cảnh chung cư, làm nổi bật sự khác biệt về tính năng và hiệu quả quản lý bưu kiện."
 imageCredit: "Photo by Jean Fourche on Pexels"

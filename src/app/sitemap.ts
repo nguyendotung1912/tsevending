@@ -4,15 +4,15 @@ import { SILOS, SOLUTIONS_SILO } from "@/content/categories";
 import { getAllPostsMeta } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
+  // Use fixed dates for stable pages so Google doesn't waste crawl budget re-crawling unchanged content
   const staticRoutes: MetadataRoute.Sitemap = [
-    { url: siteConfig.url, lastModified: now, changeFrequency: "weekly", priority: 1 },
-    { url: `${siteConfig.url}/gioi-thieu`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-    { url: `${siteConfig.url}/lien-he`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
-    { url: `${siteConfig.url}/tin-tuc`, lastModified: now, changeFrequency: "daily", priority: 0.7 },
+    { url: siteConfig.url, lastModified: new Date("2025-06-01"), changeFrequency: "weekly", priority: 1 },
+    { url: `${siteConfig.url}/gioi-thieu`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
+    { url: `${siteConfig.url}/lien-he`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
+    { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
     {
       url: `${siteConfig.url}/${SOLUTIONS_SILO.slug}`,
-      lastModified: now,
+      lastModified: new Date("2025-06-01"),
       changeFrequency: "monthly",
       priority: 0.8,
     },
@@ -22,14 +22,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const silo of SILOS) {
     siloRoutes.push({
       url: `${siteConfig.url}/${silo.slug}`,
-      lastModified: now,
+      lastModified: new Date("2025-06-01"),
       changeFrequency: "weekly",
       priority: 0.9,
     });
     for (const sub of silo.subcategories) {
       siloRoutes.push({
         url: `${siteConfig.url}/${silo.slug}/${sub.slug}`,
-        lastModified: now,
+        lastModified: new Date("2025-06-01"),
         changeFrequency: "weekly",
         priority: 0.8,
       });

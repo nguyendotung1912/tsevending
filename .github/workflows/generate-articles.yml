@@ -1,0 +1,66 @@
+name: Auto Generate Articles
+
+on:
+  schedule:
+    # Vietnam time = UTC+7. 5 bài/ngày rải đều:
+    - cron: '0 1 * * *'    # 08:00 ICT → locker
+    - cron: '0 3 * * *'    # 10:00 ICT → vending
+    - cron: '0 6 * * *'    # 13:00 ICT → locker
+    - cron: '0 8 * * *'    # 15:00 ICT → vending
+    - cron: '0 11 * * *'   # 18:00 ICT → locker
+  workflow_dispatch:        # chạy thủ công từ GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine article type by hour
+        id: type
+        run: |
+          HOUR=$(date -u +%-H)
+          # 01h, 06h, 11h UTC → locker; 03h, 08h UTC → vending
+          if [[ "$HOUR" == "1" || "$HOUR" == "6" || "$HOUR" == "11" ]]; then
+            echo "LOCKER_PER_RUN=1" >> $GITHUB_ENV
+            echo "VENDING_PER_RUN=0" >> $GITHUB_ENV
+            echo "type=locker" >> $GITHUB_OUTPUT
+          else
+            echo "LOCKER_PER_RUN=0" >> $GITHUB_ENV
+            echo "VENDING_PER_RUN=1" >> $GITHUB_ENV
+            echo "type=vending" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate article (${{ steps.type.outputs.type }})
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: npm run generate:article:gemini
+
+      - name: Commit new article
+        run: |
+          git config user.name "TSE Bot"
+          git config user.email "bot@tsevending.com"
+          git add src/content/blog/ public/images/articles/ scripts/content-calendar.json
+          git diff --cached --quiet && echo "⏭ Nothing new to commit" || \
+            git commit -m "feat: auto article $(date -u +%Y-%m-%d\ %H:%M) [skip ci]"
+          git push
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: npx vercel --prod --yes --token $VERCEL_TOKEN
