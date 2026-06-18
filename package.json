@@ -13,7 +13,8 @@
     "audit:backlinks": "tsx scripts/audit-backlinks.ts",
     "submit:directories": "tsx scripts/submit-directories.ts",
     "generate:pr": "tsx scripts/generate-press-release.ts",
-    "submit:pr": "tsx scripts/auto-submit-pr.ts"
+    "submit:pr": "tsx scripts/auto-submit-pr.ts",
+    "submit:vn": "tsx scripts/submit-vn-platforms.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
