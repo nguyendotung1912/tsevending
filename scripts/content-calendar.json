@@ -440,7 +440,9 @@
       "chi phÃ­ locker nháº­n hÃ ng",
       "locker giao hÃ ng chung cÆ°"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "lap-dat-locker-nhan-hang-chung-cu-chi-phi-quy-trinh-2026",
+    "publishedDate": "2026-06-18"
   },
   {
     "id": 33,
@@ -453,7 +455,7 @@
       "quáº£n lÃ½ bÆ°u kiá»‡n chung cÆ°"
     ],
     "status": "published",
-    "publishedSlug": "locker-thong-minh-vs-thung-thu-truyen-thong-lua-chon-toi-uu-cho-chung-cu",
+    "publishedSlug": "locker-thong-minh-vs-thung-thu-lua-chon-nao-toi-uu-cho-chung-cu",
     "publishedDate": "2026-06-19"
   },
   {
@@ -1092,9 +1094,7 @@
       "kinh doanh mÃ¡y bÃ¡n nÆ°á»›c",
       "Ä‘á»‹a Ä‘iá»ƒm vending machine"
     ],
-    "status": "published",
-    "publishedSlug": "vi-tri-dat-may-ban-nuoc-tu-dong-chia-khoa-kinh-doanh-loi-nhuan",
-    "publishedDate": "2026-06-18"
+    "status": "pending"
   },
   {
     "id": 87,
