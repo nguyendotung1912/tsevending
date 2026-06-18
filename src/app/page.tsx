@@ -7,6 +7,7 @@ import { getAllPostsMeta } from "@/lib/content";
 import ArticleCard from "@/components/ArticleCard";
 import Cta from "@/components/Cta";
 import FaqSection from "@/components/Faq";
+import ReviewsSection from "@/components/ReviewsSection";
 
 export const metadata: Metadata = buildMetadata({
   title: `${siteConfig.name} - Máy Bán Hàng Tự Động & Tủ Locker Thông Minh Hàng Đầu Việt Nam`,
@@ -506,6 +507,9 @@ export default function Home() {
           </p>
         </div>
       </section>
+
+      {/* ── CUSTOMER REVIEWS ── */}
+      <ReviewsSection />
 
       {/* ── LATEST ARTICLES ── */}
       {latestPosts.length > 0 && (

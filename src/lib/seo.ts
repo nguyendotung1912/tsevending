@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { siteConfig } from "@/content/site";
+import { aggregateRating } from "@/content/reviews";
 
 export function absoluteUrl(path: string): string {
   const clean = path.startsWith("/") ? path : `/${path}`;
@@ -165,6 +166,13 @@ export function localBusinessJsonLd() {
       },
     ],
     areaServed: siteConfig.areasServed,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: aggregateRating.ratingValue,
+      bestRating: aggregateRating.bestRating,
+      worstRating: aggregateRating.worstRating,
+      ratingCount: aggregateRating.ratingCount,
+    },
   };
 }
 
