@@ -440,7 +440,9 @@
       "chi phí locker nhận hàng",
       "locker giao hàng chung cư"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "lap-dat-locker-chung-cu-chi-phi-quy-trinh-trien-khai-thuc-te-2026",
+    "publishedDate": "2026-06-18"
   },
   {
     "id": 33,
@@ -452,7 +454,9 @@
       "locker chung cư so sánh",
       "quản lý bưu kiện chung cư"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "locker-thong-minh-vs-thung-thu-truyen-thong-lua-chon-toi-uu-cho-chung-cu",
+    "publishedDate": "2026-06-19"
   },
   {
     "id": 34,
@@ -1076,7 +1080,9 @@
       "vending machine nước uống",
       "review máy bán nước"
     ],
-    "status": "pending"
+    "status": "published",
+    "publishedSlug": "may-ban-nuoc-tu-dong-2026-danh-gia-top-5-model-pho-bien-nhat",
+    "publishedDate": "2026-06-20"
   },
   {
     "id": 86,
