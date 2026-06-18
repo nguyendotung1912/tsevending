@@ -1,0 +1,120 @@
+name: Weekly SEO Content Report
+
+on:
+  schedule:
+    - cron: '0 17 * * 0'   # Chủ nhật 00:00 ICT (17:00 UTC Sat)
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate weekly report
+        id: report
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = require('path');
+
+          const calendar = JSON.parse(fs.readFileSync('scripts/content-calendar.json', 'utf8'));
+          const blogDir = 'src/content/blog';
+          const articles = fs.readdirSync(blogDir).filter(f => f.endsWith('.md'));
+
+          const total = calendar.length;
+          const published = calendar.filter(i => i.status === 'published').length;
+          const pending = total - published;
+          const progressPct = Math.round((published / total) * 100);
+
+          // Count by silo
+          const bySlioAll = {};
+          const bySiloPub = {};
+          for (const item of calendar) {
+            bySlioAll[item.silo] = (bySlioAll[item.silo] || 0) + 1;
+            if (item.status === 'published') {
+              bySiloPub[item.silo] = (bySiloPub[item.silo] || 0) + 1;
+            }
+          }
+
+          // Sub-category coverage
+          const subCoverage = {};
+          for (const item of calendar) {
+            if (item.sub) {
+              if (!subCoverage[item.sub]) subCoverage[item.sub] = { total: 0, pub: 0 };
+              subCoverage[item.sub].total++;
+              if (item.status === 'published') subCoverage[item.sub].pub++;
+            }
+          }
+
+          // Pending topics (next 5)
+          const next5 = calendar.filter(i => i.status === 'pending').slice(0, 5);
+
+          const siloNames = {
+            'may-ban-hang-tu-dong': 'Máy bán hàng tự động',
+            'tu-locker-thong-minh': 'Tủ locker thông minh',
+            'giai-phap-kinh-doanh': 'Giải pháp kinh doanh',
+          };
+
+          // Days remaining at 5/day
+          const daysLeft = Math.ceil(pending / 5);
+          const doneDate = new Date();
+          doneDate.setDate(doneDate.getDate() + daysLeft);
+
+          let report = '## 📊 Báo cáo nội dung tuần này\n\n';
+          report += \`**Tiến độ tổng:** \${published}/\${total} bài (\${progressPct}%)\n\`;
+          report += \`**Còn lại:** \${pending} bài → hoàn thành dự kiến **\${doneDate.toLocaleDateString('vi-VN')}** (5 bài/ngày)\n\n\`;
+
+          report += '### Theo chuyên mục\n';
+          report += '| Chuyên mục | Đã đăng | Tổng | Tiến độ |\n|---|---|---|---|\n';
+          for (const [silo, tot] of Object.entries(bySlioAll)) {
+            const pub = bySiloPub[silo] || 0;
+            const pct = Math.round((pub / tot) * 100);
+            const bar = '█'.repeat(Math.round(pct / 10)) + '░'.repeat(10 - Math.round(pct / 10));
+            report += \`| \${siloNames[silo] || silo} | \${pub} | \${tot} | \${bar} \${pct}% |\n\`;
+          }
+
+          report += '\n### Sub-category chưa có bài (ưu tiên viết)\n';
+          const gaps = Object.entries(subCoverage)
+            .filter(([, v]) => v.pub === 0)
+            .map(([k]) => k);
+          if (gaps.length > 0) {
+            report += gaps.map(g => \`- \\\`\${g}\\\`\`).join('\n') + '\n';
+          } else {
+            report += '_Tất cả sub-category đã có ít nhất 1 bài._\n';
+          }
+
+          report += '\n### 5 bài tiếp theo sẽ được tạo\n';
+          for (const item of next5) {
+            report += \`- [\${item.silo}] **\${item.topic}**\n\`;
+          }
+
+          report += \`\n---\n_Auto-generated \${new Date().toLocaleDateString('vi-VN')} | \${articles.length} files trong /blog_\`;
+
+          fs.writeFileSync('/tmp/report.md', report);
+          console.log(report);
+          "
+
+      - name: Create GitHub Issue with report
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          WEEK=$(date -u +"%Y W%V")
+          gh issue create \
+            --title "📊 Báo cáo SEO tuần $WEEK" \
+            --body-file /tmp/report.md \
+            --label "report" \
+            --repo ${{ github.repository }} || \
+          echo "Note: create 'report' label in GitHub Issues if needed"
