@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { buildMetadata, articleJsonLd, faqJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { buildMetadata, articleJsonLd, faqJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts, CATEGORY_META } from "@/lib/content";
 import { getSiloBySlug, getSubcategory } from "@/content/categories";
@@ -49,7 +49,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   return (
     <>
-      <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
       <JsonLd
         data={articleJsonLd({
           title: post.title,

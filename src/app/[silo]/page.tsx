@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { buildMetadata, serviceJsonLd, faqJsonLd, itemListJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd, itemListJsonLd } from "@/lib/seo";
 import { getAllSilos, getSiloBySlug } from "@/content/categories";
 import { getPostsBySilo } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
@@ -206,7 +206,6 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           path: `/${silo.slug}`,
         })}
       />
-      <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
       <JsonLd
         data={itemListJsonLd({
           name: silo.title,
@@ -220,9 +219,6 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           })),
         })}
       />
-      {silo.faqs.length > 0 && (
-        <JsonLd data={faqJsonLd(silo.faqs)} />
-      )}
       <PageHeader
         eyebrow="Sản phẩm & dịch vụ"
         title={silo.h1}
