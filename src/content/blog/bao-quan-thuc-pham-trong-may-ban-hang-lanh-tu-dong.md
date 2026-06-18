@@ -1,7 +1,7 @@
 ---
 title: "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Những điều cần biết"
 description: "Hướng dẫn bảo quản thực phẩm trong máy bán hàng lạnh tự động đúng nhiệt độ, đúng hạn sử dụng và đảm bảo an toàn vệ sinh thực phẩm khi vận hành."
-date: "2026-06-24"
+date: "2026-05-01"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-hang-lanh"
 keywords: ["bảo quản thực phẩm", "máy bán hàng lạnh", "an toàn thực phẩm vending"]

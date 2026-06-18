@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tích hợp camera AI và nhận diện khuôn mặt: Có thực sự cần thiết?"
 description: "Phân tích khi nào tủ locker thông minh cần tích hợp camera AI và nhận diện khuôn mặt, khi nào không cần - giúp doanh nghiệp tránh đầu tư dư thừa."
-date: "2026-07-17"
+date: "2026-05-09"
 silo: "tu-locker-thong-minh"
 keywords: ["camera AI tủ locker", "nhận diện khuôn mặt smart locker", "tủ locker AI"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Thuê tủ locker thông minh: Bảng giá và dịch vụ tốt nhất 2026"
 description: "Tổng hợp bảng giá thuê tủ locker thông minh theo tháng và theo dự án tại Việt Nam 2026. So sánh mô hình thuê vs mua và khi nào nên chọn từng phương án."
-date: "2026-10-29"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 keywords: ["thuê tủ locker thông minh", "cho thuê locker thông minh", "giá thuê locker", "locker SaaS", "thuê locker theo tháng"]
 image: "/images/articles/tu-locker-thong-minh-cho-thue-gia-dich-vu-2026.svg"

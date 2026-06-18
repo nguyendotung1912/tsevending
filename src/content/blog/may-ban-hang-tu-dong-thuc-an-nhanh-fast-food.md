@@ -1,7 +1,7 @@
 ---
 title: "Máy bán thức ăn nhanh tự động: Fast Food Vending và cuộc cách mạng ẩm thực không nhân viên"
 description: "McDonald's, Burger King và nhiều chuỗi fast food đang thử nghiệm fully automated food vending — robot làm burger, máy pha cà phê tự động và kiosk pizza. Tương lai của fast food không cần nhân viên đang đến gần hơn bao giờ hết."
-date: "2026-10-17"
+date: "2026-06-08"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán thức ăn nhanh", "fast food vending machine", "robot làm đồ ăn tự động"]
 ---

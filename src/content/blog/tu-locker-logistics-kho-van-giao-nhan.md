@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong logistics và kho vận: Tối ưu hóa giao nhận hàng hóa B2B"
 description: "Tủ locker thông minh đang cách mạng hóa quy trình kho vận nội bộ, giao nhận giữa nhà kho và đại lý, và logistics cuối chặng B2B. Mô hình từ DHL, UPS Supply Chain và các công ty 3PL toàn cầu."
-date: "2026-08-27"
+date: "2026-05-22"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker logistics", "smart locker kho vận", "locker giao nhận B2B"]
 ---

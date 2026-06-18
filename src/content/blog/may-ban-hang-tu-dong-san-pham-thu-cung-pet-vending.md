@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động sản phẩm thú cưng: Xu hướng Pet Vending đang bùng nổ"
 description: "Pet vending machine — máy bán thức ăn, đồ chơi và phụ kiện thú cưng tự động — đang xuất hiện tại Mỹ, Nhật và Hàn Quốc. Cơ hội nào cho thị trường thú cưng Việt Nam?"
-date: "2026-08-16"
+date: "2026-05-18"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động thú cưng", "pet vending machine", "vending machine chó mèo"]
 ---

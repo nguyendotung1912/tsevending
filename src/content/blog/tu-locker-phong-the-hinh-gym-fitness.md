@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại phòng gym và trung tâm thể hình: Nâng cấp trải nghiệm thành viên"
 description: "Planet Fitness, Gold's Gym và các chuỗi gym cao cấp toàn cầu đang chuyển sang tủ locker thông minh không cần chìa khóa. Hệ thống quản lý locker tự động giúp tăng sự hài lòng thành viên và giảm chi phí vận hành."
-date: "2026-09-07"
+date: "2026-05-26"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker phòng gym", "smart locker fitness center", "locker thông minh trung tâm thể hình"]
 ---

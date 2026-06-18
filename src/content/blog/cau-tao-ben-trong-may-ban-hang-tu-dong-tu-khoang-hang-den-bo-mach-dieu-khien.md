@@ -1,7 +1,7 @@
 ---
 title: "Cấu tạo bên trong máy bán hàng tự động: Từ khoang hàng đến bo mạch điều khiển"
 description: "Giải thích chi tiết cấu tạo bên trong máy bán hàng tự động gồm những bộ phận nào: khoang hàng, cơ cấu nhả hàng, hệ thống thanh toán, hệ thống làm lạnh và bo mạch điều khiển."
-date: "2026-07-13"
+date: "2026-05-07"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["cấu tạo máy bán hàng tự động", "linh kiện vending machine", "bo mạch máy bán hàng tự động"]

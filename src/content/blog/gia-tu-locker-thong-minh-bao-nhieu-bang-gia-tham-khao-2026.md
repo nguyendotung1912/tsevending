@@ -1,7 +1,7 @@
 ---
 title: "Giá tủ locker thông minh bao nhiêu? Bảng giá tham khảo theo số ô và công nghệ mở khóa 2026"
 description: "Giá tủ locker thông minh bao nhiêu? Tổng hợp bảng giá tham khảo theo số ô, công nghệ mở khóa (QR, RFID, vân tay, nhận diện khuôn mặt) và chi phí vận hành năm 2026."
-date: "2026-06-28"
+date: "2026-05-02"
 silo: "tu-locker-thong-minh"
 keywords: ["giá tủ locker thông minh", "giá tủ locker thông minh bao nhiêu", "bảng giá smart locker 2026"]
 ---

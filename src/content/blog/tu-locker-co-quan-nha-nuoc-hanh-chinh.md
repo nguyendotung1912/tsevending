@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại cơ quan nhà nước: Hiện đại hóa hành chính công và dịch vụ công cộng"
 description: "Tủ locker thông minh tại cơ quan hành chính giúp người dân nhận giấy tờ, hồ sơ sau giờ hành chính. Singapore, Estonia và Hàn Quốc dẫn đầu xu hướng chính phủ số kết hợp smart locker giảm thời gian chờ đợi."
-date: "2026-10-14"
+date: "2026-06-07"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker cơ quan nhà nước", "locker hành chính công", "smart locker chính phủ số"]
 ---

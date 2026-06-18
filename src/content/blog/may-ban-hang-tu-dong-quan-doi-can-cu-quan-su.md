@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại căn cứ quân sự và bệnh viện quân đội toàn cầu"
 description: "Quân đội Mỹ, NATO và nhiều nước đang triển khai vending machine tại căn cứ và bệnh viện quân đội. Nhu cầu tiếp tế 24/7 không gián đoạn đang thúc đẩy đầu tư lớn vào hạ tầng tự động."
-date: "2026-08-20"
+date: "2026-05-20"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine quân đội", "máy bán hàng tự động căn cứ quân sự", "military vending machine"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động như hạ tầng văn phòng hiện đại: Xu hướng PropTech toàn cầu"
 description: "Chủ tòa nhà văn phòng tại Mỹ, UK và Singapore đang đưa vending machine vào tiêu chí đánh giá hạ tầng tòa nhà. Amenity vending là yếu tố cạnh tranh thu hút khách thuê cao cấp."
-date: "2026-08-30"
+date: "2026-05-23"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine văn phòng", "amenity vending PropTech", "máy bán hàng tự động tòa nhà văn phòng"]
 ---

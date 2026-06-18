@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho chung cư: Giải pháp nhận bưu kiện 24/7 không cần có mặt"
 description: "Cư dân chung cư đang đau đầu với bưu kiện bị trả về vì không có nhà. Tủ locker thông minh nhận hàng 24/7 tại tầng trệt giải quyết triệt để vấn đề này, đang được hàng trăm dự án chung cư Việt Nam triển khai."
-date: "2026-10-20"
+date: "2026-06-09"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh chung cư", "locker nhận hàng chung cư", "smart locker nhận bưu kiện", "tủ locker parcel chung cư"]
 ---

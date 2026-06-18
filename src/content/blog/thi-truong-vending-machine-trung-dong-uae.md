@@ -1,7 +1,7 @@
 ---
 title: "Thị trường vending machine Trung Đông và UAE: Cơ hội từ nền kinh tế dầu mỏ chuyển đổi"
 description: "UAE, Ả Rập Xê Út và Qatar đang đầu tư mạnh vào vending machine như một phần chiến lược đa dạng hóa kinh tế. Dubai Mall, King Abdullah Economic City và các siêu dự án đang tạo nhu cầu khổng lồ."
-date: "2026-09-09"
+date: "2026-05-26"
 silo: "may-ban-hang-tu-dong"
 keywords: ["thị trường vending machine UAE", "vending machine Dubai", "máy bán hàng tự động Trung Đông"]
 ---

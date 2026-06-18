@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động xanh: Xu hướng thân thiện môi trường đang định hình lại ngành vending"
 description: "Từ máy vending tái chế vỏ lon đến điện năng lượng mặt trời và vật liệu tái chế — ngành vending toàn cầu đang chuyển đổi xanh. Tác động và cơ hội cho Việt Nam."
-date: "2026-07-31"
+date: "2026-05-13"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động xanh", "vending machine thân thiện môi trường", "eco vending"]
 ---

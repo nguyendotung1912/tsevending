@@ -1,7 +1,7 @@
 ---
 title: "Bảo mật tủ locker thông minh: Các lớp bảo vệ và tiêu chuẩn an toàn cần biết"
 description: "Tủ locker thông minh bảo mật bằng mã hóa AES-256, camera AI, khóa điện từ chống phá và audit log bất biến. Hiểu rõ các lớp bảo mật giúp bạn chọn đúng smart locker cho dữ liệu và tài sản quan trọng."
-date: "2026-10-28"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 keywords: ["bảo mật tủ locker thông minh", "smart locker an ninh", "locker thông minh mã hóa", "tủ locker an toàn"]
 ---

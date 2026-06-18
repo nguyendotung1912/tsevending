@@ -1,7 +1,7 @@
 ---
 title: "Vốn ít có nên đầu tư máy bán hàng tự động không?"
 description: "Phân tích thực tế về khả năng đầu tư máy bán hàng tự động khi vốn ít: các mô hình phù hợp, rủi ro cần lưu ý và cách tối ưu chi phí khởi đầu."
-date: "2026-07-15"
+date: "2026-05-08"
 silo: "giai-phap-kinh-doanh"
 keywords: ["đầu tư vốn ít vending machine", "kinh doanh máy bán hàng tự động vốn nhỏ", "có nên đầu tư máy bán hàng tự động"]
 ---

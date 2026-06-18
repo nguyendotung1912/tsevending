@@ -1,7 +1,7 @@
 ---
 title: "Thị trường máy bán hàng tự động Việt Nam: Xu hướng phát triển 2026"
 description: "Tổng quan thị trường máy bán hàng tự động tại Việt Nam năm 2026: quy mô, phân khúc tăng trưởng, xu hướng công nghệ và cơ hội cho nhà đầu tư mới tham gia."
-date: "2026-07-18"
+date: "2026-05-09"
 silo: "may-ban-hang-tu-dong"
 keywords: ["thị trường vending machine Việt Nam", "xu hướng máy bán hàng tự động 2026", "vending machine Việt Nam"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh khu công nghiệp và nhà máy: Quản lý dụng cụ và bảo hộ lao động hiệu quả"
 description: "Nhà máy Samsung, LG và Toyota tại Việt Nam triển khai smart locker để quản lý dụng cụ, thiết bị bảo hộ và tài sản theo ca. Giảm thất thoát tài sản 90% và tiết kiệm 2-3 tiếng quản lý thủ công mỗi ngày."
-date: "2026-10-25"
+date: "2026-06-11"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh khu công nghiệp", "locker nhà máy thông minh", "quản lý dụng cụ locker", "smart locker nhà máy sản xuất"]
 ---

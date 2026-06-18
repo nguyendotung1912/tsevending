@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại coworking space: Mô hình chia sẻ đồ dùng thế hệ mới"
 description: "Coworking space hiện đại không chỉ chia sẻ không gian làm việc — họ còn chia sẻ thiết bị, dụng cụ và lưu trữ cá nhân qua tủ locker thông minh. Mô hình từ WeWork, IWG và các không gian làm việc chung toàn cầu."
-date: "2026-08-21"
+date: "2026-05-20"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker coworking", "smart locker không gian làm việc chung", "locker thông minh văn phòng chia sẻ"]
 ---

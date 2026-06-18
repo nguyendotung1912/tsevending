@@ -1,7 +1,7 @@
 ---
 title: "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư"
 description: "So sánh chi tiết tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư về chi phí, bảo mật, trải nghiệm sử dụng để cư dân và ban quản lý lựa chọn phù hợp."
-date: "2026-06-26"
+date: "2026-05-02"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["so sánh tủ locker", "tủ gửi đồ chung cư", "tủ locker thông minh"]

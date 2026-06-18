@@ -1,7 +1,7 @@
 ---
 title: "Cách tính số ô locker cần thiết cho văn phòng và chung cư — Công thức thực tế"
 description: "Hướng dẫn tính toán số lượng ô tủ locker cần thiết cho văn phòng, nhà máy và chung cư: công thức, hệ số điều chỉnh và ví dụ thực tế từ các dự án TSE Vending."
-date: "2026-11-12"
+date: "2026-06-17"
 silo: "tu-locker-thong-minh"
 category: "huong-dan"
 keywords: ["tính số ô locker", "bao nhiêu locker đủ cho văn phòng", "cách tính locker chung cư", "hướng dẫn thiết kế hệ thống locker"]

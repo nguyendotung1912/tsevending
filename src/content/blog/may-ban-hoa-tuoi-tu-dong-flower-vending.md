@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hoa tươi tự động: Flower Vending Machine đang nở rộ toàn cầu"
 description: "Từ Nhật Bản đến Hà Lan, máy bán hoa tươi tự động 24/7 đang trở thành điểm đến mua sắm tiện lợi. Công nghệ kiểm soát nhiệt độ và độ ẩm giúp hoa giữ tươi lâu trong máy vending."
-date: "2026-08-28"
+date: "2026-05-22"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hoa tươi tự động", "flower vending machine", "máy bán hoa 24/7"]
 ---

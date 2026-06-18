@@ -1,7 +1,7 @@
 ---
 title: "Thị trường smart locker châu Á - Thái Bình Dương 2026: Tăng trưởng mạnh, cơ hội lớn"
 description: "Thị trường tủ locker thông minh APAC được dự báo tăng trưởng 18% CAGR đến 2028. Phân tích các thị trường dẫn đầu và cơ hội cho Việt Nam trong xu hướng này."
-date: "2026-07-29"
+date: "2026-05-12"
 silo: "tu-locker-thong-minh"
 keywords: ["thị trường smart locker APAC", "tủ locker thông minh châu Á", "smart locker 2026"]
 ---

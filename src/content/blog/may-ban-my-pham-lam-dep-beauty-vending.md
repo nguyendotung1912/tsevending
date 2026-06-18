@@ -1,7 +1,7 @@
 ---
 title: "Máy bán mỹ phẩm và làm đẹp tự động: Beauty Vending Machine đang bùng nổ"
 description: "Từ son môi đến kem chống nắng, máy bán mỹ phẩm tự động xuất hiện tại sân bay, trung tâm thương mại và salon. Maybelline, L'Oréal và Sephora đang dẫn đầu xu hướng Beauty Vending toàn cầu."
-date: "2026-08-31"
+date: "2026-05-23"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán mỹ phẩm tự động", "beauty vending machine", "máy bán son môi kem dưỡng tự động"]
 ---

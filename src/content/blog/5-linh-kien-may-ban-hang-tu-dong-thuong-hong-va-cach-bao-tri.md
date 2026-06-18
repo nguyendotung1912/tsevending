@@ -1,7 +1,7 @@
 ---
 title: "5 linh kiện máy bán hàng tự động thường hỏng và cách bảo trì"
 description: "Tổng hợp 5 linh kiện máy bán hàng tự động dễ hỏng nhất, dấu hiệu nhận biết sớm và quy trình bảo trì định kỳ giúp máy hoạt động ổn định, giảm gián đoạn doanh thu."
-date: "2026-06-30"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["linh kiện máy bán hàng tự động", "bảo trì vending machine", "sửa máy bán hàng tự động"]

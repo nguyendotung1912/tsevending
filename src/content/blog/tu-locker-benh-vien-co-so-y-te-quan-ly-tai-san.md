@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong bệnh viện: Bảo vệ tài sản bệnh nhân và quản lý y tế hiệu quả"
 description: "Bệnh viện Johns Hopkins, Cleveland Clinic và nhiều bệnh viện hàng đầu thế giới dùng tủ locker thông minh cho bệnh nhân, nhân viên y tế và thiết bị. Ứng dụng thực tế tại hệ thống bệnh viện Việt Nam."
-date: "2026-09-03"
+date: "2026-05-24"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker bệnh viện", "smart locker y tế", "locker bảo vệ tài sản bệnh nhân"]
 ---

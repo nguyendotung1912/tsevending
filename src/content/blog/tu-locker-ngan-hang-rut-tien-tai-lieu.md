@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker ngân hàng thông minh: Nhận thẻ, tài liệu và giao dịch không cần gặp nhân viên"
 description: "Các ngân hàng lớn như DBS Singapore, KBank Thái Lan và VPBank Việt Nam đang triển khai smart locker để khách nhận thẻ tín dụng, hộ sơ vay và tài liệu 24/7 mà không cần đến chi nhánh trong giờ hành chính."
-date: "2026-10-16"
+date: "2026-06-08"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ngân hàng", "bank smart locker", "nhận thẻ ngân hàng locker"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trong trung tâm hội nghị MICE: Phục vụ đại biểu 24/7 không gián đoạn"
 description: "Trung tâm hội nghị MICE (Meetings, Incentives, Conferences, Exhibitions) như Singapore EXPO, BITEC Bangkok và Hanoi National Convention Centre đang tích hợp vending machine như hạ tầng phục vụ đại biểu quốc tế."
-date: "2026-09-27"
+date: "2026-06-01"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine trung tâm hội nghị", "vending machine MICE", "máy bán hàng tự động sự kiện hội nghị"]
 ---

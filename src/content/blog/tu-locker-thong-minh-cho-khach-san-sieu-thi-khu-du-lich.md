@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho khách sạn, siêu thị, khu du lịch"
 description: "Tủ locker thông minh giúp khách sạn, siêu thị và khu du lịch nâng cao trải nghiệm khách hàng: gửi đồ an toàn, mở khóa bằng mã QR/PIN, vận hành tự động."
-date: "2026-06-18"
+date: "2026-04-29"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["tủ locker khách sạn", "locker siêu thị", "tủ gửi đồ khu du lịch", "smart locker du lịch"]

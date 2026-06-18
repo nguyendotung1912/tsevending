@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động năng lượng mặt trời: Giải pháp xanh cho vị trí hẻo lánh"
 description: "Solar-powered vending machine đang giải quyết bài toán điện lưới cho vị trí xa xôi: bãi biển, công viên quốc gia, nông thôn và khu vực thiếu điện. Công nghệ xanh đang thay đổi mô hình vending."
-date: "2026-09-06"
+date: "2026-05-25"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động năng lượng mặt trời", "solar vending machine", "vending machine năng lượng tái tạo"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong trung tâm thương mại: Giải phóng tay mua sắm và click-and-collect"
 description: "Trung tâm thương mại toàn cầu đang triển khai tủ locker thông minh để giải quyết đau điểm mang vác túi mua sắm và nhận đơn hàng online. IKEA, H&M và Uniqlo đang dùng click-and-collect locker để kết hợp online-offline."
-date: "2026-09-24"
+date: "2026-05-31"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker trung tâm thương mại", "click and collect locker", "smart locker mua sắm"]
 ---

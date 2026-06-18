@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trong ngành spa và wellness: Tiện ích tự phục vụ trong không gian thư giãn"
 description: "Spa, trung tâm yoga và retreat wellness tại Bali, Phuket và khắp châu Á đang tích hợp vending machine bán sản phẩm chăm sóc cơ thể, thảo mộc và thiết bị thư giãn — cân bằng giữa tự phục vụ và dịch vụ con người."
-date: "2026-09-08"
+date: "2026-05-26"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine spa", "máy bán hàng tự động wellness", "vending machine yoga retreat"]
 ---

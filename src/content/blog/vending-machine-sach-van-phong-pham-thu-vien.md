@@ -1,7 +1,7 @@
 ---
 title: "Máy bán sách và văn phòng phẩm tự động tại thư viện: Mô hình giáo dục thông minh"
 description: "Thư viện đại học và công cộng tại Mỹ, Anh, Singapore đang triển khai máy bán sách, văn phòng phẩm và thiết bị học tập tự động 24/7. Mô hình học tập thông minh đang lan rộng toàn cầu."
-date: "2026-08-26"
+date: "2026-05-22"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán sách tự động", "vending machine thư viện", "máy bán văn phòng phẩm tự động"]
 ---

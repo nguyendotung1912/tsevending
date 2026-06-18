@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh kết hợp giặt là tự động: Laundry Locker đang thay đổi dịch vụ giặt ủi"
 description: "Mô hình Laundry Locker — đặt giặt qua app, thả vào locker, nhận lại quần áo sạch — đang bùng nổ tại Mỹ, Anh và Singapore. Không cần gặp nhân viên, không cần ở nhà chờ, không cần đến tiệm giặt."
-date: "2026-10-06"
+date: "2026-06-04"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker giặt là", "laundry locker thông minh", "dịch vụ giặt ủi tự động locker"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dự báo thị trường vending machine 2027-2030: Những xu hướng sẽ định hình ngành"
 description: "Thị trường vending machine toàn cầu dự kiến đạt 40 tỷ USD năm 2030. Phân tích 7 xu hướng lớn sẽ định hình ngành — từ cashierless technology, personalization AI đến circular economy và sustainability."
-date: "2026-09-19"
+date: "2026-05-30"
 silo: "giai-phap-kinh-doanh"
 keywords: ["dự báo thị trường vending machine 2027", "xu hướng vending machine tương lai", "vending machine 2030"]
 ---

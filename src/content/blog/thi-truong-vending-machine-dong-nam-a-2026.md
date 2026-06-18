@@ -1,7 +1,7 @@
 ---
 title: "Thị trường vending machine Đông Nam Á 2026: Tổng quan toàn diện và triển vọng"
 description: "Đông Nam Á là thị trường vending machine tăng trưởng nhanh thứ hai châu Á sau Ấn Độ. Phân tích chi tiết 6 thị trường lớn: Thái Lan, Indonesia, Malaysia, Philippines, Singapore và Việt Nam."
-date: "2026-08-29"
+date: "2026-05-23"
 silo: "giai-phap-kinh-doanh"
 keywords: ["thị trường vending machine Đông Nam Á", "vending machine ASEAN", "máy bán hàng tự động Đông Nam Á 2026"]
 ---

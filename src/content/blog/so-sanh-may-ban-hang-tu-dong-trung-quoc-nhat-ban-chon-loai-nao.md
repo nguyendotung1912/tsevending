@@ -1,7 +1,7 @@
 ---
 title: "So sánh máy bán hàng tự động Trung Quốc và Nhật Bản: Nên chọn loại nào?"
 description: "Máy bán hàng tự động Trung Quốc giá rẻ hơn, Nhật Bản chất lượng cao hơn. Phân tích chi tiết ưu nhược điểm để giúp nhà đầu tư Việt Nam lựa chọn đúng."
-date: "2026-08-10"
+date: "2026-05-16"
 silo: "may-ban-hang-tu-dong"
 keywords: ["so sánh máy bán hàng tự động Trung Quốc Nhật Bản", "máy vending nhập khẩu", "chọn máy bán hàng tự động"]
 ---

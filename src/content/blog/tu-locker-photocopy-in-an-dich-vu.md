@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker dịch vụ photocopy và in ấn 24/7: In tài liệu tự động không cần nhân viên"
 description: "Smart locker in ấn tự động đang xuất hiện tại thư viện đại học, tòa nhà văn phòng và sân bay — gửi file in qua cloud, lấy tài liệu đã in từ locker bất cứ lúc nào. Epson, Konica Minolta và nhiều startup đang dẫn đầu xu hướng này."
-date: "2026-10-12"
+date: "2026-06-06"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker in ấn tự động", "photocopy locker thông minh", "dịch vụ in 24/7 locker"]
 ---

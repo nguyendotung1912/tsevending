@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh có chống được trộm cắp, phá khóa không?"
 description: "Đánh giá khả năng chống trộm cắp và phá khóa của tủ locker thông minh: vật liệu chống cắt, cơ chế khóa điện tử, cảnh báo và hệ thống giám sát camera."
-date: "2026-07-19"
+date: "2026-05-09"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh chống trộm", "bảo mật smart locker", "an toàn tủ locker thông minh"]
 ---

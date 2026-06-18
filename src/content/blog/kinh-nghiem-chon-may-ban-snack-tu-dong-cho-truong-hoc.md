@@ -1,7 +1,7 @@
 ---
 title: "Kinh nghiệm chọn máy bán snack tự động cho căng-tin trường học"
 description: "Hướng dẫn lựa chọn máy bán snack, đồ ăn vặt tự động phù hợp cho căng-tin trường học: dung tích, danh mục sản phẩm và yếu tố an toàn."
-date: "2026-06-09"
+date: "2026-04-26"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán snack tự động", "máy bán đồ ăn vặt", "vending machine trường học"]

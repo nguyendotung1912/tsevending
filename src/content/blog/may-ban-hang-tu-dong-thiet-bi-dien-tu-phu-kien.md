@@ -1,7 +1,7 @@
 ---
 title: "Máy bán phụ kiện điện tử tự động: Electronics Vending tại sân bay, khách sạn và trung tâm thương mại"
 description: "Vending machine phụ kiện điện tử — cáp sạc, tai nghe, pin dự phòng — đang bùng nổ tại sân bay, khách sạn và khu vực văn phòng toàn cầu. Best Buy Express, InMotion và nhiều thương hiệu đang khai thác nhu cầu khổng lồ của du khách quên đồ."
-date: "2026-10-15"
+date: "2026-06-07"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán phụ kiện điện tử", "electronics vending machine", "vending machine sân bay phụ kiện"]
 ---

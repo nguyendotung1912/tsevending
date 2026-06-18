@@ -1,7 +1,7 @@
 ---
 title: "Tủ gửi đồ thông minh cho gym, hồ bơi: Nâng cao trải nghiệm khách hàng"
 description: "Tủ gửi đồ thông minh giúp gym, hồ bơi quản lý đồ dùng cá nhân của khách hàng an toàn, vệ sinh, không cần chìa khóa vật lý, nâng cao trải nghiệm và hình ảnh chuyên nghiệp."
-date: "2026-07-05"
+date: "2026-05-05"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["tủ gửi đồ gym", "locker hồ bơi", "tủ gửi đồ thông minh"]

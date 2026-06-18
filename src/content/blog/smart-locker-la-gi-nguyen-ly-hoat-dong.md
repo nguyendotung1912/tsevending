@@ -1,7 +1,7 @@
 ---
 title: "Smart locker là gì? Nguyên lý hoạt động và khác biệt với tủ locker thường"
 description: "Giải thích chi tiết smart locker là gì, cách hoạt động của hệ thống tủ locker thông minh, khác biệt so với tủ locker cơ khí và các thành phần cấu tạo."
-date: "2026-11-10"
+date: "2026-06-16"
 silo: "tu-locker-thong-minh"
 category: "kien-thuc"
 keywords: ["smart locker là gì", "tủ locker thông minh là gì", "nguyên lý hoạt động locker thông minh", "smart locker khác gì locker thường"]

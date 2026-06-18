@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh và tương lai của bưu điện: Khi bưu điện không còn cần nhân viên"
 description: "Deutsche Post, Royal Mail và Japan Post đang chuyển đổi từ bưu điện truyền thống sang mạng lưới smart locker tự phục vụ. Hệ thống bưu điện tương lai là locker khắp nơi, không cần nhân viên."
-date: "2026-10-01"
+date: "2026-06-03"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker bưu điện", "smart locker thư tín", "bưu điện tự động locker"]
 ---

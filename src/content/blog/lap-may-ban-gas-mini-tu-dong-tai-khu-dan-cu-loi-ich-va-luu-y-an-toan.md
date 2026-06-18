@@ -1,7 +1,7 @@
 ---
 title: "Lắp máy bán gas mini tự động tại khu dân cư: Lợi ích và lưu ý an toàn"
 description: "Lắp máy bán gas mini tự động tại khu dân cư mang lại lợi ích gì cho cư dân và nhà đầu tư? Những lưu ý an toàn PCCC cần biết trước khi triển khai."
-date: "2026-06-29"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-gas"
 keywords: ["máy bán gas tự động", "bình gas mini", "an toàn PCCC vending"]

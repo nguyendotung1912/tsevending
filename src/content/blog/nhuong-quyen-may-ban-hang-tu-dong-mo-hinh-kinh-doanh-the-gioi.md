@@ -1,7 +1,7 @@
 ---
 title: "Nhượng quyền máy bán hàng tự động: Mô hình kinh doanh đang bùng nổ toàn cầu"
 description: "Franchise vending machine đang phát triển mạnh tại Mỹ, Anh và châu Á. Tìm hiểu mô hình nhượng quyền trong ngành vending và cơ hội tại thị trường Việt Nam."
-date: "2026-08-05"
+date: "2026-05-15"
 silo: "giai-phap-kinh-doanh"
 keywords: ["nhượng quyền máy bán hàng tự động", "franchise vending machine", "mô hình kinh doanh vending"]
 ---

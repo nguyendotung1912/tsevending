@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong capsule hotel và nhà nghỉ budget: Giải pháp tối ưu không gian"
 description: "Capsule hotel Nhật Bản, hostel Châu Âu và budget hotel châu Á đang dùng tủ locker thông minh để tối ưu không gian, giảm nhân sự và cải thiện an ninh trong môi trường lưu trú chia sẻ."
-date: "2026-09-11"
+date: "2026-05-27"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker capsule hotel", "smart locker hostel", "locker nhà nghỉ budget"]
 ---

@@ -51,21 +51,9 @@ function uniqueSlug(base: string): string {
   return slug;
 }
 
-function nextIsoDate(): string {
-  const existing = fs
-    .readdirSync(BLOG_DIR)
-    .filter((f) => f.endsWith(".md"))
-    .map((f) => {
-      const raw = fs.readFileSync(path.join(BLOG_DIR, f), "utf8");
-      const m = raw.match(/^date:\s*"?(\d{4}-\d{2}-\d{2})"?/m);
-      return m ? m[1] : "2025-01-01";
-    })
-    .sort()
-    .reverse();
-  const latest = existing[0] ?? new Date().toISOString().slice(0, 10);
-  const next = new Date(latest);
-  next.setDate(next.getDate() + 1);
-  return next.toISOString().slice(0, 10);
+function startIsoDate(): string {
+  // Always anchor to today — never inherit far-future dates from existing articles
+  return new Date().toISOString().slice(0, 10);
 }
 
 function buildSystemPrompt(item: CalendarItem): string {
@@ -236,7 +224,7 @@ async function main() {
 
   console.log(`🚀 Generating ${count} article(s) with Gemini...\n`);
 
-  let date = nextIsoDate();
+  let date = startIsoDate();
 
   for (const item of toGenerate) {
     try {

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho outdoor và leo núi: Adventure Vending tại những nơi hẻo lánh nhất"
 description: "Trạm dừng chân leo núi Fansipan, Bà Nà Hills và các điểm outdoor tại Nhật, Thụy Sĩ đang triển khai vending machine năng lượng mặt trời bán nước, thanh năng lượng và thiết bị khẩn cấp cho người leo núi."
-date: "2026-10-05"
+date: "2026-06-04"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine leo núi outdoor", "adventure vending machine", "máy bán hàng tự động núi cao"]
 ---

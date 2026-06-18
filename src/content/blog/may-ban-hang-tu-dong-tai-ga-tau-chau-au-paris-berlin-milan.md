@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại ga tàu châu Âu: Paris, Berlin và Milan dẫn đầu xu hướng"
 description: "Ga tàu châu Âu là một trong những vị trí vending machine đông khách nhất thế giới. Khám phá mô hình vận hành tại Paris Gare du Nord, Berlin Hauptbahnhof và ga tàu Milan."
-date: "2026-08-04"
+date: "2026-05-14"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động ga tàu", "vending machine châu Âu", "vending machine ga tàu hỏa"]
 ---

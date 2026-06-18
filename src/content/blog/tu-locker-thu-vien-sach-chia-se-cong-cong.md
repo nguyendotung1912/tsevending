@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho thư viện sách chia sẻ: Cộng đồng đọc sách không rào cản"
 description: "Little Free Library và hệ thống thư viện sách chia sẻ thế hệ mới đang dùng tủ locker thông minh để mượn, trả và theo dõi sách 24/7. Mô hình thú vị từ Anh, Pháp và Hàn Quốc đang lan rộng."
-date: "2026-09-21"
+date: "2026-05-30"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện sách chia sẻ", "library locker thông minh", "mượn sách tự động"]
 ---

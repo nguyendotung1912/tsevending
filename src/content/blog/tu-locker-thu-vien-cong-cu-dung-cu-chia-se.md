@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thư viện công cụ: Mô hình chia sẻ dụng cụ cộng đồng thông minh"
 description: "Tool Library (thư viện dụng cụ) kết hợp tủ locker thông minh đang nổi lên như mô hình kinh tế chia sẻ sáng tạo — người dân mượn khoan, cưa, máy hàn thay vì mua. Toronto, Berlin và Melbourne đang dẫn đầu."
-date: "2026-10-08"
+date: "2026-06-05"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện công cụ", "tool library locker", "chia sẻ dụng cụ thông minh"]
 ---

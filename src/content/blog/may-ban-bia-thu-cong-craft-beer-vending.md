@@ -1,7 +1,7 @@
 ---
 title: "Máy bán bia thủ công tự động: Craft Beer Vending Machine và văn hóa bia artisan"
 description: "Craft beer vending machine đang xuất hiện tại văn phòng, khách sạn và điểm du lịch tại Nhật, Mỹ và Đức. Kết hợp tính tiện lợi của vending machine với chất lượng cao của bia thủ công — thị trường ngách đang bùng nổ."
-date: "2026-10-09"
+date: "2026-06-05"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán bia tự động", "craft beer vending machine", "vending machine bia thủ công"]
 ---

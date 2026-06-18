@@ -1,7 +1,7 @@
 ---
 title: "Công nghệ AI và IoT trong quản lý máy bán hàng tự động từ xa"
 description: "Tìm hiểu cách công nghệ IoT và AI giúp giám sát tồn kho, doanh thu và tình trạng vận hành máy bán hàng tự động theo thời gian thực từ xa."
-date: "2026-06-21"
+date: "2026-04-30"
 silo: "may-ban-hang-tu-dong"
 keywords: ["IoT máy bán hàng tự động", "quản lý vending machine từ xa", "AI máy bán hàng tự động", "giám sát máy bán hàng từ xa"]
 ---

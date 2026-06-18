@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trong bệnh viện: Phục vụ bệnh nhân, người nhà và nhân viên y tế 24/7"
 description: "Bệnh viện cần dịch vụ F&B và nhu yếu phẩm 24/7 cho bệnh nhân nội trú, người nhà chờ đợi và y bác sĩ làm ca đêm. Vending machine là giải pháp hiệu quả và an toàn vệ sinh cho môi trường y tế."
-date: "2026-09-20"
+date: "2026-05-30"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine bệnh viện", "máy bán hàng tự động y tế", "vending machine nhân viên y tế ca đêm"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI dự đoán tồn kho và tối ưu doanh thu máy bán hàng tự động như thế nào?"
 description: "Trí tuệ nhân tạo đang cách mạng hóa cách vận hành mạng lưới vending machine — từ dự báo tồn kho đến tối ưu giá bán động. Công nghệ nào đang được áp dụng thực tế?"
-date: "2026-08-03"
+date: "2026-05-14"
 silo: "giai-phap-kinh-doanh"
 keywords: ["AI tối ưu vending machine", "dự đoán tồn kho máy bán hàng tự động", "AI quản lý vending"]
 ---

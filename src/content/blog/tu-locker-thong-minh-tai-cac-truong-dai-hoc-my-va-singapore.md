@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại các trường đại học Mỹ và Singapore: Mô hình và bài học"
 description: "MIT, Harvard và NUS Singapore đã triển khai hệ thống tủ locker thông minh tích hợp toàn diện cho sinh viên. Mô hình nào phù hợp với đại học Việt Nam?"
-date: "2026-07-27"
+date: "2026-05-12"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker đại học", "smart locker trường học", "locker thông minh sinh viên"]
 ---

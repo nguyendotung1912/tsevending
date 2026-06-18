@@ -1,7 +1,7 @@
 ---
 title: "Máy bán nước tự động cho văn phòng: Nên chọn dung tích bao nhiêu?"
 description: "Hướng dẫn chọn dung tích máy bán nước tự động phù hợp với quy mô văn phòng theo số lượng nhân viên, tần suất sử dụng và không gian lắp đặt."
-date: "2026-07-02"
+date: "2026-05-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước văn phòng", "dung tích máy vending", "máy bán nước tự động"]

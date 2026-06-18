@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker hành lý thông minh tại sân bay ASEAN: Giải pháp lưu trữ tạm thời cho hành khách"
 description: "Sân bay Changi, Don Mueang, KLIA và Tân Sơn Nhất đang nâng cấp dịch vụ tủ locker lưu hành lý. Tủ locker thông minh cho phép đặt trước online, thanh toán không tiền mặt và theo dõi thời gian thực."
-date: "2026-08-24"
+date: "2026-05-21"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker sân bay", "luggage locker sân bay", "smart locker hành lý du lịch ASEAN"]
 ---

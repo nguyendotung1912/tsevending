@@ -1,7 +1,7 @@
 ---
 title: "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?"
 description: "Dấu hiệu nhận biết block nén lạnh máy bán hàng tự động xuống cấp, khi nào nên sửa và khi nào nên thay mới để đảm bảo chất lượng hàng hóa và tiết kiệm chi phí."
-date: "2026-07-01"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["block nén lạnh", "sửa máy vending", "linh kiện làm lạnh"]

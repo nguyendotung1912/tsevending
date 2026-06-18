@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại ngân hàng và đại học Nhật Bản: Bài học từ 200 năm quản lý tài sản"
 description: "Ngân hàng và trường đại học Nhật Bản đã dùng locker lưu trữ tài sản và tài liệu từ hàng thế kỷ. Phiên bản thông minh đang cách mạng hóa dịch vụ này như thế nào?"
-date: "2026-08-17"
+date: "2026-05-19"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ngân hàng", "locker lưu trữ tài sản Nhật Bản", "smart locker dịch vụ tài chính"]
 ---

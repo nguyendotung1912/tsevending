@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động thực phẩm lành mạnh: Xu hướng Healthy Vending toàn cầu"
 description: "Vending machine healthy food với nhãn dinh dưỡng rõ ràng, thực phẩm hữu cơ và ít đường đang thay thế máy bán snack truyền thống tại trường học, bệnh viện và công sở. Tại sao xu hướng này bùng nổ?"
-date: "2026-09-10"
+date: "2026-05-27"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine thực phẩm lành mạnh", "healthy vending machine", "máy bán hàng tự động ít đường organic"]
 ---

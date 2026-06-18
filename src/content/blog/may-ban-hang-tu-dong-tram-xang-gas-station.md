@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại trạm xăng: Mô hình C-Store tự động đang thay đổi ngành bán lẻ nhiên liệu"
 description: "Trạm xăng không chỉ là nơi đổ xăng — hệ thống vending machine C-Store tích hợp đang biến trạm xăng thành điểm tiêu dùng mini 24/7. Xu hướng từ Shell, BP và toàn ngành dầu khí toàn cầu."
-date: "2026-08-22"
+date: "2026-05-20"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động trạm xăng", "vending machine gas station", "C-store tự động trạm xăng"]
 ---

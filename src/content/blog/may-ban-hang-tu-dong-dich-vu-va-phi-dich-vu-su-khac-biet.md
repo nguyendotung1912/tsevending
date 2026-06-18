@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động dịch vụ vs. phi dịch vụ: Phân tích và lựa chọn đúng"
 description: "Không phải máy bán hàng tự động nào cũng bán sản phẩm vật lý. Máy bán vé, đổi tiền, nạp thẻ, đặt lịch... đang mở ra chiều hướng mới. Phân tích để chọn đầu tư đúng."
-date: "2026-08-19"
+date: "2026-05-19"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán vé tự động", "máy dịch vụ tự động", "kiosk dịch vụ vending machine"]
 ---

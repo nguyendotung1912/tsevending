@@ -1,7 +1,7 @@
 ---
 title: "Máy bán thuốc không kê toa tự động: Pharmacy Vending Machine đang thay đổi dịch vụ dược phẩm"
 description: "Máy bán thuốc không kê toa tự động đang xuất hiện tại sân bay, khách sạn và bệnh viện toàn cầu. CVS Health, Walgreens và ZEUS giải quyết bài toán tiếp cận thuốc 24/7 không cần nhân viên dược."
-date: "2026-09-30"
+date: "2026-06-02"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán thuốc tự động", "pharmacy vending machine", "máy bán thuốc OTC không kê toa"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong trung tâm mua sắm và bán lẻ hiện đại"
 description: "IKEA, Walmart và Uniqlo sử dụng tủ locker thông minh để kết nối kênh online và offline. Mô hình omnichannel locker đang định hình lại trải nghiệm mua sắm toàn cầu."
-date: "2026-08-09"
+date: "2026-05-16"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker trung tâm mua sắm", "locker bán lẻ hiện đại", "smart locker omnichannel"]
 ---

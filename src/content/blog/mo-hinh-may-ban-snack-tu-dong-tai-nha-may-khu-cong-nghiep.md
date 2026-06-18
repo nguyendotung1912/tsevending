@@ -1,7 +1,7 @@
 ---
 title: "Mô hình máy bán snack tự động tại nhà máy, khu công nghiệp"
 description: "Máy bán snack tự động tại nhà máy, khu công nghiệp giúp công nhân tiếp cận đồ ăn vặt, nước uống ngoài giờ ăn chính, đặc biệt vào ca đêm. Gợi ý sản phẩm và vị trí lắp đặt hiệu quả."
-date: "2026-07-03"
+date: "2026-05-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán snack khu công nghiệp", "vending machine nhà máy", "máy bán đồ ăn vặt"]

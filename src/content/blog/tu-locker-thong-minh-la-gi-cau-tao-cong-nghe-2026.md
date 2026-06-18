@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh là gì? Cấu tạo và công nghệ 2026"
 description: "Tủ locker thông minh là gì, cấu tạo gồm những gì, các công nghệ mở khóa RFID, QR, Face ID và ứng dụng tại chung cư, văn phòng, trường học, gym tại Việt Nam."
-date: "2026-06-15"
+date: "2026-04-28"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh là gì", "công nghệ mở khóa tủ locker", "ứng dụng tủ locker thông minh", "smart locker Việt Nam"]
 ---

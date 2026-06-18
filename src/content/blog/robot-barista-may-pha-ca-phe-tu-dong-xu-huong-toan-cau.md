@@ -1,7 +1,7 @@
 ---
 title: "Robot barista và máy pha cà phê tự động: Xu hướng đang thay đổi ngành F&B toàn cầu"
 description: "Café X, Briggo và Aethon robot barista đang mở ra kỷ nguyên cà phê tự động không nhân viên. Phân tích xu hướng và tác động đến thị trường đồ uống tự động tại Việt Nam."
-date: "2026-08-08"
+date: "2026-05-16"
 silo: "may-ban-hang-tu-dong"
 keywords: ["robot barista", "máy pha cà phê tự động", "cà phê robot F&B tự động"]
 ---

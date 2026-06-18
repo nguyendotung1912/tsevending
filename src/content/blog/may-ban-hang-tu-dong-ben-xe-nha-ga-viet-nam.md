@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại bến xe liên tỉnh và nhà ga tàu hỏa Việt Nam: Cơ hội lớn chưa được khai thác"
 description: "Bến xe Miền Đông, ga Sài Gòn, ga Hà Nội với hàng chục triệu hành khách/năm nhưng hạ tầng dịch vụ tiêu dùng còn nghèo nàn. Vending machine là giải pháp hiệu quả để cải thiện trải nghiệm hành khách."
-date: "2026-09-12"
+date: "2026-05-27"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine bến xe", "máy bán hàng tự động ga tàu hỏa", "vending machine nhà ga Việt Nam"]
 ---

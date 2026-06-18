@@ -1,7 +1,7 @@
 ---
 title: "Quy định pháp lý khi kinh doanh máy bán hàng tự động tại Việt Nam"
 description: "Những quy định pháp lý cần biết khi kinh doanh máy bán hàng tự động tại Việt Nam: đăng ký kinh doanh, hóa đơn điện tử, an toàn thực phẩm và quy định PCCC."
-date: "2026-07-14"
+date: "2026-05-08"
 silo: "giai-phap-kinh-doanh"
 keywords: ["quy định kinh doanh vending machine", "pháp lý máy bán hàng tự động", "đăng ký kinh doanh vending"]
 ---

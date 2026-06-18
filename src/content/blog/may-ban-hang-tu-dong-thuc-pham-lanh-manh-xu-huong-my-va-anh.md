@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động thực phẩm lành mạnh: Xu hướng bùng nổ tại Mỹ và Anh"
 description: "Thị trường Mỹ và Anh đang chứng kiến sự bùng nổ của máy bán hàng tự động thực phẩm lành mạnh tại trường học, bệnh viện và văn phòng. Cơ hội nào cho Việt Nam?"
-date: "2026-07-24"
+date: "2026-05-11"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán thực phẩm lành mạnh", "healthy vending machine", "vending machine bệnh viện trường học"]
 ---

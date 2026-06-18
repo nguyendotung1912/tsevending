@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker giao nhận hàng cho shipper: Giải pháp tối ưu chi phí logistics"
 description: "Tủ locker thông minh cho shipper giúp giao - nhận hàng 24/7 không cần gặp mặt, giảm chi phí vận chuyển và tích hợp API với sàn TMĐT, đơn vị vận chuyển."
-date: "2026-06-16"
+date: "2026-04-28"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker cho shipper", "tủ locker giao nhận hàng", "smart locker logistics", "giao hàng không tiếp xúc"]

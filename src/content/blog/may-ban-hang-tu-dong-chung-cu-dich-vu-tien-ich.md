@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trong chung cư cao cấp: Dịch vụ tiện ích 24/7 cho cư dân"
 description: "Chung cư cao cấp tại Singapore, Hồng Kông và Việt Nam đang tích hợp vending machine như một tiện ích amenity — bán nhu yếu phẩm, đồ uống và sản phẩm cơ bản 24/7 ngay trong tòa nhà."
-date: "2026-09-25"
+date: "2026-06-01"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine chung cư", "máy bán hàng tự động khu dân cư", "amenity vending chung cư cao cấp"]
 ---

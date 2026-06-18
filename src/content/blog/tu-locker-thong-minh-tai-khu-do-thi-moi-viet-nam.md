@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại khu đô thị mới Việt Nam: Vinhomes, Masteri và cơ hội thị trường"
 description: "Các khu đô thị mới như Vinhomes Grand Park, Masteri Thảo Điền đang là thị trường tiềm năng nhất cho tủ locker thông minh tại Việt Nam. Phân tích cơ hội đầu tư."
-date: "2026-08-13"
+date: "2026-05-17"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh Vinhomes", "smart locker khu đô thị mới", "locker chung cư cao cấp Việt Nam"]
 ---

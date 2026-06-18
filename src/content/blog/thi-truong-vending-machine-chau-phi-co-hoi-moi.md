@@ -1,7 +1,7 @@
 ---
 title: "Thị trường vending machine Châu Phi: Cơ hội tiếp theo sau Châu Á"
 description: "Châu Phi với 1,4 tỷ dân, tỷ lệ smartphone tăng nhanh và nền kinh tế số đang nổi lên là thị trường vending machine tăng trưởng tiếp theo. Nigeria, Kenya và Nam Phi đang dẫn đầu làn sóng này."
-date: "2026-09-16"
+date: "2026-05-29"
 silo: "giai-phap-kinh-doanh"
 keywords: ["thị trường vending machine Châu Phi", "Africa vending market", "máy bán hàng tự động Nigeria Kenya"]
 ---

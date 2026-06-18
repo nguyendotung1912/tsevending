@@ -1,7 +1,7 @@
 ---
 title: "Locker giao nhận hàng TMĐT: Xu hướng bùng nổ thay thế shipper gõ cửa"
 description: "Mô hình locker giao nhận hàng thương mại điện tử đang phát triển mạnh tại Việt Nam 2026 — thay thế giao hàng door-to-door, giảm tỷ lệ thất bại và chi phí last-mile delivery."
-date: "2026-11-11"
+date: "2026-06-16"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 category: "xu-huong"

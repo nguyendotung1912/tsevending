@@ -1,7 +1,7 @@
 ---
 title: "Vending machine trong siêu thị và đại siêu thị: Kênh bán hàng bổ sung chiến lược"
 description: "Walmart, Carrefour và Lotte Mart đang dùng vending machine như kênh bán hàng bổ sung trong siêu thị — bán khi quầy đóng, giảm tải nhân viên giờ cao điểm và phục vụ khu vực siêu thị rộng lớn."
-date: "2026-09-04"
+date: "2026-05-25"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine siêu thị", "máy bán hàng tự động hypermarket", "vending Walmart Carrefour"]
 ---

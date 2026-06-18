@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh chung cư: Giải pháp nhận hộ hàng cho cư dân"
 description: "Tủ locker thông minh tại sảnh chung cư giúp cư dân nhận hàng 24/7, giảm tải cho bảo vệ và nâng cao chất lượng dịch vụ quản lý vận hành."
-date: "2026-06-11"
+date: "2026-04-27"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["tủ locker thông minh chung cư", "smart locker", "nhận hàng tự động"]

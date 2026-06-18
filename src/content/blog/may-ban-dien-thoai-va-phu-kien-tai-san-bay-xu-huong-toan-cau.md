@@ -1,7 +1,7 @@
 ---
 title: "Máy bán điện thoại và phụ kiện tại sân bay: Xu hướng toàn cầu đang bùng nổ"
 description: "Chuỗi máy vending bán điện thoại, tai nghe, sạc dự phòng tại sân bay đang mở rộng nhanh tại Mỹ, Dubai và Singapore. Cơ hội nào cho sân bay Việt Nam?"
-date: "2026-07-28"
+date: "2026-05-12"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán điện thoại tự động sân bay", "electronics vending machine airport", "vending máy bán hàng sân bay"]
 ---

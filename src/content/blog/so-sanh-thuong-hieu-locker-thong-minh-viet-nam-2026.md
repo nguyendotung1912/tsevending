@@ -1,7 +1,7 @@
 ---
 title: "So sánh thương hiệu locker thông minh tại Việt Nam 2026"
 description: "Review và so sánh chi tiết các thương hiệu tủ locker thông minh phổ biến nhất tại Việt Nam 2026: tính năng, giá, chất lượng và dịch vụ hậu mãi."
-date: "2026-10-30"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 keywords: ["so sánh locker thông minh", "thương hiệu locker Việt Nam", "locker nào tốt nhất", "review locker thông minh 2026", "mua locker uy tín"]
 image: "/images/articles/so-sanh-thuong-hieu-locker-thong-minh-viet-nam-2026.svg"

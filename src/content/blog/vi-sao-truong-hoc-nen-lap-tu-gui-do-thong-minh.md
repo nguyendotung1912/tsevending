@@ -1,7 +1,7 @@
 ---
 title: "Vì sao trường học nên lắp tủ gửi đồ thông minh cho học sinh?"
 description: "Tủ gửi đồ thông minh giúp trường học quản lý đồ dùng cá nhân của học sinh an toàn, vệ sinh và không cần chìa khóa vật lý."
-date: "2026-06-12"
+date: "2026-04-27"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["tủ gửi đồ thông minh", "locker trường học", "smart locker trường học"]

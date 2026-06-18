@@ -1,7 +1,7 @@
 ---
 title: "Máy bán cà phê tự động: Có nên tích hợp vào máy bán nước giải khát?"
 description: "Phân tích ưu nhược điểm của máy bán cà phê tự động tích hợp vào máy bán nước giải khát: khi nào nên chọn giải pháp tích hợp, khi nào nên tách biệt."
-date: "2026-07-20"
+date: "2026-05-10"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán cà phê tự động", "vending machine cà phê", "máy bán nước tích hợp cà phê"]

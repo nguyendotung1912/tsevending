@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong nhà máy sản xuất: Quản lý tài sản công nhân hiệu quả"
 description: "Tủ locker thông minh trong nhà máy sản xuất giải quyết bài toán quản lý tài sản cá nhân và thiết bị công nhân, tuân thủ quy định an toàn và tối ưu hiệu quả vận hành. Mô hình từ Toyota, Samsung đến các KCN Việt Nam."
-date: "2026-09-18"
+date: "2026-05-29"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhà máy sản xuất", "smart locker công nhân", "locker thông minh khu công nghiệp"]
 ---

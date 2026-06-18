@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho phòng khám thú y và spa thú cưng: Dịch vụ Pet Care tự động"
 description: "Phòng khám thú y và pet spa tại Mỹ, Nhật và Hàn Quốc đang triển khai tủ locker thông minh cho nhận đặt lịch không tiếp xúc, lấy đơn thuốc và bảo quản thiết bị chăm sóc thú cưng."
-date: "2026-09-29"
+date: "2026-06-02"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker phòng khám thú y", "smart locker pet spa", "locker thú cưng tự động"]
 ---

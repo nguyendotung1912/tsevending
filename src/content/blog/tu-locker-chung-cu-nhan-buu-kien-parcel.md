@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại chung cư: Giải pháp nhận bưu kiện an toàn 24/7"
 description: "Amazon Locker, DHL Packstation và các hệ thống parcel locker đang lan rộng vào chung cư toàn cầu. Tại Việt Nam, lượng đơn hàng Shopee, Lazada bùng nổ tạo nhu cầu cấp thiết cho hệ thống nhận bưu kiện tự động."
-date: "2026-09-13"
+date: "2026-05-28"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhận bưu kiện chung cư", "parcel locker chung cư", "smart locker nhận hàng online"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tích hợp máy bán hàng tự động vào chương trình chăm sóc sức khỏe nhân viên"
 description: "Doanh nghiệp tiến bộ tại Mỹ, Anh và Singapore đang dùng máy vending như công cụ chăm sóc sức khỏe nhân viên. Mô hình Wellness Vending và cơ hội tại Việt Nam."
-date: "2026-08-14"
+date: "2026-05-18"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động chăm sóc sức khỏe", "wellness vending machine", "vending machine phúc lợi nhân viên"]
 ---

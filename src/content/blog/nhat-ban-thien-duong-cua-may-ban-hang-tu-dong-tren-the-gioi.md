@@ -1,7 +1,7 @@
 ---
 title: "Nhật Bản: Thiên đường của máy bán hàng tự động trên thế giới"
 description: "Nhật Bản có hơn 5 triệu máy bán hàng tự động — một máy trên 23 người dân. Tìm hiểu vì sao vending machine trở thành nét văn hóa đặc trưng và bài học cho thị trường Việt Nam."
-date: "2026-07-21"
+date: "2026-05-10"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động Nhật Bản", "vending machine Nhật Bản", "thị trường vending Nhật"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động là gì? Phân loại và giá 2026"
 description: "Tìm hiểu máy bán hàng tự động là gì, các loại máy phổ biến, chi phí đầu tư - thuê máy và mô hình hợp tác kinh doanh hiệu quả tại Việt Nam năm 2026."
-date: "2026-06-14"
+date: "2026-04-28"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động là gì", "phân loại máy bán hàng tự động", "giá máy bán hàng tự động", "mô hình kinh doanh vending machine"]
 ---

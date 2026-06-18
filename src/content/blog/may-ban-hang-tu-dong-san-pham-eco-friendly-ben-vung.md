@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động sản phẩm bền vững: Eco-Friendly Vending Machine và kinh tế xanh"
 description: "Vending machine bán sản phẩm hữu cơ, tái chế và sinh thái đang nổi lên ở Thụy Điển, Hà Lan và Nhật Bản. Đây là giao điểm của vending machine và kinh tế tuần hoàn — xu hướng định hình tương lai bán lẻ."
-date: "2026-10-02"
+date: "2026-06-03"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine eco-friendly", "máy bán hàng tự động xanh", "vending machine bền vững sản phẩm hữu cơ"]
 ---

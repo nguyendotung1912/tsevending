@@ -1,7 +1,7 @@
 ---
 title: "So sánh 3 phương thức mở khóa locker: QR code, RFID và vân tay — Cái nào phù hợp nhất?"
 description: "So sánh chi tiết QR code, thẻ RFID và vân tay cho tủ locker thông minh: ưu nhược điểm, chi phí, tình huống phù hợp và khuyến nghị cho từng ngành."
-date: "2026-11-09"
+date: "2026-06-16"
 silo: "tu-locker-thong-minh"
 category: "so-sanh"
 keywords: ["so sánh phương thức mở locker", "QR code vs RFID locker", "vân tay mở tủ locker", "locker mở bằng gì tốt nhất"]

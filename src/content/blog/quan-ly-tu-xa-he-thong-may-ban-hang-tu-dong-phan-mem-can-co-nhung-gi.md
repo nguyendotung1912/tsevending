@@ -1,7 +1,7 @@
 ---
 title: "Quản lý từ xa hệ thống máy bán hàng tự động: Phần mềm cần có những gì?"
 description: "Checklist các tính năng cần có của phần mềm quản lý từ xa cho hệ thống máy bán hàng tự động: theo dõi tồn kho, doanh thu, cảnh báo lỗi và quản lý nhiều vị trí."
-date: "2026-07-07"
+date: "2026-05-05"
 silo: "giai-phap-kinh-doanh"
 keywords: ["quản lý vending từ xa", "phần mềm quản lý vending", "IoT vending machine"]
 ---

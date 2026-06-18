@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong nhà hàng và khách sạn boutique: Nâng cấp trải nghiệm khách hàng"
 description: "Khách sạn boutique và nhà hàng cao cấp đang sử dụng tủ locker thông minh để lưu trữ hành lý, nhận đặt sẵn đơn hàng và nâng cao dịch vụ. Xu hướng từ Nhật và Châu Âu."
-date: "2026-08-15"
+date: "2026-05-18"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker khách sạn", "smart locker nhà hàng", "locker thông minh hospitality"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh và bài toán an ninh chung cư cao tầng"
 description: "Tủ locker thông minh đóng vai trò gì trong hệ thống an ninh chung cư cao tầng? Phân tích cách tủ locker giúp kiểm soát người vào ra, bảo vệ tài sản và tích hợp với camera an ninh."
-date: "2026-07-11"
+date: "2026-05-07"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["an ninh chung cư", "tủ locker thông minh", "smart locker an ninh"]

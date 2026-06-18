@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại nhà ga metro và giao thông công cộng toàn cầu"
 description: "Tokyo, Seoul, London và Paris đặt tủ locker thông minh tại ga tàu điện ngầm phục vụ hành khách lưu trữ hành lý tạm thời. Tuyến metro Bến Thành - Suối Tiên mở cơ hội gì?"
-date: "2026-08-02"
+date: "2026-05-14"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhà ga metro", "locker ga tàu điện ngầm", "smart locker giao thông công cộng"]
 ---

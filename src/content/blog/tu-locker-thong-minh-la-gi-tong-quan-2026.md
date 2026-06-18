@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh là gì? Tổng quan đầy đủ về smart locker 2026"
 description: "Tủ locker thông minh là hệ thống tủ khóa điện tử tự động, được điều khiển qua phần mềm và kết nối internet. Tìm hiểu cách hoạt động, phân loại và ứng dụng thực tế của smart locker trong mọi lĩnh vực."
-date: "2026-10-18"
+date: "2026-06-08"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh là gì", "smart locker là gì", "tủ locker điện tử là gì", "tủ locker thông minh 2026"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho văn phòng: Giải pháp lưu trữ đồ cá nhân nhân viên"
 description: "Tủ locker thông minh cho văn phòng giúp nhân viên lưu trữ đồ cá nhân an toàn, tích hợp thẻ chấm công RFID và quản lý tập trung qua phần mềm."
-date: "2026-06-23"
+date: "2026-05-01"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["tủ locker văn phòng", "smart locker nhân viên", "tủ khóa điện tử văn phòng"]

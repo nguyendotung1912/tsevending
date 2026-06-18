@@ -1,7 +1,7 @@
 ---
 title: "Tích hợp tủ locker thông minh với hệ thống quản lý vận đơn"
 description: "Hướng dẫn cách tủ locker thông minh tích hợp API với hệ thống quản lý vận đơn của sàn TMĐT và đơn vị vận chuyển, đồng bộ trạng thái đơn hàng theo thời gian thực."
-date: "2026-07-06"
+date: "2026-05-05"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["tích hợp API locker", "quản lý vận đơn", "tủ locker logistics"]

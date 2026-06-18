@@ -1,7 +1,7 @@
 ---
 title: "Máy bán nước tự động mùa hè: Tối ưu doanh thu cao điểm"
 description: "Hướng dẫn tối ưu doanh thu máy bán nước tự động vào mùa hè: điều chỉnh danh mục sản phẩm, vị trí đặt máy và chiến lược tiếp hàng theo cao điểm tiêu thụ."
-date: "2026-07-10"
+date: "2026-05-06"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước mùa hè", "tối ưu doanh thu vending", "kinh doanh máy bán nước"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy thu gom và tái chế điện thoại cũ: E-Waste Vending Machine giải quyết rác thải điện tử"
 description: "E-waste vending machine thu gom điện thoại cũ, pin hết, đồ điện tử hỏng và trả tiền mặt hoặc voucher. EcoATM, Apple Trade-in kiosk và mô hình tái chế điện tử tự động đang lan rộng toàn cầu."
-date: "2026-09-22"
+date: "2026-05-31"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy thu gom điện thoại cũ", "e-waste vending machine", "tái chế điện tử tự động"]
 ---

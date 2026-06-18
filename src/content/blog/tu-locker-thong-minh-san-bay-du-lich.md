@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh sân bay và điểm du lịch: Giải phóng hành lý, tự do khám phá"
 description: "Tủ locker thông minh tại sân bay Changi, Narita và các điểm du lịch nổi tiếng cho phép du khách gửi hành lý an toàn và khám phá thoải mái. Giá, cách đặt và những lưu ý quan trọng cho du khách Việt Nam."
-date: "2026-10-27"
+date: "2026-06-11"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker sân bay thông minh", "locker gửi hành lý sân bay", "smart locker điểm du lịch", "tủ locker du lịch"]
 ---

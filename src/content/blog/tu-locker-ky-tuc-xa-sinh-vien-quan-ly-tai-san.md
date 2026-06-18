@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong ký túc xá sinh viên: Giải pháp quản lý tài sản an toàn"
 description: "Đại học MIT, NUS Singapore và nhiều trường danh tiếng toàn cầu đã triển khai tủ locker thông minh trong ký túc xá để bảo vệ tài sản sinh viên, nhận bưu kiện và chia sẻ thiết bị học tập."
-date: "2026-09-01"
+date: "2026-05-24"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ký túc xá", "smart locker sinh viên", "locker thông minh ký túc xá đại học"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trong nước và nhập khẩu: Nên chọn loại nào?"
 description: "So sánh máy bán hàng tự động sản xuất trong nước và nhập khẩu: về giá, chất lượng, khả năng bảo trì và sự phù hợp với điều kiện vận hành tại Việt Nam."
-date: "2026-07-16"
+date: "2026-05-08"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động trong nước", "máy bán hàng tự động nhập khẩu", "so sánh máy bán hàng tự động"]
 ---

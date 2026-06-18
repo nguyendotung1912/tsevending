@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại khu nghỉ dưỡng resort và điểm du lịch: Cơ hội doanh thu mới"
 description: "Resort, khách sạn và điểm du lịch đang khai thác máy bán hàng tự động như nguồn doanh thu bổ sung. Mô hình và bài học cho thị trường du lịch Việt Nam."
-date: "2026-08-07"
+date: "2026-05-15"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động resort khách sạn", "vending machine du lịch", "vending machine khu nghỉ dưỡng"]
 ---

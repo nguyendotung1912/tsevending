@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn chọn tủ locker thông minh phù hợp: 6 tiêu chí cần xem xét"
 description: "Hướng dẫn chọn tủ locker thông minh đúng cho doanh nghiệp: số ô tủ, kích thước ngăn, công nghệ mở khóa, tích hợp phần mềm, ngân sách và nhà cung cấp."
-date: "2026-11-08"
+date: "2026-06-15"
 silo: "tu-locker-thong-minh"
 category: "huong-dan"
 keywords: ["cách chọn tủ locker thông minh", "tiêu chí lựa chọn smart locker", "hướng dẫn mua tủ locker", "tủ locker thông minh loại nào tốt"]

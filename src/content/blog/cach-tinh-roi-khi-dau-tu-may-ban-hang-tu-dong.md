@@ -1,7 +1,7 @@
 ---
 title: "Cách tính ROI khi đầu tư máy bán hàng tự động"
 description: "Hướng dẫn cách tính ROI (tỷ suất hoàn vốn) khi đầu tư máy bán hàng tự động, các yếu tố ảnh hưởng đến thời gian hoàn vốn và cách tối ưu hiệu quả đầu tư."
-date: "2026-06-25"
+date: "2026-05-01"
 silo: "giai-phap-kinh-doanh"
 keywords: ["ROI vending machine", "tính toán đầu tư vending", "đầu tư máy bán hàng tự động"]
 ---

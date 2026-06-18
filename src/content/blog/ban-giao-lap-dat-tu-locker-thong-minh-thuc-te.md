@@ -1,7 +1,7 @@
 ---
 title: "Lắp đặt tủ locker thông minh: Quy trình và thực tế thi công"
 description: "Quy trình lắp đặt tủ locker thông minh thực tế từ khảo sát đến bàn giao. Thời gian, yêu cầu kỹ thuật, checklist nghiệm thu và những điều cần biết trước khi ký hợp đồng."
-date: "2026-11-01"
+date: "2026-06-13"
 silo: "tu-locker-thong-minh"
 keywords: ["lắp đặt tủ locker thông minh", "thi công locker thông minh", "quy trình lắp locker", "bàn giao locker", "yêu cầu kỹ thuật locker"]
 image: "/images/articles/ban-giao-lap-dat-tu-locker-thong-minh-thuc-te.svg"

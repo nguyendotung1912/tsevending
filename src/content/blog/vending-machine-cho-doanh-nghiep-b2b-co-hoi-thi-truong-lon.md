@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động B2B: Cơ hội thị trường lớn đang bị bỏ ngỏ"
 description: "Phân khúc B2B trong vending machine — bán dụng cụ, PPE, vật tư văn phòng và linh kiện tự động cho nhân viên doanh nghiệp — đang tăng trưởng mạnh toàn cầu."
-date: "2026-08-18"
+date: "2026-05-19"
 silo: "giai-phap-kinh-doanh"
 keywords: ["vending machine B2B", "máy bán hàng tự động doanh nghiệp", "industrial vending machine"]
 ---

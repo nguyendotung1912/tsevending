@@ -1,7 +1,7 @@
 ---
 title: "Máy bán trang sức và đồng hồ tự động: Luxury Vending Machine và nghịch lý cao cấp"
 description: "Vending machine bán trang sức, đồng hồ và phụ kiện luxury đang xuất hiện tại sân bay quốc tế và trung tâm thương mại cao cấp tại Dubai, Singapore và Mỹ. Tại sao hàng luxury lại phù hợp với vending machine?"
-date: "2026-10-13"
+date: "2026-06-07"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán trang sức tự động", "luxury vending machine", "đồng hồ vending machine"]
 ---

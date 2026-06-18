@@ -1,7 +1,7 @@
 ---
 title: "Chi phí đầu tư máy bán hàng tự động: Cần bao nhiêu vốn và bao lâu hoàn vốn?"
 description: "Phân tích chi phí đầu tư máy bán hàng tự động, các yếu tố ảnh hưởng đến thời gian hoàn vốn và cách tối ưu lợi nhuận khi kinh doanh vending machine."
-date: "2026-06-19"
+date: "2026-04-29"
 silo: "giai-phap-kinh-doanh"
 keywords: ["chi phí đầu tư máy bán hàng tự động", "vốn kinh doanh vending machine", "hoàn vốn máy bán hàng tự động"]
 ---

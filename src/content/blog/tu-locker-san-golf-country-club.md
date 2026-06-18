@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại sân golf và country club: Nâng cấp dịch vụ hội viên cao cấp"
 description: "Sân golf và country club tại Mỹ, Nhật, Hàn Quốc đang tích hợp tủ locker thông minh để bảo quản gậy golf, thiết bị và vật phẩm cá nhân của hội viên. Mô hình dịch vụ cao cấp đang đến Việt Nam."
-date: "2026-08-23"
+date: "2026-05-21"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker sân golf", "smart locker country club", "locker gậy golf thông minh"]
 ---

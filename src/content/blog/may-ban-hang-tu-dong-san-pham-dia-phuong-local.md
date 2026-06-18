@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động sản phẩm địa phương: Local Vending Movement đang thay đổi ngành"
 description: "Xu hướng Local Vending — máy bán sản phẩm nông nghiệp và thủ công địa phương — đang nổi lên tại Pháp, Nhật, Australia. Nông dân bán trực tiếp không qua trung gian, người tiêu dùng mua sản phẩm tươi 24/7."
-date: "2026-09-28"
+date: "2026-06-02"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine sản phẩm địa phương", "local vending machine", "máy bán hàng nông sản tự động"]
 ---

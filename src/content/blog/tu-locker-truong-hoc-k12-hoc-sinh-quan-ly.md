@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong trường học K-12: An toàn và hiệu quả quản lý tài sản học sinh"
 description: "Trường học Mỹ, Anh và Singapore đang chuyển từ locker cơ học sang smart locker không chìa khóa cho học sinh — giảm trộm cắp, loại bỏ mất chìa và tích hợp với hệ thống quản lý trường."
-date: "2026-10-04"
+date: "2026-06-04"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker trường học", "smart locker học sinh", "locker thông minh K-12"]
 ---

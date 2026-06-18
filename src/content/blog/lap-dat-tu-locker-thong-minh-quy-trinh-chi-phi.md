@@ -1,7 +1,7 @@
 ---
 title: "Lắp đặt tủ locker thông minh: Quy trình, chi phí và những điều cần chuẩn bị"
 description: "Hướng dẫn đầy đủ quy trình lắp đặt tủ locker thông minh từ A đến Z — từ khảo sát vị trí, đi dây điện, cấu hình phần mềm đến đào tạo vận hành. Tránh những lỗi phổ biến khi triển khai smart locker lần đầu."
-date: "2026-10-23"
+date: "2026-06-10"
 silo: "tu-locker-thong-minh"
 keywords: ["lắp đặt tủ locker thông minh", "triển khai smart locker", "quy trình lắp đặt locker", "chi phí lắp đặt locker thông minh"]
 ---

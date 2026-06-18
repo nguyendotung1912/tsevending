@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại sân vận động và sự kiện thể thao: An toàn và tiện lợi cho người hâm mộ"
 description: "Sân vận động FIFA, NBA Arena và các công trình thể thao toàn cầu đang dùng tủ locker thông minh để bảo quản đồ vật người hâm mộ, kiểm soát vật phẩm bị cấm vào sân và bán thiết bị thể thao."
-date: "2026-09-26"
+date: "2026-06-01"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker sân vận động", "smart locker thể thao", "locker an toàn sự kiện thể thao"]
 ---

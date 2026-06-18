@@ -1,7 +1,7 @@
 ---
 title: "Thị trường vending machine Ấn Độ: Cuộc bùng nổ tiếp theo của Châu Á"
 description: "Với 1,4 tỷ dân, tầng lớp trung lưu đang bùng nổ và đầu tư FDI khổng lồ, Ấn Độ đang trở thành thị trường vending machine tăng trưởng nhanh nhất Châu Á. Phân tích cơ hội và thách thức."
-date: "2026-08-25"
+date: "2026-05-21"
 silo: "may-ban-hang-tu-dong"
 keywords: ["thị trường vending machine Ấn Độ", "India vending market", "máy bán hàng tự động Nam Á"]
 ---

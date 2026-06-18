@@ -1,7 +1,7 @@
 ---
 title: "Đầu tư máy bán hàng tự động: Nên chọn mô hình hợp tác nào?"
 description: "So sánh các mô hình hợp tác đầu tư máy bán hàng tự động: đầu tư trọn gói, chia sẻ doanh thu và thuê vận hành theo gói dịch vụ."
-date: "2026-06-13"
+date: "2026-04-27"
 silo: "giai-phap-kinh-doanh"
 keywords: ["đầu tư máy bán hàng tự động", "mô hình hợp tác vending", "kinh doanh vending machine"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Xu hướng thanh toán không tiền mặt trên máy bán hàng tự động"
 description: "Tổng quan các phương thức thanh toán không tiền mặt phổ biến trên máy bán hàng tự động hiện nay: QR code, thẻ, ví điện tử và NFC."
-date: "2026-06-10"
+date: "2026-04-26"
 silo: "may-ban-hang-tu-dong"
 keywords: ["thanh toán không tiền mặt", "máy bán hàng tự động", "QR code vending"]
 ---

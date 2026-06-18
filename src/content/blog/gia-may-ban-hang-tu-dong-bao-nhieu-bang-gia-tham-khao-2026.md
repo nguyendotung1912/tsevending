@@ -1,7 +1,7 @@
 ---
 title: "Giá máy bán hàng tự động bao nhiêu? Bảng giá tham khảo theo từng dòng máy 2026"
 description: "Giá máy bán hàng tự động bao nhiêu? Tổng hợp bảng giá tham khảo theo từng dòng máy (mini, tiêu chuẩn, hàng lạnh, gas...) và chi phí vận hành cần tính thêm năm 2026."
-date: "2026-06-27"
+date: "2026-05-02"
 silo: "may-ban-hang-tu-dong"
 keywords: ["giá máy bán hàng tự động", "giá máy bán hàng tự động bao nhiêu", "bảng giá máy bán hàng tự động 2026"]
 ---

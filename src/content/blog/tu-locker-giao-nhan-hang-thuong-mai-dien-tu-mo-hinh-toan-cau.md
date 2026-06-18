@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker giao nhận hàng thương mại điện tử: Mô hình đang thay đổi toàn cầu"
 description: "Thương mại điện tử bùng nổ thúc đẩy nhu cầu tủ locker giao nhận hàng tự động tại toàn cầu. Shopee, Lazada và Tiki sẽ đi theo hướng nào tại Việt Nam?"
-date: "2026-08-06"
+date: "2026-05-15"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thương mại điện tử", "smart locker giao hàng", "locker TMĐT Việt Nam"]
 ---

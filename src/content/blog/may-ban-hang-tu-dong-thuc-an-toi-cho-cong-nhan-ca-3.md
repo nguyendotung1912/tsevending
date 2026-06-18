@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động thức ăn tối và ca 3: Giải pháp dinh dưỡng cho công nhân ca đêm"
 description: "Hàng triệu công nhân ca đêm tại các nhà máy Việt Nam không có chỗ mua thức ăn lúc 2-3 giờ sáng. Máy bán hàng tự động thực phẩm đang giải quyết bài toán này."
-date: "2026-08-11"
+date: "2026-05-17"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động ca đêm công nhân", "vending machine nhà máy thực phẩm", "đồ ăn tự động khu công nghiệp"]
 ---

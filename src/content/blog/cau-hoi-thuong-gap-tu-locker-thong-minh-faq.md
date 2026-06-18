@@ -1,7 +1,7 @@
 ---
 title: "50 câu hỏi thường gặp về tủ locker thông minh (FAQ 2026)"
 description: "Tổng hợp 50 câu hỏi thường gặp nhất về tủ locker thông minh: giá cả, lắp đặt, bảo mật, bảo trì và so sánh với locker truyền thống. Giải đáp đầy đủ và chi tiết."
-date: "2026-11-02"
+date: "2026-06-13"
 silo: "tu-locker-thong-minh"
 keywords: ["câu hỏi thường gặp locker thông minh", "FAQ tủ locker thông minh", "hỏi đáp locker thông minh", "locker thông minh là gì", "smart locker câu hỏi"]
 image: "/images/articles/cau-hoi-thuong-gap-tu-locker-thong-minh-faq.svg"

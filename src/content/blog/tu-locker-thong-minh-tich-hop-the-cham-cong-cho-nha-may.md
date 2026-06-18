@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tích hợp thẻ chấm công cho nhà máy"
 description: "Tủ locker thông minh tích hợp thẻ RFID/chấm công giúp nhà máy quản lý đồ dùng cá nhân công nhân theo ca, đồng bộ với hệ thống chấm công và an ninh ra vào."
-date: "2026-07-04"
+date: "2026-05-04"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["tủ locker nhà máy", "thẻ chấm công locker", "tủ locker RFID"]
