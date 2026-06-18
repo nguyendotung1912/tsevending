@@ -15,7 +15,7 @@ import path from "path";
 const PR_DIR = path.join(__dirname, "backlink-profiles/press-releases");
 const STATUS_FILE = path.join(__dirname, "backlink-profiles/pr-submission-status.json");
 
-const EMAIL = "info@tsevending.com";
+const EMAIL = "nguyendotung@gmail.com";
 const PHONE = "0837375757";
 const WEBSITE = "https://tsevending.com";
 const COMPANY = "TSE Vending";
