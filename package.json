@@ -12,7 +12,8 @@
     "fetch:news": "tsx scripts/fetch-world-news.ts",
     "audit:backlinks": "tsx scripts/audit-backlinks.ts",
     "submit:directories": "tsx scripts/submit-directories.ts",
-    "generate:pr": "tsx scripts/generate-press-release.ts"
+    "generate:pr": "tsx scripts/generate-press-release.ts",
+    "submit:pr": "tsx scripts/auto-submit-pr.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
