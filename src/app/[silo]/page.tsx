@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { buildMetadata, serviceJsonLd, faqJsonLd } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd, faqJsonLd, itemListJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { getAllSilos, getSiloBySlug } from "@/content/categories";
 import { getPostsBySilo } from "@/lib/content";
 import PageHeader from "@/components/PageHeader";
@@ -195,6 +195,8 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
   const posts = getPostsBySilo(silo.slug).slice(0, 6);
   const ext = extendedContent[siloSlug];
 
+  const breadcrumbs = [{ name: silo.title, path: `/${silo.slug}` }];
+
   return (
     <>
       <JsonLd
@@ -204,6 +206,20 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           path: `/${silo.slug}`,
         })}
       />
+      <JsonLd data={breadcrumbJsonLd(breadcrumbs)} />
+      <JsonLd
+        data={itemListJsonLd({
+          name: silo.title,
+          description: silo.metaDescription,
+          path: `/${silo.slug}`,
+          items: silo.subcategories.map((sub, index) => ({
+            position: index + 1,
+            name: sub.title,
+            url: `https://tsevending.com/${silo.slug}/${sub.slug}`,
+            description: sub.metaDescription,
+          })),
+        })}
+      />
       {silo.faqs.length > 0 && (
         <JsonLd data={faqJsonLd(silo.faqs)} />
       )}
@@ -211,7 +227,7 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
         eyebrow="Sản phẩm & dịch vụ"
         title={silo.h1}
         description={silo.intro[0]}
-        breadcrumbs={[{ name: silo.title, path: `/${silo.slug}` }]}
+        breadcrumbs={breadcrumbs}
       />
 
       {/* ── MAIN CONTENT ── */}
