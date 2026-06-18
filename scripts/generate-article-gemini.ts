@@ -69,51 +69,67 @@ function buildSystemPrompt(item: CalendarItem): string {
     `[liên hệ TSE Vending](/lien-he)`,
   ];
 
-  return `Bạn là chuyên gia SEO content writer về máy bán hàng tự động và tủ locker thông minh.
+  const isTopicList = /top\s*\d|review.*model|đánh giá.*model/i.test(item.topic);
+
+  return `Bạn là chuyên gia SEO content writer về máy bán hàng tự động và tủ locker thông minh tại Việt Nam, làm việc cho TSE Vending — công ty sản xuất nội địa từ năm 2014.
 
 Viết một bài viết chuẩn SEO bằng tiếng Việt hoàn toàn TỰ NHIÊN cho trang tsevending.com.
 
 YÊU CẦU BẮT BUỘC:
-- Độ dài: 680–750 từ (đếm chính xác)
-- Cấu trúc: 1 đoạn mở, 3–4 section H2, mỗi section có 1–2 đoạn văn hoặc H3/bullet points
-- Giọng văn: chuyên nghiệp nhưng gần gũi, như tư vấn từ chuyên gia thực tế
-- Từ khóa chính phải xuất hiện tự nhiên trong tiêu đề H1, H2 đầu tiên và đoạn mở
-- KHÔNG được dùng cụm sáo rỗng như "trong thế giới ngày nay", "không thể phủ nhận", "đặt vấn đề"
-- KHÔNG được có lỗi thực tế — chỉ viết điều chắc chắn đúng
-- KHÔNG được copy, paraphrase hay dịch từ bất kỳ nguồn nào — nội dung hoàn toàn gốc
+- Độ dài: 700–800 từ
+- Cấu trúc: 1 đoạn mở (bắt đầu bằng câu in đậm), 3–4 section H2, mỗi section 1–2 đoạn hoặc bullet list
+- Giọng văn: chuyên nghiệp, thực tế, như chuyên gia tư vấn trực tiếp
+- Từ khóa chính xuất hiện tự nhiên trong H2 đầu và đoạn mở
+- KHÔNG dùng cụm sáo như "trong thế giới ngày nay", "không thể phủ nhận", "bối cảnh hiện đại"
+- KHÔNG được có lỗi thực tế — chỉ viết điều chắc chắn đúng và có thể kiểm chứng
+- KHÔNG bịa tên thương hiệu, tên model sản phẩm cụ thể không có thật${isTopicList ? "\n- Chủ đề này là dạng TOP/REVIEW: KHÔNG đặt tên model giả. Thay vào đó hãy mô tả 5 LOẠI/TIÊU CHÍ thực tế (ví dụ: loại phù hợp khu công nghiệp, loại tiết kiệm điện, loại tích hợp IoT...)" : ""}
+- TUYỆT ĐỐI KHÔNG thêm bất kỳ dòng nào ngoài output format (không "Word Count", không ghi chú, không "---" cuối bài)
 
-INTERNAL LINKS (phải nhúng ít nhất 2–3 link trong bài, dùng đúng markdown):
+CẤU TRÚC TỐI ƯU CHO GOOGLE AI OVERVIEW:
+- Dòng đầu tiên của bài PHẢI là: **[Câu trả lời thẳng 1–2 câu, dưới 45 từ, định nghĩa rõ chủ đề]** — bắt buộc có dấu ** hai đầu để in đậm
+- Mỗi H2 bắt đầu bằng câu trả lời thẳng vào vấn đề, không dẫn nhập dài
+- Ưu tiên dùng: bullet list, bảng so sánh markdown, danh sách đánh số
+- Số liệu chỉ khi 100% chính xác (ví dụ: "từ 4 đến 100+ ô" — đúng; "tăng 300% hiệu quả" — sai)
+
+INTERNAL LINKS — chỉ dùng đúng các slug sau, không dùng URL tiếng Việt:
 ${internalLinks.join("\n")}
+Phải nhúng ít nhất 2–3 link trên trong bài.
 
 CHUYÊN MỤC: ${siloTitle}${subTitle ? ` > ${subTitle}` : ""}
 
-OUTPUT FORMAT — trả về đúng block markdown, không có gì khác:
+OUTPUT FORMAT — trả về đúng block markdown sau, không có gì thêm:
 ---
-title: "[Tiêu đề bài viết tiếng Việt, 50–65 ký tự, có từ khóa chính]"
-description: "[Mô tả meta, 140–155 ký tự thuần túy — KHÔNG dùng markdown link, KHÔNG dùng ký tự đặc biệt, chỉ text thường có từ khóa chính và call-to-action]"
+title: "[Tiêu đề 50–65 ký tự, có từ khóa chính]"
+description: "[Meta description 140–155 ký tự — chỉ text thuần, không markdown, không link, có từ khóa và call-to-action]"
 date: "PLACEHOLDER_DATE"
 silo: "${item.silo}"${item.sub ? `\nsub: "${item.sub}"` : ""}
 keywords: [${item.keywords.map((k) => `"${k}"`).join(", ")}]
 image: "PLACEHOLDER_IMAGE"
-imageAlt: "[Mô tả ảnh chuẩn SEO, 80–100 ký tự, có từ khóa chính]"
+imageAlt: "[Mô tả ảnh 80–100 ký tự, có từ khóa chính]"
 faqs:
-  - q: "[Câu hỏi thường gặp 1 — người dùng thực sự hay hỏi về chủ đề này]"
-    a: "[Câu trả lời ngắn gọn, chính xác, dưới 60 từ]"
-  - q: "[Câu hỏi thường gặp 2]"
-    a: "[Câu trả lời]"
-  - q: "[Câu hỏi thường gặp 3]"
-    a: "[Câu trả lời]"
+  - q: "[Câu hỏi thực tế người dùng hay hỏi về chủ đề này]"
+    a: "[Trả lời ngắn gọn, chính xác, dưới 55 từ, không có link]"
+  - q: "[Câu hỏi 2 — khác hoàn toàn câu 1]"
+    a: "[Trả lời]"
+  - q: "[Câu hỏi 3]"
+    a: "[Trả lời]"
 ---
 
-**[Câu trả lời trực tiếp trong 1 câu, dưới 50 từ — đây là đoạn Google AI Overview sẽ lấy]**
+**[Câu trả lời thẳng 1–2 câu dưới 45 từ — bắt buộc có ** hai đầu]**
 
-[Phần còn lại của đoạn mở — KHÔNG có H1, vì tiêu đề đã là H1 trên trang]
+[Phần còn lại đoạn mở, 2–3 câu, không có H1]
 
-## [H2 đầu tiên]
-...
+## [H2 đầu tiên có từ khóa chính]
+
+[Nội dung — bắt đầu thẳng vào vấn đề]
 
 ## [H2 thứ hai]
-...`;
+
+[Nội dung]
+
+## [H2 thứ ba]
+
+[Nội dung — kết thúc bằng CTA tự nhiên dẫn đến /lien-he]`;
 }
 
 async function generateArticle(
@@ -143,8 +159,26 @@ async function generateArticle(
     .replace(/\n?```$/i, "")
     .trim();
 
+  // Post-processing: remove Gemini artifacts
+  const cleaned = stripped
+    // Strip "Word Count" lines Gemini sometimes appends
+    .replace(/\n---\n?\*?\*?Word Count[^\n]*\n?$/im, "")
+    .replace(/\n\*?\*?Word Count[^\n]*$/im, "")
+    // Fix Vietnamese URL slugs → correct ASCII slugs
+    .replace(/\/giải-pháp-kinh-doanh/g, "/giai-phap-kinh-doanh")
+    .replace(/\/máy-bán-hàng-tự-động/g, "/may-ban-hang-tu-dong")
+    .replace(/\/tủ-locker-thông-minh/g, "/tu-locker-thong-minh")
+    .replace(/\/tin-tức/g, "/tin-tuc")
+    .replace(/\/liên-hệ/g, "/lien-he")
+    .replace(/\/giới-thiệu/g, "/gioi-thieu");
+
+  // Validate minimum content size — reject if truncated
+  if (cleaned.length < 3500) {
+    throw new Error(`Output too short (${cleaned.length} chars) — likely truncated by token limit`);
+  }
+
   // Replace placeholder date
-  const withDate = stripped.replace("PLACEHOLDER_DATE", date);
+  const withDate = cleaned.replace("PLACEHOLDER_DATE", date);
 
   // Extract title for slug + image generation
   const titleMatch = withDate.match(/^title:\s*"(.+)"/m);
