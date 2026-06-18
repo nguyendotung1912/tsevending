@@ -1,0 +1,172 @@
+[
+  {
+    "id": "brandsvietnam",
+    "name": "Brands Vietnam",
+    "url": "https://www.brandsvietnam.com/box/press-release/",
+    "da": 62,
+    "linkType": "dofollow",
+    "format": "press_release",
+    "notes": "Tự đăng, duyệt trong 24h. Mục press-release chuyên nghiệp, DA cao.",
+    "submitted": false
+  },
+  {
+    "id": "advertisingvietnam",
+    "name": "Advertising Vietnam",
+    "url": "https://advertisingvietnam.com/huong-dan-dang-bai-tren-website-advertising-vietnam-p20233",
+    "da": 55,
+    "linkType": "dofollow",
+    "format": "article",
+    "notes": "Ảnh 1440x756px bắt buộc. Tối đa 10 hashtag. Không copy từ Facebook.",
+    "submitted": false
+  },
+  {
+    "id": "diendandoanhnghiep",
+    "name": "Diễn đàn Doanh nghiệp (VCCI)",
+    "url": "https://diendandoanhnghiep.vn/",
+    "da": 58,
+    "linkType": "unknown",
+    "format": "press_release",
+    "notes": "Cơ quan VCCI. Gửi bài qua email tòa soạn. Cơ hội cao nếu có góc tin tức thực.",
+    "submitted": false
+  },
+  {
+    "id": "doanhnghiepvathuongmai",
+    "name": "Tạp chí Doanh nghiệp & Thương mại",
+    "url": "https://doanhnghiepvathuongmai.vn/",
+    "da": 45,
+    "linkType": "unknown",
+    "format": "press_release",
+    "notes": "Gửi bài qua email. Thường đăng tin doanh nghiệp miễn phí nếu có tin tức thực.",
+    "submitted": false
+  },
+  {
+    "id": "doanhnghiephoinhap",
+    "name": "Tạp chí Doanh nghiệp & Hội nhập",
+    "url": "https://doanhnghiephoinhap.vn/",
+    "da": 43,
+    "linkType": "unknown",
+    "format": "press_release",
+    "notes": "Tạp chí điện tử, thường đăng tin doanh nghiệp. Gửi bài qua email BTV.",
+    "submitted": false
+  },
+  {
+    "id": "doanhnghiepthuonghieu",
+    "name": "Tạp chí Doanh nghiệp & Thương hiệu",
+    "url": "https://doanhnghiepthuonghieu.vn/",
+    "da": 40,
+    "linkType": "unknown",
+    "format": "press_release",
+    "notes": "Tạp chí brand-focus. Email tòa soạn để gửi bài.",
+    "submitted": false
+  },
+  {
+    "id": "vbiz",
+    "name": "vBiz.vn — Diễn đàn Doanh nhân",
+    "url": "https://vbiz.vn/",
+    "da": 42,
+    "linkType": "dofollow",
+    "format": "forum_post",
+    "notes": "Đăng bài trong mục kinh nghiệm kinh doanh. Link trong bài được chấp nhận.",
+    "submitted": false
+  },
+  {
+    "id": "otofun",
+    "name": "OtoFun.net (box kinh doanh)",
+    "url": "https://www.otofun.net/forums/thuong-mai-dich-vu.117/",
+    "da": 58,
+    "linkType": "nofollow",
+    "format": "forum_post",
+    "notes": "Box thương mại-dịch vụ. Nofollow nhưng DA cao, traffic lớn → brand awareness.",
+    "submitted": false
+  },
+  {
+    "id": "voz",
+    "name": "VOZ.vn",
+    "url": "https://voz.vn/f/lam-an-kinh-doanh.54/",
+    "da": 65,
+    "linkType": "nofollow",
+    "format": "forum_post",
+    "notes": "DA 65, cộng đồng lớn nhất VN. Box làm ăn kinh doanh. Nofollow nhưng traffic khổng lồ.",
+    "submitted": false
+  },
+  {
+    "id": "webtretho",
+    "name": "Webtretho.com",
+    "url": "https://www.webtretho.com/f/rao-vat",
+    "da": 55,
+    "linkType": "nofollow",
+    "format": "forum_post",
+    "notes": "Đúng target: phụ nữ sống chung cư dùng locker. Đăng mục rao vặt.",
+    "submitted": false
+  },
+  {
+    "id": "prlog",
+    "name": "PRLog.com",
+    "url": "https://www.prlog.org/post-press-release.html",
+    "da": 72,
+    "linkType": "dofollow",
+    "format": "press_release",
+    "notes": "DA 72, MIỄN PHÍ hoàn toàn, Google News indexed. Bài tiếng Anh. Rất giá trị.",
+    "submitted": false
+  },
+  {
+    "id": "openpr",
+    "name": "OpenPR.com",
+    "url": "https://www.openpr.com/submit-press-release/",
+    "da": 70,
+    "linkType": "dofollow",
+    "format": "press_release",
+    "notes": "DA 70, miễn phí, dofollow. Bài tiếng Anh. Google News indexed.",
+    "submitted": false
+  },
+  {
+    "id": "newswire",
+    "name": "1888PressRelease.com",
+    "url": "https://www.1888pressrelease.com/submit-press-release.php",
+    "da": 55,
+    "linkType": "dofollow",
+    "format": "press_release",
+    "notes": "DA 55, miễn phí, dofollow link trong bài.",
+    "submitted": false
+  },
+  {
+    "id": "pressabout",
+    "name": "PressAbout.com",
+    "url": "https://www.pressabout.com/",
+    "da": 50,
+    "linkType": "dofollow",
+    "format": "press_release",
+    "notes": "Miễn phí, dofollow.",
+    "submitted": false
+  },
+  {
+    "id": "viblo",
+    "name": "Viblo.asia",
+    "url": "https://viblo.asia/newest",
+    "da": 71,
+    "linkType": "dofollow",
+    "format": "article",
+    "notes": "Bài đã có sẵn trong viblo-article.md. DA 71, dofollow.",
+    "submitted": false
+  },
+  {
+    "id": "medium",
+    "name": "Medium.com",
+    "url": "https://medium.com/new-story",
+    "da": 94,
+    "linkType": "nofollow",
+    "format": "article",
+    "notes": "DA 94 nhưng nofollow. Giá trị brand awareness, có thể drive referral traffic.",
+    "submitted": false
+  },
+  {
+    "id": "googlesites",
+    "name": "Google Sites",
+    "url": "https://sites.google.com/new",
+    "da": 100,
+    "linkType": "dofollow",
+    "format": "article",
+    "notes": "DA 100. Tạo trang về TSE Vending, link về tsevending.com.",
+    "submitted": false
+  }
+]

@@ -11,7 +11,8 @@
     "generate:article:gemini": "tsx scripts/generate-article-gemini.ts",
     "fetch:news": "tsx scripts/fetch-world-news.ts",
     "audit:backlinks": "tsx scripts/audit-backlinks.ts",
-    "submit:directories": "tsx scripts/submit-directories.ts"
+    "submit:directories": "tsx scripts/submit-directories.ts",
+    "generate:pr": "tsx scripts/generate-press-release.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
