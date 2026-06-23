@@ -1,6 +1,23 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import { Be_Vietnam_Pro, Inter } from "next/font/google";
 import "./globals.css";
+
+// Body text — clean, highly readable, full Vietnamese support.
+const inter = Inter({
+  subsets: ["latin", "vietnamese"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+// Headings — bold geometric sans built for Vietnamese, echoes the logo's
+// heavy "TS" wordmark.
+const beVietnamPro = Be_Vietnam_Pro({
+  subsets: ["latin", "vietnamese"],
+  weight: ["600", "700", "800"],
+  variable: "--font-bevn",
+  display: "swap",
+});
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MobileBottomBar from "@/components/MobileBottomBar";
@@ -28,7 +45,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="vi" className="h-full">
+    <html lang="vi" className={`h-full ${inter.variable} ${beVietnamPro.variable}`}>
       <head>
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
