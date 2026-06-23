@@ -36,6 +36,14 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        // Canonicalize www → apex (avoid duplicate content; canonical tags
+        // already point to the apex). Apex is the one indexed by Google.
+        source: "/:path*",
+        has: [{ type: "host", value: "www.tsevending.com" }],
+        destination: "https://tsevending.com/:path*",
+        permanent: true,
+      },
+      {
         source: "/en/:path*",
         destination: "/",
         permanent: true,
