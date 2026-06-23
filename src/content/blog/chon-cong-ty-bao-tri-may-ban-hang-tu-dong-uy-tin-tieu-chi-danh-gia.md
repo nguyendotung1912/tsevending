@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["công ty bảo trì vending machine", "chọn nhà bảo trì", "đánh giá dịch vụ bảo trì"]
 image: "/images/articles/chon-cong-ty-bao-tri-may-ban-hang-tu-dong-uy-tin-tieu-chi-danh-gia.jpg"
-imageAlt: "Bảo trì máy bán hàng tự động"
+imageAlt: "Chọn Công Ty Bảo Trì Máy Bán Hàng Tự Động Uy Tín: Tiêu Chí Đánh Giá"
 imageCredit: "Photo by Sergey  Meshkov on Pexels"
 faqs:
   - q: "Làm thế nào để chọn công ty bảo trì máy bán hàng tự động uy tín?"

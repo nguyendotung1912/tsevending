@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["locker chống trộm", "chống phá khóa locker", "locker bảo mật cao"]
 image: "/images/articles/locker-chong-trom-vat-lieu-cong-nghe-chong-pha-khoa.jpg"
-imageAlt: "Locker thép dày với khóa điện tử anti-tamper và hệ thống cảnh báo tích hợp"
+imageAlt: "Locker Chống Trộm: Vật Liệu Và Công Nghệ Chống Phá Khóa Thế Hệ Mới"
 faqs:
   - q: "Locker truyền thống có thể bị phá bằng những cách nào?"
     a: "Các phương pháp phổ biến: (1) Phá ổ khóa — khoan, cạy, đập. (2) Cạy cửa — chèn dụng cụ vào khe cửa. (3) Tháo bản lề — nếu bản lề lộ ra ngoài. (4) Kéo/cưa — với thép mỏng <0.6mm. (5) Bypass điện tử — hacking thông tin mở khóa (với locker điện tử kém bảo mật). Locker bảo mật cao thiết kế để chống lại tất cả các phương pháp này."

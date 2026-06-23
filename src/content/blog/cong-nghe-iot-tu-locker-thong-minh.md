@@ -3,7 +3,7 @@ title: "Công nghệ IoT trong tủ locker thông minh: Từ phần cứng đế
 description: "Tủ locker thông minh sử dụng IoT, cloud computing, RFID, camera AI và ứng dụng di động để tạo hệ sinh thái quản lý hoàn chỉnh. Hiểu rõ công nghệ đằng sau smart locker giúp doanh nghiệp chọn đúng giải pháp."
 date: "2026-06-10"
 image: "/images/articles/cong-nghe-iot-tu-locker-thong-minh.jpg"
-imageAlt: "Detailed macro shot of an AutoPi device against a dark background, showcasing technological innovation."
+imageAlt: "Công nghệ IoT trong tủ locker thông minh: Từ phần cứng đến điện toán đám mây"
 imageCredit: "Photo by Andrey Matveev on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["công nghệ IoT locker thông minh", "smart locker IoT", "tủ locker thông minh công nghệ", "IoT locker hệ thống"]

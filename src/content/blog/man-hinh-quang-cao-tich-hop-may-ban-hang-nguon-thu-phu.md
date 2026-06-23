@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["màn hình quảng cáo máy bán hàng", "digital signage vending machine", "quảng cáo trên vending machine"]
 image: "/images/articles/man-hinh-quang-cao-tich-hop-may-ban-hang-nguon-thu-phu.jpg"
-imageAlt: "Máy bán hàng tự động với màn hình quảng cáo lớn hiển thị nội dung thương hiệu sặc sỡ"
+imageAlt: "Màn Hình Quảng Cáo Tích Hợp Máy Bán Hàng: Nguồn Thu Nhập Phụ Hiệu Quả"
 faqs:
   - q: "Doanh thu quảng cáo từ màn hình trên máy vending là bao nhiêu?"
     a: "Phụ thuộc vị trí và lưu lượng: Vị trí premium (sân bay, ga tàu, trung tâm thương mại lớn): 3,000,000–8,000,000 VND/tháng/màn hình cho 1 thương hiệu. Vị trí trung bình (văn phòng lớn, bệnh viện): 1,000,000–3,000,000 VND/tháng. Vị trí thường (trường học, khu dân cư): 300,000–1,000,000 VND/tháng. Mô hình phổ biến nhất: nhiều thương hiệu quay vòng (slot-based), mỗi thương hiệu trả 200,000–500,000 VND/tháng để xuất hiện 15–30 giây mỗi vòng lặp. Doanh thu thực tế cần so sánh: chi phí màn hình (3–8 triệu thêm so với máy không màn hình) + công vận hành nội dung quảng cáo (tạo file, upload, quản lý). Tại thị trường Việt Nam 2026: vẫn là mô hình mới, còn cần thời gian xây dựng mạng lưới advertiser."

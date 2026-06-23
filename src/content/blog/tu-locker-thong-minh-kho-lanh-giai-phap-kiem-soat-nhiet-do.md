@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["cold storage locker", "tủ locker kho lạnh", "locker dược phẩm"]
 image: "/images/articles/tu-locker-thong-minh-kho-lanh-giai-phap-kiem-soat-nhiet-do.jpg"
-imageAlt: "Tủ locker thông minh kho lạnh dược phẩm và thực phẩm"
+imageAlt: "Tủ Locker Thông Minh Kho Lạnh: Giải Pháp Kiểm Soát Nhiệt Độ"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Tủ locker thông minh kho lạnh là gì?"

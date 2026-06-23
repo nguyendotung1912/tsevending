@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["máy bán đồ chơi tự động", "gacha vending machine trẻ em", "capsule toy Việt Nam"]
 image: "/images/articles/may-ban-do-choi-dat-set-sang-tao-cho-tre-em.jpg"
-imageAlt: "Máy bán đồ chơi capsule toy đầy màu sắc cho trẻ em tại khu vui chơi trung tâm thương mại"
+imageAlt: "Máy Bán Đồ Chơi Và Đất Sét Sáng Tạo Tự Động Cho Trẻ Em Tại Trung Tâm Mua Sắm"
 imageCredit: "Photo by Lywin on Pexels"
 faqs:
   - q: "Máy gacha capsule toy kiếm được bao nhiêu tại Việt Nam?"

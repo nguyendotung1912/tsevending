@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["wrap quảng cáo vending machine", "branding máy bán hàng", "marketing vending"]
 image: "/images/articles/xu-huong-wrap-quang-cao-toan-than-may-ban-hang-tu-dong.jpg"
-imageAlt: "Máy bán hàng tự động được bọc dán quảng cáo toàn thân"
+imageAlt: "Xu hướng wrap quảng cáo toàn thân máy bán hàng tự động"
 imageCredit: "Photo by Eva Bronzini on Pexels"
 faqs:
   - q: "Wrap quảng cáo máy bán hàng tự động là gì?"

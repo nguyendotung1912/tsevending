@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["đội kỹ thuật vending", "bảo trì in-house vending", "outsource bảo trì máy bán hàng"]
 image: "/images/articles/doi-ky-thuat-vending-in-house-hay-outsource.jpg"
-imageAlt: "Đội kỹ thuật vending bảo trì máy bán hàng tự động"
+imageAlt: "Đội kỹ thuật vending: In-house hay Outsource?"
 imageCredit: "Photo by Mikael Blomkvist on Pexels"
 faqs:
   - q: "Tại sao bảo trì máy bán hàng tự động lại quan trọng?"

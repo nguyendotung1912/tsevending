@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker shipper", "tủ locker giao hàng theo giờ", "flexible delivery locker"]
 image: "/images/articles/tu-locker-thong-minh-shipper-theo-gio-nhan-hang-linh-hoat.jpg"
-imageAlt: "Shipper giao hàng vào tủ locker thông minh không cần chờ người nhận"
+imageAlt: "Tủ Locker Thông Minh Dành Cho Shipper Theo Giờ: Nhận Hàng Linh Hoạt Không Cố Định"
 imageCredit: "Photo by Pavel Danilyuk on Pexels"
 faqs:
   - q: "Locker thông minh giải quyết vấn đề giao hàng thất bại như thế nào cho shipper và người nhận?"

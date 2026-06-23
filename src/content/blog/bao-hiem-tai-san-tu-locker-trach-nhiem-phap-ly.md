@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "phap-ly-van-hanh"
 keywords: ["bảo hiểm locker thông minh", "trách nhiệm pháp lý tủ locker", "mất đồ trong locker bồi thường"]
 image: "/images/articles/bao-hiem-tai-san-tu-locker-trach-nhiem-phap-ly.jpg"
-imageAlt: "Tài liệu bảo hiểm trách nhiệm dân sự và hợp đồng vận hành tủ locker thông minh"
+imageAlt: "Bảo Hiểm Tài Sản Trong Tủ Locker: Trách Nhiệm Pháp Lý Của Người Vận Hành"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Người vận hành locker có phải bồi thường nếu tài sản người dùng bị mất không?"

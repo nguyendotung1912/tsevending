@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "thi-truong-quoc-te"
 keywords: ["coin locker Nhật Bản", "locker thông minh Nhật Bản", "văn hóa tự phục vụ Nhật Bản"]
 image: "/images/articles/bai-hoc-nhat-ban-coin-locker-van-hoa-tu-phuc-vu.jpg"
-imageAlt: "Dãy coin locker tại ga tàu Nhật Bản với nhiều kích thước và màn hình hiển thị điện tử"
+imageAlt: "Bài Học Từ Nhật Bản: Coin Locker Và Văn Hóa Tự Phục Vụ 60 Năm Tiến Hóa"
 imageCredit: "Photo by Huu Huynh on Pexels"
 faqs:
   - q: "Tại sao Nhật Bản có nhiều locker nhất thế giới?"

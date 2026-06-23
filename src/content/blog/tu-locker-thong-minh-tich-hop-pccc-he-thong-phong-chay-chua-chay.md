@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker PCCC", "tủ locker phòng cháy tích hợp", "fire safety locker thông minh"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-pccc-he-thong-phong-chay-chua-chay.jpg"
-imageAlt: "Tủ locker thông minh mở tự động khi báo cháy trong tình huống sơ tán khẩn cấp"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp PCCC: An Toàn Phòng Cháy Chữa Cháy Tòa Nhà"
 faqs:
   - q: "Quy định PCCC tại Việt Nam yêu cầu gì đối với tủ locker trong tòa nhà?"
     a: "Quy định PCCC Việt Nam liên quan đến locker: Luật PCCC Việt Nam 2013 và các Nghị định/Thông tư: Không có quy định cụ thể về locker trong luật PCCC. Nhưng: Các quy định về thoát hiểm (QCVN 06:2021/BXD) yêu cầu hành lang và lối thoát hiểm không bị cản trở. Locker đặt không đúng vị trí → cản lối thoát → vi phạm QCVN 06. Tích hợp locker với hệ thống báo cháy là best practice, không phải bắt buộc hiện tại, nhưng: (1) Sẽ được yêu cầu khi Việt Nam cập nhật quy chuẩn theo hướng tiêu chuẩn quốc tế; (2) Các tòa nhà green certified (LEED, EDGE) thường yêu cầu integrated emergency systems. Các tiêu chuẩn quốc tế tham chiếu: NFPA 101 (Mỹ): Life Safety Code — yêu cầu không gian lưu trữ không cản trở sơ tán. BS 9999 (Anh): Code of practice for fire safety in the design, management and use of buildings. IFC (International Fire Code): Cho các tòa nhà theo tiêu chuẩn quốc tế. Khuyến nghị thực tiễn: Dù chưa bắt buộc tại VN, tích hợp locker với PCCC là đầu tư thông minh vì: (1) Bảo vệ người dùng thực sự khi có sự cố. (2) Tránh rủi ro pháp lý khi có tai nạn. (3) Chuẩn bị sẵn sàng cho quy định sẽ siết chặt trong tương lai."

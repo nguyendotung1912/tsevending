@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine CSR", "trách nhiệm xã hội máy bán hàng", "vending machine bền vững Việt Nam"]
 image: "/images/articles/may-ban-hang-csr-trach-nhiem-xa-hoi-doanh-nghiep.jpg"
-imageAlt: "Máy bán hàng xanh với nhãn hiệu sản phẩm địa phương và biểu tượng tái chế bên cạnh"
+imageAlt: "Máy Bán Hàng Tự Động Và Trách Nhiệm Xã Hội Doanh Nghiệp: CSR Và Giá Trị Cộng Đồng"
 imageCredit: "Photo by Mikhail Nilov on Pexels"
 faqs:
   - q: "Máy vending có thể đóng góp gì vào mục tiêu CSR của doanh nghiệp?"

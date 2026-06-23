@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["thuế máy bán hàng tự động", "VAT vending machine", "hóa đơn điện tử máy bán hàng tự động"]
 image: "/images/articles/may-ban-hang-tu-dong-va-thue-vat-hoa-don-dien-tu.jpg"
-imageAlt: "Màn hình hóa đơn điện tử hiển thị giao dịch từ máy bán hàng tự động với mã QR xác nhận thuế"
+imageAlt: "Máy Bán Hàng Tự Động Và Thuế: Hướng Dẫn Kê Khai VAT Và Hóa Đơn Điện Tử"
 imageCredit: "Photo by ThisIsEngineering on Pexels"
 faqs:
   - q: "Kinh doanh máy vending machine có phải đăng ký kinh doanh và nộp thuế không?"

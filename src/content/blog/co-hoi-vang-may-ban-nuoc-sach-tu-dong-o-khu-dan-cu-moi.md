@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước sạch", "khu dân cư mới", "vending machine nước uống"]
 image: "/images/articles/co-hoi-vang-may-ban-nuoc-sach-tu-dong-o-khu-dan-cu-moi.jpg"
-imageAlt: "Máy bán nước sạch tự động hiện đại đặt tại sảnh khu dân cư mới, cung cấp nước uống tiện lợi."
+imageAlt: "Cơ Hội Vàng: Máy Bán Nước Sạch Tự Động Ở Khu Dân Cư Mới"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Lợi ích chính của máy bán nước sạch tự động ở khu dân cư mới là gì?"

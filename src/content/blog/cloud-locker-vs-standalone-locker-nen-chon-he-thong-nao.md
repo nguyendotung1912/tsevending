@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["cloud locker", "standalone locker", "so sánh hệ thống locker"]
 image: "/images/articles/cloud-locker-vs-standalone-locker-nen-chon-he-thong-nao.jpg"
-imageAlt: "Biểu đồ so sánh cloud locker và standalone locker với các tính năng và chi phí"
+imageAlt: "Cloud Locker Vs Standalone Locker: Nên Chọn Hệ Thống Nào?"
 faqs:
   - q: "Cloud locker có an toàn hơn standalone không vì dữ liệu lưu trên internet?"
     a: "Đây là câu hỏi ngược lại nên nghĩ. Cloud locker với bảo mật tốt (mã hóa TLS, SOC 2, ISO 27001) thực ra an toàn hơn standalone vì có backup tự động, monitoring 24/7 và vá lỗi bảo mật thường xuyên. Standalone không có cloud nhưng cũng có thể bị hack nếu có lỗ hổng firmware. An toàn phụ thuộc vào chất lượng nhà cung cấp, không phải loại hệ thống."

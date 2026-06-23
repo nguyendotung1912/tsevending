@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["chứng nhận locker thông minh ISO CE", "tiêu chuẩn TCVN tủ locker", "kiểm định smart locker Việt Nam"]
 image: "/images/articles/tu-locker-thong-minh-kiem-dinh-chung-nhan-iso-ce-tcvn.jpg"
-imageAlt: "Các chứng nhận tiêu chuẩn ISO CE TCVN cho tủ locker thông minh tại Việt Nam"
+imageAlt: "Kiểm Định Và Chứng Nhận Tủ Locker Thông Minh: Tiêu Chuẩn ISO, CE và TCVN"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Những tiêu chuẩn và chứng nhận nào thực sự quan trọng khi mua tủ locker thông minh tại Việt Nam?"

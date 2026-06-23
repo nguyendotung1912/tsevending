@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["kinh nghiệm vận hành vending machine", "vận hành nhiều máy", "bài học thực tế"]
 image: "/images/articles/kinh-nghiem-van-hanh-10-may-ban-hang-tu-dong-bai-hoc-thuc-te-2.jpg"
-imageAlt: "Máy bán hàng tự động"
+imageAlt: "Kinh nghiệm vận hành 10 máy bán hàng tự động: Bài học thực tế"
 imageCredit: "Photo by Ali Haki on Pexels"
 faqs:
   - q: "Làm thế nào để vận hành nhiều máy bán hàng tự động hiệu quả?"

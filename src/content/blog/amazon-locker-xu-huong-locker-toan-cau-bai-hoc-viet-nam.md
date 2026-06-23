@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["Amazon Locker Việt Nam", "xu hướng locker toàn cầu", "mô hình locker e-commerce"]
 image: "/images/articles/amazon-locker-xu-huong-locker-toan-cau-bai-hoc-viet-nam.jpg"
-imageAlt: "Tủ locker Amazon màu vàng đặc trưng tại siêu thị Mỹ so sánh với mô hình locker e-commerce Việt Nam"
+imageAlt: "Amazon Locker Và Xu Hướng Locker Toàn Cầu: Bài Học Cho Thị Trường Việt Nam"
 faqs:
   - q: "Amazon Locker có hoạt động tại Việt Nam không?"
     a: "Amazon chưa triển khai Amazon Locker tại Việt Nam (tính đến 2026) vì Amazon không bán lẻ trực tiếp tại thị trường này. Tuy nhiên các mô hình tương tự đang được Shopee, Lazada, GHN và các công ty logistics lớn nghiên cứu và bắt đầu thử nghiệm."

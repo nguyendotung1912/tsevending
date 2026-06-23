@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker điều hòa nhiệt độ", "locker bảo quản thực phẩm tươi", "tủ locker lạnh thông minh"]
 image: "/images/articles/locker-dieu-hoa-nhiet-do-bao-quan-thuc-pham-tuoi.jpg"
-imageAlt: "Tủ locker lạnh thông minh tại chung cư với nhiều ngăn nhiệt độ khác nhau cho thực phẩm tươi"
+imageAlt: "Locker Có Điều Hòa Nhiệt Độ: Bảo Quản Thực Phẩm Tươi Và Hàng Nhiệt Độ Nhạy Cảm"
 imageCredit: "Photo by Mark Stebnicki on Pexels"
 faqs:
   - q: "Locker lạnh thông minh khác tủ lạnh thông thường như thế nào?"

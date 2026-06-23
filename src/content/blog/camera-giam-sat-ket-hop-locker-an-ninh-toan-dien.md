@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["camera giám sát locker", "hệ thống an ninh locker tòa nhà", "camera AI kết hợp locker"]
 image: "/images/articles/camera-giam-sat-ket-hop-locker-an-ninh-toan-dien.jpg"
-imageAlt: "Hệ thống camera giám sát gắn phía trên dãy tủ locker tại hành lang tòa nhà văn phòng"
+imageAlt: "Camera Giám Sát Kết Hợp Locker: Hệ Thống An Ninh Toàn Diện Cho Tòa Nhà"
 imageCredit: "Photo by Susanne Plank on Pexels"
 faqs:
   - q: "Camera giám sát locker nên đặt ở đâu để hiệu quả nhất?"

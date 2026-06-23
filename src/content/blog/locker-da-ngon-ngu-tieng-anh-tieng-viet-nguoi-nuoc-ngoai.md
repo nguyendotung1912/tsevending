@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker đa ngôn ngữ tiếng Anh", "locker cho người nước ngoài", "bilingual locker Vietnam"]
 image: "/images/articles/locker-da-ngon-ngu-tieng-anh-tieng-viet-nguoi-nuoc-ngoai.jpg"
-imageAlt: "Màn hình locker thông minh hiển thị giao diện song ngữ Tiếng Việt và Tiếng Anh"
+imageAlt: "Locker Đa Ngôn Ngữ: Giao Diện Tiếng Anh Và Tiếng Việt Cho Người Nước Ngoài"
 faqs:
   - q: "Locker đa ngôn ngữ có thực sự cần thiết không?"
     a: "Phụ thuộc tỷ lệ người dùng không nói tiếng Việt. Văn phòng có 20%+ nhân viên nước ngoài → đa ngôn ngữ là cần thiết. Resort, khách sạn, sân bay quốc tế → bắt buộc có tiếng Anh. KCN Samsung, Intel, LG (Hàn, Nhật đông) → cần tiếng Anh + tiếng Hàn/Nhật. Chung cư nội địa, văn phòng thuần Việt → tiếng Việt là đủ. Tuy nhiên, thêm tiếng Anh vào giao diện không tốn chi phí lớn — nhiều nhà cung cấp cung cấp sẵn song ngữ Anh-Việt."

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật locker thông minh", "tiêu chuẩn locker EN 14450", "chứng chỉ bảo mật locker"]
 image: "/images/articles/bao-mat-tu-locker-thong-minh-tieu-chuan-chung-chi-2026.jpg"
-imageAlt: "Màn hình hiển thị hệ thống bảo mật tủ locker thông minh với mã hóa và xác thực đa lớp"
+imageAlt: "Bảo Mật Tủ Locker Thông Minh: Tiêu Chuẩn Và Chứng Chỉ Cần Biết 2026"
 imageCredit: "Photo by ThisIsEngineering on Pexels"
 faqs:
   - q: "Tiêu chuẩn EN 14450 là gì và tại sao quan trọng với locker?"

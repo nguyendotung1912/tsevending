@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker cho thuê thiết bị AV", "event equipment locker", "tủ locker âm thanh ánh sáng"]
 image: "/images/articles/tu-locker-thong-minh-cho-thue-thiet-bi-av-su-kien-giai-phap-quan-ly-thiet-bi-hie.jpg"
-imageAlt: "Tủ locker thông minh cho thuê thiết bị AV sự kiện"
+imageAlt: "Tủ locker thông minh cho thuê thiết bị AV sự kiện - Giải pháp quản lý thiết bị hiệu quả"
 imageCredit: "Photo by Opt Lasers from Poland on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

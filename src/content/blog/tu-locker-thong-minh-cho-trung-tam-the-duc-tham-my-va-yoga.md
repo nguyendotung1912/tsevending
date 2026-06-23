@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker yoga studio", "fitness center locker", "tủ locker thể hình"]
 image: "/images/articles/tu-locker-thong-minh-cho-trung-tam-the-duc-tham-my-va-yoga.jpg"
-imageAlt: "Tủ locker thông minh cho trung tâm thể dục thẩm mỹ và yoga"
+imageAlt: "Tủ Locker Thông Minh Cho Trung Tâm Thể Dục Thẩm Mỹ và Yoga"
 imageCredit: "Photo by Andrea Piacquadio on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

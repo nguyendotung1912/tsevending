@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "tu-dong-hoa"
 keywords: ["AI camera máy bán hàng", "phân tích hành vi khách hàng vending", "AI bán lẻ tự động"]
 image: "/images/articles/ai-trong-ban-le-tu-dong-phan-tich-hanh-vi-khach-hang.jpg"
-imageAlt: "Màn hình hiển thị AI phân tích hành vi khách hàng tại máy bán hàng tự động với heat map và số liệu"
+imageAlt: "AI Trong Bán Lẻ Tự Động: Phân Tích Hành Vi Khách Hàng Qua Camera Thông Minh"
 imageCredit: "Photo by Nothing Ahead on Pexels"
 faqs:
   - q: "Camera AI máy bán hàng có quay và lưu mặt khách hàng không?"

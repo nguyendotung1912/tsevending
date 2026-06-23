@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc"
 keywords: ["máy bán nước tự động", "vending machine nước uống", "review máy bán nước"]
 image: "/images/articles/may-ban-nuoc-tu-dong-2026-giai-phap-kinh-doanh-toi-uu.jpg"
-imageAlt: "Tổng quan các loại máy bán nước tự động hiện đại, từ phổ thông đến tích hợp IoT"
+imageAlt: "Máy Bán Nước Tự Động 2026: Giải Pháp Kinh Doanh Tối Ưu"
 imageCredit: "Photo by Huu Huynh on Pexels"
 faqs:
   - q: "Chi phí đầu tư máy bán nước tự động thường dao động trong khoảng nào?"

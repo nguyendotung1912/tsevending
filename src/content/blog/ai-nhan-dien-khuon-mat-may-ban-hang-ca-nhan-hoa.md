@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["AI nhận diện khuôn mặt vending machine", "facial recognition máy bán hàng", "cá nhân hóa vending machine"]
 image: "/images/articles/ai-nhan-dien-khuon-mat-may-ban-hang-ca-nhan-hoa.jpg"
-imageAlt: "Màn hình máy bán hàng tự động hiển thị phân tích AI với gợi ý sản phẩm cá nhân hóa"
+imageAlt: "Máy Bán Hàng Tích Hợp AI Nhận Diện Khuôn Mặt: Cá Nhân Hóa Trải Nghiệm Mua Sắm"
 imageCredit: "Photo by Lywin on Pexels"
 faqs:
   - q: "AI nhận diện khuôn mặt trên vending machine hoạt động như thế nào?"

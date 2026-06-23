@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["tiêu chuẩn điện tủ locker", "electrical standard locker", "lắp đặt locker kỹ thuật"]
 image: "/images/articles/tieu-chuan-dien-tu-locker-thong-minh-huong-dan-ky-thuat-cho-ky-su.jpg"
-imageAlt: "Tủ locker thông minh với tiêu chuẩn điện an toàn"
+imageAlt: "Tiêu chuẩn điện tủ locker thông minh: Hướng dẫn kỹ thuật cho kỹ sư"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Tại sao tiêu chuẩn điện tủ locker quan trọng?"

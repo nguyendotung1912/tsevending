@@ -3,7 +3,7 @@ title: "So sánh công nghệ mở khóa tủ locker: QR, RFID, vân tay, nhận
 description: "So sánh ưu nhược điểm các công nghệ mở khóa tủ locker thông minh: mã QR/PIN, thẻ RFID, vân tay và nhận diện khuôn mặt để chọn giải pháp phù hợp."
 date: "2026-04-29"
 image: "/images/articles/cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat.jpg"
-imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageAlt: "So sánh công nghệ mở khóa tủ locker: QR, RFID, vân tay, nhận diện khuôn mặt"
 silo: "tu-locker-thong-minh"
 keywords: ["công nghệ mở khóa tủ locker", "tủ locker nhận diện khuôn mặt", "smart locker RFID", "khóa vân tay tủ locker"]
 faqs:

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước detox tự động", "cold press juice vending", "nước ép tự động"]
 image: "/images/articles/may-ban-nuoc-detox-tu-dong-xu-huong-suc-khoe-moi.jpg"
-imageAlt: "Máy bán nước detox tự động với công nghệ cold press juice"
+imageAlt: "Máy Bán Nước Detox Tự Động: Xu Hướng Sức Khỏe Mới"
 imageCredit: "Photo by EqualStock IN on Pexels"
 faqs:
   - q: "Máy bán nước detox tự động có gì đặc biệt?"

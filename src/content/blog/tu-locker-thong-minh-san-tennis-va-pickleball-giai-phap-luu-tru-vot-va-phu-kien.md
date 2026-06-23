@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker sân tennis", "tủ locker sân pickleball", "racket storage locker"]
 image: "/images/articles/tu-locker-thong-minh-san-tennis-va-pickleball-giai-phap-luu-tru-vot-va-phu-kien.jpg"
-imageAlt: "Tủ locker thông minh sân tennis và pickleball"
+imageAlt: "Tủ locker thông minh sân tennis và pickleball - Giải pháp lưu trữ vợt và phụ kiện"
 imageCredit: "Photo by Ahmet Kurt on Pexels"
 faqs:
   - q: "Tủ locker thông minh có thể chứa được bao nhiêu vợt tennis?"

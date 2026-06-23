@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["định giá máy bán hàng", "pricing strategy vending", "tối ưu doanh thu"]
 image: "/images/articles/chien-luoc-dinh-gia-may-ban-hang-tu-dong-de-toi-uu-doanh-thu.jpg"
-imageAlt: "Máy bán hàng tự động với chiến lược định giá hiệu quả"
+imageAlt: "Chiến lược định giá máy bán hàng tự động để tối ưu doanh thu"
 imageCredit: "Photo by Monstera Production on Pexels"
 faqs:
   - q: "Làm thế nào để định giá máy bán hàng tự động hiệu quả?"

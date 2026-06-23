@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker expat", "tủ locker người nước ngoài", "foreigner locker Việt Nam"]
 image: "/images/articles/tu-locker-thong-minh-cho-nguoi-lao-dong-nuoc-ngoai-tieu-chuan-va-dich-vu.jpg"
-imageAlt: "Tủ locker thông minh cho người lao động nước ngoài tại Việt Nam"
+imageAlt: "Tủ locker thông minh cho người lao động nước ngoài: Tiêu chuẩn và dịch vụ"
 imageCredit: "Photo by EqualStock IN on Pexels"
 faqs:
   - q: "Tủ locker thông minh cho người lao động nước ngoài là gì?"

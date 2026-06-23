@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["chính sách locker trường học", "quy định tủ locker học sinh", "lắp locker trường học Việt Nam"]
 image: "/images/articles/chinh-sach-lap-locker-thong-minh-truong-hoc-viet-nam-2026.jpg"
-imageAlt: "Tủ locker thông minh trong hành lang trường học Việt Nam với học sinh sử dụng thẻ điện tử"
+imageAlt: "Chính Sách Lắp Locker Thông Minh Trường Học Tại Việt Nam 2026"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Trường học có cần xin phép gì để lắp đặt tủ locker thông minh không?"

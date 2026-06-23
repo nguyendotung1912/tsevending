@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["cài đặt phần mềm quản lý locker", "setup hệ thống locker", "cấu hình locker thông minh"]
 image: "/images/articles/cai-dat-phan-mem-quan-ly-locker-huong-dan-tu-a-den-z.jpg"
-imageAlt: "Quản trị viên đang cài đặt và cấu hình phần mềm quản lý locker thông minh trên máy tính"
+imageAlt: "Cài Đặt Phần Mềm Quản Lý Locker: Hướng Dẫn Từ A Đến Z Cho Quản Trị Viên"
 imageCredit: "Photo by Atlantic Ambience on Pexels"
 faqs:
   - q: "Phần mềm quản lý locker cần server riêng không hay dùng cloud?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["age verification vending", "nhận diện tuổi máy bán hàng", "bán sản phẩm hạn chế"]
 image: "/images/articles/may-ban-hang-tu-dong-nhan-dien-tuoi-giai-phap-ban-san-pham-han-che.jpg"
-imageAlt: "Máy bán hàng tự động nhận diện tuổi"
+imageAlt: "Máy bán hàng tự động nhận diện tuổi - Giải pháp bán sản phẩm hạn chế"
 imageCredit: "Photo by Kirandeep Singh Walia on Pexels"
 faqs:
   - q: "Làm thế nào máy bán hàng tự động nhận diện tuổi?"

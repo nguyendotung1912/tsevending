@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker điểm thưởng loyalty", "tủ locker token tích điểm", "smart locker gamification"]
 image: "/images/articles/tu-locker-thong-minh-token-diem-thuong-loyalty-program.jpg"
-imageAlt: "Giao diện app tủ locker thông minh hiển thị điểm thưởng và token tích lũy của người dùng"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Token Và Điểm Thưởng: Loyalty Program Cho Người Dùng"
 faqs:
   - q: "Mô hình điểm thưởng nào phù hợp để tích hợp vào hệ thống locker thông minh?"
     a: "Mô hình Loyalty cho Locker: (1) Điểm tích lũy theo sử dụng (Points-per-use): Mỗi lần mở ô → X điểm. Sử dụng hàng ngày liên tục → bonus streak (chuỗi ngày dùng). Trả ô đúng hạn (không để quá giờ) → điểm thưởng đúng giờ. Lợi ích: Đơn giản, dễ hiểu. Khuyến khích sử dụng thường xuyên. (2) Token (Blockchain hoặc In-app Currency): Token in-app (đơn giản hơn): Đơn vị tiền tệ nội bộ trong app. Người dùng tích token, dùng token để đổi lấy ô miễn phí, nâng cấp ô lớn hơn, ưu tiên đặt ô. NFT/Blockchain token (phức tạp hơn): Token trên blockchain → có thể giao dịch, bán cho người khác. Phức tạp triển khai, không khuyến nghị cho locker thông thường. (3) Tier system (Cấp bậc thành viên): Người dùng mới: Bronze. Dùng đủ 30 lần/tháng: Silver → được 1 ô free/tuần. Dùng đủ 100 lần/tháng: Gold → 2 ô free/tuần + ô locker ưu tiên. VIP (corporate account): Unlimited free locker trong quota tháng. Lợi ích: Tạo cảm giác thành tích và status. Khuyến khích sử dụng nhiều hơn để lên cấp. (4) Referral program: Giới thiệu bạn bè đăng ký → nhận 500 điểm. Bạn bè dùng lần đầu → thêm 200 điểm. Lợi ích: Chi phí acquisition thấp hơn quảng cáo."

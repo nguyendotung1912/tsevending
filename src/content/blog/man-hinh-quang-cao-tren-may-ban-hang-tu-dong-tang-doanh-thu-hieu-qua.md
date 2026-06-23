@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["quảng cáo trên máy bán hàng", "digital signage vending", "doanh thu quảng cáo"]
 image: "/images/articles/man-hinh-quang-cao-tren-may-ban-hang-tu-dong-tang-doanh-thu-hieu-qua.jpg"
-imageAlt: "Màn hình quảng cáo trên máy bán hàng tự động"
+imageAlt: "Màn hình quảng cáo trên máy bán hàng tự động: Tăng doanh thu hiệu quả"
 imageCredit: "Photo by Hanna Pad on Pexels"
 faqs:
   - q: "Quảng cáo trên máy bán hàng tự động là gì?"

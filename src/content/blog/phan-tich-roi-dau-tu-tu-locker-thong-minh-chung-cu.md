@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["ROI locker chung cư", "chi phí đầu tư tủ locker", "hoàn vốn locker thông minh"]
 image: "/images/articles/phan-tich-roi-dau-tu-tu-locker-thong-minh-chung-cu.jpg"
-imageAlt: "Hệ thống tủ locker thông minh tại sảnh chung cư với cư dân nhận hàng tự động"
+imageAlt: "Phân Tích ROI Thực Tế Khi Đầu Tư Tủ Locker Thông Minh Tại Chung Cư"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Chi phí đầu tư ban đầu cho hệ thống tủ locker thông minh tại chung cư là bao nhiêu?"

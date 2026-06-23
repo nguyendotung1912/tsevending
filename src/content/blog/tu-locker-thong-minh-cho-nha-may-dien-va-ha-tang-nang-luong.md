@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker nhà máy điện", "power plant locker", "tủ locker hạ tầng năng lượng"]
 image: "/images/articles/tu-locker-thong-minh-cho-nha-may-dien-va-ha-tang-nang-luong.jpg"
-imageAlt: "Tủ locker thông minh tại nhà máy điện"
+imageAlt: "Tủ locker thông minh cho nhà máy điện và hạ tầng năng lượng"
 imageCredit: "Photo by Brett Sayles on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

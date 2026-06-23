@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker shipper", "tủ locker giao hàng theo giờ", "flexible delivery locker"]
 image: "/images/articles/tu-locker-shipper-giai-phap-giao-hang-linh-hoat-theo-gio.jpg"
-imageAlt: "Tủ locker thông minh cho shipper nhận hàng linh hoạt"
+imageAlt: "Tủ Locker Shipper - Giải Pháp Giao Hàng Linh Hoạt Theo Giờ"
 imageCredit: "Photo by Kampus Production on Pexels"
 faqs:
   - q: "Tủ locker shipper là gì?"

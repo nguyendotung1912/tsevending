@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["cảm biến nhiệt độ máy bán hàng", "bảo quản hàng hóa vending machine", "monitoring vending machine nhiệt độ"]
 image: "/images/articles/cam-bien-nhiet-do-do-am-may-ban-hang-dam-bao-chat-luong.jpg"
-imageAlt: "Màn hình dashboard hiển thị nhiệt độ và độ ẩm thời gian thực của nhiều máy bán hàng tự động"
+imageAlt: "Cảm Biến Nhiệt Độ Và Độ Ẩm Trong Máy Bán Hàng: Đảm Bảo Chất Lượng Hàng Hóa"
 faqs:
   - q: "Tại sao cần cảm biến nhiệt độ trong máy bán hàng?"
     a: "Hàng hóa trong máy vending có thể bị hỏng nếu nhiệt độ không được kiểm soát: Đồ uống lạnh: nếu máy lạnh bị hỏng và nhiệt độ tăng lên 30°C+, đồ uống vẫn bán được nhưng không ngon và có thể hỏng hạn dùng nhanh hơn. Thực phẩm tươi: nếu nhiệt độ tăng quá 5°C so với cài đặt, thịt, salad và sữa có thể hư trong vài giờ — nguy cơ ngộ độc thực phẩm cho người mua. Thuốc (nếu bán): một số thuốc hỏng ở nhiệt độ > 30°C — không chỉ kém hiệu quả mà có thể gây hại."

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["BYOD locker", "tủ locker bảo mật laptop", "device locker"]
 image: "/images/articles/tu-locker-thong-minh-byod-giai-phap-bao-mat-thiet-bi-ca-nhan.jpg"
-imageAlt: "Tủ locker thông minh BYOD bảo mật thiết bị cá nhân"
+imageAlt: "Tủ Locker Thông Minh BYOD: Giải Pháp Bảo Mật Thiết Bị Cá Nhân"
 imageCredit: "Photo by EqualStock IN on Pexels"
 faqs:
   - q: "Tủ locker BYOD là gì?"

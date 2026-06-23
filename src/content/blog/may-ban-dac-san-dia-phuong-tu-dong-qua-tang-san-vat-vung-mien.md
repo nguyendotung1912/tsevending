@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán đặc sản địa phương tự động", "vending machine quà tặng du lịch", "máy bán sản phẩm địa phương"]
 image: "/images/articles/may-ban-dac-san-dia-phuong-tu-dong-qua-tang-san-vat-vung-mien.jpg"
-imageAlt: "Máy bán hàng tự động tại điểm du lịch trưng bày đặc sản địa phương Việt Nam đóng gói đẹp"
+imageAlt: "Máy Bán Đặc Sản Địa Phương Tự Động: Quà Tặng Và Sản Vật Vùng Miền Việt Nam"
 faqs:
   - q: "Loại đặc sản nào phù hợp để bán qua máy vending tự động?"
     a: "Tiêu chí lựa chọn đặc sản cho vending machine: Kích thước: phải vừa khe xoắn ốc hoặc ngăn thả (thường rộng 10-15cm, cao 20-25cm). Hạn sử dụng: tối thiểu 3-6 tháng (không thể tiếp hàng hàng ngày như hàng tươi). Bao bì: kín hoàn toàn, không bị ảnh hưởng bởi nhiệt độ thường (không cần lạnh). Đặc sản phù hợp theo vùng: Hà Nội/miền Bắc: chè Thái Nguyên gói nhỏ 50g, kẹo lạc Hà Nội, bánh cốm đóng hộp, mứt ô mai sấy khô. Đà Lạt: cà phê Arabica Cầu Đất gói 100g, mứt dâu đóng lọ nhỏ, trà atiso gói 20 túi, khoai lang sấy. Hội An/Huế: bánh đậu xanh, mè xửng đóng hộp, tôm khô Huế gói nhỏ. TP.HCM/miền Nam: bánh tráng Tây Ninh, mắm tôm chua gói nhỏ, hạt điều rang muối. Phú Quốc: nước mắm mini 50ml, tiêu Phú Quốc gói 20g, mực một nắng đóng gói. Sản phẩm KHÔNG phù hợp: Đồ tươi sống, đồ cần bảo quản lạnh, vật thể dạng lỏng không kín (dễ đổ trong máy)."

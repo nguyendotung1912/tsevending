@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker giàn khoan", "offshore locker", "tủ locker tàu biển"]
 image: "/images/articles/tu-locker-thong-minh-cho-nhan-vien-offshore-gian-khoan-tau-bien.jpg"
-imageAlt: "Tủ locker thông minh cho nhân viên offshore giàn khoan và tàu biển"
+imageAlt: "Tủ Locker Thông Minh Cho Nhân Viên Offshore Giàn Khoan & Tàu Biển"
 imageCredit: "Photo by Alperen Bozkurt on Pexels"
 faqs:
   - q: "Tủ locker thông minh cho offshore là gì?"

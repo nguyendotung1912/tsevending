@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "review-so-sanh"
 keywords: ["so sánh locker 4 cửa 6 cửa 12 cửa", "locker bao nhiêu ngăn", "chọn số ngăn tủ locker"]
 image: "/images/articles/so-sanh-locker-4-cua-6-cua-12-cua-nen-chon-gi.jpg"
-imageAlt: "Ba loại tủ locker 4 ngăn, 6 ngăn và 12 ngăn đặt cạnh nhau để so sánh kích thước"
+imageAlt: "So Sánh Tủ Locker 4 Cửa vs 6 Cửa vs 12 Cửa: Nên Chọn Gì Cho Nhu Cầu Của Bạn?"
 faqs:
   - q: "Locker 4 cửa hay 12 cửa mua nhiều hơn tại thị trường Việt Nam?"
     a: "Tại Việt Nam 2026: locker 12 cửa (thường là 2 cột × 6 hàng) bán nhiều nhất vì cân bằng giữa số ô và kích thước — phổ biến trong trường học, khu công nghiệp và văn phòng cần phục vụ nhiều người. Locker 4 cửa bán chạy thứ hai cho gym, spa và locker lưu trữ cá nhân. Locker 6 cửa phổ biến trong co-working và startup. Điều này phản ánh cấu trúc nhu cầu thực tế: phục vụ nhiều người trong ít không gian."

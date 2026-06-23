@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe"
 keywords: ["máy bán hàng nhận diện tuổi", "age verification vending machine", "vending machine bán bia rượu hợp pháp"]
 image: "/images/articles/may-ban-hang-tu-dong-nhan-dien-tuoi-age-verification.jpg"
-imageAlt: "Màn hình máy bán hàng tự động hiển thị yêu cầu xác minh tuổi qua CCCD trước khi mua bia"
+imageAlt: "Máy Bán Hàng Tự Động Nhận Diện Tuổi: Công Nghệ Bán Hàng Người Lớn Hợp Pháp"
 faqs:
   - q: "Tại Việt Nam, bán bia và rượu qua máy vending có hợp pháp không?"
     a: "Khung pháp lý tại Việt Nam 2026: Luật Phòng chống tác hại của rượu, bia (Luật số 44/2019/QH14): Cấm bán rượu, bia cho người dưới 18 tuổi (Điều 5). Cấm bán rượu, bia sau 22h đêm tại các điểm bán lẻ thông thường (Điều 5, khoản 6). Điều này có nghĩa: Không có luật nào cấm rõ ràng việc bán bia/rượu qua máy vending, nhưng bạn vẫn phải tuân thủ: (1) Không bán cho người dưới 18 tuổi — máy phải có cơ chế xác minh tuổi; (2) Không bán sau 22h đêm — máy phải có chức năng tắt tự động theo giờ. Ngoài ra cần giấy phép kinh doanh rượu bia bán lẻ theo Nghị định 17/2020/NĐ-CP. Tóm lại: Hợp pháp nếu có đủ giấy phép và cơ chế tuân thủ quy định về độ tuổi và giờ bán. Vùng xám vẫn còn vì chưa có hướng dẫn cụ thể cho loại hình bán qua máy tự động."

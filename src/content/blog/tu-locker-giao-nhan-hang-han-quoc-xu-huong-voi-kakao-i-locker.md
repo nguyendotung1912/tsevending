@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["Kakao locker Hàn Quốc", "locker giao nhận Hàn Quốc", "mô hình locker châu Á"]
 image: "/images/articles/tu-locker-giao-nhan-hang-han-quoc-xu-huong-voi-kakao-i-locker.jpg"
-imageAlt: "Tủ locker giao nhận hàng Kakao i Locker tại Hàn Quốc"
+imageAlt: "Tủ locker giao nhận hàng Hàn Quốc: Xu hướng với Kakao i Locker"
 imageCredit: "Photo by ROMAN ODINTSOV on Pexels"
 faqs:
   - q: "Kakao i Locker là gì?"

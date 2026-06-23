@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-kinh-doanh"
 keywords: ["enterprise locker solution", "hệ thống locker tập đoàn", "triển khai locker quy mô lớn"]
 image: "/images/articles/enterprise-locker-trien-khai-tap-doan-lon-chien-luoc.jpg"
-imageAlt: "Dashboard quản lý hệ thống locker tập trung cho tập đoàn đa chi nhánh trên màn hình máy tính"
+imageAlt: "Enterprise Locker Solution: Chiến Lược Triển Khai Hệ Thống Locker Cho Tập Đoàn Lớn"
 imageCredit: "Photo by Jan van der Wolf on Pexels"
 faqs:
   - q: "Tập đoàn có bao nhiêu nhân viên thì nên triển khai enterprise locker?"

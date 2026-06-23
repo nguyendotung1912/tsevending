@@ -3,7 +3,7 @@ title: "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn
 description: "Quy trình bảo trì máy bán hàng tự động định kỳ theo ngày, tuần, tháng và quý giúp máy hoạt động ổn định, giảm hỏng hóc và kéo dài tuổi thọ thiết bị."
 date: "2026-05-06"
 image: "/images/articles/bao-tri-may-ban-hang-tu-dong-dinh-ky-quy-trinh-chuan.jpg"
-imageAlt: "Worker handling camshafts and cylinder head in a mechanic workshop."
+imageAlt: "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn"
 imageCredit: "Photo by Sergey  Meshkov on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["bảo trì máy bán hàng tự động", "quy trình bảo trì vending", "vận hành máy vending"]

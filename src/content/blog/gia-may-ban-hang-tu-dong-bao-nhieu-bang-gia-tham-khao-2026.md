@@ -3,7 +3,7 @@ title: "Giá máy bán hàng tự động bao nhiêu? Bảng giá tham khảo th
 description: "Giá máy bán hàng tự động bao nhiêu? Tổng hợp bảng giá tham khảo theo từng dòng máy (mini, tiêu chuẩn, hàng lạnh, gas...) và chi phí vận hành cần tính thêm năm 2026."
 date: "2026-05-02"
 image: "/images/articles/gia-may-ban-hang-tu-dong-bao-nhieu-bang-gia-tham-khao-2026.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Giá máy bán hàng tự động bao nhiêu? Bảng giá tham khảo theo từng dòng máy 2026"
 silo: "may-ban-hang-tu-dong"
 keywords: ["giá máy bán hàng tự động", "giá máy bán hàng tự động bao nhiêu", "bảng giá máy bán hàng tự động 2026"]
 faqs:

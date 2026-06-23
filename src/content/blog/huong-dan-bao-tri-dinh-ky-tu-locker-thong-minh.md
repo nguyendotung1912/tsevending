@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["bảo trì tủ locker", "maintenance locker", "quy trình kiểm tra locker"]
 image: "/images/articles/huong-dan-bao-tri-dinh-ky-tu-locker-thong-minh.jpg"
-imageAlt: "Tủ locker thông minh - Hướng dẫn bảo trì định kỳ"
+imageAlt: "Hướng dẫn bảo trì định kỳ tủ locker thông minh"
 imageCredit: "Photo by Artem Podrez on Pexels"
 faqs:
   - q: "Tủ locker thông minh cần bảo trì bao lâu một lần?"

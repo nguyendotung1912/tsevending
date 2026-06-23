@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-cong-truong"
 keywords: ["locker công trình xây dựng", "construction site locker", "tủ locker công trường"]
 image: "/images/articles/tu-locker-thong-minh-cho-cong-trinh-xay-dung-giai-phap-bao-quan-dung-cu-cong-tru.jpg"
-imageAlt: "Tủ locker thông minh cho công trình xây dựng"
+imageAlt: "Tủ locker thông minh cho công trình xây dựng - Giải pháp bảo quản dụng cụ công trường"
 imageCredit: "Photo by limoo on Pexels"
 faqs:
   - q: "Tủ locker thông minh cho công trình xây dựng là gì?"

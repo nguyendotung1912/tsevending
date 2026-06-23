@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker đa tòa", "hệ thống locker tập đoàn", "multi-building locker"]
 image: "/images/articles/he-thong-locker-da-tang-da-toa-giai-phap-tap-doan-lon.jpg"
-imageAlt: "Màn hình dashboard quản lý hệ thống locker đa tòa nhà của tập đoàn lớn với bản đồ site"
+imageAlt: "Hệ Thống Quản Lý Tủ Locker Đa Tầng Đa Tòa: Giải Pháp Tổng Thể Cho Tập Đoàn"
 imageCredit: "Photo by Zulfugar Karimov on Pexels"
 faqs:
   - q: "Kiến trúc phần mềm nào phù hợp để quản lý locker trên nhiều tòa nhà và địa điểm?"

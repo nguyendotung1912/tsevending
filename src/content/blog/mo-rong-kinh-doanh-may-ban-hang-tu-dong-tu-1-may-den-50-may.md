@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["mở rộng kinh doanh máy bán hàng tự động", "scale vending machine business VN", "từ 1 máy đến 50 máy vending"]
 image: "/images/articles/mo-rong-kinh-doanh-may-ban-hang-tu-dong-tu-1-may-den-50-may.jpg"
-imageAlt: "Sơ đồ lộ trình mở rộng kinh doanh máy bán hàng tự động từ 1 máy đến 50 máy trong 2 năm"
+imageAlt: "Mở Rộng Quy Mô Kinh Doanh Máy Bán Hàng Tự Động: Từ 1 Máy Đến 50 Máy Trong 2 Năm"
 faqs:
   - q: "Tại sao nhiều người có máy bán hàng tự động lợi nhuận nhưng không scale được và cần thay đổi gì?"
     a: "Why Vending Operators Fail to Scale — and How to Fix It: Bẫy phổ biến khi có 1-3 máy đầu tiên: Bẫy 1 — Tái đầu tư không có kế hoạch: Máy thứ 1 lãi 3 triệu/tháng → tiêu hết. Không có vốn mua máy thứ 2. Giải pháp: Từ ngày 1, đặt mục tiêu scale. 50% lợi nhuận → quỹ mua máy mới. Bẫy 2 — Chỉ vận hành 1 mình: Tự đi nhập hàng, tự bơm tiền, tự sửa. Không scale được vì không đủ thời gian. Giải pháp: Từ máy thứ 5 → cần nghĩ đến người hỗ trợ. Bẫy 3 — Máy tập trung 1 khu vực, không diversify: Tất cả máy ở 1 tòa nhà → khi tòa nhà renovate hay chủ nhà đòi tháo → mất 100%. Giải pháp: Đa dạng hóa địa điểm ngay từ máy thứ 3. Bẫy 4 — Không có system, chỉ có instinct: Không theo dõi số liệu từng máy. Không biết máy nào lãi nhất, tại sao. Giải pháp: Dùng phần mềm quản lý vending từ ngày đầu. Bẫy 5 — Giá tốt quá mức: Sợ mất khách → bán thấp hơn siêu thị. Lãi gộp âm sau phí mặt bằng và nhân công. Giải pháp: Vending phải cao hơn siêu thị 10-20% (khách trả premium cho tiện lợi). Mindset cần có để scale: Nghĩ như chủ doanh nghiệp, không phải người vận hành. Mục tiêu là system, không phải bản thân làm mọi việc. Mỗi quyết định: 'Cái này có thể thuê người làm không?'"

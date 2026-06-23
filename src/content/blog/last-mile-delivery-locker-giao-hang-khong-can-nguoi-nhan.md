@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["parcel locker Việt Nam", "locker giao hàng", "last-mile delivery locker"]
 image: "/images/articles/last-mile-delivery-locker-giao-hang-khong-can-nguoi-nhan.jpg"
-imageAlt: "Shipper đang bỏ gói hàng vào tủ locker giao nhận bưu kiện ngoài trời tại chung cư"
+imageAlt: "Last-Mile Delivery Locker: Giao Hàng Không Cần Người Nhận Trực Tiếp"
 imageCredit: "Photo by Kampus Production on Pexels"
 faqs:
   - q: "Parcel locker ở Việt Nam hiện tại được triển khai ở đâu?"

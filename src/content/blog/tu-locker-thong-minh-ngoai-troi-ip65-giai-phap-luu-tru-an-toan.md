@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker IP65 ngoài trời", "outdoor waterproof locker", "tủ locker chống thấm"]
 image: "/images/articles/tu-locker-thong-minh-ngoai-troi-ip65-giai-phap-luu-tru-an-toan.jpg"
-imageAlt: "Tủ locker thông minh ngoài trời IP65"
+imageAlt: "Tủ locker thông minh ngoài trời IP65 - Giải pháp lưu trữ an toàn"
 imageCredit: "Photo by panumas nikhomkhai on Pexels"
 faqs:
   - q: "Tủ locker IP65 ngoài trời là gì?"

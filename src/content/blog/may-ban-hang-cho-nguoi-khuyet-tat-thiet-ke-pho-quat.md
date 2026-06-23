@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["máy bán hàng người khuyết tật", "vending machine ADA accessible", "thiết kế phổ quát máy vending"]
 image: "/images/articles/may-ban-hang-cho-nguoi-khuyet-tat-thiet-ke-pho-quat.jpg"
-imageAlt: "Người dùng xe lăn sử dụng máy bán hàng tự động có thiết kế thấp với màn hình cảm ứng"
+imageAlt: "Máy Bán Hàng Tự Động Dành Cho Người Khuyết Tật: Thiết Kế Phổ Quát Và Tiêu Chuẩn ADA"
 imageCredit: "Photo by www.kaboompics.com on Pexels"
 faqs:
   - q: "Tiêu chuẩn ADA cho máy vending machine là gì?"

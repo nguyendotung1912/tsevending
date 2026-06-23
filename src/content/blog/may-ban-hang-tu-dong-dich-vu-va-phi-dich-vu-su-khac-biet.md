@@ -3,7 +3,7 @@ title: "Máy bán hàng tự động dịch vụ vs. phi dịch vụ: Phân tíc
 description: "Không phải máy bán hàng tự động nào cũng bán sản phẩm vật lý. Máy bán vé, đổi tiền, nạp thẻ, đặt lịch... đang mở ra chiều hướng mới. Phân tích để chọn đầu tư đúng."
 date: "2026-05-19"
 image: "/images/articles/may-ban-hang-tu-dong-dich-vu-va-phi-dich-vu-su-khac-biet.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Máy bán hàng tự động dịch vụ vs. phi dịch vụ: Phân tích và lựa chọn đúng"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán vé tự động", "máy dịch vụ tự động", "kiosk dịch vụ vending machine"]
 faqs:

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["máy bán hàng chống kẹt hàng", "anti-jam vending machine", "chống kẹt hàng vending"]
 image: "/images/articles/may-ban-hang-chong-ket-hang-anti-jam-cong-nghe-2026.jpg"
-imageAlt: "Cảm biến phát hiện kẹt hàng trong máy bán hàng tự động với đèn LED xanh báo hiệu hoạt động"
+imageAlt: "Máy Bán Hàng Tự Động Chống Kẹt Hàng: Công Nghệ Anti-Jam Hiện Đại Nhất 2026"
 faqs:
   - q: "Tại sao máy bán hàng bị kẹt hàng?"
     a: "Nguyên nhân phổ biến: (1) Sản phẩm có hình dạng bất đồng đều (bánh có gờ, túi phồng hơi, chai có đáy rộng) — coil không đẩy được đều. (2) Sản phẩm nặng hơn lực đẩy của motor coil. (3) Coil bị biến dạng do nhiệt độ cao lâu ngày. (4) Sản phẩm kẹt giữa 2 sản phẩm trong coil do giãn cách không đúng. (5) Độ ẩm cao làm sản phẩm dính vào coil hoặc kệ. Nguyên nhân gốc rễ: cấu hình coil và kệ không phù hợp với sản phẩm cụ thể."

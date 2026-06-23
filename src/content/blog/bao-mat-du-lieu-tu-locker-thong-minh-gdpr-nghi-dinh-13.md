@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật dữ liệu locker", "GDPR locker", "bảo vệ thông tin locker"]
 image: "/images/articles/bao-mat-du-lieu-tu-locker-thong-minh-gdpr-nghi-dinh-13.jpg"
-imageAlt: "Tủ locker thông minh với bảo mật dữ liệu cao"
+imageAlt: "Bảo Mật Dữ Liệu Tủ Locker Thông Minh: GDPR & Nghị Định 13"
 imageCredit: "Photo by Towfiqu barbhuiya on Pexels"
 faqs:
   - q: "GDPR là gì và áp dụng cho tủ locker thông minh như thế nào?"

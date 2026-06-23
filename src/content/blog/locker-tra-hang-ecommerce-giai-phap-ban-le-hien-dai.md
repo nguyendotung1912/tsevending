@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["locker trả hàng", "đổi trả hàng online", "return locker ecommerce"]
 image: "/images/articles/locker-tra-hang-ecommerce-giai-phap-ban-le-hien-dai.jpg"
-imageAlt: "Khách hàng đang gửi gói hàng trả lại vào tủ locker tự động tại trung tâm thương mại"
+imageAlt: "Locker Trả Hàng E-commerce: Giải Pháp Đổi Trả Hàng Không Cần Xếp Hàng"
 imageCredit: "Photo by Tom Fisk on Pexels"
 faqs:
   - q: "Locker trả hàng hoạt động như thế nào với Shopee, Lazada hay TikTok Shop?"

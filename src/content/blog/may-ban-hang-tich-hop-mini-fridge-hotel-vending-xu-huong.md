@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe"
 keywords: ["hotel minibar vending machine", "máy bán hàng tích hợp tủ lạnh khách sạn", "smart minibar khách sạn"]
 image: "/images/articles/may-ban-hang-tich-hop-mini-fridge-hotel-vending-xu-huong.jpg"
-imageAlt: "Tủ lạnh minibar thông minh tích hợp màn hình cảm ứng trong phòng khách sạn cao cấp"
+imageAlt: "Máy Bán Hàng Tự Động Tích Hợp Mini Fridge: Xu Hướng Hotel Vending Mới"
 imageCredit: "Photo by Quang Nguyen Vinh on Pexels"
 faqs:
   - q: "Smart minibar khác gì với minibar truyền thống trong phòng khách sạn?"

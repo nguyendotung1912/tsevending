@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker khách sạn thông minh", "check-in tự động khách sạn", "key locker hotel"]
 image: "/images/articles/locker-khach-san-check-in-khong-tiep-xuc-giao-chia-khoa.jpg"
-imageAlt: "Hệ thống locker thông minh tại sảnh khách sạn cho phép khách tự nhận chìa khóa phòng"
+imageAlt: "Locker Khách Sạn Thông Minh: Check-In Không Tiếp Xúc Và Giao Chìa Khóa Tự Động"
 imageCredit: "Photo by Quang Nguyen Vinh on Pexels"
 faqs:
   - q: "Locker chìa khóa khách sạn hoạt động như thế nào?"

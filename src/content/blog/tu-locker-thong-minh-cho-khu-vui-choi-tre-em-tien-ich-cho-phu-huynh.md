@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker nhà banh trẻ em", "kids play locker", "tủ locker vui chơi trẻ em"]
 image: "/images/articles/tu-locker-thong-minh-cho-khu-vui-choi-tre-em-tien-ich-cho-phu-huynh.jpg"
-imageAlt: "Tủ locker thông minh cho khu vui chơi trẻ em"
+imageAlt: "Tủ Locker Thông Minh Cho Khu Vui Chơi Trẻ Em - Tiện Ích Cho Phụ Huynh"
 imageCredit: "Photo by Engin Akyurt on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

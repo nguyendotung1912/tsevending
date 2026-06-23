@@ -3,7 +3,7 @@ title: "AI dự đoán tồn kho và tối ưu doanh thu máy bán hàng tự đ
 description: "Trí tuệ nhân tạo đang cách mạng hóa cách vận hành mạng lưới vending machine — từ dự báo tồn kho đến tối ưu giá bán động. Công nghệ nào đang được áp dụng thực tế?"
 date: "2026-05-14"
 image: "/images/articles/ai-du-doan-ton-kho-va-bieu-do-doanh-thu-may-ban-hang-tu-dong.jpg"
-imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
+imageAlt: "AI dự đoán tồn kho và tối ưu doanh thu máy bán hàng tự động như thế nào?"
 imageCredit: "Photo by Nataliya Vaitkevich on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["AI tối ưu vending machine", "dự đoán tồn kho máy bán hàng tự động", "AI quản lý vending"]

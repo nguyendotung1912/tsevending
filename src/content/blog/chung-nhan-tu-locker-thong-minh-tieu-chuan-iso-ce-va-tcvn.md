@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["chứng nhận locker", "tiêu chuẩn locker ISO", "CE locker Việt Nam"]
 image: "/images/articles/chung-nhan-tu-locker-thong-minh-tieu-chuan-iso-ce-va-tcvn.jpg"
-imageAlt: "Tủ locker thông minh đạt chuẩn ISO và CE"
+imageAlt: "Chứng nhận tủ locker thông minh: Tiêu chuẩn ISO, CE và TCVN"
 imageCredit: "Photo by Daniel Andraski on Pexels"
 faqs:
   - q: "Tại sao tủ locker thông minh cần chứng nhận ISO và CE?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["giá thuê locker chung cư 2026", "phí locker chung cư", "ô locker chung cư bao nhiêu tiền"]
 image: "/images/articles/gia-thue-o-locker-chung-cu-phi-bao-nhieu-hop-ly-2026.jpg"
-imageAlt: "Khu vực locker chung cư hiện đại với bảng giá và màn hình quản lý điện tử"
+imageAlt: "Giá Thuê Ô Locker Chung Cư 2026: Phí Bao Nhiêu Là Hợp Lý Cho Cư Dân?"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Phí thuê ô locker chung cư có phải đóng hàng tháng không?"

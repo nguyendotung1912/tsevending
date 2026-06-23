@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an"
 keywords: ["máy bán cơm hộp", "cơm tự động khu công nghiệp", "bữa trưa vending machine"]
 image: "/images/articles/may-ban-com-hop-tu-dong-giai-phap-bua-trua-khu-cong-nghiep.jpg"
-imageAlt: "Máy bán cơm hộp tự động ở khu công nghiệp với đa dạng suất cơm trưa đóng hộp"
+imageAlt: "Máy Bán Cơm Hộp Tự Động: Giải Pháp Bữa Trưa Khu Công Nghiệp"
 imageCredit: "Photo by Jhonny' Mages on Pexels"
 faqs:
   - q: "Máy bán cơm hộp tự động hoạt động thế nào để đảm bảo cơm vẫn nóng?"

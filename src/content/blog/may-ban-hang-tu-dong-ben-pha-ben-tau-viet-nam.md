@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng bến phà", "vending machine bến tàu", "kinh doanh bến cảng Việt Nam"]
 image: "/images/articles/may-ban-hang-tu-dong-ben-pha-ben-tau-viet-nam.jpg"
-imageAlt: "Máy bán hàng tự động đặt tại nhà chờ bến phà với hành khách xếp hàng chờ tàu"
+imageAlt: "Máy Bán Hàng Tự Động Tại Bến Phà Và Bến Tàu: Địa Điểm Chờ Đợi Tiềm Năng"
 faqs:
   - q: "Bến phà nào tại Việt Nam có lưu lượng đủ lớn cho vending machine?"
     a: "Lưu lượng cao nhất: (1) Bến phà Cát Lái (TP.HCM–Đồng Nai): 30,000–50,000 lượt/ngày — lớn nhất Việt Nam; (2) Phà Mỹ Thuận (Vĩnh Long–Tiền Giang): dù cầu Mỹ Thuận 2 đã thông xe, phà vẫn phục vụ xe tải và người đi phà vì giá rẻ hơn; (3) Phà ra đảo (Phú Quốc trước khi cầu, Lý Sơn, Côn Đảo, Cù Lao Chàm): khách du lịch, lưu lượng đều và có khả năng chi tiêu; (4) Phà nội đô TP.HCM (Bình Khánh, Thủ Thiêm khi chưa có cầu): lưu lượng dân cư đi làm. Phà nhỏ (<500 người/ngày): chưa đủ để vending machine hoạt động hiệu quả."

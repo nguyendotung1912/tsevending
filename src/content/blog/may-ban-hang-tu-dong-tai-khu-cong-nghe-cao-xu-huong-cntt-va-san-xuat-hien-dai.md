@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng khu công nghệ cao", "vending machine tech park", "công nghệ cao vending"]
 image: "/images/articles/may-ban-hang-tu-dong-tai-khu-cong-nghe-cao-xu-huong-cntt-va-san-xuat-hien-dai.jpg"
-imageAlt: "Máy bán hàng tự động tại khu công nghệ cao"
+imageAlt: "Máy bán hàng tự động tại khu công nghệ cao: Xu hướng CNTT và sản xuất hiện đại"
 imageCredit: "Photo by Yetkin Ağaç on Pexels"
 faqs:
   - q: "Máy bán hàng tự động tại khu công nghệ cao có những lợi ích gì?"

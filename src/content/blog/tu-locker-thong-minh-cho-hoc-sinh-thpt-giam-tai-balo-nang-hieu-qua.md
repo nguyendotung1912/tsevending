@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker học sinh THPT", "tủ locker trường cấp 3", "giảm tải sách vở"]
 image: "/images/articles/tu-locker-thong-minh-cho-hoc-sinh-thpt-giam-tai-balo-nang-hieu-qua.jpg"
-imageAlt: "Tủ locker thông minh cho học sinh THPT - Giải pháp giảm tải balo nặng"
+imageAlt: "Tủ locker thông minh cho học sinh THPT - Giảm tải balo nặng hiệu quả"
 imageCredit: "Photo by Gera Cejas on Pexels"
 faqs:
   - q: "Tủ locker thông minh có an toàn không?"

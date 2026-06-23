@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["loyalty app vending machine", "tích điểm máy bán hàng", "khuyến mãi vending"]
 image: "/images/articles/loyalty-app-vending-machine-tich-diem-va-khuyen-mai-thong-minh.jpg"
-imageAlt: "Máy bán hàng tự động tích hợp app loyalty"
+imageAlt: "Loyalty App Vending Machine: Tích Điểm và Khuyến Mãi Thông Minh"
 imageCredit: "Photo by Szabó Viktor on Pexels"
 faqs:
   - q: "Lợi ích của việc tích hợp app loyalty với máy bán hàng tự động là gì?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng cảng biển", "vending machine cảng cá Việt Nam", "máy bán hàng thuyền viên"]
 image: "/images/articles/may-ban-hang-tu-dong-cang-bien-cang-ca-thuyen-vien.jpg"
-imageAlt: "Máy bán hàng tự động chắc chắn đặt tại khu vực cảng biển gần tàu hàng neo đậu"
+imageAlt: "Máy Bán Hàng Tự Động Tại Cảng Biển Và Cảng Cá: Phục Vụ Thuyền Viên Và Công Nhân Bến Cảng"
 imageCredit: "Photo by Tom Fisk on Pexels"
 faqs:
   - q: "Thuyền viên và ngư dân cần mua gì khi lên bờ ít giờ trước khi ra khơi?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["đánh giá phần mềm locker", "locker software review", "quản lý locker app"]
 image: "/images/articles/danh-gia-phan-mem-quan-ly-tu-locker-thong-minh-tinh-nang-va-uu-nhuoc-diem.jpg"
-imageAlt: "Tsevending - chuyên gia giải pháp tủ locker thông minh"
+imageAlt: "Đánh giá phần mềm quản lý tủ locker thông minh: Tính năng và ưu nhược điểm"
 imageCredit: "Photo by Yan Krukau on Pexels"
 faqs:
   - q: "Phần mềm quản lý tủ locker thông minh là gì?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán đồ lưu niệm tự động", "souvenir vending machine", "du lịch tự động"]
 image: "/images/articles/may-ban-do-luu-niem-tu-dong-cho-du-lich.jpg"
-imageAlt: "Máy bán đồ lưu niệm tự động cho du lịch"
+imageAlt: "Máy Bán Đồ Lưu Niệm Tự Động Cho Du Lịch"
 imageCredit: "Photo by Zeynep Sude  Emek on Pexels"
 faqs:
   - q: "Máy bán đồ lưu niệm tự động có thể bán những loại đồ lưu niệm nào?"

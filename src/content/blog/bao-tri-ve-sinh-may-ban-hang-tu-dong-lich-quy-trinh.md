@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["bảo trì máy bán hàng tự động", "vệ sinh máy bán hàng", "quy trình bảo dưỡng vending machine"]
 image: "/images/articles/bao-tri-ve-sinh-may-ban-hang-tu-dong-lich-quy-trinh.jpg"
-imageAlt: "Kỹ thuật viên đang vệ sinh và kiểm tra bên trong máy bán hàng tự động"
+imageAlt: "Bảo Trì Và Vệ Sinh Máy Bán Hàng Tự Động: Lịch Và Quy Trình Chuẩn"
 imageCredit: "Photo by Adrien Olichon on Pexels"
 faqs:
   - q: "Bao lâu cần vệ sinh máy bán hàng tự động một lần?"

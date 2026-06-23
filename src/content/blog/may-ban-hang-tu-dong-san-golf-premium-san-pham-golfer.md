@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng sân golf", "vending machine golf Việt Nam", "máy bán hàng cho golfer"]
 image: "/images/articles/may-ban-hang-tu-dong-san-golf-premium-san-pham-golfer.jpg"
-imageAlt: "Máy bán hàng tự động sang trọng đặt tại trạm nghỉ sân golf với bóng golf và phụ kiện bên trong"
+imageAlt: "Máy Bán Hàng Tự Động Tại Sân Golf: Premium Product Mix Dành Cho Golfer"
 faqs:
   - q: "Máy vending tại sân golf nên đặt ở đâu trong khuôn viên sân?"
     a: "Vị trí tối ưu trong sân golf: (1) Clubhouse (cần thiết nhất): Nơi golfer check-in, thay đồ, chờ teeing. Lưu lượng 100% golfer trong ngày. Sản phẩm: bóng golf, tee, khăn tắm, đồ uống; (2) Halfway house (hố 9): Giữa vòng 18 hố, golfer dừng nghỉ. Nhu cầu đồ uống và snack cao nhất lúc này. Đặt máy thay thế hoặc bổ sung cho snack bar tại đây; (3) Tee box hố 1 và hố 10: Golfer chờ tee-off. 5-15 phút chờ → cơ hội mua nước và tee dự phòng; (4) Putting green/practice area: Người tập luyện ở lâu (1-3 tiếng). Cần nước uống liên tục; (5) Caddie station: Caddie và nhân viên sân cũng là khách hàng tiềm năng. Sản phẩm cho caddie (khác với golfer): mì ăn liền, snack bình dân, nước uống giá hợp lý."

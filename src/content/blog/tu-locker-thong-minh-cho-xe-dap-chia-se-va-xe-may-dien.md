@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["bike sharing locker", "tủ locker xe đạp chia sẻ", "e-scooter locker"]
 image: "/images/articles/tu-locker-thong-minh-cho-xe-dap-chia-se-va-xe-may-dien.jpg"
-imageAlt: "Tủ locker thông minh cho xe đạp chia sẻ và xe máy điện"
+imageAlt: "Tủ Locker Thông Minh Cho Xe Đạp Chia Sẻ và Xe Máy Điện"
 imageCredit: "Photo by Joaquin Carfagna on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

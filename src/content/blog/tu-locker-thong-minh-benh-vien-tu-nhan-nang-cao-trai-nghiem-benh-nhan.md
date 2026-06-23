@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["locker bệnh viện tư nhân", "tủ locker bệnh viện quốc tế", "patient locker"]
 image: "/images/articles/tu-locker-thong-minh-benh-vien-tu-nhan-nang-cao-trai-nghiem-benh-nhan.jpg"
-imageAlt: "Tủ locker thông minh thanh lịch trong phòng bệnh nhân bệnh viện tư nhân hiện đại"
+imageAlt: "Tủ Locker Thông Minh Tại Bệnh Viện Tư Nhân: Nâng Cao Trải Nghiệm Bệnh Nhân"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Bệnh nhân trong bệnh viện tư nhân có nhu cầu gì về bảo mật tài sản và locker đáp ứng như thế nào?"

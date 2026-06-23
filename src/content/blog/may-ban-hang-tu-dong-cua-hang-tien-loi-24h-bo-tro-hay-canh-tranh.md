@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["máy bán hàng vs cửa hàng tiện lợi", "vending machine cạnh tranh Circle K", "vending machine bổ trợ convenience store"]
 image: "/images/articles/may-ban-hang-tu-dong-cua-hang-tien-loi-24h-bo-tro-hay-canh-tranh.jpg"
-imageAlt: "So sánh máy bán hàng tự động và cửa hàng tiện lợi 24h cạnh nhau trên đường phố"
+imageAlt: "Máy Bán Hàng Tự Động Và Cửa Hàng Tiện Lợi 24h: Bổ Trợ Hay Cạnh Tranh?"
 faqs:
   - q: "Máy vending có thể đặt bên trong hoặc gần cửa hàng tiện lợi không?"
     a: "Không cạnh tranh, có thể hợp tác: Một số chuỗi convenience store tại Nhật và Hàn Quốc thực tế đặt máy vending bên ngoài hoặc bên trong cửa hàng — lý do: tăng tiện ích khi cửa hàng có hàng chờ (người mua nhanh 1 món dùng máy thay vì vào xếp hàng), phục vụ nhu cầu đặc biệt mà store không có (máy vending rượu hay thuốc lá ở nơi store không được bán). Tại Việt Nam 2026: Chưa phổ biến mô hình hợp tác này. Vending machine gần convenience store không nhất thiết là cạnh tranh — nếu sản phẩm khác nhau (vending bán thứ store không có) hoặc phục vụ nhu cầu nhanh hơn (không cần xếp hàng). Cạnh tranh thực sự: khi cả hai cùng bán cùng sản phẩm (nước ngọt Pepsi, nước lọc Lavie) ở cùng mức giá, cùng địa điểm."

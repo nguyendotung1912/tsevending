@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["máy bán hàng tiền xu", "coin vending machine Việt Nam", "máy bán hàng tiền mặt 2026"]
 image: "/images/articles/may-ban-hang-tien-xu-co-dien-con-phu-hop-2026.jpg"
-imageAlt: "Tay người bỏ đồng xu vào máy bán hàng tự động cổ điển màu đỏ"
+imageAlt: "Máy Bán Hàng Thanh Toán Bằng Tiền Xu: Mô Hình Cổ Điển Có Còn Phù Hợp 2026?"
 imageCredit: "Photo by Pavel Danilyuk on Pexels"
 faqs:
   - q: "Máy bán hàng tiền xu có còn bán được tại Việt Nam 2026 không?"

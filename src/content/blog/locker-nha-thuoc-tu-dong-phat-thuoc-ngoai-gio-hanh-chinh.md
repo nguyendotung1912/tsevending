@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["locker nhà thuốc tự động", "phát thuốc tự động", "locker dược phẩm bệnh viện"]
 image: "/images/articles/locker-nha-thuoc-tu-dong-phat-thuoc-ngoai-gio-hanh-chinh.jpg"
-imageAlt: "Máy phát thuốc tự động locker nhà thuốc điện tử tại bệnh viện với màn hình xác nhận danh tính"
+imageAlt: "Locker Nhà Thuốc Tự Động: Phát Thuốc Ngoài Giờ Hành Chính An Toàn"
 imageCredit: "Photo by Ayşenur on Pexels"
 faqs:
   - q: "Locker nhà thuốc tự động có hợp pháp tại Việt Nam không?"

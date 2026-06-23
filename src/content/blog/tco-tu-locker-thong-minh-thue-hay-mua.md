@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["TCO tủ locker", "chi phí sở hữu locker", "thuê vs mua locker"]
 image: "/images/articles/tco-tu-locker-thong-minh-thue-hay-mua.jpg"
-imageAlt: "Phân tích TCO tủ locker thông minh"
+imageAlt: "TCO Tủ Locker Thông Minh: Thuê hay Mua?"
 imageCredit: "Photo by Vlada Karpovich on Pexels"
 faqs:
   - q: "TCO tủ locker thông minh là gì?"

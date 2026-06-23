@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["mô hình kinh doanh máy bán hàng tự động", "đầu tư máy vending", "lợi nhuận máy bán hàng"]
 image: "/images/articles/mo-hinh-kinh-doanh-may-ban-hang-tu-dong-2026-tu-dau-tu-den-loi-nhuan.jpg"
-imageAlt: "Chủ máy bán hàng tự động kiểm tra doanh thu trên điện thoại khi đứng cạnh máy vending"
+imageAlt: "Mô Hình Kinh Doanh Máy Bán Hàng Tự Động 2026: Từ Đầu Tư Đến Lợi Nhuận"
 imageCredit: "Photo by Leeloo The First on Pexels"
 faqs:
   - q: "Mở kinh doanh máy bán hàng tự động cần vốn bao nhiêu?"

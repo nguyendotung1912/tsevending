@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["tính số lượng ô locker văn phòng", "công thức locker doanh nghiệp", "how many lockers office"]
 image: "/images/articles/tu-locker-thong-minh-cach-tinh-so-luong-o-locker-toa-nha-van-phong.jpg"
-imageAlt: "Bảng tính công thức số lượng ô locker cần thiết cho văn phòng doanh nghiệp"
+imageAlt: "Cách Tính Số Lượng Ô Locker Cần Thiết Cho Tòa Nhà Văn Phòng: Công Thức Chuẩn"
 imageCredit: "Photo by Jack Sparrow on Pexels"
 faqs:
   - q: "Công thức cơ bản tính số ô locker cần thiết cho văn phòng là gì?"

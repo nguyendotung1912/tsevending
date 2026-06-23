@@ -3,7 +3,7 @@ title: "Hướng dẫn chọn tủ locker thông minh phù hợp: 6 tiêu chí c
 description: "Hướng dẫn chọn tủ locker thông minh đúng cho doanh nghiệp: số ô tủ, kích thước ngăn, công nghệ mở khóa, tích hợp phần mềm, ngân sách và nhà cung cấp."
 date: "2026-06-15"
 image: "/images/articles/huong-dan-chon-tu-locker-thong-minh-phu-hop.jpg"
-imageAlt: "Multicolored storage lockers with keys, showcasing vibrant organization."
+imageAlt: "Hướng dẫn chọn tủ locker thông minh phù hợp: 6 tiêu chí cần xem xét"
 imageCredit: "Photo by Jan van der Wolf on Pexels"
 silo: "tu-locker-thong-minh"
 category: "huong-dan"

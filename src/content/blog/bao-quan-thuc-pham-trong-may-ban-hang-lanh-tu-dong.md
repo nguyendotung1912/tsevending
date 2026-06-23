@@ -3,7 +3,7 @@ title: "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Nh
 description: "Hướng dẫn bảo quản thực phẩm trong máy bán hàng lạnh tự động đúng nhiệt độ, đúng hạn sử dụng và đảm bảo an toàn vệ sinh thực phẩm khi vận hành."
 date: "2026-05-01"
 image: "/images/articles/bao-quan-thuc-pham-trong-may-ban-hang-lanh-tu-dong.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Những điều cần biết"
 imageCredit: "Photo by Anna Shvets on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-hang-lanh"

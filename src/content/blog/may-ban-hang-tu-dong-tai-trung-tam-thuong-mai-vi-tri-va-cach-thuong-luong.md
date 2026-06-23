@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng trung tâm thương mại", "vending mall", "thuê mặt bằng mall"]
 image: "/images/articles/may-ban-hang-tu-dong-tai-trung-tam-thuong-mai-vi-tri-va-cach-thuong-luong.jpg"
-imageAlt: "Máy bán hàng tự động tại trung tâm thương mại"
+imageAlt: "Máy bán hàng tự động tại trung tâm thương mại: Vị trí và cách thương lượng"
 imageCredit: "Photo by Andrea Piacquadio on Pexels"
 faqs:
   - q: "Làm thế nào để chọn vị trí cho máy bán hàng tự động tại trung tâm thương mại?"

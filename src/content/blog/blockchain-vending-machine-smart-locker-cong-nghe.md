@@ -3,7 +3,7 @@ title: "Blockchain và AI trong vending machine và smart locker: Công nghệ �
 description: "Blockchain đảm bảo tính minh bạch chuỗi cung ứng, AI dự đoán tồn kho và IoT kết nối thiết bị — ba công nghệ đang cách mạng hóa ngành vending machine và smart locker toàn cầu."
 date: "2026-05-28"
 image: "/images/articles/blockchain-vending-machine-smart-locker-cong-nghe.jpg"
-imageAlt: "Detailed macro shot of an AutoPi device against a dark background, showcasing technological innovation."
+imageAlt: "Blockchain và AI trong vending machine và smart locker: Công nghệ đang định hình lại ngành"
 imageCredit: "Photo by Tara Winstead on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["blockchain vending machine", "AI smart locker", "IoT máy bán hàng tự động công nghệ"]

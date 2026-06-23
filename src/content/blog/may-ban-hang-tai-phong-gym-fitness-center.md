@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng phòng gym", "vending machine fitness center", "đồ uống thể thao vending machine"]
 image: "/images/articles/may-ban-hang-tai-phong-gym-fitness-center.jpg"
-imageAlt: "Máy bán hàng tự động đặt cạnh khu vực tập gym với protein shake và nước điện giải"
+imageAlt: "Máy Bán Hàng Tại Phòng Gym Và Fitness Center: Tối Ưu Doanh Thu Bổ Trợ"
 imageCredit: "Photo by Asso Myron on Pexels"
 faqs:
   - q: "Sản phẩm nào bán chạy nhất tại phòng gym?"

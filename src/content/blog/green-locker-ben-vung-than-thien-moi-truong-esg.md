@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["green locker bền vững", "locker ESG môi trường", "locker năng lượng tái tạo"]
 image: "/images/articles/green-locker-ben-vung-than-thien-moi-truong-esg.jpg"
-imageAlt: "Locker ngoài trời tích hợp pin năng lượng mặt trời với thiết kế xanh thân thiện môi trường"
+imageAlt: "Green Locker: Tủ Locker Bền Vững Và Thân Thiện Môi Trường Theo Tiêu Chuẩn ESG 2026"
 imageCredit: "Photo by ThisIsEngineering on Pexels"
 faqs:
   - q: "Green locker tiêu thụ ít điện hơn locker thông thường bao nhiêu?"

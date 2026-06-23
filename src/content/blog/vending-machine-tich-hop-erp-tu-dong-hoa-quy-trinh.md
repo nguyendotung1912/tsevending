@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["vending machine tích hợp ERP", "SAP vending machine", "tự động hóa quy trình vending"]
 image: "/images/articles/vending-machine-tich-hop-erp-tu-dong-hoa-quy-trinh.jpg"
-imageAlt: "Màn hình ERP dashboard hiển thị dữ liệu giao dịch vending machine tích hợp trong hệ thống doanh nghiệp"
+imageAlt: "Vending Machine Tích Hợp Với Hệ Thống ERP Doanh Nghiệp: Tự Động Hóa Quy Trình"
 faqs:
   - q: "Doanh nghiệp quy mô nào mới cần tích hợp vending machine với ERP?"
     a: "Tích hợp ERP có giá trị khi: (1) Công ty có chính sách phúc lợi ăn uống cho nhân viên (food allowance, meal subsidy): nhân viên được cấp hạn mức/tháng để mua từ máy vending — cần kết nối với ERP để theo dõi và khấu trừ tự động; (2) Quy mô 500+ nhân viên với 5+ máy vending: volume đủ lớn để justify chi phí tích hợp; (3) Bộ phận tài chính yêu cầu tự động hóa hạch toán: thay vì nhập tay từng invoice từ vending operator, dữ liệu tự chạy vào hệ thống kế toán; (4) Audit trail nghiêm ngặt (ngành ngân hàng, bảo hiểm, sản xuất): cần ghi nhận đầy đủ ai mua gì khi nào từ nguồn ngân sách nào. Dưới 200 nhân viên: quản lý thủ công hoặc spreadsheet thường đủ. Không cần tích hợp ERP ở quy mô nhỏ."

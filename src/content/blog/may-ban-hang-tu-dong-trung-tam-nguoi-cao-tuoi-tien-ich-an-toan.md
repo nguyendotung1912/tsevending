@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng người cao tuổi", "vending machine dưỡng lão", "tiện ích trung tâm chăm sóc"]
 image: "/images/articles/may-ban-hang-tu-dong-trung-tam-nguoi-cao-tuoi-tien-ich-an-toan.jpg"
-imageAlt: "Máy bán hàng tự động với giao diện đơn giản đặt tại phòng chung trung tâm chăm sóc người cao tuổi"
+imageAlt: "Máy Bán Hàng Tự Động Tại Trung Tâm Chăm Sóc Người Cao Tuổi: Tiện Ích An Toàn"
 imageCredit: "Photo by Jsme  MILA on Pexels"
 faqs:
   - q: "Thiết kế máy vending nào phù hợp với người cao tuổi có hạn chế vận động?"

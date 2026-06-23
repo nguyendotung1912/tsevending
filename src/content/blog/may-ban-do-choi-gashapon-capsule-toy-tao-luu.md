@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-choi"
 keywords: ["máy bán Gashapon", "capsule toy Việt Nam", "máy bán đồ chơi tự động"]
 image: "/images/articles/may-ban-do-choi-gashapon-capsule-toy-tao-luu.jpg"
-imageAlt: "Hàng máy Gashapon đầy màu sắc tại trung tâm thương mại với trẻ em và người lớn xoay thử vận may"
+imageAlt: "Máy Bán Đồ Chơi Gashapon Tự Động: Trào Lưu Capsule Toy Tại Việt Nam"
 faqs:
   - q: "Máy Gashapon kiếm được bao nhiêu tiền mỗi tháng?"
     a: "Tùy vị trí: máy Gashapon tại TTTM đông khách (Vincom, AEON) có thể ra 50–150 vòng/ngày × 15.000–50.000 đ/vòng = 750K–7.5 triệu/ngày. Trừ chi phí mặt bằng, nhập hàng, điện — lợi nhuận 30–60%. Máy đặt vị trí kém có thể chỉ 10–20 vòng/ngày."

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["QR code locker", "mở tủ bằng điện thoại", "locker không cần chìa khóa"]
 image: "/images/articles/qr-code-locker-mo-tu-bang-smartphone-khong-can-chia-khoa.jpg"
-imageAlt: "Người dùng dùng điện thoại quét mã QR để mở tủ locker thông minh tại văn phòng"
+imageAlt: "QR Code Locker: Mở Tủ Bằng Smartphone Không Cần Chìa Khóa"
 imageCredit: "Photo by Anete Lusina on Pexels"
 faqs:
   - q: "QR code locker có hoạt động khi điện thoại hết pin không?"

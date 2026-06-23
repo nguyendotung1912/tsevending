@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker chùa Phật giáo", "tủ locker cơ sở tôn giáo", "temple locker"]
 image: "/images/articles/tu-locker-thong-minh-co-so-ton-giao-chua-nha-tho-thanh-that-lon.jpg"
-imageAlt: "Tủ locker gỗ mộc tự nhiên thanh lịch tại sân chùa lớn cho khách gửi giày và đồ đạc"
+imageAlt: "Tủ Locker Thông Minh Phục Vụ Cơ Sở Tôn Giáo: Chùa, Nhà Thờ Và Thánh Thất Lớn"
 imageCredit: "Photo by Patrick O'Connor on Pexels"
 faqs:
   - q: "Cơ sở tôn giáo có nhu cầu gì về gửi đồ và locker thông minh giải quyết như thế nào?"

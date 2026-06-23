@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker bến xe khách", "tủ locker gửi hành lý bến xe", "bus station locker"]
 image: "/images/articles/tu-locker-thong-minh-ben-xe-khach-lien-tinh-gui-hanh-ly-hang-hoa.jpg"
-imageAlt: "Tủ locker thông minh tại bến xe khách liên tỉnh cho hành khách gửi hành lý"
+imageAlt: "Tủ Locker Thông Minh Tại Bến Xe Khách Liên Tỉnh: Gửi Hành Lý Và Hàng Hóa An Toàn"
 imageCredit: "Photo by Diogo Miranda on Pexels"
 faqs:
   - q: "Bến xe khách liên tỉnh có những nhu cầu gửi đồ gì và locker thông minh giải quyết ra sao?"

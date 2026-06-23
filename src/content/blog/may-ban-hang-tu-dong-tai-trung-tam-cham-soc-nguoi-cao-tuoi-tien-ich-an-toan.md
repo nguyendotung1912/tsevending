@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine người cao tuổi", "tiện ích dưỡng lão", "máy bán hàng an toàn"]
 image: "/images/articles/may-ban-hang-tu-dong-tai-trung-tam-cham-soc-nguoi-cao-tuoi-tien-ich-an-toan.jpg"
-imageAlt: "Máy bán hàng tự động tại trung tâm chăm sóc người cao tuổi"
+imageAlt: "Máy bán hàng tự động tại trung tâm chăm sóc người cao tuổi: Tiện ích & An toàn"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Lợi ích của máy bán hàng tự động tại trung tâm chăm sóc người cao tuổi là gì?"

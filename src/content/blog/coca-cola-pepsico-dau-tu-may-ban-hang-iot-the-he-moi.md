@@ -3,7 +3,7 @@ title: "Coca-Cola và PepsiCo đầu tư hàng tỷ USD vào máy bán hàng IoT
 description: "Hai tập đoàn đồ uống lớn nhất thế giới đang chuyển đổi toàn bộ hạ tầng máy bán hàng tự động sang kết nối IoT và AI. Tác động đến ngành vending toàn cầu."
 date: "2026-05-11"
 image: "/images/articles/coca-cola-pepsico-dau-tu-may-ban-hang-iot-the-he-moi.jpg"
-imageAlt: "Detailed macro shot of an AutoPi device against a dark background, showcasing technological innovation."
+imageAlt: "Coca-Cola và PepsiCo đầu tư hàng tỷ USD vào máy bán hàng IoT thế hệ mới"
 imageCredit: "Photo by Hanna Pad on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["Coca-Cola vending machine IoT", "PepsiCo smart vending", "máy bán hàng IoT công nghệ"]

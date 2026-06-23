@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán sữa tươi tự động", "sữa nguyên chất vending", "farm to table"]
 image: "/images/articles/may-ban-sua-tuoi-nguyen-chat-tu-dong-xu-huong-moi.jpg"
-imageAlt: "Máy bán sữa tươi tự động với sữa nguyên chất"
+imageAlt: "Máy bán sữa tươi nguyên chất tự động: Xu hướng mới"
 imageCredit: "Photo by Kuan-yu Huang on Pexels"
 faqs:
   - q: "Máy bán sữa tươi tự động có đảm bảo chất lượng không?"

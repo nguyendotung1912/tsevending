@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["phân quyền tủ locker", "role-based locker access", "quản lý cấp bậc locker"]
 image: "/images/articles/tu-locker-thong-minh-phan-quyen-theo-cap-bac.jpg"
-imageAlt: "Tủ locker thông minh phân quyền theo cấp bậc cho quản lý và nhân viên"
+imageAlt: "Tủ Locker Thông Minh Phân Quyền Theo Cấp Bậc"
 imageCredit: "Photo by ready made on Pexels"
 faqs:
   - q: "Làm thế nào để phân quyền tủ locker cho nhân viên và khách hàng?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["5G locker thông minh", "kết nối 5G vending machine", "real-time monitoring locker"]
 image: "/images/articles/5g-va-locker-thong-minh-ket-noi-real-time-monitoring.jpg"
-imageAlt: "Tủ locker thông minh với biểu tượng 5G và sóng kết nối dữ liệu tốc độ cao"
+imageAlt: "5G Và Tủ Locker Thông Minh: Kết Nối Tốc Độ Cao Cho Real-Time Monitoring"
 imageCredit: "Photo by Anete Lusina on Pexels"
 faqs:
   - q: "5G thực sự giúp ích gì cho locker thông minh so với WiFi hoặc 4G?"

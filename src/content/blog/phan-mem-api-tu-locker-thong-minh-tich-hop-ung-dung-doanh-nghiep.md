@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker API", "tích hợp phần mềm locker", "locker SDK doanh nghiệp"]
 image: "/images/articles/phan-mem-api-tu-locker-thong-minh-tich-hop-ung-dung-doanh-nghiep.jpg"
-imageAlt: "Sơ đồ tích hợp API tủ locker thông minh với các hệ thống phần mềm doanh nghiệp"
+imageAlt: "Phần Mềm API Tủ Locker Thông Minh: Tích Hợp Với Ứng Dụng Của Doanh Nghiệp"
 imageCredit: "Photo by Vito Goričan on Pexels"
 faqs:
   - q: "API của tủ locker thông minh có những loại nào và doanh nghiệp cần loại nào?"

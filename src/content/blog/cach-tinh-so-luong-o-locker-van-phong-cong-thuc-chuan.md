@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["tính số ô locker văn phòng", "locker planning formula", "bao nhiêu ô locker"]
 image: "/images/articles/cach-tinh-so-luong-o-locker-van-phong-cong-thuc-chuan.jpg"
-imageAlt: "Tủ locker thông minh cho văn phòng"
+imageAlt: "Cách tính số lượng ô locker văn phòng: Công thức chuẩn"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Làm thế nào để xác định số lượng ô locker cần thiết cho văn phòng?"

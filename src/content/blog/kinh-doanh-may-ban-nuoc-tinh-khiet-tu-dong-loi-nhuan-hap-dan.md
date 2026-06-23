@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["máy bán nước tinh khiết", "kinh doanh nước uống tự động", "ROI nước uống"]
 image: "/images/articles/kinh-doanh-may-ban-nuoc-tinh-khiet-tu-dong-loi-nhuan-hap-dan.jpg"
-imageAlt: "Máy bán nước tinh khiết tự động tại khu dân cư"
+imageAlt: "Kinh doanh máy bán nước tinh khiết tự động: Lợi nhuận hấp dẫn"
 imageCredit: "Photo by Miff Ibra on Pexels"
 faqs:
   - q: "Lợi nhuận của kinh doanh máy bán nước tinh khiết tự động là bao nhiêu?"

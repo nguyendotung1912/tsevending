@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán hoa tươi tự động", "flower vending machine", "kinh doanh hoa tự động"]
 image: "/images/articles/may-ban-hoa-tuoi-tu-dong-24-7-mo-hinh-kinh-doanh-doc-dao.jpg"
-imageAlt: "Máy bán hoa tươi tự động hiện đại với tủ làm lạnh trong sảnh khách sạn vào ban đêm"
+imageAlt: "Máy Bán Hoa Tươi Tự Động 24/7: Mô Hình Kinh Doanh Độc Đáo"
 faqs:
   - q: "Hoa tươi bán qua máy vending có giữ được lâu không?"
     a: "Với tủ lạnh hoa chuyên dụng duy trì 4–8°C và độ ẩm 80–90%, hoa tươi giữ được 2–4 ngày trong máy. Bó hoa tiêu chuẩn (hồng, cúc, lily) giữ tốt hơn hoa nhạy cảm. Tiếp hàng 2–3 lần/tuần là cần thiết."

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker thư viện cộng đồng", "tủ locker không gian đọc sách", "library locker"]
 image: "/images/articles/tu-locker-thong-minh-cau-lac-bo-doc-sach-khong-gian-hoc-tap-cong-dong.jpg"
-imageAlt: "Tủ locker thông minh tại thư viện và không gian đọc sách cộng đồng hiện đại"
+imageAlt: "Tủ Locker Thông Minh Tại Câu Lạc Bộ Đọc Sách Và Không Gian Học Tập Cộng Đồng"
 faqs:
   - q: "Thư viện cộng đồng và café sách sử dụng locker thông minh như thế nào?"
     a: "Smart Locker tại Thư Viện và Café Sách: Mô hình thư viện cộng đồng VN đang nổi lên: Thư viện cộng đồng phi lợi nhuận: Hà Nội có Trung tâm Văn hóa Đọc, TP.HCM có các tủ sách cộng đồng. Café sách kết hợp (Book Coffee): Cà phê + đọc sách + không gian làm việc. Co-learning space: Nhóm học sinh, sinh viên học nhóm cần không gian và lưu trữ tài liệu. Nhu cầu locker tại môi trường đọc sách: Hội viên đến đọc sách nhiều buổi/tuần: Đang đọc dở 3 cuốn — không muốn mang về rồi lại mang đến. Có thể để cuốn đang đọc trong ô locker riêng giữa các buổi. Sách mượn từ thư viện: Mượn nhiều cuốn cùng lúc, không đem về nhà hết. Để trong locker tại thư viện — đọc mỗi khi đến. Tài liệu học tập (notebooks, văn phòng phẩm): Học sinh/sinh viên đến học nhóm thường xuyên → để tài liệu, bút, vở tại locker. Tiết kiệm công mang đi mang về. Cách tích hợp locker với hệ thống thư viện: Thẻ hội viên = key mở locker. Khi mượn sách: Sách được link với hội viên và có thể assign vào ô locker. Hạn trả sách: Thư viện có thể alert khi sách sắp hết hạn dù đang trong locker. Ô locker theo hội viên: Mỗi hội viên có ô riêng để sách đang đọc dở. Locker nhỏ vừa 5-6 cuốn sách (25×20×30cm)."

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng bãi biển", "vending machine bãi biển Việt Nam", "kem chống nắng vending machine"]
 image: "/images/articles/may-ban-hang-bai-bien-kem-chong-nang-do-boi.jpg"
-imageAlt: "Máy bán hàng tự động màu xanh dương đặt trên bãi biển với kem chống nắng và đồ bơi"
+imageAlt: "Máy Bán Hàng Tự Động Tại Bãi Biển: Kem Chống Nắng, Đồ Bơi Và Nước Uống"
 imageCredit: "Photo by Jeffrey Eisen on Pexels"
 faqs:
   - q: "Máy vending đặt tại bãi biển có bị hỏng do gió muối không?"

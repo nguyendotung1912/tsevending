@@ -3,7 +3,7 @@ title: "Máy bán hàng đông lạnh tự động: Giải pháp cho siêu thị
 description: "Máy bán hàng đông lạnh tự động giúp mô hình siêu thị mini không nhân viên bán kem, thực phẩm đông lạnh, suất ăn chế biến sẵn 24/7 với chi phí vận hành thấp."
 date: "2026-04-30"
 image: "/images/articles/may-ban-hang-dong-lanh-tu-dong-giai-phap-sieu-thi-mini-khong-nhan-vien.jpg"
-imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageAlt: "Máy bán hàng đông lạnh tự động: Giải pháp cho siêu thị mini không nhân viên"
 imageCredit: "Photo by Jimmy Liao on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-hang-lanh"

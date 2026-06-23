@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker tính phí theo giờ", "locker đếm giờ gửi đồ", "thu phí gửi đồ tự động"]
 image: "/images/articles/locker-dem-gio-tinh-phi-tu-dong-gui-do-ky-gui.jpg"
-imageAlt: "Màn hình locker tính phí tự động hiển thị giờ gửi đồ và số tiền cần thanh toán"
+imageAlt: "Locker Đếm Giờ Và Tính Phí Tự Động: Giải Pháp Thu Phí Gửi Đồ Thông Minh"
 faqs:
   - q: "Locker tính phí theo giờ hoạt động như thế nào?"
     a: "Quy trình: (1) Khách đến, chọn ô locker trống trên màn hình cảm ứng; (2) Thanh toán tiền đặt cọc hoặc một phần phí (QR code/thẻ/tiền mặt); (3) Ô mở ra, khách cất đồ và đóng cửa — thời gian bắt đầu tính từ đây; (4) Khi lấy đồ ra: hệ thống tính tổng giờ × đơn giá, khách thanh toán phần còn lại (hoặc nhận lại tiền thừa từ đặt cọc); (5) Ô mở, khách lấy đồ. Hệ thống tự động, không cần nhân viên thu tiền."

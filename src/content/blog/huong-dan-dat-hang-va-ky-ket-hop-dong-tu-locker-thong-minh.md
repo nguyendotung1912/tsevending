@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["đặt hàng tủ locker", "hợp đồng locker", "mua tủ locker"]
 image: "/images/articles/huong-dan-dat-hang-va-ky-ket-hop-dong-tu-locker-thong-minh.jpg"
-imageAlt: "Tủ locker thông minh TSE Vending"
+imageAlt: "Hướng dẫn đặt hàng và ký kết hợp đồng tủ locker thông minh"
 imageCredit: "Photo by Cytonn Photography on Pexels"
 faqs:
   - q: "Làm thế nào để đặt hàng tủ locker thông minh?"

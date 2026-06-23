@@ -3,7 +3,7 @@ title: "Amazon Fresh và tương lai của cửa hàng không người bán trê
 description: "Amazon Fresh, Alibaba Hema và các chuỗi cửa hàng không người bán đang thay đổi định nghĩa bán lẻ tự phục vụ. Tác động đến thị trường vending machine và smartlocker toàn cầu."
 date: "2026-05-10"
 image: "/images/articles/amazon-fresh-va-tuong-lai-cua-cua-hang-khong-nguoi-ban.jpg"
-imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageAlt: "Amazon Fresh và tương lai của cửa hàng không người bán trên toàn cầu"
 imageCredit: "Photo by Atlantic Ambience on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["cửa hàng không người bán", "Amazon Fresh", "bán lẻ tự động hóa toàn cầu"]

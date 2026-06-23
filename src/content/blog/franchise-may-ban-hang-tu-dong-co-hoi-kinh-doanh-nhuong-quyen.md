@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["franchise máy bán hàng tự động", "nhượng quyền vending", "mô hình franchise vending"]
 image: "/images/articles/franchise-may-ban-hang-tu-dong-co-hoi-kinh-doanh-nhuong-quyen.jpg"
-imageAlt: "Nhiều máy bán hàng tự động cùng thương hiệu franchise đặt tại các địa điểm khác nhau"
+imageAlt: "Franchise Máy Bán Hàng Tự Động: Cơ Hội Kinh Doanh Nhượng Quyền Vending"
 faqs:
   - q: "Franchise máy bán hàng tự động tại Việt Nam có chưa?"
     a: "Có một số mô hình đang hoạt động, từ nhượng quyền cà phê vending (Café Amazon Express, Highlands Coffee mini), đến vending tổng hợp theo vùng lãnh thổ. Tuy nhiên thị trường franchise vending còn khá mới, chưa có nhiều thương hiệu lớn chuyên biệt như ở Nhật hay Mỹ."

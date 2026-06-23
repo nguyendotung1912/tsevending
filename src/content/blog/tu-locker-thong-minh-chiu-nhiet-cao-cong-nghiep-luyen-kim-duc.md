@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chịu nhiệt", "high temperature locker", "tủ locker công nghiệp"]
 image: "/images/articles/tu-locker-thong-minh-chiu-nhiet-cao-cong-nghiep-luyen-kim-duc.jpg"
-imageAlt: "Tủ locker thông minh chịu nhiệt màu vàng trong phân xưởng luyện kim với nhiệt độ cao"
+imageAlt: "Tủ Locker Thông Minh Chịu Nhiệt Độ Cao: Phù Hợp Khu Vực Luyện Kim Và Đúc"
 faqs:
   - q: "Locker tiêu chuẩn hoạt động được ở nhiệt độ tối đa bao nhiêu độ C?"
     a: "Giới hạn nhiệt độ vận hành của locker thông thường: Locker thông thường (thép + điện tử consumer grade): Thân thép: Chịu nhiệt tốt (thép không bị ảnh hưởng ở dưới 300°C). Lớp sơn bột epoxy: Bắt đầu phồng rộp ở 120-150°C. Khóa điện tử (solenoid/motor): Cuộn dây copper wire → bắt đầu mất cách điện ở 100-130°C (loại thông thường). Điện tử control board: MCU thương mại (85°C max). Li-ion battery (nếu có): 60°C là ngưỡng nguy hiểm, thermal runaway bắt đầu ở 80-150°C. Màn hình LCD: 70-85°C max. Gioăng cao su thông thường: Biến dạng ở 80-100°C. Thực tế: Locker thông thường hoạt động ổn định trong khoảng 0-50°C. Môi trường công nghiệp nhiệt cao (>60°C liên tục): Locker thông thường hỏng nhanh. Phân loại môi trường theo nhiệt độ: Nhiệt vừa phải (50-100°C): Gần lò sấy, phòng nhiệt, phòng thay đồ cạnh khu nóng. Cần locker industrial grade. Nhiệt cao (100-300°C): Xưởng đúc, lò luyện cách dưới 5m. Cần locker high-temperature specialty. Cực nhiệt (>300°C): Không đặt locker trong vùng này — chỉ ngoài vùng an toàn."

@@ -3,7 +3,7 @@ title: "Top 5 vị trí đặt máy bán nước giải khát tự động sinh 
 description: "Gợi ý 5 vị trí đặt máy bán nước giải khát tự động mang lại doanh thu ổn định: văn phòng, chung cư, trường học, bệnh viện và nhà máy."
 date: "2026-04-26"
 image: "/images/articles/top-5-vi-tri-dat-may-ban-nuoc-giai-khat-tu-dong.jpg"
-imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
+imageAlt: "Top 5 vị trí đặt máy bán nước giải khát tự động sinh lời cao"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước tự động", "vị trí đặt máy vending", "kinh doanh vending machine"]

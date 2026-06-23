@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước sạch", "khu dân cư mới", "vending machine nước uống"]
 image: "/images/articles/may-ban-nuoc-sach-tu-dong-tai-khu-dan-cu-moi-co-hoi-kinh-doanh.jpg"
-imageAlt: "Máy bán nước sạch tự động tại khu dân cư mới"
+imageAlt: "Máy bán nước sạch tự động tại khu dân cư mới: Cơ hội kinh doanh"
 imageCredit: "Photo by Kuan-yu Huang on Pexels"
 faqs:
   - q: "Máy bán nước sạch tự động có đảm bảo vệ sinh không?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["weight sensor locker", "cảm biến trọng lượng tủ locker", "smart locker phát hiện hàng"]
 image: "/images/articles/tu-locker-thong-minh-cam-bien-trong-luong-phat-hien-hang-trong-o.jpg"
-imageAlt: "Sơ đồ cảm biến trọng lượng bên trong ô tủ locker thông minh phát hiện hàng hóa"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Cảm Biến Trọng Lượng: Phát Hiện Hàng Còn Trong Ô"
 faqs:
   - q: "Cảm biến trọng lượng trong locker hoạt động như thế nào?"
     a: "Cơ chế kỹ thuật của weight sensor trong locker: Load cell (cảm biến tải trọng): Thiết bị chuyển đổi lực thành tín hiệu điện. Đặt dưới sàn mỗi ô locker. Khi vật được đặt vào: Biến dạng cơ học → điện trở thay đổi → tín hiệu điện analog. Bộ ADC (Analog-to-Digital Converter) chuyển tín hiệu analog thành số. Microcontroller đọc số → so sánh với threshold. Độ chính xác: Load cell chất lượng cao: ±0.5-2% toàn thang. Với ô locker chứa hàng 0-20kg: Sai số ±100-400g. Thực tế: Phân biệt ô trống (0g) vs. ô có hàng (>200g) — không khó. Khó hơn: Phân biệt các mặt hàng cụ thể (dùng cho hotel minibar, không phải locker thông thường). Use case locker giao hàng: Chỉ cần biết 'có hàng' hay 'không có hàng' — threshold đơn giản ≥200g = có hàng. Cảm biến rẻ (50,000-200,000 VND/ô) đủ cho mục đích này. Tích hợp: Load cell → ADC module → microcontroller → kết nối cloud qua WiFi/4G → dashboard cập nhật trạng thái real-time."

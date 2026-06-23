@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán hàng ngoài trời", "outdoor vending machine", "máy vending chống thời tiết"]
 image: "/images/articles/may-ban-hang-ngoai-troi-chiu-thoi-tiet-thiet-ke-chuan.jpg"
-imageAlt: "Máy bán hàng tự động ngoài trời chống mưa nắng đặt tại công viên với mái che"
+imageAlt: "Máy Bán Hàng Tự Động Ngoài Trời: Thiết Kế Chịu Thời Tiết Chuẩn IP"
 imageCredit: "Photo by Robert So on Pexels"
 faqs:
   - q: "Máy bán hàng ngoài trời có thể hoạt động được trong mưa không?"

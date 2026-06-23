@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["thiết kế vị trí máy bán hàng", "bố trí vending machine", "không gian tối ưu"]
 image: "/images/articles/thiet-ke-khong-gian-toi-uu-cho-may-ban-hang-tu-dong-de-tang-doanh-thu.jpg"
-imageAlt: "Thiết kế vị trí máy bán hàng tự động để tăng doanh thu"
+imageAlt: "Thiết kế không gian tối ưu cho máy bán hàng tự động để tăng doanh thu"
 imageCredit: "Photo by Trinh Trần on Pexels"
 faqs:
   - q: "Làm thế nào để chọn vị trí đặt máy bán hàng tự động?"

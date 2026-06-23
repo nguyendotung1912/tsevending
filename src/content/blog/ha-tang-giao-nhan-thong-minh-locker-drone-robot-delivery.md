@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker drone delivery", "robot delivery thành phố thông minh", "hạ tầng giao nhận thông minh"]
 image: "/images/articles/ha-tang-giao-nhan-thong-minh-locker-drone-robot-delivery.jpg"
-imageAlt: "Minh họa drone giao hàng xuống locker thông minh trên sân thượng tòa nhà đô thị"
+imageAlt: "Hạ Tầng Giao Nhận Thông Minh Cho Thành Phố: Locker + Drone + Robot Delivery"
 imageCredit: "Photo by Tima Miroshnichenko on Pexels"
 faqs:
   - q: "Drone giao hàng vào locker hoạt động như thế nào?"

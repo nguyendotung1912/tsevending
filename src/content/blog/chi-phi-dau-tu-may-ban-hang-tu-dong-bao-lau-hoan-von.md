@@ -3,7 +3,7 @@ title: "Chi phí đầu tư máy bán hàng tự động: Cần bao nhiêu vốn
 description: "Phân tích chi phí đầu tư máy bán hàng tự động, các yếu tố ảnh hưởng đến thời gian hoàn vốn và cách tối ưu lợi nhuận khi kinh doanh vending machine."
 date: "2026-04-29"
 image: "/images/articles/chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von.jpg"
-imageAlt: "Close-up of a tablet with the word 'Investments', held by a person. Ideal for financial topics."
+imageAlt: "Chi phí đầu tư máy bán hàng tự động: Cần bao nhiêu vốn và bao lâu hoàn vốn?"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["chi phí đầu tư máy bán hàng tự động", "vốn kinh doanh vending machine", "hoàn vốn máy bán hàng tự động"]

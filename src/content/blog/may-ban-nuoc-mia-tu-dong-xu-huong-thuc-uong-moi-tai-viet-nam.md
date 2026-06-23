@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước mía tự động", "sugarcane juice vending", "nước mía sạch"]
 image: "/images/articles/may-ban-nuoc-mia-tu-dong-xu-huong-thuc-uong-moi-tai-viet-nam.jpg"
-imageAlt: "Máy bán nước mía tự động tại Việt Nam"
+imageAlt: "Máy bán nước mía tự động: Xu hướng thức uống mới tại Việt Nam"
 imageCredit: "Photo by Kuan-yu Huang on Pexels"
 faqs:
   - q: "Máy bán nước mía tự động hoạt động như thế nào?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker khu cắm trại", "tủ locker ngoài trời", "outdoor locker glamping"]
 image: "/images/articles/tu-locker-thong-minh-khu-cam-trai-da-ngoai-ngoai-troi-giai-phap.jpg"
-imageAlt: "Tủ locker thông minh bằng gỗ thân thiện môi trường tại khu glamping ngoài trời"
+imageAlt: "Tủ Locker Thông Minh Tại Khu Cắm Trại Và Dã Ngoại Ngoài Trời: Giải Pháp Ngoài Trời"
 imageCredit: "Photo by Andreas Näslund on Pexels"
 faqs:
   - q: "Locker thông minh ngoài trời tại khu cắm trại và glamping cần đáp ứng yêu cầu gì?"

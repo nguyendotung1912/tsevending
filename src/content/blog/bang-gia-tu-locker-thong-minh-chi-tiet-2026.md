@@ -3,7 +3,7 @@ title: "Bảng giá tủ locker thông minh chi tiết theo ngăn 2026"
 description: "Bảng giá tủ locker thông minh 2026 cập nhật chi tiết theo số ngăn, vật liệu và tính năng. Giá từ 4 đến 100+ ngăn, so sánh các phân khúc và tư vấn chọn locker phù hợp."
 date: "2026-06-13"
 image: "/images/articles/bang-gia-tu-locker-thong-minh-chi-tiet-2026.jpg"
-imageAlt: "A uniform array of metal storage lockers with some doors slightly ajar, creating a geometric pattern."
+imageAlt: "Bảng giá tủ locker thông minh chi tiết theo ngăn 2026"
 imageCredit: "Photo by Jan van der Wolf on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["bảng giá tủ locker thông minh", "giá locker thông minh 2026", "tủ locker bao nhiêu tiền", "giá locker theo ngăn", "báo giá smart locker"]

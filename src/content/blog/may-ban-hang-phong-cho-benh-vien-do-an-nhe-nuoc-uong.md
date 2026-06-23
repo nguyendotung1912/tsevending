@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng bệnh viện", "vending machine phòng chờ bệnh viện", "đồ ăn nhẹ khu vực y tế"]
 image: "/images/articles/may-ban-hang-phong-cho-benh-vien-do-an-nhe-nuoc-uong.jpg"
-imageAlt: "Máy bán hàng tự động đặt trong khu vực phòng chờ bệnh viện sạch sẽ với ánh sáng trắng"
+imageAlt: "Máy Bán Hàng Tự Động Tại Phòng Chờ Bệnh Viện: Giải Pháp Cho Bệnh Nhân Và Người Nhà"
 imageCredit: "Photo by Enrique Silva on Pexels"
 faqs:
   - q: "Bệnh viện có cho phép đặt máy vending trong khuôn viên không?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["lợi nhuận máy bán hàng tự động", "ROI vending machine Việt Nam", "vị trí đặt máy vending sinh lời nhất"]
 image: "/images/articles/phan-tich-loi-nhuan-thuc-te-may-ban-hang-tu-dong-theo-vi-tri.jpg"
-imageAlt: "Biểu đồ so sánh lợi nhuận các vị trí đặt máy bán hàng tự động tại Việt Nam"
+imageAlt: "Phân Tích Lợi Nhuận Thực Tế Máy Bán Hàng Tự Động Theo Từng Loại Vị Trí"
 imageCredit: "Photo by Nataliya Vaitkevich on Pexels"
 faqs:
   - q: "Vị trí nào cho lợi nhuận cao nhất khi kinh doanh máy vending machine tại Việt Nam?"

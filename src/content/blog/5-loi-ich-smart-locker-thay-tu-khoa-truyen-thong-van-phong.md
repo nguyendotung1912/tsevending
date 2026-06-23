@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["smart locker văn phòng", "tủ khóa thông minh", "lợi ích locker điện tử"]
 image: "/images/articles/5-loi-ich-smart-locker-thay-tu-khoa-truyen-thong-van-phong.jpg"
-imageAlt: "Hàng tủ locker thông minh hiện đại trong văn phòng doanh nghiệp với màn hình cảm ứng"
+imageAlt: "5 Lợi Ích Khi Dùng Smart Locker Thay Tủ Khóa Truyền Thống Văn Phòng"
 imageCredit: "Photo by Mikhail Nilov on Pexels"
 faqs:
   - q: "Smart locker văn phòng khác tủ khóa truyền thống điểm gì quan trọng nhất?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["bảo mật locker AES", "giao thức bảo mật tủ locker", "TLS locker"]
 image: "/images/articles/bao-mat-tu-locker-thong-minh-so-sanh-aes-256-tls-va-https.jpg"
-imageAlt: "Hình ảnh minh họa các lớp bảo mật kỹ thuật số cho hệ thống tủ locker thông minh"
+imageAlt: "Bảo Mật Tủ Locker Thông Minh: So Sánh AES-256, TLS và HTTPS"
 imageCredit: "Photo by panumas nikhomkhai on Pexels"
 faqs:
   - q: "Tại sao tủ locker thông minh cần các giao thức bảo mật mạnh mẽ?"

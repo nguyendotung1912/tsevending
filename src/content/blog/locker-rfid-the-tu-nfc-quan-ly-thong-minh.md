@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["RFID locker", "thẻ từ locker", "NFC smart locker"]
 image: "/images/articles/locker-rfid-the-tu-nfc-quan-ly-thong-minh.jpg"
-imageAlt: "Nhân viên quẹt thẻ RFID để mở tủ locker thông minh tại văn phòng"
+imageAlt: "RFID Locker Thông Minh: Thẻ Từ Và NFC Trong Quản Lý Truy Cập"
 faqs:
   - q: "RFID và NFC khác nhau thế nào khi dùng cho locker?"
     a: "RFID là công nghệ tổng quan (radio frequency identification), NFC là subset của RFID hoạt động ở tần số 13.56 MHz với phạm vi đọc rất ngắn (<10cm). Locker dùng NFC tích hợp với điện thoại smartphone (tap-to-unlock). Locker dùng RFID tần số cao (HF 13.56MHz) tương thích với thẻ Mifare, ISO 14443 phổ biến nhất. Tần số thấp (LF 125kHz, thẻ EM4100) ít phổ biến hơn vì bảo mật yếu hơn."

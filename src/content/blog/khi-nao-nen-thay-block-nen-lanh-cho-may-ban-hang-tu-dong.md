@@ -3,7 +3,7 @@ title: "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?"
 description: "Dấu hiệu nhận biết block nén lạnh máy bán hàng tự động xuống cấp, khi nào nên sửa và khi nào nên thay mới để đảm bảo chất lượng hàng hóa và tiết kiệm chi phí."
 date: "2026-05-03"
 image: "/images/articles/khi-nao-nen-thay-block-nen-lanh-cho-may-ban-hang-tu-dong.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["block nén lạnh", "sửa máy vending", "linh kiện làm lạnh"]

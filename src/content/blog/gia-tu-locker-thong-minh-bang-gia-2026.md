@@ -3,7 +3,7 @@ title: "Giá tủ locker thông minh 2026: Bảng giá chi tiết và các yếu
 description: "Giá tủ locker thông minh dao động từ 5 triệu đến hơn 200 triệu đồng tùy số ô, vật liệu và tính năng. Xem bảng giá chi tiết 2026 và cách chọn locker phù hợp với ngân sách của bạn."
 date: "2026-06-09"
 image: "/images/articles/gia-tu-locker-thong-minh-bang-gia-2026.jpg"
-imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
+imageAlt: "Giá tủ locker thông minh 2026: Bảng giá chi tiết và các yếu tố ảnh hưởng"
 silo: "tu-locker-thong-minh"
 keywords: ["giá tủ locker thông minh", "tủ locker thông minh giá bao nhiêu", "bảng giá locker thông minh 2026", "giá smart locker Việt Nam"]
 faqs:

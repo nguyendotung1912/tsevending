@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["ESD locker", "tủ locker chống tĩnh điện", "anti-static locker nhà máy điện tử"]
 image: "/images/articles/tu-locker-thong-minh-chong-tinh-dien-esd-bao-ve-linh-kien-dien-tu.jpg"
-imageAlt: "Tủ locker chống tĩnh điện ESD màu xanh trong nhà máy điện tử sạch với công nhân mặc đồ bảo hộ"
+imageAlt: "Tủ Locker Thông Minh Trong Môi Trường Chống Tĩnh Điện ESD: Bảo Vệ Linh Kiện Điện Tử"
 imageCredit: "Photo by Joachim Schnürle on Pexels"
 faqs:
   - q: "ESD là gì và tại sao cần locker chuyên biệt trong môi trường ESD?"

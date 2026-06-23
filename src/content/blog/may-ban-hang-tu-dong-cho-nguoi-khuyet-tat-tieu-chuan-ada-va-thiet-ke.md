@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["máy bán hàng người khuyết tật", "vending machine ADA", "tiếp cận toàn diện"]
 image: "/images/articles/may-ban-hang-tu-dong-cho-nguoi-khuyet-tat-tieu-chuan-ada-va-thiet-ke.jpg"
-imageAlt: "Máy bán hàng tự động cho người khuyết tật"
+imageAlt: "Máy bán hàng tự động cho người khuyết tật: Tiêu chuẩn ADA và thiết kế"
 imageCredit: "Photo by Thirdman on Pexels"
 faqs:
   - q: "Máy bán hàng tự động ADA là gì?"

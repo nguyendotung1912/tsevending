@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker học sinh THPT", "tủ locker trường cấp 3", "giảm tải sách vở"]
 image: "/images/articles/tu-locker-thong-minh-hoc-sinh-thpt-giam-tai-balo-nang-sach-vo.jpg"
-imageAlt: "Học sinh THPT sử dụng tủ locker thông minh tại trường để cất sách vở mỗi ngày"
+imageAlt: "Tủ Locker Thông Minh Dành Cho Học Sinh THPT: Giảm Tải Balo Nặng Mỗi Ngày"
 faqs:
   - q: "Balo nặng ảnh hưởng đến sức khỏe học sinh THPT như thế nào và locker giải quyết vấn đề này?"
     a: "Balo nặng và sức khỏe học sinh: Thực trạng tại VN: Học sinh THPT mang trung bình 6-10kg sách giáo khoa, sách bài tập, bút sách, dụng cụ học tập. Đi bộ + leo cầu thang mỗi ngày với tải nặng này. Hậu quả sức khỏe: WHO khuyến nghị: Trẻ em không nên mang ba lô > 10-15% trọng lượng cơ thể. Học sinh 50kg → tối đa 5-7.5kg. Nhiều học sinh VN mang 8-10kg → vượt ngưỡng an toàn. Hậu quả lâu dài: Cong vẹo cột sống, đau lưng mãn tính, ảnh hưởng tư thế. Nước ngoài đã làm gì: Mỹ, Anh, Nhật, Hàn Quốc: Locker học sinh phổ biến từ cấp 2. Học sinh để 80-90% sách tại locker trường. Chỉ mang sách về những môn cần làm bài tập ở nhà. Locker giải quyết: Học sinh có ô locker cá nhân tại trường. Để sách toán, văn, lý, hóa... tại locker. Mỗi buổi: Lấy sách môn học hôm nay, để lại môn hôm khác. Balo từ 8-10kg → 2-3kg. Tác động: Giảm đau lưng, mệt mỏi → tập trung học tốt hơn. Cha mẹ yên tâm về sức khỏe con."

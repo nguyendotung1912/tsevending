@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker 6 ngăn thông minh", "tủ locker 6 ô văn phòng", "locker 6 ngăn startup"]
 image: "/images/articles/tu-locker-6-ngan-thong-minh-van-phong-nho-startup.jpg"
-imageAlt: "Tủ locker 6 ngăn màu trắng hiện đại trong không gian co-working startup mở"
+imageAlt: "Tủ Locker 6 Ngăn Thông Minh: Lý Tưởng Cho Văn Phòng Nhỏ Và Startups"
 imageCredit: "Photo by Pavel Danilyuk on Pexels"
 faqs:
   - q: "Locker 6 ngăn phù hợp để đựng laptop không?"

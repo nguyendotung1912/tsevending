@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng khu công nghệ cao", "vending machine văn phòng IT", "máy vending kỹ sư công nghệ"]
 image: "/images/articles/may-ban-hang-khu-cong-nghe-cao-cntt-stem.jpg"
-imageAlt: "Máy bán hàng tự động hiện đại đặt trong văn phòng công nghệ cao với nhân viên IT đang mua hàng"
+imageAlt: "Máy Bán Hàng Tự Động Tại Khu Công Nghệ Cao: Phục Vụ Nhân Viên IT Và Kỹ Sư"
 imageCredit: "Photo by Michael Wang on Pexels"
 faqs:
   - q: "Nhân viên IT có hành vi mua sắm gì khác so với nhân viên văn phòng thông thường?"

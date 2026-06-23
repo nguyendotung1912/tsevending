@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["bảng giá locker thông minh", "giá tủ locker 2026", "locker thông minh bao nhiêu tiền"]
 image: "/images/articles/bang-gia-tu-locker-thong-minh-2026-so-sanh-tung-phan-khuc.jpg"
-imageAlt: "Bảng so sánh giá tủ locker thông minh các phân khúc năm 2026 tại Việt Nam"
+imageAlt: "Bảng Giá Tủ Locker Thông Minh 2026: So Sánh Từng Phân Khúc Thị Trường"
 faqs:
   - q: "Tủ locker thông minh 12 ô giá bao nhiêu tiền năm 2026?"
     a: "Locker 12 ô tại Việt Nam năm 2026 có giá từ 18–25 triệu đồng (phân khúc bình dân, Trung Quốc sản xuất), 30–45 triệu (tầm trung, liên doanh hoặc lắp ráp Việt Nam), và 50–80 triệu (cao cấp, thương hiệu Hàn Quốc/châu Âu hoặc sản xuất Việt Nam tiêu chuẩn cao). Giá chưa bao gồm phần mềm quản lý và lắp đặt."

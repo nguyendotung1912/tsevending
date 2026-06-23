@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán đặc sản địa phương", "vending machine quà tặng", "đặc sản vùng miền"]
 image: "/images/articles/may-ban-dac-san-dia-phuong-tu-dong-qua-tang-vung-mien-viet-nam.jpg"
-imageAlt: "Máy bán đặc sản địa phương tự động tại Việt Nam"
+imageAlt: "Máy bán đặc sản địa phương tự động - Quà tặng vùng miền Việt Nam"
 imageCredit: "Photo by Zeynep Sude  Emek on Pexels"
 faqs:
   - q: "Máy bán đặc sản địa phương tự động là gì?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["hợp đồng bảo trì vending machine", "service contract máy bán hàng", "bảo trì chuyên nghiệp"]
 image: "/images/articles/thiet-lap-hop-dong-bao-tri-may-ban-hang-tu-dong-chuyen-nghiep.jpg"
-imageAlt: "Hợp đồng bảo trì máy bán hàng tự động chuyên nghiệp"
+imageAlt: "Thiết lập hợp đồng bảo trì máy bán hàng tự động chuyên nghiệp"
 imageCredit: "Photo by Sergey  Meshkov on Pexels"
 faqs:
   - q: "Các điều khoản cần có trong hợp đồng bảo trì máy bán hàng tự động là gì?"

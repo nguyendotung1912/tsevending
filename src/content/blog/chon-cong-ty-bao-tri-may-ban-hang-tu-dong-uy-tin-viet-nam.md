@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["công ty bảo trì máy bán hàng tự động", "hợp đồng bảo trì vending machine", "dịch vụ sửa chữa máy vending Việt Nam"]
 image: "/images/articles/chon-cong-ty-bao-tri-may-ban-hang-tu-dong-uy-tin-viet-nam.jpg"
-imageAlt: "Kỹ thuật viên bảo trì chuyên nghiệp đang kiểm tra máy bán hàng tự động với bộ công cụ chuyên dụng"
+imageAlt: "Cách Chọn Công Ty Bảo Trì Máy Bán Hàng Tự Động Uy Tín: Tiêu Chí Và Hợp Đồng"
 imageCredit: "Photo by Sergey  Meshkov on Pexels"
 faqs:
   - q: "Hợp đồng bảo trì máy vending machine cần có những điều khoản gì bắt buộc?"

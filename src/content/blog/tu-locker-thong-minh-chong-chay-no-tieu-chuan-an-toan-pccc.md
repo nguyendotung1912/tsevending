@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chống cháy", "tủ locker chịu lửa", "fire-resistant locker"]
 image: "/images/articles/tu-locker-thong-minh-chong-chay-no-tieu-chuan-an-toan-pccc.jpg"
-imageAlt: "Tủ locker thông minh chống cháy nổ"
+imageAlt: "Tủ locker thông minh chống cháy nổ: Tiêu chuẩn an toàn PCCC"
 imageCredit: "Photo by Sergey Sergeev on Pexels"
 faqs:
   - q: "Tủ locker thông minh chống cháy nổ là gì?"

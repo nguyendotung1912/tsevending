@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán cà phê hạt rang xay", "whole bean vending", "cà phê tươi tự động"]
 image: "/images/articles/may-ban-ca-phe-hat-rang-xay-tuoi-tai-cho-xu-huong-moi-whole-bean-vending.jpg"
-imageAlt: "Máy bán cà phê hạt rang xay tươi tại chỗ"
+imageAlt: "Máy bán cà phê hạt rang xay tươi tại chỗ - Xu hướng mới Whole Bean Vending"
 imageCredit: "Photo by Connor Scott McManus on Pexels"
 faqs:
   - q: "Máy bán cà phê hạt rang xay hoạt động như thế nào?"

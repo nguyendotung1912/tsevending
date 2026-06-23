@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["machine learning vending machine", "AI dự báo hàng hóa", "demand forecasting vending"]
 image: "/images/articles/machine-learning-du-bao-hang-hoa-vending-machine.jpg"
-imageAlt: "Dashboard AI với biểu đồ dự báo tồn kho và mô hình machine learning cho hệ thống vending machine"
+imageAlt: "Machine Learning Trong Dự Báo Hàng Hóa Vending Machine: Từ Lý Thuyết Đến Thực Hành"
 imageCredit: "Photo by ThisIsEngineering on Pexels"
 faqs:
   - q: "Machine Learning có thực sự cần thiết cho vận hành vending machine không, hay Excel là đủ?"

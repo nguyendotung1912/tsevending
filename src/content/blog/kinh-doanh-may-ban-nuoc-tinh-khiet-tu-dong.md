@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["máy bán nước tinh khiết tự động", "water vending machine Việt Nam", "kinh doanh nước lọc tự động"]
 image: "/images/articles/kinh-doanh-may-ban-nuoc-tinh-khiet-tu-dong.jpg"
-imageAlt: "Máy bán nước tinh khiết tự động màu xanh trắng tại khu dân cư với người đang lấy nước"
+imageAlt: "Kinh Doanh Máy Bán Nước Tinh Khiết Tự Động: Mô Hình Và Lợi Nhuận Thực Tế"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Máy bán nước tinh khiết tự động kiếm được bao nhiêu mỗi tháng?"

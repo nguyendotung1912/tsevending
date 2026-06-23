@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["smart building locker", "locker tích hợp BMS", "tòa nhà thông minh locker"]
 image: "/images/articles/smart-building-locker-thong-minh-tich-hop-toa-nha.jpg"
-imageAlt: "Màn hình quản lý smart building hiển thị bản đồ tòa nhà với trạng thái locker tích hợp"
+imageAlt: "Smart Building Và Locker Thông Minh: Tích Hợp Hệ Thống Tòa Nhà Thế Hệ Mới"
 faqs:
   - q: "BMS là gì và locker tích hợp BMS như thế nào?"
     a: "BMS (Building Management System) là hệ thống điều khiển và giám sát tập trung cho toàn bộ thiết bị trong tòa nhà: điện, HVAC (điều hòa), thang máy, an ninh, access control, chiếu sáng. Locker tích hợp BMS nghĩa là locker kết nối vào cùng hệ thống này — admin tòa nhà quản lý locker từ cùng dashboard BMS, thẻ nhân viên mở cả cửa vào và locker, và hệ thống an ninh tòa nhà giám sát cả khu vực locker."

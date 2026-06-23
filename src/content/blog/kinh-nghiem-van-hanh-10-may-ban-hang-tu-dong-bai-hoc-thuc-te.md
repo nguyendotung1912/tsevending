@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["kinh nghiệm vận hành vending machine", "bài học kinh doanh máy bán hàng tự động", "quản lý nhiều máy vending"]
 image: "/images/articles/kinh-nghiem-van-hanh-10-may-ban-hang-tu-dong-bai-hoc-thuc-te.jpg"
-imageAlt: "Người vận hành kiểm tra nhiều máy bán hàng tự động trong một tòa nhà văn phòng lớn"
+imageAlt: "Kinh Nghiệm Vận Hành 10 Máy Bán Hàng Tự Động: Bài Học Thực Tế Từ Thực Tiễn"
 imageCredit: "Photo by panumas nikhomkhai on Pexels"
 faqs:
   - q: "Bao nhiêu máy vending là đủ để có thu nhập ổn định từ kinh doanh vending?"

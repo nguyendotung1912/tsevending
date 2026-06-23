@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán hàng cao cấp VIP", "vending machine premium", "máy bán hàng sang trọng Việt Nam"]
 image: "/images/articles/may-ban-hang-premium-vip-vi-tri-cao-cap-san-pham-sang-trong.jpg"
-imageAlt: "Máy bán hàng tự động cao cấp thiết kế sang trọng đặt tại sảnh khách sạn 5 sao với sản phẩm premium"
+imageAlt: "Máy Bán Hàng Tự Động VIP Và Premium: Vị Trí Cao Cấp Và Sản Phẩm Sang Trọng"
 faqs:
   - q: "Máy vending premium khác gì máy vending thông thường về thiết kế và tính năng?"
     a: "Khác biệt giữa vending thông thường và premium: Thiết kế: Thông thường: thép sơn màu sặc sỡ, nhãn dán. Premium: vỏ thép brushed, kính tempered tối, đèn LED ambient, thiết kế tối giản sang trọng. Hiển thị sản phẩm: Thông thường: nhìn qua kính thường. Premium: màn hình LCD/OLED hiển thị hình ảnh sản phẩm chất lượng cao, thông tin dinh dưỡng và xuất xứ, video lifestyle. Thanh toán: Thông thường: tiền mặt + QR app thông dụng. Premium: contactless card, Apple Pay, Google Pay, đồng hồ thông minh, thẻ thành viên NFC. Nhiệt độ: Thông thường: 1 zone nhiệt độ. Premium: multi-zone (vùng lạnh 4°C cho bia craft/cheese, vùng mát 15°C cho rượu vang, ngăn thường cho snack). Phản hồi: Thông thường: mua xong lấy hàng. Premium: cảm ơn theo tên, gợi ý sản phẩm bổ sung, loyalty point tự động. Chi phí máy: Thông thường: 20-50 triệu. Premium: 80-300 triệu VND/máy."

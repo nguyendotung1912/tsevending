@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng khu vực hẻo lánh", "vending machine hải đảo Việt Nam", "máy bán hàng vùng khó tiếp cận"]
 image: "/images/articles/may-ban-hang-tu-dong-khu-vuc-kho-tiep-can-giai-phap-cung-ung.jpg"
-imageAlt: "Máy bán hàng tự động năng lượng mặt trời đặt tại khu vực hẻo lánh cung cấp hàng hóa thiết yếu"
+imageAlt: "Máy Bán Hàng Tự Động Cho Khu Vực Khó Tiếp Cận: Giải Pháp Cung Ứng Hàng Hóa"
 faqs:
   - q: "Máy bán hàng tự động có thể hoạt động ở những khu vực nào không có điện lưới?"
     a: "Vending machine không phụ thuộc điện lưới: Giải pháp năng lượng thay thế: (1) Solar-powered vending machine: Pin mặt trời + bình tích điện lithium. Dung lượng: 200-500W solar panel + 100-300Ah pin → đủ cho máy vending đơn giản không nhiệt độ; (2) Máy vending không lạnh (ambient temperature): Chỉ bán sản phẩm không cần làm mát: mì ăn liền, bánh khô, đồ hộp, nước uống đóng chai thường. Tiêu thụ điện: 10-50W (chỉ để chạy motor và màn hình). Năng lượng mặt trời dễ đáp ứng; (3) Battery-only với sạc định kỳ: Pin dung lượng lớn sạc tại nơi có điện và mang ra. 1 lần sạc → hoạt động 2-4 tuần. (4) Máy vending cơ học (không điện): Dạng spiral coil cơ học, nhận tiền xu cơ học. Không cần điện. Giới hạn: Chỉ sản phẩm nhỏ gọn, không có cashless. Ứng dụng thực tế: Đảo Lý Sơn, Côn Đảo, Phú Quý — máy vending solar + pin phù hợp. Vùng núi (Hà Giang, Lai Châu) — cần phân tích cụ thể về lưu lượng và nhu cầu."

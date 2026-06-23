@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng sân tennis", "vending machine thể thao", "gel năng lượng tự động"]
 image: "/images/articles/may-ban-hang-san-tennis-giai-phap-nuoc-gel-nang-luong-toi-uu.jpg"
-imageAlt: "Máy bán hàng tự động hiện đại tại sân tennis, cung cấp nước giải khát và gel năng lượng, phục vụ nhu cầu của vận động viên."
+imageAlt: "Máy Bán Hàng Sân Tennis: Giải Pháp Nước & Gel Năng Lượng Tối Ưu"
 imageCredit: "Photo by Asso Myron on Pexels"
 faqs:
   - q: "Những sản phẩm nào phù hợp nhất cho máy bán hàng tại sân tennis?"

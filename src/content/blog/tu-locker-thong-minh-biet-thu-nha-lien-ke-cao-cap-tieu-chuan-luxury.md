@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker biệt thự", "luxury locker", "tủ locker nhà cao cấp"]
 image: "/images/articles/tu-locker-thong-minh-biet-thu-nha-lien-ke-cao-cap-tieu-chuan-luxury.jpg"
-imageAlt: "Tủ locker thông minh cao cấp bằng gỗ walnut và inox tích hợp vào tường trong biệt thự"
+imageAlt: "Giải Pháp Tủ Locker Thông Minh Cho Biệt Thự Và Nhà Liền Kề Cao Cấp: Tiêu Chuẩn Luxury"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Chủ nhà biệt thự cao cấp cần loại locker nào khác với locker thông thường?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["chung cư thông minh locker", "smart apartment tiện ích tự động", "hệ thống chung cư thông minh"]
 image: "/images/articles/chung-cu-thong-minh-toan-dien-locker-quan-ly-tien-ich.jpg"
-imageAlt: "Sảnh chung cư thông minh với hệ thống locker, camera AI và kiosk tự phục vụ cư dân"
+imageAlt: "Chung Cư Thông Minh Toàn Diện: Từ Locker Đến Quản Lý Tiện Ích Tự Động"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Chung cư thông minh cần những công nghệ gì tối thiểu?"

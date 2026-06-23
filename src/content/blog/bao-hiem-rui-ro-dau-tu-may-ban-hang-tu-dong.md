@@ -3,7 +3,7 @@ title: "Bảo hiểm và quản lý rủi ro khi đầu tư máy bán hàng tự
 description: "Những rủi ro thực tế khi đầu tư máy bán hàng tự động và cách quản lý: bảo hiểm thiết bị, rủi ro vị trí, rủi ro vận hành và cách giảm thiểu thiệt hại tối đa."
 date: "2026-05-17"
 image: "/images/articles/bao-hiem-rui-ro-dau-tu-may-ban-hang-tu-dong.jpg"
-imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
+imageAlt: "Bảo hiểm và quản lý rủi ro khi đầu tư máy bán hàng tự động"
 imageCredit: "Photo by AS Photography on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["rủi ro đầu tư máy bán hàng tự động", "bảo hiểm vending machine", "quản lý rủi ro vending"]

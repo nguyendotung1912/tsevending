@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["thương hiệu locker thông minh châu Á", "locker Nhật Bản Hàn Quốc", "thị phần smart locker ASEAN"]
 image: "/images/articles/tu-locker-thong-minh-thuong-hieu-chau-a-phan-tich-thi-phan-chien-luoc.jpg"
-imageAlt: "Bản đồ thị trường locker thông minh châu Á với các thương hiệu nổi bật từ Nhật, Hàn, Trung Quốc"
+imageAlt: "Thương Hiệu Tủ Locker Thông Minh Châu Á Nổi Bật: Phân Tích Thị Phần Và Chiến Lược"
 imageCredit: "Photo by Dex Planet on Pexels"
 faqs:
   - q: "Thị trường locker thông minh Nhật Bản và Hàn Quốc phát triển như thế nào và bài học gì cho VN?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["marketing locker B2B", "bán tủ locker doanh nghiệp", "sales locker"]
 image: "/images/articles/chien-luoc-marketing-tu-locker-thong-minh-b2b-doanh-nghiep.jpg"
-imageAlt: "Cuộc họp bán hàng locker thông minh B2B với khách hàng doanh nghiệp xem bản demo sản phẩm"
+imageAlt: "Chiến Lược Marketing Tủ Locker Thông Minh: Thu Hút Và Thuyết Phục Khách Hàng B2B"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Ai là người ra quyết định mua tủ locker thông minh trong doanh nghiệp và cần thuyết phục ai?"

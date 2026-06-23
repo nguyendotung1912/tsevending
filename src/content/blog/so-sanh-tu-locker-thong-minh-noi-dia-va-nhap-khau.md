@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "thuong-hai-locker"
 keywords: ["so sánh locker nội địa nhập khẩu", "locker nội địa vs nhập khẩu", "chất lượng locker"]
 image: "/images/articles/so-sanh-tu-locker-thong-minh-noi-dia-va-nhap-khau.jpg"
-imageAlt: "Tủ locker thông minh nội địa và nhập khẩu"
+imageAlt: "So sánh tủ locker thông minh nội địa và nhập khẩu"
 imageCredit: "Photo by EqualStock IN on Pexels"
 faqs:
   - q: "Tủ locker thông minh nội địa có tốt không?"

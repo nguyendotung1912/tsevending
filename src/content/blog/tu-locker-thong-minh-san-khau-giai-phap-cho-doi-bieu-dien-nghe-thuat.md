@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker sân khấu", "performance locker", "tủ locker nghệ thuật biểu diễn"]
 image: "/images/articles/tu-locker-thong-minh-san-khau-giai-phap-cho-doi-bieu-dien-nghe-thuat.jpg"
-imageAlt: "Tủ locker thông minh sân khấu cho đội biểu diễn nghệ thuật"
+imageAlt: "Tủ Locker Thông Minh Sân Khấu - Giải Pháp Cho Đội Biểu Diễn Nghệ Thuật"
 imageCredit: "Photo by Eloi Motte on Pexels"
 faqs:
   - q: "Tủ locker thông minh sân khấu là gì?"

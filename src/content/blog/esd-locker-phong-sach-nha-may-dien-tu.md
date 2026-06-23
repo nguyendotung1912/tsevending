@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-cong-nghiep"
 keywords: ["ESD locker", "locker phòng sạch", "tủ locker nhà máy điện tử"]
 image: "/images/articles/esd-locker-phong-sach-nha-may-dien-tu.jpg"
-imageAlt: "Tủ locker ESD màu trắng trong phòng sạch nhà máy sản xuất linh kiện điện tử"
+imageAlt: "ESD Locker Phòng Sạch: Giải Pháp Cho Nhà Máy Điện Tử Và Bán Dẫn"
 imageCredit: "Photo by Brett Sayles on Pexels"
 faqs:
   - q: "ESD locker khác locker thông thường như thế nào?"

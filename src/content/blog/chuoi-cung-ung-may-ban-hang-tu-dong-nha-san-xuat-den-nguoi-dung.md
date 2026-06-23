@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["chuỗi cung ứng vending machine", "supply chain máy bán hàng tự động", "nguồn hàng vending machine Việt Nam"]
 image: "/images/articles/chuoi-cung-ung-may-ban-hang-tu-dong-nha-san-xuat-den-nguoi-dung.jpg"
-imageAlt: "Sơ đồ chuỗi cung ứng máy bán hàng tự động từ nhà sản xuất qua phân phối đến máy và người tiêu dùng"
+imageAlt: "Chuỗi Cung Ứng Máy Bán Hàng Tự Động: Từ Nhà Sản Xuất Đến Người Dùng Cuối"
 imageCredit: "Photo by Freek Wolsink on Pexels"
 faqs:
   - q: "Nguồn hàng cho máy vending machine tốt nhất ở đâu: nhà phân phối, đại lý cấp 1, hay mua trực tiếp nhà sản xuất?"

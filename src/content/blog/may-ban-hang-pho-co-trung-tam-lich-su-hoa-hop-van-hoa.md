@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng phố cổ Hội An", "vending machine khu di tích", "máy bán hàng hòa hợp văn hóa"]
 image: "/images/articles/may-ban-hang-pho-co-trung-tam-lich-su-hoa-hop-van-hoa.jpg"
-imageAlt: "Máy bán hàng tự động thiết kế phong cách cổ điển đặt hài hòa trong không gian phố cổ Hội An"
+imageAlt: "Máy Bán Hàng Tự Động Tại Phố Cổ Và Khu Di Tích Lịch Sử: Hài Hòa Hiện Đại Và Văn Hóa"
 faqs:
   - q: "Quy định về đặt máy vending tại khu di tích và phố cổ Việt Nam như thế nào?"
     a: "Khung pháp lý khu di tích và phố cổ: Khu di tích quốc gia (Hội An, Huế Cổ đô, Hà Nội - Phố cổ): Được bảo vệ theo Luật Di sản Văn hóa. Mọi công trình xây dựng và lắp đặt thiết bị cần xin phép từ Ban Quản lý Di tích. Tiêu chí: Không làm thay đổi cảnh quan, không ảnh hưởng đến kiến trúc gốc, phù hợp về màu sắc và vật liệu. Thực tế: Chưa có hướng dẫn cụ thể cho vending machine tại khu di tích tại Việt Nam 2026. Từng trường hợp phải xin phép và thuyết phục Ban Quản lý. Cơ hội: Một số khu vực NGOÀI ranh giới bảo vệ nghiêm ngặt nhưng vẫn trong phố cổ có thể dễ xin phép hơn. Vị trí trong tòa nhà (không phải ngoài trời) ít bị kiểm soát hơn. Ví dụ: Đặt máy trong lobby khách sạn boutique ở phố cổ Hội An dễ hơn đặt ngoài đường cổ."

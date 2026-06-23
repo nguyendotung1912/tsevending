@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chống ẩm kho", "moisture-proof locker", "tủ locker nhà kho"]
 image: "/images/articles/tu-locker-thong-minh-chong-am-chong-trom-kho-hang-nha-xuong.jpg"
-imageAlt: "Tủ locker thông minh công nghiệp màu xanh trong nhà kho với hệ thống chống ẩm và bảo mật"
+imageAlt: "Tủ Locker Thông Minh Chống Ẩm Và Chống Trộm Trong Kho Hàng Và Nhà Xưởng"
 imageCredit: "Photo by Tiger Lily on Pexels"
 faqs:
   - q: "Tại sao kho hàng và nhà xưởng cần locker chuyên biệt khác với văn phòng?"

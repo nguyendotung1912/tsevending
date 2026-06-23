@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker freelancer", "remote work locker", "tủ locker làm việc từ xa"]
 image: "/images/articles/tu-locker-thong-minh-cho-freelancer-lam-viec-tu-xa.jpg"
-imageAlt: "Tủ locker thông minh cho freelancer và làm việc từ xa"
+imageAlt: "Tủ Locker Thông Minh Cho Freelancer & Làm Việc Từ Xa"
 imageCredit: "Photo by Vernie Andrea on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

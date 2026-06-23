@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["máy bán hàng bãi đỗ xe", "vending machine bãi giữ xe", "kinh doanh bãi đỗ xe Việt Nam"]
 image: "/images/articles/may-ban-hang-bai-do-xe-co-hoi-it-ai-khai-thac.jpg"
-imageAlt: "Máy bán hàng tự động tại bãi giữ xe tòa nhà văn phòng với ánh đèn xanh"
+imageAlt: "Máy Bán Hàng Tự Động Tại Bãi Đỗ Xe: Cơ Hội Tiềm Năng Ít Ai Khai Thác"
 imageCredit: "Photo by Tara Winstead on Pexels"
 faqs:
   - q: "Bãi đỗ xe nào phù hợp nhất để đặt máy vending?"

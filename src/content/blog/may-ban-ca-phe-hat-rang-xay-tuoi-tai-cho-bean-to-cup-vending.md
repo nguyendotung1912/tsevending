@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán cà phê hạt tươi tự động", "bean to cup vending machine", "máy pha cà phê tự động ngon"]
 image: "/images/articles/may-ban-ca-phe-hat-rang-xay-tuoi-tai-cho-bean-to-cup-vending.jpg"
-imageAlt: "Máy cà phê bean-to-cup tự động với ngăn chứa hạt cà phê rang và cơ chế xay tươi tại chỗ"
+imageAlt: "Máy Bán Cà Phê Hạt Rang Xay Tươi Tại Chỗ: Bean-to-Cup Vending Machine"
 imageCredit: "Photo by Sami TÜRK on Pexels"
 faqs:
   - q: "Bean-to-cup vending machine khác gì với máy cà phê hòa tan thông thường?"

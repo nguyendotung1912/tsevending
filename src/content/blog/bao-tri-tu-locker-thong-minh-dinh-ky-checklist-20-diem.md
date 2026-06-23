@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["bảo trì locker thông minh", "checklist bảo trì locker", "quy trình bảo dưỡng locker"]
 image: "/images/articles/bao-tri-tu-locker-thong-minh-dinh-ky-checklist-20-diem.jpg"
-imageAlt: "Kỹ thuật viên đang thực hiện bảo trì định kỳ tủ locker thông minh theo checklist"
+imageAlt: "Bảo Trì Tủ Locker Thông Minh Định Kỳ: Checklist 20 Điểm Cho Vận Hành Bền Vững"
 imageCredit: "Photo by Artem Podrez on Pexels"
 faqs:
   - q: "Bao lâu nên bảo trì locker thông minh một lần?"

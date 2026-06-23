@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "tu-dong-hoa"
 keywords: ["cửa hàng không nhân viên", "unmanned store Việt Nam", "Amazon Go công nghệ"]
 image: "/images/articles/cua-hang-tien-loi-khong-nhan-vien-cong-nghe-bai-hoc.jpg"
-imageAlt: "Cửa hàng tiện lợi tự động với camera AI và cổng thanh toán không nhân viên phục vụ"
+imageAlt: "Cửa Hàng Tiện Lợi Không Nhân Viên: Công Nghệ Và Bài Học Thực Tế"
 faqs:
   - q: "Cửa hàng không nhân viên hoạt động như thế nào để biết khách lấy gì?"
     a: "Hai công nghệ chính: (1) Computer vision — mạng lưới camera AI theo dõi từng hành động của khách, nhận diện sản phẩm được lấy/đặt lại, tự tính tiền khi khách ra cửa. (2) RFID — chip RFID gắn vào từng sản phẩm, antenna tại cổng đọc và tính tiền. Amazon Go dùng camera AI. RFID rẻ hơn nhưng chi phí gắn chip tăng."

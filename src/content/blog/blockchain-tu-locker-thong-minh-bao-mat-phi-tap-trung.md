@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["blockchain locker thông minh", "phi tập trung bảo mật locker", "truy xuất nguồn gốc locker"]
 image: "/images/articles/blockchain-tu-locker-thong-minh-bao-mat-phi-tap-trung.jpg"
-imageAlt: "Màn hình hiển thị blockchain transaction log tích hợp với hệ thống tủ locker thông minh"
+imageAlt: "Blockchain Và Tủ Locker Thông Minh: Bảo Mật Phi Tập Trung Và Truy Xuất Nguồn Gốc"
 imageCredit: "Photo by Tara Winstead on Pexels"
 faqs:
   - q: "Blockchain giúp ích gì cho bảo mật locker?"

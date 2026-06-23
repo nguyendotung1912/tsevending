@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["micro market không nhân viên", "unmanned micro market", "micro market vs vending machine"]
 image: "/images/articles/micro-market-khong-nhan-vien-vuot-troi-vending-machine.jpg"
-imageAlt: "Micro market không nhân viên với kệ hàng mở, tủ lạnh kính và kiosk tự thanh toán"
+imageAlt: "Micro Market Không Nhân Viên: Mô Hình Vượt Trội Hơn Vending Machine Truyền Thống"
 faqs:
   - q: "Micro market khác vending machine truyền thống như thế nào?"
     a: "Khác biệt chính: Vending machine — hàng hóa trong máy kín, chọn từ menu, giới hạn 20–40 SKU, cần coin/card. Micro market — không gian mở như minimart thu nhỏ (15–50m²), khách cầm lấy sản phẩm trực tiếp từ kệ/tủ lạnh, 200–500 SKU, tự checkout tại kiosk. Trải nghiệm micro market gần với siêu thị hơn, hàng tươi và đa dạng hơn."

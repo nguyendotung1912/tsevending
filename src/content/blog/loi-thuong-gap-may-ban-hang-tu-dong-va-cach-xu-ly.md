@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["lỗi máy bán hàng tự động", "sửa chữa vending machine", "xử lý sự cố máy vending"]
 image: "/images/articles/loi-thuong-gap-may-ban-hang-tu-dong-va-cach-xu-ly.jpg"
-imageAlt: "Kỹ thuật viên kiểm tra và sửa máy bán hàng tự động bị lỗi với đèn LED màu đỏ"
+imageAlt: "Lỗi Thường Gặp Khi Vận Hành Máy Bán Hàng Tự Động Và Cách Xử Lý"
 imageCredit: "Photo by Multitech Institute on Pexels"
 faqs:
   - q: "Máy vending kẹt hàng thường xuyên — nguyên nhân và cách khắc phục?"

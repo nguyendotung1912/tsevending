@@ -3,7 +3,7 @@ title: "Cách tính ROI khi đầu tư máy bán hàng tự động"
 description: "Hướng dẫn cách tính ROI (tỷ suất hoàn vốn) khi đầu tư máy bán hàng tự động, các yếu tố ảnh hưởng đến thời gian hoàn vốn và cách tối ưu hiệu quả đầu tư."
 date: "2026-05-01"
 image: "/images/articles/cach-tinh-roi-khi-dau-tu-may-ban-hang-tu-dong.jpg"
-imageAlt: "Close-up of a tablet with the word 'Investments', held by a person. Ideal for financial topics."
+imageAlt: "Cách tính ROI khi đầu tư máy bán hàng tự động"
 imageCredit: "Photo by Hanna Pad on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["ROI vending machine", "tính toán đầu tư vending", "đầu tư máy bán hàng tự động"]

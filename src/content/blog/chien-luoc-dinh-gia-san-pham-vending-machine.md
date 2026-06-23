@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["định giá vending machine", "chiến lược giá máy bán hàng tự động", "pricing strategy vending"]
 image: "/images/articles/chien-luoc-dinh-gia-san-pham-vending-machine.jpg"
-imageAlt: "Màn hình cảm ứng máy bán hàng tự động hiển thị bảng giá sản phẩm đa dạng"
+imageAlt: "Chiến Lược Định Giá Sản Phẩm Vending Machine: Cách Tối Đa Lợi Nhuận"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Máy bán hàng tự động nên bán đắt hơn siêu thị bao nhiêu là hợp lý?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["cơ chế phân phối hàng vending machine", "spiral coil máy bán hàng", "elevator vending mechanism"]
 image: "/images/articles/co-che-phan-phoi-hang-may-vending-spiral-elevator-belt.jpg"
-imageAlt: "Cơ chế spiral coil bên trong máy bán hàng tự động đang đẩy sản phẩm ra"
+imageAlt: "Cơ Chế Phân Phối Hàng Máy Vending: So Sánh Spiral Coil, Elevator Và Belt"
 faqs:
   - q: "Cơ chế spiral coil bị kẹt hàng có hay không?"
     a: "Spiral coil (lò xo xoắn) là cơ chế phổ biến nhất nhưng cũng hay kẹt nhất trong điều kiện nhất định. Nguyên nhân kẹt: sản phẩm có hình dạng bất đồng đều (túi snack phồng, chai vặn nắp to), sản phẩm dài hơn khoảng cách giữa 2 vòng coil, coil bị biến dạng do nhiệt độ cao, hoặc sản phẩm nặng vượt lực đẩy của coil. Giải pháp hiện đại: 'push and release' mechanism — coil đẩy và rút lại để thả hàng, thay vì chỉ đẩy thẳng."

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-thanh-toan"
 keywords: ["máy bán hàng chấp nhận thẻ", "vending machine thẻ tín dụng", "đầu đọc thẻ máy bán hàng"]
 image: "/images/articles/may-ban-hang-chap-nhan-the-tin-dung-tang-doanh-thu.jpg"
-imageAlt: "Máy bán hàng tự động với đầu đọc thẻ ngân hàng và màn hình xác nhận giao dịch"
+imageAlt: "Máy Bán Hàng Tự Động Chấp Nhận Thẻ Tín Dụng: Tăng Doanh Thu 40%"
 faqs:
   - q: "Đầu đọc thẻ nào tốt nhất cho máy bán hàng tự động?"
     a: "Phụ thuộc thị trường: tại Việt Nam, ưu tiên đầu đọc hỗ trợ NAPAS (Interbank Payment Network - thẻ nội địa) và Visa/Mastercard (thẻ quốc tế). Thương hiệu phổ biến: Ingenico (Pháp), Verifone (Mỹ), CastlesT echnology (Đài Loan). Nên chọn đầu đọc tích hợp cả thẻ chip + contactless (NFC) + QR — 1 thiết bị xử lý mọi loại thanh toán."

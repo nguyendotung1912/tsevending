@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker bowling", "tủ locker phòng bida", "gửi đồ khu giải trí"]
 image: "/images/articles/tu-locker-thong-minh-phong-choi-bowling-bida-gui-do-giai-tri.jpg"
-imageAlt: "Tủ locker thông minh tại khu bowling trong trung tâm thương mại hiện đại"
+imageAlt: "Tủ Locker Thông Minh Tại Phòng Chơi Bowling Và Bida: Gửi Đồ Trong Khi Giải Trí"
 faqs:
   - q: "Tại sao phòng bowling cần locker thông minh và khách hàng có lợi gì khi sử dụng?"
     a: "Locker tại Phòng Bowling — Lợi Ích Cụ Thể: Nhu cầu thực tế khi chơi bowling: Giày bowling bắt buộc — phải đổi giày trước khi bước lên lane. Điện thoại, ví, chìa khóa xe: Không thể mang lên lane (sàn trơn, nguy cơ rơi). Túi xách, áo khoác: Cồng kềnh khi chơi. Không thể để trên ghế — người lạ qua lại liên tục. Giải pháp hiện tại của nhiều phòng bowling: Để đồ trên ghế cạnh lane → không an toàn. Nhờ nhân viên giữ hộ → nhân viên không phụ trách và không có giấy tờ chứng minh. Locker cũ bằng chìa khóa: Thường xuyên mất chìa, hỏng khóa, hết ô. Lợi ích smart locker tại bowling: Khách mua vé → app gán ô locker trong thời gian chơi (2 tiếng). QR code mở locker + mở lane cùng 1 link. Khách tự quản lý đồ — không cần nhờ ai. Locker hết giờ: 30 phút sau khi session kết thúc → alert. Doanh thu phụ: Phòng bowling thu phí locker (10,000-20,000 VND/session) hoặc bao gồm trong giá vé. 20 lane × 20 khách/ngày × 15,000 VND = 6 triệu/ngày = 180 triệu/tháng. Hoặc include trong giá vé — tăng giá trị cảm nhận mà không cần tách phí."

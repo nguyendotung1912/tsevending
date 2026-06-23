@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["hợp đồng bảo trì máy vending", "bảo hành máy bán hàng tự động", "SLA vending machine Việt Nam"]
 image: "/images/articles/hop-dong-bao-tri-may-ban-hang-tu-dong-dieu-khoan.jpg"
-imageAlt: "Kỹ thuật viên sửa chữa máy bán hàng tự động với bộ công cụ và hợp đồng dịch vụ trên tablet"
+imageAlt: "Hợp Đồng Bảo Trì Máy Bán Hàng Tự Động: Điều Khoản Quan Trọng Cần Có"
 imageCredit: "Photo by Trinh Trần on Pexels"
 faqs:
   - q: "Bảo hành thông thường của nhà sản xuất máy vending là bao lâu?"

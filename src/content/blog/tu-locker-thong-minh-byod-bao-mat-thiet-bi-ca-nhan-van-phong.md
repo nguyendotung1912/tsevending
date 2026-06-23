@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["BYOD locker", "tủ locker bảo mật laptop", "device locker"]
 image: "/images/articles/tu-locker-thong-minh-byod-bao-mat-thiet-bi-ca-nhan-van-phong.jpg"
-imageAlt: "Tủ locker thông minh BYOD với ngăn sạc laptop và thiết bị điện tử trong văn phòng hiện đại"
+imageAlt: "Tủ Locker Thông Minh Giải Pháp BYOD: Bảo Mật Thiết Bị Cá Nhân Trong Văn Phòng"
 imageCredit: "Photo by Alena Shekhovtcova on Pexels"
 faqs:
   - q: "BYOD policy tạo ra những thách thức gì về lưu trữ và bảo mật thiết bị trong văn phòng?"

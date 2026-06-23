@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["combo vending machine", "bán kèm máy bán hàng", "upsell vending"]
 image: "/images/articles/may-ban-hang-combo-tang-doanh-thu-voi-chien-luoc-ban-kem.jpg"
-imageAlt: "Máy bán hàng combo tự động"
+imageAlt: "Máy bán hàng combo: Tăng doanh thu với chiến lược bán kèm"
 imageCredit: "Photo by www.kaboompics.com on Pexels"
 faqs:
   - q: "Máy bán hàng combo là gì?"

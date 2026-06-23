@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["construction equipment locker", "locker cho thuê dụng cụ xây dựng", "tool rental locker"]
 image: "/images/articles/tu-locker-thong-minh-cho-thue-dung-cu-xay-dung-giai-phap-hieu-qua.jpg"
-imageAlt: "Tủ locker thông minh cho thuê dụng cụ xây dựng"
+imageAlt: "Tủ Locker Thông Minh Cho Thuê Dụng Cụ Xây Dựng - Giải Pháp Hiệu Quả"
 imageCredit: "Photo by Mikael Blomkvist on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

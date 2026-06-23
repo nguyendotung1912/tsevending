@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker công cộng đô thị thông minh", "Singapore locker network", "hạ tầng giao nhận thông minh"]
 image: "/images/articles/do-thi-thong-minh-locker-cong-cong-kinh-nghiem-singapore.jpg"
-imageAlt: "Trạm locker công cộng tại trạm MRT Singapore tích hợp giao nhận hàng tự động"
+imageAlt: "Đô Thị Thông Minh Và Hệ Thống Locker Công Cộng: Kinh Nghiệm Từ Singapore"
 faqs:
   - q: "Singapore có bao nhiêu điểm locker công cộng?"
     a: "Singapore đặt mục tiêu 1000 điểm Locker Alliance (mạng lưới locker liên minh quốc gia) đến 2025–2026, tích hợp các nhà cung cấp locker tư nhân dưới 1 hệ thống quốc gia. Điểm locker ưu tiên: HDB (nhà ở công cộng), trạm MRT, trung tâm thương mại, và khu bưu điện. Tỷ lệ phủ: ước tính 85% hộ gia đình trong vòng 500m từ 1 điểm locker."

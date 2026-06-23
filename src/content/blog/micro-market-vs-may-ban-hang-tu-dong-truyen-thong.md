@@ -3,7 +3,7 @@ title: "Micro-market vs. Máy bán hàng tự động truyền thống: So sánh
 description: "Micro-market (kiosk tự phục vụ) đang thách thức mô hình vending machine truyền thống. Phân tích chi phí, lợi nhuận và trường hợp sử dụng phù hợp cho từng mô hình."
 date: "2026-05-13"
 image: "/images/articles/micro-market-vs-may-ban-hang-tu-dong-truyen-thong.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Micro-market vs. Máy bán hàng tự động truyền thống: So sánh chi tiết cho nhà đầu tư"
 imageCredit: "Photo by HONG SON on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["micro-market vs vending machine", "kiosk tự phục vụ", "so sánh mô hình kinh doanh vending"]

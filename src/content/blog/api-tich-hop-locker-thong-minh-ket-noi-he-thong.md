@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["API locker thông minh", "tích hợp locker hệ thống", "locker API kết nối"]
 image: "/images/articles/api-tich-hop-locker-thong-minh-ket-noi-he-thong.jpg"
-imageAlt: "Sơ đồ tích hợp API locker thông minh với hệ thống logistics và ứng dụng mobile"
+imageAlt: "API Tích Hợp Locker Thông Minh: Kết Nối Với Hệ Thống Logistics Và ERP"
 imageCredit: "Photo by Anete Lusina on Pexels"
 faqs:
   - q: "Tích hợp API locker mất bao lâu để hoàn thành?"

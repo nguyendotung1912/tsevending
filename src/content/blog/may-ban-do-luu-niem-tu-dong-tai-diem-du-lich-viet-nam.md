@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["máy bán đồ lưu niệm tự động", "vending machine du lịch Việt Nam", "kinh doanh điểm du lịch vending"]
 image: "/images/articles/may-ban-do-luu-niem-tu-dong-tai-diem-du-lich-viet-nam.jpg"
-imageAlt: "Máy bán hàng tự động với đồ lưu niệm Việt Nam đặt tại khu du lịch nổi tiếng"
+imageAlt: "Máy Bán Đồ Lưu Niệm Tự Động Tại Điểm Du Lịch Việt Nam: Cơ Hội 24/7"
 imageCredit: "Photo by Jeffrey Eisen on Pexels"
 faqs:
   - q: "Đồ lưu niệm nào phù hợp bán qua máy vending tại điểm du lịch?"

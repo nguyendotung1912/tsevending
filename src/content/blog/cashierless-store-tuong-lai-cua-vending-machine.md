@@ -3,7 +3,7 @@ title: "Cashierless Store và tương lai của máy bán hàng tự động: Kh
 description: "Amazon Go, AiFi và Zippin đang biến cả cửa hàng thành một 'vending machine khổng lồ' không thu ngân. Công nghệ computer vision và AI đang định hình lại tương lai của bán lẻ tự động toàn cầu."
 date: "2026-05-25"
 image: "/images/articles/cashierless-store-tuong-lai-cua-vending-machine.jpg"
-imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageAlt: "Cashierless Store và tương lai của máy bán hàng tự động: Khi cửa hàng trở thành vending machine khổng lồ"
 imageCredit: "Photo by Tara Winstead on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["cashierless store", "cửa hàng không thu ngân", "Amazon Go Việt Nam", "tương lai vending machine"]

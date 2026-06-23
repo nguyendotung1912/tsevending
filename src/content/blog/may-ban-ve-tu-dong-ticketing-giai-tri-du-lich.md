@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán vé tự động", "ticketing machine", "vé điện tử tự động"]
 image: "/images/articles/may-ban-ve-tu-dong-ticketing-giai-tri-du-lich.jpg"
-imageAlt: "Máy bán vé tự động hiện đại tại công viên giải trí với hàng người mua vé không cần nhân viên"
+imageAlt: "Máy Bán Vé Tự Động: Hệ Thống Ticketing Thông Minh Cho Giải Trí Và Du Lịch"
 faqs:
   - q: "Máy bán vé tự động có hỗ trợ thanh toán bằng tất cả hình thức không?"
     a: "Máy bán vé hiện đại hỗ trợ: tiền mặt (chấp nhận và trả lại tiền thối), thẻ ngân hàng (Visa/Mastercard/JCB), thẻ ATM nội địa, ví điện tử (VNPay QR, Momo, ZaloPay), thẻ thành viên/loyalty. Yêu cầu tích hợp nhiều cổng thanh toán trong một thiết bị."

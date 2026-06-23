@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["máy bán hàng combo", "upsell vending machine", "tăng doanh thu máy bán hàng tự động"]
 image: "/images/articles/may-ban-hang-combo-ban-kem-tang-doanh-thu-moi-giao-dich.jpg"
-imageAlt: "Màn hình máy bán hàng tự động hiển thị đề xuất combo mua kèm sản phẩm với giá ưu đãi"
+imageAlt: "Máy Bán Hàng Combo Và Bán Kèm: Chiến Lược Tăng Doanh Thu Mỗi Giao Dịch"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Máy vending có thể gợi ý combo như thế nào mà không có nhân viên bán hàng?"

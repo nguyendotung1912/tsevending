@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["smart locker bưu điện", "VNPost locker", "nhận hàng bưu điện tự động"]
 image: "/images/articles/smart-locker-buu-dien-vnpost-giao-hang-tu-dong.jpg"
-imageAlt: "Tủ smart locker tại bưu điện VNPost màu vàng đỏ đặc trưng, hành khách tự lấy bưu kiện"
+imageAlt: "Smart Locker Bưu Điện: Mở Rộng Dịch Vụ VNPost Và Logistics Tự Động"
 imageCredit: "Photo by Andrey Matveev on Pexels"
 faqs:
   - q: "VNPost đã có hệ thống smart locker chưa?"

@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc"
 keywords: ["máy bán cà phê văn phòng", "coffee vending machine", "phúc lợi nhân viên cà phê"]
 image: "/images/articles/may-ban-ca-phe-tu-dong-van-phong-giai-phap-phuc-loi-nhan-vien-2026.jpg"
-imageAlt: "Nhân viên văn phòng sử dụng máy bán cà phê tự động hiện đại tại khu pantry công ty"
+imageAlt: "Máy Bán Cà Phê Tự Động Văn Phòng: Phúc Lợi Nhân Viên Hiệu Quả 2026"
 imageCredit: "Photo by Yan Krukau on Pexels"
 faqs:
   - q: "Máy bán cà phê tự động văn phòng loại nào phù hợp với 50–100 nhân viên?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker B2B ecommerce", "tủ locker giao hàng văn phòng", "B2B delivery locker"]
 image: "/images/articles/tu-locker-thong-minh-b2b-ecommerce-giai-phap-giao-hang-van-phong-tu-dong.jpg"
-imageAlt: "Tủ locker thông minh cho thương mại điện tử B2B"
+imageAlt: "Tủ locker thông minh B2B ecommerce: Giải pháp giao hàng văn phòng tự động"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker call center", "tủ locker trung tâm dịch vụ khách hàng", "customer service locker"]
 image: "/images/articles/tu-locker-thong-minh-cho-call-center-giai-phap-hieu-qua.jpg"
-imageAlt: "Tủ locker thông minh tại trung tâm chăm sóc khách hàng call center"
+imageAlt: "Tủ locker thông minh cho call center: Giải pháp hiệu quả"
 imageCredit: "Photo by Jsme  MILA on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

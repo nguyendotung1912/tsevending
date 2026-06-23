@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker đa ngôn ngữ", "multilingual smart locker", "locker ngoại ngữ"]
 image: "/images/articles/tu-locker-thong-minh-da-ngon-ngu-cho-khu-cong-nghiep.jpg"
-imageAlt: "Tủ locker thông minh đa ngôn ngữ cho khu công nghiệp"
+imageAlt: "Tủ Locker Thông Minh Đa Ngôn Ngữ Cho Khu Công Nghiệp"
 imageCredit: "Photo by Jhonny' Mages on Pexels"
 faqs:
   - q: "Tủ locker thông minh đa ngôn ngữ là gì?"

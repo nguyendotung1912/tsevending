@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["so sánh locker chung cư", "thương hiệu locker chung cư VN", "locker chung cư nào tốt"]
 image: "/images/articles/so-sanh-tu-locker-chung-cu-pho-bien-tai-viet-nam-2026.jpg"
-imageAlt: "Tủ locker chung cư - giải pháp lưu trữ thông minh"
+imageAlt: "So sánh tủ locker chung cư phổ biến tại Việt Nam 2026"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker chung cư có an toàn không?"

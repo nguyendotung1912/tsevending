@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker resort núi", "adventure locker", "tủ locker du lịch mạo hiểm"]
 image: "/images/articles/tu-locker-thong-minh-cho-khu-resort-nui-va-du-lich-mao-hiem.jpg"
-imageAlt: "Tủ locker thông minh tại khu resort núi"
+imageAlt: "Tủ locker thông minh cho khu resort núi và du lịch mạo hiểm"
 imageCredit: "Photo by Anthony Rahayel on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker dạy nghề", "tủ locker trường nghề", "vocational locker"]
 image: "/images/articles/tu-locker-thong-minh-cho-trung-tam-day-nghe-giai-phap-bao-ve-dung-cu-hieu-qua.jpg"
-imageAlt: "Tủ locker thông minh cho trung tâm dạy nghề"
+imageAlt: "Tủ locker thông minh cho trung tâm dạy nghề: Giải pháp bảo vệ dụng cụ hiệu quả"
 imageCredit: "Photo by Gera Cejas on Pexels"
 faqs:
   - q: "Tủ locker thông minh có thể giúp bảo vệ dụng cụ tại trung tâm dạy nghề như thế nào?"
