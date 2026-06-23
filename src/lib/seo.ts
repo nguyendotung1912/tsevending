@@ -306,6 +306,43 @@ export function articleJsonLd({
   };
 }
 
+export interface ProductJsonLdInput {
+  name: string;
+  description: string;
+  path: string;
+  image?: string;
+  /** Low/high price in VND. When set, emits an AggregateOffer (price rich-result eligible). */
+  lowPrice?: number;
+  highPrice?: number;
+}
+
+// Product schema for product/category pages. Emitting a valid AggregateOffer
+// (priceCurrency + lowPrice) is what makes the page eligible for Google's
+// product/merchant rich results — the "snippet not eligible" warning in GSC.
+export function productJsonLd({ name, description, path, image, lowPrice, highPrice }: ProductJsonLdInput) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name,
+    description,
+    image: image ?? absoluteUrl("/og-default.svg"),
+    url: absoluteUrl(path),
+    brand: { "@type": "Brand", name: siteConfig.name },
+    ...(lowPrice
+      ? {
+          offers: {
+            "@type": "AggregateOffer",
+            priceCurrency: "VND",
+            lowPrice,
+            ...(highPrice ? { highPrice } : {}),
+            availability: "https://schema.org/InStock",
+            seller: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
+          },
+        }
+      : {}),
+  };
+}
+
 export interface ItemListJsonLdInput {
   name: string;
   description: string;

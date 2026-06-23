@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { buildMetadata, breadcrumbJsonLd, faqJsonLd } from "@/lib/seo";
+import { buildMetadata, breadcrumbJsonLd, faqJsonLd, productJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
@@ -20,6 +20,8 @@ const pricingTiers = [
     name: "Máy bán nước giải khát",
     slug: "may-ban-nuoc-giai-khat",
     range: "40 – 120 triệu VND",
+    lowPrice: 40_000_000,
+    highPrice: 120_000_000,
     tier: "Phổ biến nhất",
     tierColor: "bg-brand-600 text-white",
     factors: [
@@ -35,6 +37,8 @@ const pricingTiers = [
     name: "Máy bán snack, đồ ăn vặt",
     slug: "may-ban-do-an-vat",
     range: "60 – 150 triệu VND",
+    lowPrice: 60_000_000,
+    highPrice: 150_000_000,
     tier: "Bán chạy",
     tierColor: "bg-accent-500 text-white",
     factors: [
@@ -50,6 +54,8 @@ const pricingTiers = [
     name: "Máy bán hàng lạnh, đông lạnh",
     slug: "may-ban-hang-lanh",
     range: "80 – 200 triệu VND",
+    lowPrice: 80_000_000,
+    highPrice: 200_000_000,
     tier: "Cao cấp",
     tierColor: "bg-slate-700 text-white",
     factors: [
@@ -80,6 +86,8 @@ const pricingTiers = [
     name: "Linh kiện & phụ tùng thay thế",
     slug: "linh-kien-phu-tung",
     range: "500.000 – 5.000.000 VND/linh kiện",
+    lowPrice: 500_000,
+    highPrice: 5_000_000,
     tier: "Dịch vụ",
     tierColor: "bg-slate-500 text-white",
     factors: [
@@ -148,6 +156,20 @@ export default function BangGiaMayBanHangPage() {
         ])}
       />
       <JsonLd data={faqJsonLd(faqs)} />
+      {pricingTiers
+        .filter((t) => t.lowPrice)
+        .map((t) => (
+          <JsonLd
+            key={t.slug}
+            data={productJsonLd({
+              name: `${t.name} — TSE Vending`,
+              description: t.note,
+              path: `/may-ban-hang-tu-dong/${t.slug}`,
+              lowPrice: t.lowPrice,
+              highPrice: t.highPrice,
+            })}
+          />
+        ))}
 
       <PageHeader
         eyebrow="Máy bán hàng tự động"

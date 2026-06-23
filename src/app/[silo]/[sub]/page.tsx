@@ -1,8 +1,18 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { buildMetadata, serviceJsonLd } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd, productJsonLd } from "@/lib/seo";
 import { getAllCategorySlugs, getSubcategory } from "@/content/categories";
+
+// Reference price ranges (VND) for vending product categories — drives Product
+// schema with AggregateOffer so these landing pages are eligible for Google's
+// product rich results. Keep in sync with /may-ban-hang-tu-dong/bang-gia.
+const SUB_PRICE_RANGE: Record<string, { lowPrice: number; highPrice: number }> = {
+  "may-ban-nuoc-giai-khat": { lowPrice: 40_000_000, highPrice: 120_000_000 },
+  "may-ban-do-an-vat": { lowPrice: 60_000_000, highPrice: 150_000_000 },
+  "may-ban-hang-lanh": { lowPrice: 80_000_000, highPrice: 200_000_000 },
+  "linh-kien-phu-tung": { lowPrice: 500_000, highPrice: 5_000_000 },
+};
 import { getPostsBySilo } from "@/lib/content";
 import CategoryCard from "@/components/CategoryCard";
 import ProductGallery from "@/components/ProductGallery";
@@ -363,6 +373,14 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
   return (
     <>
       <JsonLd data={serviceJsonLd({ name: sub.title, description: sub.metaDescription, path: `/${silo.slug}/${sub.slug}` })} />
+      <JsonLd
+        data={productJsonLd({
+          name: sub.title,
+          description: sub.metaDescription,
+          path: `/${silo.slug}/${sub.slug}`,
+          ...(SUB_PRICE_RANGE[sub.slug] ?? {}),
+        })}
+      />
 
       {/* ── HERO ── */}
       <section className="relative overflow-hidden bg-brand-950 text-white">
