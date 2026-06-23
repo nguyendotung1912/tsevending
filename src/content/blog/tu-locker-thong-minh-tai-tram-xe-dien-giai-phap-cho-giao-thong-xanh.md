@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe điện", "e-bike locker", "tủ locker xe đạp điện"]
 image: "/images/articles/tu-locker-thong-minh-tai-tram-xe-dien-giai-phap-cho-giao-thong-xanh.jpg"
-imageAlt: "Tủ locker thông minh tại trạm xe đạp điện"
+imageAlt: "Tủ locker thông minh tại trạm xe điện: Giải pháp cho giao thông xanh"
 imageCredit: "Photo by yangjunjun2 on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại trạm xe điện là gì?"

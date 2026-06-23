@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-snack-do-an-vat"
 keywords: ["vending machine câu cá", "máy bán hàng thể thao ngoài trời", "fishing vending"]
 image: "/images/articles/vending-machine-cau-ca-the-thao-ngoai-troi-moi-phu-kien.jpg"
-imageAlt: "Máy bán hàng tự động tại điểm câu cá"
+imageAlt: "Vending Machine Câu Cá & Thể Thao Ngoài Trời: Mồi & Phụ Kiện"
 imageCredit: "Photo by AJ  Ahamad on Pexels"
 faqs:
   - q: "Vending machine câu cá là gì?"

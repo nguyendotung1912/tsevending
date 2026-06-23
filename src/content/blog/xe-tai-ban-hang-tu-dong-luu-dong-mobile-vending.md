@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["xe tải vending machine lưu động", "mobile vending Vietnam", "máy bán hàng di động"]
 image: "/images/articles/xe-tai-ban-hang-tu-dong-luu-dong-mobile-vending.jpg"
-imageAlt: "Xe tải lưu động bán hàng tự động màu trắng với cửa sổ kính trưng bày sản phẩm tại công trường"
+imageAlt: "Xe Tải Bán Hàng Tự Động Lưu Động: Mobile Vending Xu Hướng Mới Tại Việt Nam"
 faqs:
   - q: "Mobile vending truck khác food truck thông thường như thế nào?"
     a: "Food truck truyền thống: cần người phục vụ, nấu/pha chế tại xe, phụ thuộc nhân lực. Mobile vending truck: không cần nhân viên trực tiếp bán hàng — sản phẩm được nạp sẵn, khách tự chọn và thanh toán. Lái xe chỉ cần dừng xe, bật máy, và rời đi (hoặc ở lại để tiếp hàng nếu cần). Ưu điểm của mobile vending: vận hành ít người hơn nhiều — 1 người có thể quản lý 3–5 xe lưu động. Nhược điểm: không thể bán sản phẩm tươi sống hoặc nấu tại chỗ. Kết hợp cả 2: một số xe có 1 người phục vụ + 1 module vending để phục vụ được cả 2 loại sản phẩm."

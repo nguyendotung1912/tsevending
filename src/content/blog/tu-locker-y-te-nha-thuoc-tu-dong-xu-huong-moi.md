@@ -3,7 +3,7 @@ title: "Tủ locker y tế và nhà thuốc tự động: Xu hướng mới tron
 description: "Nhà thuốc tự động 24/7 và tủ locker y tế đang xuất hiện tại Mỹ, châu Âu và Singapore. Giải pháp tiếp cận thuốc không cần chờ đợi — cơ hội cho Việt Nam?"
 date: "2026-05-13"
 image: "/images/articles/tu-locker-y-te-nha-thuoc-tu-dong-xu-huong-moi.jpg"
-imageAlt: "Tủ locker y tế và nhà thuốc tự động: xu hướng mới trong ngành dược"
+imageAlt: "Tủ locker y tế và nhà thuốc tự động: Xu hướng mới trong chăm sóc sức khỏe toàn cầu"
 imageCredit: "Photo by Wellington Tavares on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["nhà thuốc tự động", "tủ locker y tế", "pharmacy vending machine", "thuốc tự động 24/7"]

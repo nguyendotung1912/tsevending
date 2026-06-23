@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker dạy nghề", "tủ locker trường nghề", "vocational locker"]
 image: "/images/articles/tu-locker-thong-minh-trung-tam-day-nghe-giao-duc-nghe-nghiep.jpg"
-imageAlt: "Tủ locker thông minh trong xưởng thực hành trường nghề với các dụng cụ cơ khí"
+imageAlt: "Tủ Locker Thông Minh Tại Trung Tâm Dạy Nghề Và Giáo Dục Nghề Nghiệp: Bảo Vệ Dụng Cụ"
 faqs:
   - q: "Dụng cụ trong trường nghề có đặc thù gì khiến việc quản lý truyền thống không hiệu quả?"
     a: "Thách thức quản lý dụng cụ trường nghề: Giá trị dụng cụ cao: Bộ dao nhà bếp chuyên nghiệp (Global, Wüsthof): 3-10 triệu/bộ. Đồng hồ vạn năng (Fluke, Hioki): 2-8 triệu/máy. Máy hàn MIG/TIG mini: 5-20 triệu/máy. Bộ cờ lê, mỏ lết chuyên nghiệp: 1-3 triệu/bộ. Không thể mỗi học sinh có bộ riêng → phải dùng chung. Vấn đề quản lý thủ công: Giáo viên phát dụng cụ đầu buổi, thu hồi cuối buổi → tốn thời gian 10-15 phút/buổi. Không biết ai đang cầm dụng cụ gì → mất không biết ai chịu trách nhiệm. Dụng cụ hỏng: Không biết ai làm hỏng → tranh cãi, không ai nhận. Mất dụng cụ: Học sinh quên không trả → dụng cụ thất lạc. Số lượng nhiều ngành: Ẩm thực, điện, cơ khí, thẩm mỹ, nail — mỗi ngành có bộ dụng cụ riêng và đặc thù riêng. Quản lý chéo giữa các ngành phức tạp. Đặc thù an toàn: Dao, máy khoan, kềm điện → không để học sinh chưa học lấy dụng cụ sai môn/sai cấp độ. Cần kiểm soát: Học sinh nâng cao mới được dùng thiết bị phức tạp."

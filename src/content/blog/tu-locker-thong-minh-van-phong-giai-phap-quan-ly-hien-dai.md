@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["tủ locker văn phòng", "locker nhân viên văn phòng", "quản lý tài sản văn phòng"]
 image: "/images/articles/tu-locker-thong-minh-van-phong-giai-phap-quan-ly-hien-dai.jpg"
-imageAlt: "Tủ locker thông minh hiện đại trong môi trường văn phòng, quản lý tư trang và tài sản nhân viên hiệu quả."
+imageAlt: "Tủ Locker Thông Minh Văn Phòng: Giải Pháp Quản Lý Hiện Đại"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker thông minh quản lý tài sản như thế nào?"

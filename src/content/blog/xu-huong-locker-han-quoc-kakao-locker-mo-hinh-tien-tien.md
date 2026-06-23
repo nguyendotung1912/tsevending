@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["Kakao locker Hàn Quốc", "locker giao nhận Hàn Quốc", "mô hình locker châu Á"]
 image: "/images/articles/xu-huong-locker-han-quoc-kakao-locker-mo-hinh-tien-tien.jpg"
-imageAlt: "Kakao i Locker màu vàng của Hàn Quốc tại chuỗi tiện lợi với người dùng sử dụng app KakaoTalk"
+imageAlt: "Xu Hướng Tủ Locker Giao Nhận Hàn Quốc: Kakao i Locker Và Mô Hình Tiên Tiến Châu Á"
 imageCredit: "Photo by Valentin Angel Fernandez on Pexels"
 faqs:
   - q: "Hàn Quốc phát triển mạng lưới locker thông minh như thế nào và những điểm nổi bật là gì?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["xử lý sự cố locker thông minh", "troubleshoot tủ locker", "sửa chữa locker thông minh"]
 image: "/images/articles/tu-locker-thong-minh-xu-ly-su-co-thuong-gap-huong-dan-ky-thuat.jpg"
-imageAlt: "Kỹ thuật viên xử lý sự cố tủ locker thông minh với laptop kết nối hệ thống"
+imageAlt: "Xử Lý Sự Cố Thường Gặp Với Tủ Locker Thông Minh: Hướng Dẫn Kỹ Thuật Chi Tiết"
 imageCredit: "Photo by Gustavo Fring on Pexels"
 faqs:
   - q: "Cửa ô locker không mở hoặc không đóng được — nguyên nhân và cách xử lý?"

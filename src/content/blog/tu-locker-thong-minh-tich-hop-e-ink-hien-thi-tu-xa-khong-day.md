@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["e-ink locker", "tủ locker màn hình điện tử", "electronic paper locker display"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-e-ink-hien-thi-tu-xa-khong-day.jpg"
-imageAlt: "Tủ locker thông minh với màn hình e-ink hiển thị thông tin người dùng và trạng thái ô"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp E-ink: Đổi Thông Tin Hiển Thị Từ Xa Không Dây"
 faqs:
   - q: "Màn hình e-ink (electronic paper) là gì và tại sao phù hợp với tủ locker?"
     a: "E-ink technology và ứng dụng trong locker: E-ink là gì: Electronic Ink (e-ink) là công nghệ hiển thị sử dụng hạt mực điện tử — tương tự mực in trên giấy nhưng có thể thay đổi bằng điện. Bạn đã thấy trên: Kindle e-reader, thẻ giá điện tử ở siêu thị, đồng hồ thể thao. Đặc điểm kỹ thuật: (1) Tiêu thụ điện rất thấp: Chỉ tiêu điện khi thay đổi nội dung. Khi hiển thị tĩnh (không thay đổi): 0 Watt. So sánh: LCD nhỏ 2 inch: 0.5-1W liên tục. E-ink 2 inch khi tĩnh: 0W. → Tiết kiệm 99%+ điện năng; (2) Hiển thị rõ nét trong ánh sáng mạnh: Không bị glare như LCD. Đọc được ngoài trời có nắng. Phù hợp locker ngoài trời hoặc gần cửa sổ; (3) Không cần backlight: Ban đêm phải có đèn chiếu ngoài để đọc. Một số e-ink có frontlight (đèn chiều trong); (4) Góc nhìn rộng: Đọc được từ nhiều góc. Hành khách đứng bên cạnh cũng đọc được; (5) Tuổi thọ cao: E-ink panel thường bền hơn LCD. Không có điểm chết (dead pixel) phổ biến như LCD. Tại sao phù hợp với locker: Locker hiển thị tên người dùng / số phòng / trạng thái thường xuyên (không thay đổi nhiều). E-ink → tiết kiệm điện đáng kể khi triển khai trên 100+ ô. Cập nhật từ xa không dây → thay đổi tên ô khi phân locker lại mà không cần người đến tay."

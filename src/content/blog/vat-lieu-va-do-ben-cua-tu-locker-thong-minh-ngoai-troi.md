@@ -3,7 +3,7 @@ title: "Vật liệu và độ bền của tủ locker thông minh ngoài trời
 description: "Tủ locker thông minh lắp đặt ngoài trời cần vật liệu chống nắng, chống mưa và chống gỉ như thế nào? Hướng dẫn chọn vật liệu phù hợp để đảm bảo độ bền lâu dài."
 date: "2026-05-06"
 image: "/images/articles/vat-lieu-va-do-ben-cua-tu-locker-thong-minh-ngoai-troi.jpg"
-imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageAlt: "Vật liệu và độ bền của tủ locker thông minh ngoài trời"
 imageCredit: "Photo by Jan van der Wolf on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ngoài trời", "vật liệu locker", "độ bền tủ locker thông minh"]

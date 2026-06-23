@@ -3,7 +3,7 @@ title: "Nhượng quyền máy bán hàng tự động tại Việt Nam: Mô hì
 description: "Mô hình nhượng quyền vending machine đang phát triển mạnh tại Việt Nam — đầu tư vốn thấp, thu nhập thụ động, vận hành đơn giản. Phân tích cơ hội, rủi ro và cách chọn đối tác franchise vending đúng đắn."
 date: "2026-05-29"
 image: "/images/articles/vending-machine-nhuong-quyen-mo-hinh-kinh-doanh-viet-nam.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "Nhượng quyền máy bán hàng tự động tại Việt Nam: Mô hình kinh doanh thụ động hấp dẫn"
 silo: "giai-phap-kinh-doanh"
 keywords: ["nhượng quyền vending machine", "franchise máy bán hàng tự động", "đầu tư vending machine thụ động"]
 faqs:

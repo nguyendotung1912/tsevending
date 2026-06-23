@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["vending machine homestay", "máy bán hàng Airbnb", "hospitality tự động Việt Nam"]
 image: "/images/articles/vending-machine-homestay-airbnb-xu-huong-hospitality.jpg"
-imageAlt: "Máy bán hàng tự động nhỏ gọn trong không gian lễ tân homestay hiện đại"
+imageAlt: "Vending Machine Tại Homestay Và Airbnb: Xu Hướng Hospitality Tự Động Mới"
 imageCredit: "Photo by Enrique Silva on Pexels"
 faqs:
   - q: "Máy vending có phù hợp với homestay nhỏ (4–8 phòng) không?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker Nhật Bản", "Japan locker trend", "mô hình locker thành công"]
 image: "/images/articles/xu-huong-tu-locker-thong-minh-tai-nhat-ban-bai-hoc-kinh-nghiem-cho-viet-nam.jpg"
-imageAlt: "Tủ locker thông minh tại Nhật Bản"
+imageAlt: "Xu hướng tủ locker thông minh tại Nhật Bản: Bài học kinh nghiệm cho Việt Nam"
 imageCredit: "Photo by Do Van on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

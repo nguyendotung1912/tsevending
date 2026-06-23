@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["tiêu chuẩn điện lắp đặt locker thông minh", "kỹ thuật điện tủ locker", "smart locker electrical installation"]
 image: "/images/articles/tu-locker-thong-minh-tieu-chuan-ky-thuat-dien-lap-dat-cam-nang-ky-su.jpg"
-imageAlt: "Sơ đồ kỹ thuật điện lắp đặt tủ locker thông minh với MCB, UPS và hệ thống cáp mạng"
+imageAlt: "Tiêu Chuẩn Kỹ Thuật Điện Khi Lắp Đặt Tủ Locker Thông Minh: Cẩm Nang Cho Kỹ Sư"
 imageCredit: "Photo by Thirdman on Pexels"
 faqs:
   - q: "Tủ locker thông minh tiêu thụ bao nhiêu điện và yêu cầu nguồn điện như thế nào?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["sự cố tủ locker", "troubleshoot locker", "lỗi tủ locker thông minh"]
 image: "/images/articles/xu-ly-su-co-tu-locker-thong-minh-huong-dan-ky-thuat-chi-tiet.jpg"
-imageAlt: "Tủ locker thông minh"
+imageAlt: "Xử lý sự cố tủ locker thông minh: Hướng dẫn kỹ thuật chi tiết"
 imageCredit: "Photo by Gustavo Fring on Pexels"
 faqs:
   - q: "Làm thế nào để xử lý sự cố tủ locker không mở?"

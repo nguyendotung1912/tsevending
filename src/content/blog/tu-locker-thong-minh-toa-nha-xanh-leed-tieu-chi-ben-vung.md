@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker tòa nhà xanh LEED", "tủ locker EDGE LOTUS certificate", "green building smart locker"]
 image: "/images/articles/tu-locker-thong-minh-toa-nha-xanh-leed-tieu-chi-ben-vung.jpg"
-imageAlt: "Tủ locker thông minh xanh bền vững trong tòa nhà văn phòng LEED Gold với thiết kế eco-friendly"
+imageAlt: "Tủ Locker Thông Minh Tại Tòa Nhà Xanh LEED: Đáp Ứng Tiêu Chí Bền Vững Môi Trường"
 imageCredit: "Photo by Francesco Ungaro on Pexels"
 faqs:
   - q: "Tòa nhà LEED là gì và locker thông minh đóng góp vào điểm số LEED như thế nào?"

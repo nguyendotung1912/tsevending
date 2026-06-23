@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker Zalo notification", "tủ locker telegram", "thông báo locker"]
 image: "/images/articles/tu-locker-thong-minh-thong-bao-nhan-hang-tuc-thi-qua-zalo-va-telegram.jpg"
-imageAlt: "Tủ locker thông minh tích hợp Zalo và Telegram"
+imageAlt: "Tủ Locker Thông Minh: Thông Báo Nhận Hàng Tức Thì qua Zalo và Telegram"
 imageCredit: "Photo by Anete Lusina on Pexels"
 faqs:
   - q: "Tủ locker thông minh có thể tích hợp với những nền tảng nào?"

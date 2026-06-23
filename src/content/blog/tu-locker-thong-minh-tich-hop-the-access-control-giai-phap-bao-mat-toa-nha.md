@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["access control locker", "tủ locker hệ thống thẻ", "integrated locker security"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-the-access-control-giai-phap-bao-mat-toa-nha.jpg"
-imageAlt: "Tủ locker thông minh tích hợp thẻ Access Control"
+imageAlt: "Tủ locker thông minh tích hợp thẻ Access Control - Giải pháp bảo mật tòa nhà"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Tủ locker thông minh tích hợp thẻ Access Control là gì?"

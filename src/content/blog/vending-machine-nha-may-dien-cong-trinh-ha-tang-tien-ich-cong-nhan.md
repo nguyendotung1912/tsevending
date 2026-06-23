@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng nhà máy điện", "vending machine công trình hạ tầng", "máy bán hàng công nhân"]
 image: "/images/articles/vending-machine-nha-may-dien-cong-trinh-ha-tang-tien-ich-cong-nhan.jpg"
-imageAlt: "Máy bán hàng tự động công nghiệp đặt trong khu vực nghỉ ngơi của nhà máy điện với công nhân đang mua hàng"
+imageAlt: "Vending Machine Tại Nhà Máy Điện Và Công Trình Hạ Tầng: Tiện Ích Cho Công Nhân"
 imageCredit: "Photo by Jakob on Pexels"
 faqs:
   - q: "Nhà máy điện và công trình hạ tầng lớn tại Việt Nam có bao nhiêu công nhân cần phục vụ?"

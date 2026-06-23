@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker tích hợp EAM", "tủ locker quản lý tài sản doanh nghiệp", "enterprise asset management locker"]
 image: "/images/articles/tu-locker-thong-minh-trong-he-thong-eam-quan-ly-tai-san-doanh-nghiep.jpg"
-imageAlt: "Dashboard hệ thống EAM tích hợp tủ locker thông minh hiển thị trạng thái tài sản theo thời gian thực"
+imageAlt: "Tủ Locker Thông Minh Trong Hệ Thống EAM: Tích Hợp Quản Lý Tài Sản Doanh Nghiệp"
 imageCredit: "Photo by Elite Power Group on Pexels"
 faqs:
   - q: "EAM (Enterprise Asset Management) là gì và tại sao locker thông minh là một phần quan trọng của hệ thống này?"

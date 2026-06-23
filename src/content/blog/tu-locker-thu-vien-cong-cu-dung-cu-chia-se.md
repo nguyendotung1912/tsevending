@@ -3,7 +3,7 @@ title: "Tủ locker thư viện công cụ: Mô hình chia sẻ dụng cụ cộ
 description: "Tool Library (thư viện dụng cụ) kết hợp tủ locker thông minh đang nổi lên như mô hình kinh tế chia sẻ sáng tạo — người dân mượn khoan, cưa, máy hàn thay vì mua. Toronto, Berlin và Melbourne đang dẫn đầu."
 date: "2026-06-05"
 image: "/images/articles/tu-locker-thu-vien-cong-cu-dung-cu-chia-se.jpg"
-imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
+imageAlt: "Tủ locker thư viện công cụ: Mô hình chia sẻ dụng cụ cộng đồng thông minh"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện công cụ", "tool library locker", "chia sẻ dụng cụ thông minh"]
 faqs:

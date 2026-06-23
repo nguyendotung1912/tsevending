@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["thương hiệu máy bán hàng tự động", "branding vending machine Việt Nam", "xây dựng brand vending"]
 image: "/images/articles/xay-dung-thuong-hieu-may-ban-hang-tu-dong-viet-nam-chien-luoc-branding.jpg"
-imageAlt: "Máy bán hàng tự động với thương hiệu nhận diện rõ ràng và thiết kế chuyên nghiệp tại vị trí đẹp"
+imageAlt: "Xây Dựng Thương Hiệu Máy Bán Hàng Tự Động Tại Việt Nam: Chiến Lược Branding"
 imageCredit: "Photo by Mikael Blomkvist on Pexels"
 faqs:
   - q: "Tại sao cần xây dựng thương hiệu cho mạng lưới máy bán hàng tự động?"

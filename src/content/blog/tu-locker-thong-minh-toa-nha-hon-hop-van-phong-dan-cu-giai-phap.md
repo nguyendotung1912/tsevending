@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker mixed-use building", "tủ locker tòa nhà hỗn hợp", "văn phòng dân cư locker"]
 image: "/images/articles/tu-locker-thong-minh-toa-nha-hon-hop-van-phong-dan-cu-giai-phap.jpg"
-imageAlt: "Khu vực locker thông minh trong tòa nhà hỗn hợp phục vụ cả cư dân và nhân viên văn phòng"
+imageAlt: "Tủ Locker Thông Minh Tại Tòa Nhà Hỗn Hợp Văn Phòng-Dân Cư: Giải Pháp Toàn Diện"
 imageCredit: "Photo by DOAN THANH BINH on Pexels"
 faqs:
   - q: "Tòa nhà hỗn hợp có những nhóm người dùng nào cần locker và nhu cầu của mỗi nhóm là gì?"

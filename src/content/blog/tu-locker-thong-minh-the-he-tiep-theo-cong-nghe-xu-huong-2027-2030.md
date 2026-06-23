@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["xu hướng locker thông minh 2030", "công nghệ locker tương lai AI IoT", "next-gen smart locker"]
 image: "/images/articles/tu-locker-thong-minh-the-he-tiep-theo-cong-nghe-xu-huong-2027-2030.jpg"
-imageAlt: "Tủ locker thông minh thế hệ mới 2030 với công nghệ AI nhận dạng khuôn mặt và màn hình holographic"
+imageAlt: "Tủ Locker Thông Minh Thế Hệ Tiếp Theo: Công Nghệ Và Xu Hướng 2027-2030"
 imageCredit: "Photo by Rao Zubair Ali on Pexels"
 faqs:
   - q: "AI và machine learning sẽ thay đổi trải nghiệm locker thông minh như thế nào vào 2027-2030?"

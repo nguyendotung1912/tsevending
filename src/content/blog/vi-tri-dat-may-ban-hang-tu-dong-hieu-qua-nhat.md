@@ -3,7 +3,7 @@ title: "8 vị trí đặt máy bán hàng tự động mang lại doanh thu cao
 description: "Gợi ý 8 vị trí đặt máy bán hàng tự động hiệu quả: văn phòng, chung cư, bệnh viện, trường học, nhà máy, sân bay - bến xe, trung tâm thể thao và khu vui chơi."
 date: "2026-04-30"
 image: "/images/articles/vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat.jpg"
-imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageAlt: "8 vị trí đặt máy bán hàng tự động mang lại doanh thu cao"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vị trí đặt máy bán hàng tự động", "đặt máy vending ở đâu", "kinh doanh máy bán hàng tự động"]
 faqs:

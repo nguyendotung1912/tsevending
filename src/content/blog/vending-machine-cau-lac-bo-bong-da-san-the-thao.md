@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine sân bóng đá", "máy bán hàng câu lạc bộ thể thao", "vending machine sân thể thao"]
 image: "/images/articles/vending-machine-cau-lac-bo-bong-da-san-the-thao.jpg"
-imageAlt: "Máy bán hàng tự động đặt bên đường biên sân bóng đá với cầu thủ uống nước"
+imageAlt: "Vending Machine Tại Câu Lạc Bộ Bóng Đá Và Sân Thể Thao: Tiềm Năng Chưa Được Khai Thác"
 imageCredit: "Photo by Caio on Pexels"
 faqs:
   - q: "Sân bóng đá nào tại Việt Nam phù hợp để đặt máy vending?"

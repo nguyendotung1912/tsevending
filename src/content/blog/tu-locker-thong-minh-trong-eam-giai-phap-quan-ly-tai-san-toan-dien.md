@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["EAM locker", "tủ locker quản lý tài sản", "enterprise asset management locker"]
 image: "/images/articles/tu-locker-thong-minh-trong-eam-giai-phap-quan-ly-tai-san-toan-dien.jpg"
-imageAlt: "Tủ locker thông minh cho quản lý tài sản doanh nghiệp EAM"
+imageAlt: "Tủ locker thông minh trong EAM: Giải pháp quản lý tài sản toàn diện"
 imageCredit: "Photo by Nicolas  Foster on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

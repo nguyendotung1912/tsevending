@@ -3,7 +3,7 @@ title: "Tủ locker thông minh thay thế hộp thư bưu điện tại Đức 
 description: "DHL Packstation tại Đức và PostNL tại Hà Lan đã triển khai hàng chục nghìn tủ locker thay thế giao hàng truyền thống. Mô hình và bài học cho thị trường Việt Nam."
 date: "2026-05-11"
 image: "/images/articles/tu-locker-thong-minh-thay-the-hop-thu-buu-dien-tai-duc-va-ha-lan.jpg"
-imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageAlt: "Tủ locker thông minh thay thế hộp thư bưu điện tại Đức và Hà Lan"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker bưu phẩm", "DHL Packstation", "smart locker giao nhận hàng châu Âu"]
 faqs:

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker thanh toán MoMo VNPay", "tủ locker nhận tiền mặt", "smart locker payment integration"]
 image: "/images/articles/tu-locker-thong-minh-thanh-toan-tien-mat-vi-dien-tu-momo-vnpay.jpg"
-imageAlt: "Bảng thanh toán tủ locker thông minh với các phương thức tiền mặt, MoMo, VNPay và QR code"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Thanh Toán: Tiền Mặt, MoMo Và VNPay"
 imageCredit: "Photo by www.kaboompics.com on Pexels"
 faqs:
   - q: "Các phương thức thanh toán nào nên tích hợp vào locker thu phí tại Việt Nam?"

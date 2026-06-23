@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker sạc điện thoại", "charging locker", "tủ locker sạc pin"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-sac-dien-thoai.jpg"
-imageAlt: "Tủ locker thông minh tích hợp sạc điện thoại tại TSE Vending"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Sạc Điện Thoại"
 imageCredit: "Photo by Brett Sayles on Pexels"
 faqs:
   - q: "Tủ locker thông minh có thể tích hợp những tính năng gì?"

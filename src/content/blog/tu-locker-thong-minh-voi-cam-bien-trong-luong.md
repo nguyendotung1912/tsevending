@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["weight sensor locker", "cảm biến trọng lượng locker", "smart locker sensor"]
 image: "/images/articles/tu-locker-thong-minh-voi-cam-bien-trong-luong.jpg"
-imageAlt: "Tủ locker thông minh với cảm biến trọng lượng"
+imageAlt: "Tủ Locker Thông Minh Với Cảm Biến Trọng Lượng"
 imageCredit: "Photo by panumas nikhomkhai on Pexels"
 faqs:
   - q: "Cảm biến trọng lượng trong tủ locker thông minh hoạt động như thế nào?"

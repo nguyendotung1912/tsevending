@@ -3,7 +3,7 @@ title: "Máy bán sách và văn phòng phẩm tự động tại thư viện: M
 description: "Thư viện đại học và công cộng tại Mỹ, Anh, Singapore đang triển khai máy bán sách, văn phòng phẩm và thiết bị học tập tự động 24/7. Mô hình học tập thông minh đang lan rộng toàn cầu."
 date: "2026-05-22"
 image: "/images/articles/vending-machine-sach-van-phong-pham-thu-vien.jpg"
-imageAlt: "Office building facade with glass windows and geometric patterns in Bogota, Colombia."
+imageAlt: "Máy bán sách và văn phòng phẩm tự động tại thư viện: Mô hình giáo dục thông minh"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán sách tự động", "vending machine thư viện", "máy bán văn phòng phẩm tự động"]

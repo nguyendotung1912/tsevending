@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["machine learning vending machine", "dự đoán tồn kho AI", "AI vending machine"]
 image: "/images/articles/ung-dung-machine-learning-trong-vending-machine-du-doan-ton-kho-thong-minh.jpg"
-imageAlt: "Máy bán hàng tự động ứng dụng machine learning"
+imageAlt: "Ứng dụng Machine Learning trong Vending Machine: Dự đoán tồn kho thông minh"
 imageCredit: "Photo by Pachon in Motion on Pexels"
 faqs:
   - q: "Machine learning vending machine là gì?"

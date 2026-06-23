@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker sạc điện thoại", "charging locker", "tủ locker USB sạc pin"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-sac-dien-thoai-gia-tri-gia-tang.jpg"
-imageAlt: "Tủ locker thông minh với cổng sạc USB bên trong ngăn tại sân bay với hành khách đang sử dụng"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Sạc Điện Thoại: Giá Trị Gia Tăng Thu Hút Người Dùng"
 faqs:
   - q: "Cổng sạc trong locker hoạt động như thế nào và có an toàn không?"
     a: "Cơ chế kỹ thuật của charging locker: Cách hoạt động: Bên trong mỗi ngăn (hoặc một số ngăn chọn lọc) có lắp cổng USB-A và/hoặc USB-C. Nguồn điện được dẫn từ nguồn điện trung tâm của locker qua bộ chia có bảo vệ. Người dùng cắm cáp sạc vào cổng USB trong ngăn → điện thoại sạc trong khi cất giữ an toàn sau khóa. An toàn điện: USB charging locker được thiết kế với: Bộ bảo vệ quá tải/ngắn mạch (overcurrent protection). Cầu chì hoặc circuit breaker cho từng cổng. Dây dẫn được che khuất và bảo vệ trong cấu trúc khung. Tuân thủ tiêu chuẩn điện an toàn. Lưu ý: Locker thương mại không phải loại tự chế. Nên chọn nhà sản xuất có chứng nhận CE, FCC hoặc tương đương. Công suất sạc: Thường 5V/2A (10W) đến 5V/3A (15W) mỗi cổng. Sạc nhanh (Quick Charge 3.0, 18W+) tùy cao cấp. Với 4 giờ cất đồ → điện thoại sạc từ 20% lên 80-100% với công suất 10-18W. Sạc không dây (Qi wireless): Một số locker cao cấp có đế sạc không dây trong ngăn — tiện lợi hơn nhưng chi phí cao hơn đáng kể."

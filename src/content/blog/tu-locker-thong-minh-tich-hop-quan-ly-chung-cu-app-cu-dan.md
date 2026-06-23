@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["locker chung cư tích hợp app", "tủ locker Landsoft VietHome", "apartment smart locker app"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-quan-ly-chung-cu-app-cu-dan.jpg"
-imageAlt: "Giao diện app chung cư tích hợp tủ locker thông minh với thông báo nhận hàng cho cư dân"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Hệ Thống Quản Lý Chung Cư: Kết Nối App Cư Dân"
 imageCredit: "Photo by Arto Suraj on Pexels"
 faqs:
   - q: "App quản lý chung cư VN phổ biến nào đang hỗ trợ tích hợp locker thông minh?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe đạp chia sẻ", "tủ locker bike sharing", "micro-mobility locker"]
 image: "/images/articles/tu-locker-thong-minh-xe-dap-chia-se-xe-may-dien-tu-phuc-vu.jpg"
-imageAlt: "Trạm xe đạp điện chia sẻ tích hợp tủ locker thông minh tại khu đô thị hiện đại"
+imageAlt: "Tủ Locker Thông Minh Phục Vụ Mô Hình Xe Đạp Chia Sẻ Và Xe Máy Điện Tự Phục Vụ"
 imageCredit: "Photo by Raka Miftah on Pexels"
 faqs:
   - q: "Mô hình xe đạp chia sẻ kết hợp locker thông minh mang lại lợi ích gì cho người dùng đô thị?"

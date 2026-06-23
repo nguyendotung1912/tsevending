@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trung tâm cai nghiện", "tủ locker phục hồi chức năng", "rehabilitation locker"]
 image: "/images/articles/tu-locker-thong-minh-trung-tam-cai-nghien-phuc-hoi-chuc-nang-giai-phap.jpg"
-imageAlt: "Tủ locker thông minh đơn giản trong cơ sở phục hồi chức năng với thiết kế không có góc sắc"
+imageAlt: "Tủ Locker Thông Minh Tại Trung Tâm Cai Nghiện Và Phục Hồi Chức Năng: Giải Pháp An Toàn"
 imageCredit: "Photo by Juan Manuel Montejano Lopez on Pexels"
 faqs:
   - q: "Trung tâm cai nghiện và phục hồi chức năng có những yêu cầu đặc biệt gì về locker?"

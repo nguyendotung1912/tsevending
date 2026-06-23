@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["tương lai máy bán hàng tự động Việt Nam", "vending machine 2027 2030", "xu hướng vending Việt Nam"]
 image: "/images/articles/tuong-lai-may-ban-hang-tu-dong-viet-nam-xu-huong-2027-2030.jpg"
-imageAlt: "Máy bán hàng thông minh thế hệ tiếp theo với màn hình cảm ứng lớn và nhận diện khuôn mặt tại trung tâm thương mại"
+imageAlt: "Tương Lai Máy Bán Hàng Tự Động Việt Nam: Xu Hướng Và Dự Báo 2027-2030"
 imageCredit: "Photo by ThisIsEngineering on Pexels"
 faqs:
   - q: "Thị trường vending Việt Nam có bao nhiêu máy vào năm 2026 và mục tiêu 2030 là bao nhiêu?"

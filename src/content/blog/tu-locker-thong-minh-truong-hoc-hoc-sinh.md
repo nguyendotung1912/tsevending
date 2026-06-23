@@ -3,7 +3,7 @@ title: "Tủ locker thông minh cho trường học: Bảo vệ đồ dùng họ
 description: "Trường học Mỹ, Nhật và Singapore đang thay thế tủ locker truyền thống bằng smart locker — học sinh quản lý bằng app, không lo mất chìa khóa, nhà trường theo dõi được tình trạng toàn bộ tủ từ máy tính."
 date: "2026-06-10"
 image: "/images/articles/tu-locker-thong-minh-truong-hoc-hoc-sinh.jpg"
-imageAlt: "Two smiling girls enjoying snacks during break time in a school classroom."
+imageAlt: "Tủ locker thông minh cho trường học: Bảo vệ đồ dùng học sinh và quản lý tài sản giáo dục"
 imageCredit: "Photo by Stanley Morales on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh trường học", "smart locker học sinh", "locker điện tử trường học", "quản lý tủ locker trường học"]

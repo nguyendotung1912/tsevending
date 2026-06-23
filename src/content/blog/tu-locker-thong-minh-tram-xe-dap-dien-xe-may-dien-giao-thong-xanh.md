@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe điện", "tủ locker giao thông xanh", "EV charging locker"]
 image: "/images/articles/tu-locker-thong-minh-tram-xe-dap-dien-xe-may-dien-giao-thong-xanh.jpg"
-imageAlt: "Trạm sạc xe điện tích hợp tủ locker thông minh tại khu đô thị hiện đại"
+imageAlt: "Tủ Locker Thông Minh Tại Trạm Xe Đạp Điện Và Xe Máy Điện: Kết Hợp Giao Thông Xanh"
 imageCredit: "Photo by tretty GmbH Bike & Scooter Sharing on Pexels"
 faqs:
   - q: "Trạm sạc xe điện tích hợp locker thông minh hoạt động như thế nào và lợi ích là gì?"

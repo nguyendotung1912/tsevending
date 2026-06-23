@@ -3,7 +3,7 @@ title: "Xu hướng smart locker Việt Nam 2026: 5 ngành dẫn đầu triển 
 description: "Thị trường tủ locker thông minh Việt Nam tăng trưởng mạnh năm 2026 — phân tích 5 ngành dẫn đầu triển khai, công nghệ mở khóa phổ biến và dự báo đến 2028."
 date: "2026-06-15"
 image: "/images/articles/xu-huong-smart-locker-viet-nam-2026.jpg"
-imageAlt: "Close-up of numbered lockers in a locker room, showcasing a minimalist design."
+imageAlt: "Xu hướng smart locker Việt Nam 2026: 5 ngành dẫn đầu triển khai"
 imageCredit: "Photo by Pachon in Motion on Pexels"
 silo: "tu-locker-thong-minh"
 category: "xu-huong"

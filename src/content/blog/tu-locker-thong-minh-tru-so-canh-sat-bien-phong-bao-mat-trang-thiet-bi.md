@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker cơ quan công an", "tủ locker an ninh cảnh sát", "law enforcement locker"]
 image: "/images/articles/tu-locker-thong-minh-tru-so-canh-sat-bien-phong-bao-mat-trang-thiet-bi.jpg"
-imageAlt: "Tủ locker thông minh chắc chắn màu xám trong đơn vị cảnh sát với kiểm soát truy cập nghiêm ngặt"
+imageAlt: "Tủ Locker Thông Minh Tại Trụ Sở Cảnh Sát Và Biên Phòng: Bảo Mật Trang Thiết Bị"
 imageCredit: "Photo by Brett Sayles on Pexels"
 faqs:
   - q: "Lực lượng công an và cảnh sát cần locker thông minh để quản lý trang thiết bị gì?"

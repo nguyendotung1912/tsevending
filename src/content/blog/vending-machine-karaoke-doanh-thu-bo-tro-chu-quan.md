@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["vending machine karaoke", "máy bán hàng tại quán karaoke", "doanh thu bổ trợ karaoke"]
 image: "/images/articles/vending-machine-karaoke-doanh-thu-bo-tro-chu-quan.jpg"
-imageAlt: "Máy bán hàng tự động đặt trong hành lang quán karaoke với ánh đèn LED màu sắc"
+imageAlt: "Vending Machine Tại Chuỗi Karaoke: Cơ Hội Doanh Thu Bổ Trợ Cho Chủ Quán"
 imageCredit: "Photo by Nataliya Vaitkevich on Pexels"
 faqs:
   - q: "Quán karaoke đã có phục vụ tại phòng, tại sao cần thêm vending machine?"

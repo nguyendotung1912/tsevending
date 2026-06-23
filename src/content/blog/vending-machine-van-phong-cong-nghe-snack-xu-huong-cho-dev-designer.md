@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine văn phòng công nghệ", "snack cho lập trình viên", "tech office vending"]
 image: "/images/articles/vending-machine-van-phong-cong-nghe-snack-xu-huong-cho-dev-designer.jpg"
-imageAlt: "Vending machine văn phòng công nghệ cho dev và designer"
+imageAlt: "Vending Machine Văn Phòng Công Nghệ: Snack Xu Hướng Cho Dev & Designer"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Các loại snack phổ biến cho lập trình viên và designer?"

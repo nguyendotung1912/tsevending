@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker điểm đón Grab Be", "tủ locker ride-hailing hub", "smart locker mobility đô thị"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-diem-don-xe-grab-be-tien-ich-do-thi.jpg"
-imageAlt: "Kiosk locker thông minh kết hợp điểm đón xe Grab và Be tại sảnh tòa nhà văn phòng"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Điểm Đón Xe Công Nghệ Grab và Be: Tiện Ích Đô Thị Mới"
 faqs:
   - q: "Tại sao điểm đón xe Grab/Be tại tòa nhà nên kết hợp với locker thông minh?"
     a: "Grab/Be Hub + Smart Locker: Synergy Đô Thị: Vấn đề hiện tại tại điểm đón xe: Nhân viên văn phòng gọi Grab lúc 5:30pm → ra cổng đứng chờ. Mang theo laptop + túi to + đồ mua về (nặng). Mưa → ướt đồ khi chờ. Grab cancel → chờ lại lần 2. Locker tại điểm đón Grab giải quyết: Nhân viên gửi laptop + túi vào locker trong tòa nhà (tầng trệt, gần cổng). Gọi xe → nhẹ nhàng ra cổng chờ. Xe đến ngay → lên xe (đỡ chờ vì không vướng đồ). Đặt đồ ăn delivery về tòa nhà → gửi vào locker tầng trệt. Hôm sau xuống lấy luôn. Không cần mang túi đồ ăn lên thang máy. Hub Mobility Mini: 1 điểm = Locker + Bike-share + Grab pickup point + Vending machine. Khi thêm vending: Chờ xe → mua đồ uống từ máy. Gửi đồ vào locker → tay tự do. Lấy thêm đồ ăn tối từ vending. Grab đến → lên ngay. 5 phút chờ xe = trải nghiệm tốt thay vì tẻ nhạt."

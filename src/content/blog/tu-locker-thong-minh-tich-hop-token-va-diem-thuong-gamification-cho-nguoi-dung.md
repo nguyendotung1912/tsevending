@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["loyalty token locker", "điểm thưởng tủ locker", "gamification locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-token-va-diem-thuong-gamification-cho-nguoi-dung.jpg"
-imageAlt: "Tủ locker thông minh tích hợp token và điểm thưởng"
+imageAlt: "Tủ locker thông minh tích hợp token và điểm thưởng - Gamification cho người dùng"
 imageCredit: "Photo by ready made on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

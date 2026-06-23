@@ -3,7 +3,7 @@ title: "Tủ locker thư viện âm nhạc: Mượn nhạc cụ qua smart locker
 description: "Music library locker cho phép học sinh mượn đàn guitar, violin, keyboard qua ứng dụng 24/7 không cần nhân viên. Mô hình đang được triển khai tại trường nhạc ở Mỹ, Anh, Australia và ngày càng phổ biến tại châu Á."
 date: "2026-06-06"
 image: "/images/articles/tu-locker-thu-vien-am-nhac-nhac-cu.jpg"
-imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
+imageAlt: "Tủ locker thư viện âm nhạc: Mượn nhạc cụ qua smart locker tại trường học và trung tâm âm nhạc"
 imageCredit: "Photo by Efrem  Efre on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhạc cụ", "music library locker", "mượn nhạc cụ thông minh"]

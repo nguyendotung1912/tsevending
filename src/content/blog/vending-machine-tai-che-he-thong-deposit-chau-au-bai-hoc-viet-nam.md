@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine tái chế Việt Nam", "hệ thống deposit chai vỏ", "máy thu hồi chai tái chế"]
 image: "/images/articles/vending-machine-tai-che-he-thong-deposit-chau-au-bai-hoc-viet-nam.jpg"
-imageAlt: "Máy thu hồi chai và lon rỗng tự động tại siêu thị với khách hàng bỏ chai vào để nhận tiền hoàn"
+imageAlt: "Vending Machine Tái Chế Và Hệ Thống Deposit Chai: Bài Học Từ Châu Âu Cho Việt Nam"
 imageCredit: "Photo by Google DeepMind on Pexels"
 faqs:
   - q: "Hệ thống deposit chai (Pfand system) tại Đức hoạt động như thế nào?"

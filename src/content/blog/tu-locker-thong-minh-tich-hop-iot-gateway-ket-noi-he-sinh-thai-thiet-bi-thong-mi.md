@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["IoT gateway locker", "tủ locker IoT", "smart home locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-iot-gateway-ket-noi-he-sinh-thai-thiet-bi-thong-mi.jpg"
-imageAlt: "Tủ locker thông minh tích hợp IoT gateway"
+imageAlt: "Tủ locker thông minh tích hợp IoT gateway - Kết nối hệ sinh thái thiết bị thông minh"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Tủ locker thông minh tích hợp IoT gateway là gì?"

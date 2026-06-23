@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["xe tải vending machine", "mobile vending truck", "bán hàng lưu động tự động"]
 image: "/images/articles/xe-tai-ban-hang-tu-dong-luu-dong-mobile-vending-truck-xu-huong-moi.jpg"
-imageAlt: "Xe tải bán hàng tự động lưu động tại Việt Nam"
+imageAlt: "Xe tải bán hàng tự động lưu động - Mobile vending truck xu hướng mới"
 imageCredit: "Photo by Mauricio  Krupka Buendia on Pexels"
 faqs:
   - q: "Xe tải bán hàng tự động lưu động là gì?"

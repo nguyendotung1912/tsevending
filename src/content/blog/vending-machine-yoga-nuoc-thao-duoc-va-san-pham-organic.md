@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng yoga", "vending machine thiền", "nước thảo dược tự động"]
 image: "/images/articles/vending-machine-yoga-nuoc-thao-duoc-va-san-pham-organic.jpg"
-imageAlt: "Máy bán hàng tự động tại câu lạc bộ yoga"
+imageAlt: "Vending Machine Yoga: Nước Thảo Dược và Sản Phẩm Organic"
 imageCredit: "Photo by Ivan S on Pexels"
 faqs:
   - q: "Máy bán hàng tự động tại câu lạc bộ yoga có những sản phẩm gì?"

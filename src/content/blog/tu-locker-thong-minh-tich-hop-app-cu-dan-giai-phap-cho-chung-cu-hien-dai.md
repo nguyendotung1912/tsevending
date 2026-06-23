@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["locker tích hợp app chung cư", "cư dân app locker", "resident app locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-app-cu-dan-giai-phap-cho-chung-cu-hien-dai.jpg"
-imageAlt: "Tủ locker thông minh tích hợp app cư dân cho chung cư"
+imageAlt: "Tủ locker thông minh tích hợp app cư dân: Giải pháp cho chung cư hiện đại"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

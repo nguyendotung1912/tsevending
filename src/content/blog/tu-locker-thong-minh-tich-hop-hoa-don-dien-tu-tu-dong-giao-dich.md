@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker hóa đơn điện tử", "tủ locker xuất hóa đơn tự động", "smart locker e-invoice VAT"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-hoa-don-dien-tu-tu-dong-giao-dich.jpg"
-imageAlt: "Màn hình tủ locker thông minh hiển thị xác nhận hóa đơn điện tử sau giao dịch hoàn thành"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Hóa Đơn Điện Tử: Tự Động Theo Từng Giao Dịch"
 imageCredit: "Photo by Willquezada on Pexels"
 faqs:
   - q: "Locker thu phí có bắt buộc phải xuất hóa đơn điện tử theo quy định Việt Nam không?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng bowling", "tủ locker bida", "entertainment locker"]
 image: "/images/articles/tu-locker-thong-minh-tai-phong-bowling-va-bida.jpg"
-imageAlt: "Tủ locker thông minh tại phòng bowling và bida"
+imageAlt: "Tủ Locker Thông Minh tại Phòng Bowling và Bida"
 imageCredit: "Photo by Vlada Karpovich on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại phòng bowling và bida có an toàn không?"

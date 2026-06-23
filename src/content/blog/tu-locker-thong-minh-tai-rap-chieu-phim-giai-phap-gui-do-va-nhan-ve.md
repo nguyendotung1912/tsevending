@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker rạp phim", "cinema locker", "tủ locker rạp chiếu phim"]
 image: "/images/articles/tu-locker-thong-minh-tai-rap-chieu-phim-giai-phap-gui-do-va-nhan-ve.jpg"
-imageAlt: "Tủ locker thông minh tại rạp chiếu phim"
+imageAlt: "Tủ Locker Thông Minh Tại Rạp Chiếu Phim - Giải Pháp Gửi Đồ Và Nhận Vé"
 imageCredit: "Photo by Pew Nguyen on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại rạp chiếu phim là gì?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["camera thermal locker", "tủ locker camera nhiệt", "an ninh locker AI"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-camera-thermal-giai-phap-an-ninh-ai.jpg"
-imageAlt: "Tủ locker thông minh tích hợp camera thermal"
+imageAlt: "Tủ locker thông minh tích hợp camera thermal - Giải pháp an ninh AI"
 imageCredit: "Photo by Joshua Brown on Pexels"
 faqs:
   - q: "Camera thermal locker là gì?"

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["dự báo thị trường locker VN 2030", "cơ hội đầu tư locker thông minh", "smart locker Vietnam market forecast"]
 image: "/images/articles/tu-locker-thong-minh-viet-nam-2030-du-bao-thi-truong-co-hoi-dau-tu.jpg"
-imageAlt: "Biểu đồ dự báo tăng trưởng thị trường tủ locker thông minh Việt Nam đến năm 2030"
+imageAlt: "Tủ Locker Thông Minh Tại Việt Nam 2030: Dự Báo Thị Trường Và Cơ Hội Đầu Tư"
 imageCredit: "Photo by Hanna Pad on Pexels"
 faqs:
   - q: "Thị trường locker thông minh VN sẽ đạt quy mô bao nhiêu vào 2030 theo các kịch bản tăng trưởng?"

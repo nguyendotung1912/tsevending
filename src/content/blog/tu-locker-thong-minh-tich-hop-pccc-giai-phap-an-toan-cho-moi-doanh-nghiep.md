@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker PCCC", "tủ locker phòng cháy", "fire safety locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-pccc-giai-phap-an-toan-cho-moi-doanh-nghiep.jpg"
-imageAlt: "Tủ locker thông minh tích hợp hệ thống phòng cháy chữa cháy"
+imageAlt: "Tủ locker thông minh tích hợp PCCC - Giải pháp an toàn cho mọi doanh nghiệp"
 imageCredit: "Photo by panumas nikhomkhai on Pexels"
 faqs:
   - q: "Tủ locker thông minh tích hợp PCCC là gì?"

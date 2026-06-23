@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine xe buýt điện", "trạm sạc xe điện vending", "giao thông xanh"]
 image: "/images/articles/vending-machine-tai-tram-xe-buyt-dien-tuong-lai-giao-thong-xanh-do-thi.jpg"
-imageAlt: "Vending machine tại trạm xe buýt điện - giải pháp giao thông xanh"
+imageAlt: "Vending Machine tại Trạm Xe Buýt Điện: Tương Lai Giao Thông Xanh Đô Thị"
 imageCredit: "Photo by K on Pexels"
 faqs:
   - q: "Vending machine tại trạm xe buýt điện là gì?"

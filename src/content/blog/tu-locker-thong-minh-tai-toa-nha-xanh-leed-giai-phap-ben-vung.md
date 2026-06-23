@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["LEED locker", "green building locker", "tủ locker tòa nhà xanh"]
 image: "/images/articles/tu-locker-thong-minh-tai-toa-nha-xanh-leed-giai-phap-ben-vung.jpg"
-imageAlt: "Tủ locker thông minh tại tòa nhà xanh LEED"
+imageAlt: "Tủ Locker Thông Minh tại Tòa Nhà Xanh LEED: Giải Pháp Bền Vững"
 imageCredit: "Photo by Aniket Suryawanshi on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại tòa nhà xanh LEED là gì?"

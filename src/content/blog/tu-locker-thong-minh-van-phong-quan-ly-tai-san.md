@@ -3,7 +3,7 @@ title: "Tủ locker thông minh văn phòng: Quản lý tài sản nhân viên v
 description: "Văn phòng hiện đại không thể thiếu tủ locker thông minh cho nhân viên hot-desk, bảo vệ laptop và tài liệu mật. Tìm hiểu mô hình triển khai tối ưu tại văn phòng coworking, tập đoàn đa quốc gia và startups Việt Nam."
 date: "2026-06-09"
 image: "/images/articles/tu-locker-thong-minh-van-phong-quan-ly-tai-san.jpg"
-imageAlt: "Office building facade with glass windows and geometric patterns in Bogota, Colombia."
+imageAlt: "Tủ locker thông minh văn phòng: Quản lý tài sản nhân viên và tài liệu mật hiệu quả"
 imageCredit: "Photo by Pixabay on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh văn phòng", "locker nhân viên thông minh", "quản lý tài sản văn phòng locker", "hot desk locker"]

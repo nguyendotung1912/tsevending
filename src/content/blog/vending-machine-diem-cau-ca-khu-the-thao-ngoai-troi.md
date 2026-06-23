@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine hồ câu cá", "máy bán hàng khu thể thao ngoài trời", "vending machine địa điểm giải trí"]
 image: "/images/articles/vending-machine-diem-cau-ca-khu-the-thao-ngoai-troi.jpg"
-imageAlt: "Máy bán hàng tự động đặt cạnh hồ câu cá ngoài trời bán mồi câu và đồ uống"
+imageAlt: "Vending Machine Tại Điểm Câu Cá Và Khu Thể Thao Ngoài Trời: Cơ Hội Ngách Thú Vị"
 imageCredit: "Photo by Abdulrhman Alkady on Pexels"
 faqs:
   - q: "Máy vending tại hồ câu cá nên bán những gì?"

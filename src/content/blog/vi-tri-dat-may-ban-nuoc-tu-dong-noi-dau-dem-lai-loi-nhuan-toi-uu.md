@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc"
 keywords: ["vá»‹ trÃ­ Ä‘áº·t mÃ¡y bÃ¡n nÆ°á»›c", "kinh doanh mÃ¡y bÃ¡n nÆ°á»›c", "Ä‘á»‹a Ä‘iá»ƒm vending machine"]
 image: "/images/articles/vi-tri-dat-may-ban-nuoc-tu-dong-noi-dau-dem-lai-loi-nhuan-toi-uu.jpg"
-imageAlt: "Bản đồ phân tích vị trí đặt máy bán nước tự động tối ưu lợi nhuận kinh doanh"
+imageAlt: "Vị Trí Đặt Máy Bán Nước Tự Động: Nơi Đâu Đem Lại Lợi Nhuận Tối Ưu?"
 imageCredit: "Photo by www.kaboompics.com on Pexels"
 faqs:
   - q: "Thời gian thu hồi vốn trung bình khi kinh doanh máy bán nước tự động là bao lâu?"

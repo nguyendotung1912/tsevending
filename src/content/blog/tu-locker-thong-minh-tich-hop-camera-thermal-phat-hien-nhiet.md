@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker camera thermal", "tủ locker nhận diện thân nhiệt", "thermal imaging smart locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-camera-thermal-phat-hien-nhiet.jpg"
-imageAlt: "Camera thermal gắn trên tủ locker thông minh hiển thị hình ảnh nhiệt của người đứng trước"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Camera Thermal: Phát Hiện Thân Nhiệt Và Bảo Mật Nâng Cao"
 imageCredit: "Photo by Joshua Brown on Pexels"
 faqs:
   - q: "Camera thermal hoạt động như thế nào và ứng dụng thực tế trong hệ thống locker?"

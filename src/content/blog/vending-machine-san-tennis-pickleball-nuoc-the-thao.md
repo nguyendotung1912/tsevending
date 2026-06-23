@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["vending machine sân tennis", "máy bán hàng sân pickleball", "nước thể thao tự động"]
 image: "/images/articles/vending-machine-san-tennis-pickleball-nuoc-the-thao.jpg"
-imageAlt: "Máy bán hàng tự động bên cạnh sân tennis ngoài trời với nước thể thao và snack thể thao"
+imageAlt: "Vending Machine Tại Sân Tennis Và Pickleball: Nước Thể Thao Và Gel Năng Lượng"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Sản phẩm nào bán chạy nhất tại máy vending sân tennis?"

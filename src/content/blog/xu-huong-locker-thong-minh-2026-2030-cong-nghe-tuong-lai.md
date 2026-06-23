@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["xu hướng locker thông minh 2026 2030", "tương lai locker thông minh", "công nghệ locker mới nhất"]
 image: "/images/articles/xu-huong-locker-thong-minh-2026-2030-cong-nghe-tuong-lai.jpg"
-imageAlt: "Tủ locker thông minh tương lai 2030 với màn hình holographic và nhận diện khuôn mặt AI"
+imageAlt: "Xu Hướng Tủ Locker Thông Minh 2026–2030: Công Nghệ Nào Sẽ Thống Trị Thị Trường?"
 imageCredit: "Photo by aboodi vesakaran on Pexels"
 faqs:
   - q: "Nhận diện khuôn mặt có thay thế hoàn toàn mã PIN và thẻ NFC không?"

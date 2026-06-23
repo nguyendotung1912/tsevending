@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["reverse vending machine", "máy thu hồi chai tự động", "deposit system vending"]
 image: "/images/articles/xu-huong-may-ban-hang-tu-dong-tai-che-tai-chau-au-bai-hoc-cho-viet-nam.jpg"
-imageAlt: "Máy bán hàng tự động tái chế tại Châu Âu"
+imageAlt: "Xu hướng máy bán hàng tự động tái chế tại Châu Âu: Bài học cho Việt Nam"
 imageCredit: "Photo by Pachon in Motion on Pexels"
 
 faqs:

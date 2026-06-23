@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine xanh bền vững", "carbon footprint vending", "máy bán hàng năng lượng mặt trời"]
 image: "/images/articles/vending-machine-carbon-footprint-xanh-ben-vung.jpg"
-imageAlt: "Máy bán hàng tự động với tấm pin mặt trời trên nóc đặt ngoài trời cạnh cây xanh"
+imageAlt: "Vending Machine Xanh: Carbon Footprint Tracking Và Cam Kết Bền Vững"
 imageCredit: "Photo by Francesco Ungaro on Pexels"
 faqs:
   - q: "Carbon footprint của 1 máy vending trong 1 năm là bao nhiêu?"

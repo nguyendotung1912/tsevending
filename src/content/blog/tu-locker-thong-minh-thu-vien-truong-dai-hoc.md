@@ -3,7 +3,7 @@ title: "Tủ locker thông minh thư viện đại học: Giữ chỗ, mượn s
 description: "Thư viện đại học tiên tiến tại Anh, Úc và Singapore tích hợp smart locker để sinh viên giữ chỗ ngồi, mượn sách ngoài giờ và nhận tài liệu in sẵn. Mô hình này đang được nhiều trường đại học Việt Nam xem xét."
 date: "2026-06-11"
 image: "/images/articles/tu-locker-thong-minh-thu-vien-truong-dai-hoc.jpg"
-imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageAlt: "Tủ locker thông minh thư viện đại học: Giữ chỗ, mượn sách và nhận tài liệu 24/7"
 imageCredit: "Photo by George Pak on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện đại học", "smart locker thư viện", "locker mượn sách thông minh", "tủ locker sinh viên"]

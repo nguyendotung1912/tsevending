@@ -5,8 +5,8 @@ date: "2024-03-16"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-snack-do-an-vat"
 keywords: ["máy bán hàng karaoke", "vending machine quán karaoke", "kinh doanh karaoke"]
-image: "https://i.imgur.com/rw9z6Bb.jpg"
-imageAlt: "Máy bán hàng tự động tại quán karaoke"
+image: "/images/articles/vending-machine-tai-chuoi-karaoke-co-hoi-doanh-thu-bo-tro.jpg"
+imageAlt: "Vending Machine Tại Chuỗi Karaoke: Cơ Hội Doanh Thu Bổ Trợ"
 imageCredit: "Photo by Şemsi Belli on Pexels"
 faqs:
   - q: "Vending machine có phù hợp với quán karaoke không?"

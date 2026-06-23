@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine nhà máy điện", "máy bán hàng công trình", "tiện ích hạ tầng"]
 image: "/images/articles/vending-machine-tai-nha-may-dien-va-cong-trinh-tien-ich-cho-cong-nhan.jpg"
-imageAlt: "Máy bán hàng tự động tại nhà máy điện"
+imageAlt: "Vending Machine tại Nhà Máy Điện và Công Trình: Tiện Ích Cho Công Nhân"
 imageCredit: "Photo by Adrien Olichon on Pexels"
 faqs:
   - q: "Lợi ích của vending machine tại nhà máy điện là gì?"

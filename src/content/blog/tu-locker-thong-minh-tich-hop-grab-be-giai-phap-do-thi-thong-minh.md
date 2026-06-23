@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker Grab Be", "ride-hailing locker", "tủ locker xe công nghệ"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-grab-be-giai-phap-do-thi-thong-minh.jpg"
-imageAlt: "Tủ locker thông minh tích hợp điểm đón xe công nghệ Grab, Be"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Grab, Be: Giải Pháp Đô Thị Thông Minh"
 imageCredit: "Photo by Ken Chuang on Pexels"
 faqs:
   - q: "Tủ locker thông minh tích hợp Grab, Be là gì?"

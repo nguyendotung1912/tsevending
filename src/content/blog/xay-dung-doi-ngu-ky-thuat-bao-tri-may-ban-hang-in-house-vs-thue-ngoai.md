@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["bảo trì máy bán hàng tự động", "kỹ thuật viên vending machine", "thuê ngoài bảo trì vending"]
 image: "/images/articles/xay-dung-doi-ngu-ky-thuat-bao-tri-may-ban-hang-in-house-vs-thue-ngoai.jpg"
-imageAlt: "Kỹ thuật viên đang sửa chữa máy bán hàng tự động với bộ dụng cụ chuyên dụng"
+imageAlt: "Đội Ngũ Kỹ Thuật Bảo Trì Máy Bán Hàng Tự Động: In-house Vs Thuê Ngoài"
 imageCredit: "Photo by Sami  Abdullah on Pexels"
 faqs:
   - q: "Kỹ thuật viên bảo trì máy vending cần kỹ năng gì và mức lương ra sao?"

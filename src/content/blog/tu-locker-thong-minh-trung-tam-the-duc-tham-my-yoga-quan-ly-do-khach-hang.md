@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng gym", "tủ locker yoga studio", "fitness locker thông minh"]
 image: "/images/articles/tu-locker-thong-minh-trung-tam-the-duc-tham-my-yoga-quan-ly-do-khach-hang.jpg"
-imageAlt: "Tủ locker thông minh sang trọng trong phòng thay đồ của gym và yoga studio cao cấp"
+imageAlt: "Tủ Locker Thông Minh Tại Trung Tâm Thể Dục Thẩm Mỹ Và Yoga: Quản Lý Đồ Khách Hàng"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Phòng gym và yoga studio có nhu cầu gì về locker và tại sao locker thông minh phù hợp hơn locker truyền thống?"

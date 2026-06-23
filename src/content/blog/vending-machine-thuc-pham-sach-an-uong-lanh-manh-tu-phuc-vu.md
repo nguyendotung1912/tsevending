@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an"
 keywords: ["máy bán thực phẩm sạch", "healthy vending", "ăn uống lành mạnh tự phục vụ"]
 image: "/images/articles/vending-machine-thuc-pham-sach-an-uong-lanh-manh-tu-phuc-vu.jpg"
-imageAlt: "Máy bán thực phẩm sạch organic với salad, hoa quả và đồ uống healthy trong văn phòng"
+imageAlt: "Vending Machine Thực Phẩm Sạch: Xu Hướng Ăn Lành Mạnh Tự Phục Vụ"
 imageCredit: "Photo by Anna Shvets on Pexels"
 faqs:
   - q: "Thực phẩm sạch trong máy vending có thực sự sạch không hay chỉ là marketing?"

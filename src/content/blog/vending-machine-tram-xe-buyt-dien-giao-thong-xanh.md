@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine trạm xe buýt", "máy bán hàng giao thông công cộng", "vending machine metro Việt Nam"]
 image: "/images/articles/vending-machine-tram-xe-buyt-dien-giao-thong-xanh.jpg"
-imageAlt: "Máy bán hàng tự động hiện đại đặt tại nhà ga xe buýt điện sạch sẽ với hành khách chờ tàu"
+imageAlt: "Vending Machine Tại Trạm Xe Buýt Điện: Giao Thông Xanh Và Tiện Ích Đô Thị"
 imageCredit: "Photo by K on Pexels"
 faqs:
   - q: "Metro và BRT tại TP.HCM và Hà Nội cho phép đặt vending machine không?"

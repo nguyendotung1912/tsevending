@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker call center tổng đài", "tủ locker trung tâm CSKH", "smart locker call center PCI DSS"]
 image: "/images/articles/tu-locker-thong-minh-trung-tam-cham-soc-khach-hang-call-center.jpg"
-imageAlt: "Tủ locker thông minh tại trung tâm chăm sóc khách hàng call center với hàng dãy bàn tổng đài viên"
+imageAlt: "Tủ Locker Thông Minh Tại Trung Tâm Chăm Sóc Khách Hàng Call Center: Giải Pháp Hiệu Quả"
 imageCredit: "Photo by Kampus Production on Pexels"
 faqs:
   - q: "Call center và trung tâm CSKH cần locker thông minh để giải quyết những vấn đề gì?"

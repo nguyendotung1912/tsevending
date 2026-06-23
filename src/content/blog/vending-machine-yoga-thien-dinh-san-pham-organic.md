@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine yoga studio", "máy bán hàng trung tâm thiền định", "nước thảo mộc organic vending"]
 image: "/images/articles/vending-machine-yoga-thien-dinh-san-pham-organic.jpg"
-imageAlt: "Máy bán hàng tự động gỗ tre thiết kế tối giản đặt tại không gian yoga với cây xanh xung quanh"
+imageAlt: "Vending Machine Tại Yoga Studio Và Trung Tâm Thiền Định: Nước Thảo Dược Và Organic"
 imageCredit: "Photo by Yan Krukau on Pexels"
 faqs:
   - q: "Yoga studio có cần lo máy vending ảnh hưởng đến không gian yên tĩnh không?"

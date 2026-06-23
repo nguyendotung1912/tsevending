@@ -3,7 +3,7 @@ title: "Locker giao nhận hàng TMĐT: Xu hướng bùng nổ thay thế shippe
 description: "Mô hình locker giao nhận hàng thương mại điện tử đang phát triển mạnh tại Việt Nam 2026 — thay thế giao hàng door-to-door, giảm tỷ lệ thất bại và chi phí last-mile delivery."
 date: "2026-06-16"
 image: "/images/articles/xu-huong-locker-giao-nhan-hang-ecommerce-2026.jpg"
-imageAlt: "A woman using a yellow parcel locker to pick up a package in Périgueux, France."
+imageAlt: "Locker giao nhận hàng TMĐT: Xu hướng bùng nổ thay thế shipper gõ cửa"
 imageCredit: "Photo by Kampus Production on Pexels"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"

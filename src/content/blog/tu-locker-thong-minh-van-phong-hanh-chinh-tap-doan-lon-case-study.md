@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker văn phòng tập đoàn lớn", "tủ locker hot desk workplace", "corporate office smart locker"]
 image: "/images/articles/tu-locker-thong-minh-van-phong-hanh-chinh-tap-doan-lon-case-study.jpg"
-imageAlt: "Tủ locker thông minh thiết kế hiện đại tại văn phòng tập đoàn lớn với không gian làm việc mở"
+imageAlt: "Tủ Locker Thông Minh Tại Văn Phòng Hành Chính Tập Đoàn Lớn: Case Study Thực Tế"
 imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tập đoàn lớn triển khai hot-desk model cần locker thông minh như thế nào và những bài học từ thực tế?"

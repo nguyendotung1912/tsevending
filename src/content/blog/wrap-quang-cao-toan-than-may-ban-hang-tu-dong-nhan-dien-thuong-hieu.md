@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "marketing"
 keywords: ["wrap quảng cáo máy bán hàng tự động", "dán decal vending machine", "branding máy vending"]
 image: "/images/articles/wrap-quang-cao-toan-than-may-ban-hang-tu-dong-nhan-dien-thuong-hieu.jpg"
-imageAlt: "Máy bán hàng tự động được wrap toàn thân với hình ảnh thương hiệu nổi bật thu hút khách hàng"
+imageAlt: "Wrap Quảng Cáo Toàn Thân Máy Bán Hàng Tự Động: Biến Máy Thành Công Cụ Marketing"
 faqs:
   - q: "Chi phí wrap quảng cáo toàn thân 1 máy vending là bao nhiêu?"
     a: "Chi phí wrap vending machine tại Việt Nam 2026: Thiết kế đồ họa: 2-8 triệu VND (tùy độ phức tạp, studio design). In ấn vinyl: Vinyl thường (1-2 năm): 800,000-1,500,000 VND/m2. Vinyl cao cấp (3-5 năm, chống UV): 1,500,000-3,000,000 VND/m2. Máy vending tiêu chuẩn có diện tích cần wrap khoảng 2-4m2 (mặt trước + 2 bên). Thi công dán: 500,000-1,500,000 VND. Tổng chi phí 1 lần wrap: 5-20 triệu VND tùy chất liệu và thiết kế. Tuổi thọ: 1-5 năm. Chi phí/tháng: 100,000-1,600,000 VND/tháng — rất rẻ so với các kênh quảng cáo khác. Thay wrap sau: tốn thêm chi phí tháo gỡ (200,000-500,000) + wrap mới."

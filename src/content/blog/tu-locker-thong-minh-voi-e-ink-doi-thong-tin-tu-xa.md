@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["e-ink locker", "tủ locker màn hình giấy điện tử", "digital label locker"]
 image: "/images/articles/tu-locker-thong-minh-voi-e-ink-doi-thong-tin-tu-xa.jpg"
-imageAlt: "Tủ locker thông minh với màn hình e-ink"
+imageAlt: "Tủ Locker Thông Minh Với E-Ink: Đổi Thông Tin Từ Xa"
 imageCredit: "Photo by Jan van der Wolf on Pexels"
 faqs:
   - q: "E-ink locker là gì?"

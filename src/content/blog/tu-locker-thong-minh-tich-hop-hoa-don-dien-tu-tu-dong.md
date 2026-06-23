@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["hóa đơn điện tử locker", "tự động xuất hóa đơn", "e-invoice locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-hoa-don-dien-tu-tu-dong.jpg"
-imageAlt: "Tủ locker thông minh tích hợp hóa đơn điện tử tự động"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Hóa Đơn Điện Tử Tự Động"
 imageCredit: "Photo by Nic Wood on Pexels"
 faqs:
   - q: "Làm thế nào tủ locker thông minh tích hợp hóa đơn điện tử tự động?"

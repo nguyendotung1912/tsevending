@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker Hàn Quốc", "Korea locker trend", "K-style locker"]
 image: "/images/articles/xu-huong-tu-locker-thong-minh-k-style-han-quoc-va-bai-hoc.jpg"
-imageAlt: "Tủ locker thông minh K-style Hàn Quốc"
+imageAlt: "Xu hướng tủ locker thông minh K-style Hàn Quốc và bài học"
 imageCredit: "Photo by AXP Photography on Pexels"
 ---
 

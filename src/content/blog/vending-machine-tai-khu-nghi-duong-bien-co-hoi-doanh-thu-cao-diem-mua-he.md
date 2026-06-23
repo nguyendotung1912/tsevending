@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine resort biển", "máy bán hàng mùa hè", "doanh thu cao điểm"]
 image: "/images/articles/vending-machine-tai-khu-nghi-duong-bien-co-hoi-doanh-thu-cao-diem-mua-he.jpg"
-imageAlt: "Máy bán hàng tự động tại khu nghỉ dưỡng biển"
+imageAlt: "Vending Machine tại Khu Nghỉ Dưỡng Biển: Cơ Hội Doanh Thu Cao Điểm Mùa Hè"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Lợi ích của vending machine tại khu nghỉ dưỡng biển là gì?"

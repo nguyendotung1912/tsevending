@@ -3,7 +3,7 @@ title: "Máy bán hàng tự động trong trại giam và cơ sở giam giữ: 
 description: "Hệ thống trại giam Mỹ, Anh và Úc đang triển khai vending machine cho phạm nhân và gia đình người thăm nuôi. Đây là ứng dụng nhân đạo ít được biết đến của ngành vending machine."
 date: "2026-06-05"
 image: "/images/articles/vending-machine-trai-tu-giam-giu-nha-tu.jpg"
-imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageAlt: "Máy bán hàng tự động trong trại giam và cơ sở giam giữ: Ứng dụng đặc biệt và nhân văn"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["vending machine trại giam", "prison vending machine", "máy bán hàng tự động cơ sở giam giữ"]

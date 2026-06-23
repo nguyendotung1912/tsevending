@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["tương lai tủ locker", "locker 2030", "xu hướng smart locker"]
 image: "/images/articles/tuong-lai-tu-locker-thong-minh-xu-huong-va-cong-nghe-2027-2030.jpg"
-imageAlt: "Tủ locker thông minh thế hệ tiếp theo với công nghệ hiện đại"
+imageAlt: "Tương lai tủ locker thông minh: Xu hướng và công nghệ 2027-2030"
 imageCredit: "Photo by Pachon in Motion on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

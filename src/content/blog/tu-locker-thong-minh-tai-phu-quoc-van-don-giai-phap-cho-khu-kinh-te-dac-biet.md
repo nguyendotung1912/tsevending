@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker Phú Quốc", "locker Vân Đồn", "tủ locker khu kinh tế đặc biệt"]
 image: "/images/articles/tu-locker-thong-minh-tai-phu-quoc-van-don-giai-phap-cho-khu-kinh-te-dac-biet.jpg"
-imageAlt: "Tủ locker thông minh tại khu kinh tế đặc biệt Phú Quốc và Vân Đồn"
+imageAlt: "Tủ locker thông minh tại Phú Quốc, Vân Đồn: Giải pháp cho khu kinh tế đặc biệt"
 imageCredit: "Photo by Keegan Checks on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

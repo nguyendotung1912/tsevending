@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["thanh toán ví điện tử locker", "MoMo locker", "VNPay tủ locker"]
 image: "/images/articles/tu-locker-thong-minh-tich-hop-thanh-toan-vi-dien-tu.jpg"
-imageAlt: "Tủ locker thông minh tích hợp thanh toán ví điện tử MoMo, VNPay và tiền mặt"
+imageAlt: "Tủ Locker Thông Minh Tích Hợp Thanh Toán Ví Điện Tử"
 imageCredit: "Photo by Jacob  Yavin on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

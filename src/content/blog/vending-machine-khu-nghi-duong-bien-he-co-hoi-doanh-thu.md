@@ -6,7 +6,7 @@ silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine resort biển", "máy bán hàng khu du lịch biển", "vending machine Đà Nẵng Nha Trang Phú Quốc"]
 image: "/images/articles/vending-machine-khu-nghi-duong-bien-he-co-hoi-doanh-thu.jpg"
-imageAlt: "Máy bán hàng tự động hiện đại đặt cạnh bãi biển resort với hồ bơi và khách du lịch xung quanh"
+imageAlt: "Vending Machine Tại Khu Nghỉ Dưỡng Biển: Cơ Hội Doanh Thu Mùa Hè Cao Điểm"
 imageCredit: "Photo by RDNE Stock project on Pexels"
 faqs:
   - q: "Resort nào tại Việt Nam phù hợp nhất để đề xuất đặt vending machine?"

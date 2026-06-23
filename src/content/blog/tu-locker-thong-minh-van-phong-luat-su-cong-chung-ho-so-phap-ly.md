@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker văn phòng luật", "tủ locker hồ sơ pháp lý", "legal locker"]
 image: "/images/articles/tu-locker-thong-minh-van-phong-luat-su-cong-chung-ho-so-phap-ly.jpg"
-imageAlt: "Tủ locker thông minh trong văn phòng luật với hồ sơ pháp lý bảo mật cao"
+imageAlt: "Tủ Locker Thông Minh Tại Văn Phòng Luật Sư Và Công Chứng: Bảo Mật Hồ Sơ Pháp Lý"
 imageCredit: "Photo by cottonbro studio on Pexels"
 faqs:
   - q: "Luật sư có nghĩa vụ pháp lý gì về bảo mật thông tin thân chủ và locker giúp ích như thế nào?"
