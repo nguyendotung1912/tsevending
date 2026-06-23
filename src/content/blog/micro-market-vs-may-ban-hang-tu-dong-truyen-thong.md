@@ -2,8 +2,18 @@
 title: "Micro-market vs. Máy bán hàng tự động truyền thống: So sánh chi tiết cho nhà đầu tư"
 description: "Micro-market (kiosk tự phục vụ) đang thách thức mô hình vending machine truyền thống. Phân tích chi phí, lợi nhuận và trường hợp sử dụng phù hợp cho từng mô hình."
 date: "2026-05-13"
+image: "/images/articles/micro-market-vs-may-ban-hang-tu-dong-truyen-thong.jpg"
+imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageCredit: "Photo by HONG SON on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["micro-market vs vending machine", "kiosk tự phục vụ", "so sánh mô hình kinh doanh vending"]
+faqs:
+  - q: "Micro-market là gì?"
+    a: "Khu vực bán lẻ tự phục vụ nhỏ, thường từ 5-30m², nơi sản phẩm được trưng bày trên kệ hàng mở."
+  - q: "Micro-market khác máy vending truyền thống ở đâu?"
+    a: "Micro-market sử dụng kệ hàng mở, không có cánh máy, khách hàng tự lấy sản phẩm và thanh toán tại kiosk POS."
+  - q: "Micro-market có phổ biến ở Việt Nam không?"
+    a: "Còn khá mới và ít được biết đến ở Việt Nam, nhưng đang là xu hướng toàn cầu."
 ---
 
 Trong giới kinh doanh vending tại Mỹ và châu Âu, cuộc tranh luận "micro-market hay máy vending truyền thống" đang sôi nổi hơn bao giờ hết. Tại Việt Nam, micro-market còn khá mới và ít được biết đến — nhưng xu hướng toàn cầu cho thấy đây là mô hình đáng nghiên cứu nếu bạn đang lên kế hoạch đầu tư vào lĩnh vực bán lẻ tự phục vụ.

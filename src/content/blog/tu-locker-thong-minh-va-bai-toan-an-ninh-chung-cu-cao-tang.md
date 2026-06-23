@@ -2,9 +2,19 @@
 title: "Tủ locker thông minh và bài toán an ninh chung cư cao tầng"
 description: "Tủ locker thông minh đóng vai trò gì trong hệ thống an ninh chung cư cao tầng? Phân tích cách tủ locker giúp kiểm soát người vào ra, bảo vệ tài sản và tích hợp với camera an ninh."
 date: "2026-05-07"
+image: "/images/articles/tu-locker-thong-minh-va-bai-toan-an-ninh-chung-cu-cao-tang.jpg"
+imageAlt: "Tủ locker thông minh và bài toán an ninh chung cư cao tầng"
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["an ninh chung cư", "tủ locker thông minh", "smart locker an ninh"]
+faqs:
+  - q: "Tủ locker thông minh giải quyết bài toán an ninh như thế nào trong chung cư cao tầng?"
+    a: "Bằng cách kiểm soát quyền truy cập từng ô tủ theo danh tính xác thực."
+  - q: "Điểm yếu của tủ gửi đồ truyền thống là gì?"
+    a: "Chìa khóa cơ dễ sao chép, không có cơ chế xác thực danh tính."
+  - q: "Lợi ích của tủ locker thông minh so với chìa khóa cơ là gì?"
+    a: "An toàn hơn, không thể bị sao chép hoặc chuyền tay."
 ---
 
 Tại các chung cư cao tầng, nhu cầu an ninh không chỉ dừng lại ở kiểm soát ra vào tòa nhà, mà còn bao gồm việc bảo vệ tài sản và hàng hóa trong khu vực sảnh - nơi lưu lượng người ra vào lớn và khó kiểm soát. [Tủ locker thông minh](/tu-locker-thong-minh/tu-locker-chung-cu) góp phần giải quyết bài toán an ninh này bằng cách kiểm soát quyền truy cập từng ô tủ theo danh tính xác thực, thay vì chìa khóa cơ có thể bị sao chép hoặc chuyền tay.

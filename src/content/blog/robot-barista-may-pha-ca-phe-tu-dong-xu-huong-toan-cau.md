@@ -2,8 +2,18 @@
 title: "Robot barista và máy pha cà phê tự động: Xu hướng đang thay đổi ngành F&B toàn cầu"
 description: "Café X, Briggo và Aethon robot barista đang mở ra kỷ nguyên cà phê tự động không nhân viên. Phân tích xu hướng và tác động đến thị trường đồ uống tự động tại Việt Nam."
 date: "2026-05-16"
+image: "/images/articles/robot-barista-may-pha-ca-phe-tu-dong-xu-huong-toan-cau.jpg"
+imageAlt: "City street scene featuring pedestrians walking past a kiosk with bare trees in winter."
+imageCredit: "Photo by Quang Nguyen Vinh on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["robot barista", "máy pha cà phê tự động", "cà phê robot F&B tự động"]
+faqs:
+  - q: "Ngành cà phê đang trải qua cuộc cách mạng gì?"
+    a: "Tự động hóa."
+  - q: "Café X là gì?"
+    a: "Robot barista đầu tiên tại Mỹ."
+  - q: "Café X có thể pha chế những loại cà phê nào?"
+    a: "Espresso, latte, cappuccino."
 ---
 
 Cà phê là đồ uống phổ biến nhất thế giới sau nước lọc — và ngành cà phê đang trải qua cuộc cách mạng tự động hóa. Không phải chỉ là máy pha cà phê trong máy vending thông thường, mà là các robot barista hoàn chỉnh có khả năng tạo ra đồ uống chất lượng cao không thua kém barista thực sự.

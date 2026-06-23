@@ -2,9 +2,19 @@
 title: "Máy bán nước tự động cho văn phòng: Nên chọn dung tích bao nhiêu?"
 description: "Hướng dẫn chọn dung tích máy bán nước tự động phù hợp với quy mô văn phòng theo số lượng nhân viên, tần suất sử dụng và không gian lắp đặt."
 date: "2026-05-04"
+image: "/images/articles/may-ban-nuoc-tu-dong-cho-van-phong-nen-chon-dung-tich-bao-nhieu.jpg"
+imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
+imageCredit: "Photo by AMORIE SAM on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước văn phòng", "dung tích máy vending", "máy bán nước tự động"]
+faqs:
+  - q: "Nên chọn dung tích máy bán nước tự động bao nhiêu cho văn phòng?"
+    a: "Tùy vào quy mô văn phòng."
+  - q: "Chọn máy bán nước tự động quá nhỏ có vấn đề gì?"
+    a: "Dễ hết hàng, phải tiếp hàng nhiều lần."
+  - q: "Chọn máy bán nước tự động quá lớn có vấn đề gì?"
+    a: "Chiếm diện tích, lãng phí vốn."
 ---
 
 Một trong những câu hỏi phổ biến nhất khi văn phòng tìm hiểu lắp đặt [máy bán nước giải khát tự động](/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat) là nên chọn dung tích bao nhiêu cho phù hợp. Chọn máy quá nhỏ dẫn đến hết hàng liên tục, phải tiếp hàng nhiều lần trong ngày; chọn máy quá lớn lại chiếm diện tích và lãng phí vốn lưu động. Bài viết này giúp bạn xác định dung tích phù hợp dựa trên quy mô thực tế của văn phòng.

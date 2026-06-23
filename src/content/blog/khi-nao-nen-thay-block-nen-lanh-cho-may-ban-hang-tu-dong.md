@@ -2,9 +2,16 @@
 title: "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?"
 description: "Dấu hiệu nhận biết block nén lạnh máy bán hàng tự động xuống cấp, khi nào nên sửa và khi nào nên thay mới để đảm bảo chất lượng hàng hóa và tiết kiệm chi phí."
 date: "2026-05-03"
+image: "/images/articles/khi-nao-nen-thay-block-nen-lanh-cho-may-ban-hang-tu-dong.jpg"
+imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["block nén lạnh", "sửa máy vending", "linh kiện làm lạnh"]
+faqs:
+  - q: "Dấu hi��u nào cho thấy block nén lạnh cần được thay thế?"
+    a: "Block không cung cấp khả năng làm lạnh đủ lạnh."
+  - q: "Mục đích chính của việc thay thế block nén lạnh trong máy bán hàng tự động là gì?"
+    a: "Đảm bảo khả năng bảo quản thực phẩm an toàn."
 ---
 
 Block nén lạnh (compressor) là linh kiện quan trọng nhất đối với các [máy bán hàng lạnh tự động](/may-ban-hang-tu-dong/may-ban-hang-lanh), quyết định trực tiếp đến khả năng [bảo quản thực phẩm an toàn](/tin-tuc/bao-quan-thuc-pham-trong-may-ban-hang-lanh-tu-dong) trong suốt quá trình vận hành. Đây cũng là một trong [5 linh kiện máy bán hàng tự động thường hỏng](/tin-tuc/5-linh-kien-may-ban-hang-tu-dong-thuong-hong-va-cach-bao-tri) và có chi phí thay thế cao nhất, nên việc xác định đúng thời điểm sửa hay thay mới giúp tiết kiệm đáng kể cho người vận hành.

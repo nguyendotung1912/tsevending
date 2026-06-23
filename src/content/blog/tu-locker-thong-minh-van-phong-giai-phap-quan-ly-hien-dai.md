@@ -7,7 +7,7 @@ sub: "tu-locker-van-phong"
 keywords: ["tủ locker văn phòng", "locker nhân viên văn phòng", "quản lý tài sản văn phòng"]
 image: "/images/articles/tu-locker-thong-minh-van-phong-giai-phap-quan-ly-hien-dai.jpg"
 imageAlt: "Tủ locker thông minh hiện đại trong môi trường văn phòng, quản lý tư trang và tài sản nhân viên hiệu quả."
-imageCredit: "Photo by cottonbro studio on Pexels"
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker thông minh quản lý tài sản như thế nào?"
     a: "Hệ thống định danh người dùng, theo dõi lịch sử sử dụng, tự động khóa/mở và báo cáo. Đảm bảo mọi vật phẩm được kiểm soát chặt chẽ và minh bạch."

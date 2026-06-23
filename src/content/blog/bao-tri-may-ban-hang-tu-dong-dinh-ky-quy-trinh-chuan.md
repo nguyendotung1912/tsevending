@@ -2,8 +2,18 @@
 title: "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn"
 description: "Quy trình bảo trì máy bán hàng tự động định kỳ theo ngày, tuần, tháng và quý giúp máy hoạt động ổn định, giảm hỏng hóc và kéo dài tuổi thọ thiết bị."
 date: "2026-05-06"
+image: "/images/articles/bao-tri-may-ban-hang-tu-dong-dinh-ky-quy-trinh-chuan.jpg"
+imageAlt: "Worker handling camshafts and cylinder head in a mechanic workshop."
+imageCredit: "Photo by Sergey  Meshkov on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["bảo trì máy bán hàng tự động", "quy trình bảo trì vending", "vận hành máy vending"]
+faqs:
+  - q: "Tại sao bảo trì định kỳ máy bán hàng tự động lại quan trọng?"
+    a: "Giúp máy hoạt động ổn định, giảm thiểu hỏng hóc bất ngờ và kéo dài tuổi thọ thiết bị."
+  - q: "Những công việc bảo trì máy bán hàng tự động hàng ngày bao gồm?"
+    a: "Vệ sinh bề mặt máy, kiểm tra nhanh khoang hàng và sắp xếp sản phẩm đúng vị trí."
+  - q: "Quy trình bảo trì máy bán hàng tự động có cần áp dụng cho đơn vị bảo trì thuê ngoài không?"
+    a: "Có, quy trình này áp dụng cho cả đội ngũ vận hành nội bộ và đơn vị bảo trì thuê ngoài."
 ---
 
 Một quy trình bảo trì định kỳ rõ ràng giúp [máy bán hàng tự động](/may-ban-hang-tu-dong) hoạt động ổn định, giảm thiểu tình trạng hỏng hóc bất ngờ và kéo dài tuổi thọ thiết bị. Bài viết tổng hợp quy trình bảo trì theo từng mốc thời gian: hàng ngày, hàng tuần, hàng tháng và hàng quý - áp dụng cho cả đội ngũ vận hành nội bộ và đơn vị bảo trì thuê ngoài.

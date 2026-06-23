@@ -2,8 +2,17 @@
 title: "Tủ locker thông minh là gì? Cấu tạo và công nghệ 2026"
 description: "Tủ locker thông minh là gì, cấu tạo gồm những gì, các công nghệ mở khóa RFID, QR, Face ID và ứng dụng tại chung cư, văn phòng, trường học, gym tại Việt Nam."
 date: "2026-04-28"
+image: "/images/articles/tu-locker-thong-minh-la-gi-cau-tao-cong-nghe-2026.jpg"
+imageAlt: "Detailed macro shot of an AutoPi device against a dark background, showcasing technological innovation."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh là gì", "công nghệ mở khóa tủ locker", "ứng dụng tủ locker thông minh", "smart locker Việt Nam"]
+faqs:
+  - q: "Tủ locker thông minh là gì?"
+    a: "Là hệ thống lưu trữ tích điện tử, cho phép đóng/mở bằng PIN, thẻ, mã QR, vân tay hoặc khuôn mặt thay cho khóa cơ học truyền thống."
+  - q: "Tủ locker thông minh có lợi ích gì?"
+    a: "Tiết kiệm nhân lực, nâng cao bảo mật, quản lý từ xa và theo dõi tình trạng sử dụng theo thời gian thực."
+  - q: "Phương pháp mở khóa của tủ locker thông minh?"
+    a: "Bằng PIN, thẻ, thẻ, mã QR, vân tay hoặc nhận diện khuôn mặt."
 ---
 
 Tủ locker thông minh (smart locker) đang dần thay thế tủ gửi đồ truyền thống tại các chung cư, văn phòng, nhà máy, trường học và phòng gym ở Việt Nam. Nhờ khả năng mở khóa không cần chìa, quản lý từ xa và theo dõi tình trạng sử dụng theo thời gian thực, tủ locker thông minh giúp tiết kiệm nhân lực và nâng cao tính bảo mật cho người dùng.

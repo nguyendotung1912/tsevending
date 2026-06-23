@@ -3,14 +3,48 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { buildMetadata, serviceJsonLd, itemListJsonLd } from "@/lib/seo";
 import { getAllSilos, getSiloBySlug } from "@/content/categories";
+import { PROVINCES } from "@/content/provinces";
 import { getPostsBySilo } from "@/lib/content";
-import PageHeader from "@/components/PageHeader";
 import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
 import ComparisonTable from "@/components/ComparisonTable";
 import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
+import RoiCalculator from "@/components/RoiCalculator";
+
+function normalizeSlugForImage(slug: string): string {
+  return slug
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/đ/gi, "d")
+    .replace(/[^a-z0-9-]/g, "")
+    .toLowerCase();
+}
+
+// ── Rich text types ────────────────────────────────────────────────
+type RichSegment = string | { anchor: string; href: string };
+type RichParagraph = RichSegment[];
+
+function RichPara({ segments }: { segments: RichParagraph }) {
+  return (
+    <p className="text-sm leading-relaxed text-slate-600">
+      {segments.map((seg, i) =>
+        typeof seg === "string" ? (
+          seg
+        ) : (
+          <Link
+            key={i}
+            href={seg.href}
+            className="font-semibold text-brand-600 hover:text-brand-700 hover:underline"
+          >
+            {seg.anchor}
+          </Link>
+        )
+      )}
+    </p>
+  );
+}
 
 export function generateStaticParams() {
   return getAllSilos().map((silo) => ({ silo: silo.slug }));
@@ -32,6 +66,8 @@ export async function generateMetadata({
 }
 
 const extendedContent: Record<string, {
+  stats: { value: string; label: string }[];
+  richBody: RichParagraph[];
   whatIs: { title: string; paragraphs: string[] };
   howWorks: { title: string; paragraphs: string[] };
   locations: { title: string; items: { name: string; desc: string }[] };
@@ -40,148 +76,224 @@ const extendedContent: Record<string, {
   process: { title: string; steps: { num: string; title: string; desc: string }[] };
 }> = {
   "may-ban-hang-tu-dong": {
+    stats: [
+      { value: "5 dòng máy", label: "Đa dạng sản phẩm" },
+      { value: "24/7", label: "Hoạt động liên tục" },
+      { value: "QR / NFC", label: "Thanh toán hiện đại" },
+      { value: "12–20 tháng", label: "Thời gian hoàn vốn" },
+    ],
+    richBody: [
+      [
+        "Máy bán hàng tự động (vending machine) là kênh bán lẻ tự phục vụ đang tăng trưởng mạnh nhất tại Việt Nam trong bối cảnh chi phí nhân sự tăng cao và người tiêu dùng ngày càng quen với dịch vụ không tiếp xúc. TSE Vending cung cấp đầy đủ các dòng máy phù hợp từng nhu cầu cụ thể: ",
+        { anchor: "máy bán nước giải khát tự động", href: "/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat" },
+        " phù hợp văn phòng, chung cư và trường học; ",
+        { anchor: "máy bán snack, đồ ăn vặt tự động", href: "/may-ban-hang-tu-dong/may-ban-do-an-vat" },
+        " lý tưởng cho căng-tin nhà máy và khu nghỉ ca; ",
+        { anchor: "máy bán hàng đông lạnh, hàng lạnh", href: "/may-ban-hang-tu-dong/may-ban-hang-lanh" },
+        " cho bệnh viện và siêu thị mini; cùng ",
+        { anchor: "máy bán gas, bình gas tự động", href: "/may-ban-hang-tu-dong/may-ban-gas" },
+        " đáp ứng nhu cầu khu dân cư. Đơn vị đang vận hành chuỗi máy cũng tìm được ",
+        { anchor: "linh kiện, phụ tùng thay thế chính hãng", href: "/may-ban-hang-tu-dong/linh-kien-phu-tung" },
+        " để bảo trì hệ thống liên tục.",
+      ],
+      [
+        "Lợi thế cạnh tranh của vending machine nằm ở chi phí vận hành cố định và khả năng phục vụ 24/7 — kể cả ngày lễ và giờ cao điểm khi cửa hàng truyền thống đóng cửa hoặc không đủ nhân lực. Một máy đặt tại vị trí tốt (tòa nhà văn phòng 300+ nhân viên hoặc khu công nghiệp mật độ cao) có thể đạt doanh thu 10–20 triệu đồng/tháng, với chi phí đầu tư ban đầu 25–50 triệu đồng và thời gian hoàn vốn trung bình 12–20 tháng.",
+      ],
+      [
+        "Điểm khác biệt cốt lõi của máy TSE Vending là module IoT tích hợp sẵn: chủ máy nhận cảnh báo tự động qua app khi hàng sắp hết, khi máy gặp sự cố kỹ thuật hoặc khi có giao dịch bất thường — theo dõi từ xa mà không cần đến tận nơi kiểm tra. Hệ thống thanh toán hỗ trợ đầy đủ: tiền mặt (trả lại tiền thừa tự động), thẻ ngân hàng EMV/NFC contactless, QR code VNPay, MoMo, ZaloPay và toàn bộ ngân hàng chuẩn VietQR.",
+      ],
+      [
+        "Thành công của vending machine phụ thuộc rất lớn vào vị trí đặt máy và danh mục sản phẩm phù hợp nhu cầu thực tế. TSE Vending thực hiện khảo sát và phân tích vị trí miễn phí: đánh giá lưu lượng người, đối tượng khách hàng, cạnh tranh xung quanh và cơ sở hạ tầng điện để đề xuất dòng máy và cấu hình tối ưu. Đội kỹ thuật thường trú tại TP. Hồ Chí Minh, Hà Nội, Đà Nẵng và Bình Dương đảm bảo lắp đặt và bảo trì trong ngày.",
+      ],
+      [
+        "TSE Vending cung cấp nhiều ",
+        { anchor: "mô hình hợp tác kinh doanh vending", href: "/giai-phap-kinh-doanh" },
+        " linh hoạt: đầu tư trọn gói sở hữu máy, hợp tác chia sẻ doanh thu với chủ mặt bằng (nhận 1–3 triệu đồng/tháng/máy mà không cần đầu tư vốn), hoặc thuê vận hành theo gói dịch vụ. ",
+        { anchor: "Liên hệ ngay để được tư vấn và khảo sát thực địa miễn phí", href: "/lien-he" },
+        " — đội ngũ phản hồi trong vòng 2 giờ làm việc.",
+      ],
+    ],
     whatIs: {
       title: "Máy bán hàng tự động là gì? Cách hoạt động",
       paragraphs: [
         "Máy bán hàng tự động (vending machine) là thiết bị bán lẻ tự phục vụ, cho phép khách hàng chọn và mua sản phẩm bất kỳ lúc nào mà không cần nhân viên phục vụ. Sau khi khách hàng chọn sản phẩm trên màn hình cảm ứng hoặc bàn phím số và hoàn tất thanh toán — bằng tiền mặt, thẻ ngân hàng, QR code hoặc ví điện tử — máy tự động xuất hàng qua cơ chế vít xoắn (spiral) hoặc băng chuyền điều khiển bằng motor điện.",
         "Mỗi máy bán hàng tự động của TSE Vending đều tích hợp module IoT giúp kết nối với hệ thống quản lý trung tâm. Chủ máy có thể theo dõi lượng hàng tồn, doanh thu từng sản phẩm và tình trạng kỹ thuật theo thời gian thực trên điện thoại hoặc máy tính mà không cần đến tận nơi kiểm tra. Hệ thống tự cảnh báo khi tồn kho thấp, khi máy gặp lỗi kỹ thuật hoặc khi có giao dịch bất thường.",
-        "Không giống với các kênh bán lẻ truyền thống đòi hỏi mặt bằng lớn và chi phí nhân sự cao, máy bán hàng tự động hoạt động liên tục 24/7 — kể cả ngày lễ và giờ cao điểm — với chi phí vận hành cố định và minh bạch. Đây là lý do tại sao mô hình vending đang mở rộng nhanh chóng tại Việt Nam, đặc biệt ở các khu đô thị có mật độ dân số cao và nhu cầu tiêu dùng tiện lợi ngày càng tăng.",
+        "Không giống với các kênh bán lẻ truyền thống đòi hỏi mặt bằng lớn và chi phí nhân sự cao, máy bán hàng tự động hoạt động liên tục 24/7 — kể cả ngày lễ và giờ cao điểm — với chi phí vận hành cố định và minh bạch.",
       ],
     },
     howWorks: {
       title: "Công nghệ tích hợp trong máy bán hàng tự động hiện đại",
       paragraphs: [
-        "Máy bán hàng tự động thế hệ mới không chỉ là hộp kim loại phân phối sản phẩm — đây là điểm bán hàng thông minh (smart POS) thu nhỏ, tích hợp nhiều lớp công nghệ. Hệ thống cảm biến phát hiện sản phẩm kẹt ngay sau khi xuất hàng; camera giám sát khu vực máy ngăn chặn gian lận; bộ nhớ flash lưu trữ dữ liệu giao dịch ngay cả khi mất kết nối internet.",
-        "Các dòng máy bán hàng tự động của TSE Vending hỗ trợ đầy đủ các phương thức thanh toán đang được người tiêu dùng Việt Nam sử dụng phổ biến: tiền mặt (với bộ nhận tiền và trả lại tiền thừa tự động), thẻ ngân hàng nội địa và quốc tế (chip EMV và NFC contactless), QR code tích hợp với VNPay, MoMo, ZaloPay và tất cả ngân hàng hỗ trợ chuẩn VietQR. Với thị trường dần chuyển sang thanh toán không tiền mặt, đây là yếu tố quyết định doanh thu của máy.",
-        "Phần mềm quản lý vận hành (CMS - Content Management System) của TSE Vending cho phép thiết lập giá bán, thay đổi danh mục sản phẩm và cập nhật khuyến mãi từ xa trên tất cả các máy trong hệ thống chỉ bằng vài thao tác. Báo cáo doanh thu được tổng hợp tự động theo ngày, tuần, tháng — không cần nhân viên nhập liệu thủ công.",
+        "Máy bán hàng tự động thế hệ mới tích hợp nhiều lớp công nghệ: cảm biến phát hiện sản phẩm kẹt ngay sau khi xuất hàng; camera giám sát khu vực máy ngăn chặn gian lận; bộ nhớ flash lưu trữ dữ liệu giao dịch ngay cả khi mất kết nối internet.",
+        "Các dòng máy TSE Vending hỗ trợ đầy đủ phương thức thanh toán: tiền mặt (nhận và trả lại tiền thừa tự động), thẻ ngân hàng chip EMV và NFC contactless, QR code VNPay/MoMo/ZaloPay và toàn bộ ngân hàng chuẩn VietQR.",
+        "Phần mềm quản lý (CMS) cho phép thiết lập giá, thay đổi danh mục và cập nhật khuyến mãi từ xa trên tất cả máy trong hệ thống. Báo cáo doanh thu tổng hợp tự động theo ngày, tuần, tháng.",
       ],
     },
     locations: {
-      title: "Vị trí đặt máy bán hàng tự động mang lại doanh thu cao nhất",
+      title: "Vị trí triển khai và đặc điểm vận hành",
       items: [
         {
           name: "Tòa nhà văn phòng (200+ nhân viên)",
-          desc: "Nhân viên văn phòng là nhóm khách hàng tiêu thụ nước uống và đồ ăn nhẹ đều đặn, đặc biệt vào giờ nghỉ trưa và buổi chiều. Tòa nhà 200 nhân viên có thể duy trì doanh thu 5-15 triệu đồng/tháng/máy cho máy bán nước + snack. Đặt tại sảnh tầng trệt, gần thang máy hoặc khu bếp/pantry là các vị trí tối ưu.",
+          desc: "Lưu lượng ổn định, nhu cầu nước uống và snack cao theo giờ nghỉ. Tòa nhà 200 nhân viên có thể đạt 5–15 triệu đồng/tháng/máy tại vị trí tốt.",
         },
         {
           name: "Khu công nghiệp & nhà máy",
-          desc: "Khu công nghiệp có mật độ lao động cao (500-5.000 công nhân/nhà máy) và ca làm việc xuyên đêm tạo nhu cầu liên tục cho nước uống và đồ ăn. Máy đặt tại khu vực nghỉ ca, nhà ăn và cổng ra vào nhà máy thường có tỷ lệ sử dụng rất cao, đặc biệt ca đêm khi căng-tin đóng cửa.",
+          desc: "Mật độ lao động cao, ca đêm tạo nhu cầu liên tục khi căng-tin đóng cửa. Tỷ lệ sử dụng cao và ổn định theo lịch sản xuất.",
         },
         {
           name: "Trường học, đại học & ký túc xá",
-          desc: "Môi trường giáo dục có lượng người dùng ổn định và nhu cầu ăn vặt cao, đặc biệt giờ giải lao và sau giờ học. Sinh viên ký túc xá cần dịch vụ 24/7 vì lịch học và sinh hoạt không theo giờ hành chính. Máy bán snack + nước uống là cấu hình phổ biến tại các vị trí này.",
+          desc: "Lượng người dùng ổn định, nhu cầu snack cao giờ giải lao. Sinh viên ký túc xá cần dịch vụ 24/7 ngoài giờ hành chính.",
         },
         {
           name: "Bệnh viện & cơ sở y tế",
-          desc: "Bệnh nhân, người thân chờ đợi và nhân viên y tế làm ca 24h đều cần tiếp cận thực phẩm và đồ uống nhanh. Máy bán hàng tự động đặt tại khu chờ khám, hành lang tầng bệnh viện và khu nhân viên thường có doanh thu ổn định và ít biến động.",
+          desc: "Bệnh nhân, người nhà và nhân viên y tế ca 24h đều cần tiếp cận thực phẩm nhanh. Doanh thu ổn định, ít biến động.",
         },
         {
           name: "Chung cư và khu dân cư đô thị",
-          desc: "Cư dân chung cư có xu hướng mua đồ tiện lợi gần nhà vào sáng sớm và tối muộn — thời điểm các cửa hàng lân cận đã đóng cửa. Máy bán gas mini, nước uống và đồ ăn nhanh đặt tại sảnh tầng trệt phục vụ nhu cầu này hiệu quả.",
+          desc: "Nhu cầu mua đồ tiện lợi sáng sớm và tối muộn khi cửa hàng lân cận đóng. Máy tại sảnh tầng trệt phục vụ hiệu quả.",
         },
         {
           name: "Trạm dừng chân, sân bay, ga tàu",
-          desc: "Vị trí giao thông đông người qua lại nhưng thời gian dừng ngắn — người dùng cần mua hàng nhanh, không xếp hàng. Đây là môi trường lý tưởng cho vending machine với doanh thu cao và mật độ giao dịch lớn theo giờ.",
+          desc: "Lưu lượng đông, thời gian dừng ngắn — người dùng cần mua nhanh, không xếp hàng. Giao dịch lớn theo giờ cao điểm.",
         },
       ],
     },
     investment: {
       title: "Chi phí đầu tư và kỳ vọng lợi nhuận thực tế",
       paragraphs: [
-        "Đầu tư máy bán hàng tự động đòi hỏi vốn ban đầu thấp hơn nhiều so với mở cửa hàng truyền thống và không cần chi phí nhân sự thường trực. Tuy nhiên, lợi nhuận thực tế phụ thuộc lớn vào vị trí đặt máy, loại sản phẩm và dòng máy được chọn.",
-        "Với máy bán nước giải khát tiêu chuẩn (đầu tư 25-50 triệu đồng), đặt tại vị trí có 200-300 giao dịch/ngày, doanh thu hàng tháng có thể đạt 10-20 triệu đồng. Sau khi trừ chi phí hàng hóa (55-65%), chi phí điện và bảo trì, lợi nhuận ròng từ 2-5 triệu đồng/tháng/máy — tương đương thời gian hoàn vốn 10-20 tháng.",
-        "Chủ mặt bằng lựa chọn mô hình hợp tác chia sẻ doanh thu với TSE Vending có thể nhận thu nhập thụ động từ 1-3 triệu đồng/tháng mỗi máy mà không cần đầu tư vốn hay quản lý vận hành. Đây là lý do ngày càng nhiều ban quản lý tòa nhà và chủ chung cư chủ động liên hệ để đặt máy tại mặt bằng của mình.",
+        "Máy bán nước giải khát tiêu chuẩn (25–50 triệu đồng), đặt tại vị trí 200–300 giao dịch/ngày, doanh thu hàng tháng có thể đạt 10–20 triệu đồng. Sau khi trừ hàng hóa (55–65%), điện và bảo trì, lợi nhuận ròng khoảng 2–5 triệu đồng/tháng/máy — hoàn vốn 10–20 tháng.",
+        "Với mô hình hợp tác chia sẻ doanh thu, chủ mặt bằng có thể nhận 1–3 triệu đồng/tháng/máy mà không cần bỏ vốn đầu tư hay quản lý vận hành.",
+        "TSE Vending thực hiện phân tích vị trí miễn phí trước khi ký hợp đồng — bao gồm đánh giá lưu lượng, cạnh tranh và đề xuất cấu hình máy tối ưu cho từng địa điểm.",
       ],
     },
     roi: {
-      title: "Khi nào đầu tư máy bán hàng tự động mang lại hiệu quả tốt nhất?",
+      title: "Khi nào đầu tư mang lại hiệu quả tốt nhất?",
       paragraphs: [
-        "Máy bán hàng tự động phát huy hiệu quả cao nhất khi đặt tại vị trí có lưu lượng người ổn định từ 150-200 người/ngày trở lên, không có hoặc hạn chế cạnh tranh trực tiếp (cửa hàng tiện lợi, căng-tin) trong bán kính 50m và có nguồn điện ổn định 24/7.",
-        "Ba yếu tố quyết định doanh thu của một điểm máy: (1) Lưu lượng người qua lại và đặc điểm nhân khẩu học — nhân viên văn phòng tiêu dùng cao hơn công nhân theo thu nhập trung bình; (2) Danh mục sản phẩm phù hợp với nhu cầu cụ thể tại vị trí đó — không phải vị trí nào cũng bán được cùng một loại hàng; (3) Giá bán được định giá hợp lý so với lựa chọn thay thế tại khu vực.",
-        "TSE Vending thực hiện phân tích vị trí miễn phí cho tất cả khách hàng tiềm năng trước khi ký hợp đồng — bao gồm đánh giá lưu lượng, cạnh tranh, tiềm năng doanh thu và đề xuất cấu hình máy/danh mục hàng tối ưu cho từng vị trí cụ thể.",
+        "Vending machine phát huy hiệu quả cao nhất tại vị trí có từ 150–200 người/ngày trở lên, không có cạnh tranh trực tiếp trong bán kính 50m và nguồn điện ổn định 24/7.",
+        "Ba yếu tố quyết định doanh thu: (1) lưu lượng và nhân khẩu học; (2) danh mục sản phẩm phù hợp nhu cầu thực tế tại vị trí đó; (3) giá bán hợp lý so với lựa chọn thay thế trong khu vực.",
+        "Không phải vị trí nào cũng phù hợp — TSE Vending sẽ đánh giá thực địa và chỉ đề xuất triển khai khi có cơ sở dữ liệu cho thấy tiềm năng đủ để đảm bảo hiệu quả đầu tư.",
       ],
     },
     process: {
-      title: "Quy trình triển khai máy bán hàng tự động với TSE Vending",
+      title: "Quy trình triển khai máy bán hàng tự động",
       steps: [
-        { num: "01", title: "Liên hệ & tư vấn ban đầu", desc: "Gọi điện hoặc điền form liên hệ. Đội tư vấn phản hồi trong vòng 2 giờ làm việc để hiểu nhu cầu và lịch khảo sát." },
-        { num: "02", title: "Khảo sát & phân tích vị trí", desc: "Đội kỹ thuật đến thực địa đo đạc, đánh giá lưu lượng và đề xuất vị trí đặt máy, dòng máy và danh mục sản phẩm tối ưu." },
-        { num: "03", title: "Báo giá & ký hợp đồng", desc: "Nhận báo giá chi tiết cho thiết bị, lắp đặt và dịch vụ hỗ trợ. Hợp đồng ghi rõ trách nhiệm hai bên, chính sách bảo hành và SLA hỗ trợ kỹ thuật." },
-        { num: "04", title: "Lắp đặt & đào tạo", desc: "Lắp đặt và cấu hình máy tại chỗ trong 1-2 ngày. Đào tạo cơ bản về nạp hàng, xử lý sự cố thông thường và sử dụng phần mềm quản lý." },
-        { num: "05", title: "Vận hành & tối ưu liên tục", desc: "Hệ thống IoT giám sát 24/7. Đội kỹ thuật bảo trì định kỳ và hỗ trợ tối ưu danh mục hàng theo dữ liệu bán thực tế." },
+        { num: "01", title: "Liên hệ & tư vấn ban đầu", desc: "Phản hồi trong vòng 2 giờ làm việc để hiểu nhu cầu và xác định lịch khảo sát thực địa." },
+        { num: "02", title: "Khảo sát & phân tích vị trí", desc: "Đội kỹ thuật đến đo đạc, đánh giá lưu lượng và đề xuất vị trí, dòng máy và danh mục sản phẩm." },
+        { num: "03", title: "Báo giá & ký hợp đồng", desc: "Báo giá chi tiết từng hạng mục. Hợp đồng ghi rõ trách nhiệm hai bên, chính sách bảo hành và SLA kỹ thuật." },
+        { num: "04", title: "Lắp đặt & đào tạo", desc: "Hoàn thành trong 1–2 ngày. Đào tạo cơ bản về nạp hàng, xử lý sự cố và phần mềm quản lý." },
+        { num: "05", title: "Vận hành & tối ưu liên tục", desc: "IoT giám sát 24/7. Bảo trì định kỳ và hỗ trợ tối ưu danh mục theo dữ liệu bán thực tế." },
       ],
     },
   },
   "tu-locker-thong-minh": {
+    stats: [
+      { value: "8 môi trường", label: "Ứng dụng đa dạng" },
+      { value: "0 chìa khóa", label: "Xác thực số hoàn toàn" },
+      { value: "24/7", label: "Nhận hàng tự động" },
+      { value: "API", label: "Tích hợp sàn TMĐT" },
+    ],
+    richBody: [
+      [
+        "Tủ locker thông minh (smart locker) không còn là giải pháp chỉ dành cho trung tâm thương mại lớn — thiết bị ngày nay được triển khai rộng rãi từ chung cư đến bệnh viện, từ trường học đến điểm giao nhận logistics. TSE Vending cung cấp giải pháp tùy chỉnh theo từng môi trường: ",
+        { anchor: "tủ locker chung cư", href: "/tu-locker-thong-minh/tu-locker-chung-cu" },
+        " nhận hàng hộ cư dân tự động 24/7; ",
+        { anchor: "tủ locker văn phòng và khu công nghiệp", href: "/tu-locker-thong-minh/tu-locker-van-phong" },
+        " tích hợp thẻ nhân viên RFID sẵn có; ",
+        { anchor: "tủ gửi đồ thông minh cho trường học, TTTM, gym", href: "/tu-locker-thong-minh/tu-gui-do-thong-minh" },
+        " cấp mã QR một lần không cần chìa; ",
+        { anchor: "tủ locker giao nhận hàng cho logistics, shipper", href: "/tu-locker-thong-minh/tu-locker-giao-nhan-hang" },
+        " tích hợp API sàn TMĐT; ",
+        { anchor: "tủ locker khách sạn, resort", href: "/tu-locker-thong-minh/tu-locker-khach-san-resort" },
+        " gửi hành lý tự phục vụ sau check-out; và ",
+        { anchor: "tủ locker bệnh viện, cơ sở y tế", href: "/tu-locker-thong-minh/tu-locker-benh-vien-y-te" },
+        " với bề mặt kháng khuẩn tiêu chuẩn y tế.",
+      ],
+      [
+        "Điểm mấu chốt của tủ locker thông minh so với tủ khóa cơ truyền thống là xác thực không tiếp xúc và quản lý toàn bộ từ xa. Người dùng xác thực qua mã PIN (6–8 số), mã QR qua điện thoại, thẻ RFID (tích hợp chung với thẻ chấm công hoặc thẻ học sinh sẵn có), vân tay hoặc nhận diện khuôn mặt — tùy cấu hình từng dự án. Mỗi thao tác mở/đóng tủ đều được ghi nhận đầy đủ: timestamp, ID người dùng và số ô — quản trị viên truy cập toàn bộ lịch sử qua dashboard mà không cần ra tận nơi kiểm tra.",
+      ],
+      [
+        "Phần mềm quản lý tập trung của TSE Vending cho phép theo dõi tình trạng từng ô tủ theo thời gian thực, phân quyền sử dụng theo nhóm (nhân viên theo ca, học sinh theo học kỳ, khách vãng lai theo lượt giao dịch), nhận cảnh báo ô tủ quá hạn và xuất báo cáo vận hành tự động. Hệ thống hỗ trợ tích hợp API với BMS (Building Management System), phần mềm quản lý nhân sự và các sàn thương mại điện tử như Shopee, Lazada cùng đơn vị vận chuyển GHN, GHTK.",
+      ],
+      [
+        "Thiết kế module của TSE Vending cho phép linh hoạt hoàn toàn: bắt đầu với cụm 20 ô và mở rộng thêm khi nhu cầu tăng mà không cần thay toàn bộ hệ thống. Kích thước ô từ S (tài liệu, phụ kiện nhỏ) đến XL (hành lý lớn, thiết bị y tế) được thiết kế theo đặt hàng cụ thể từng dự án. Vật liệu thép sơn tĩnh điện chống ẩm phù hợp cả môi trường ngoài trời có mái che; tùy chọn bề mặt thép không gỉ cho môi trường yêu cầu tiêu chuẩn vệ sinh cao.",
+      ],
+      [
+        "Đối với chủ tòa nhà, ban quản lý chung cư hay đơn vị logistics, TSE Vending cung cấp nhiều ",
+        { anchor: "mô hình hợp tác linh hoạt từ mua trọn gói đến thuê SaaS", href: "/giai-phap-kinh-doanh" },
+        " theo tháng — phù hợp với dự án ngắn hạn hoặc muốn kiểm nghiệm trước khi đầu tư dài hạn. ",
+        { anchor: "Liên hệ ngay để được tư vấn và khảo sát thực địa miễn phí", href: "/lien-he" },
+        " — đội ngũ phản hồi trong vòng 2 giờ làm việc.",
+      ],
+    ],
     whatIs: {
       title: "Tủ locker thông minh là gì? Nguyên lý hoạt động",
       paragraphs: [
-        "Tủ locker thông minh (smart locker) là hệ thống tủ lưu trữ điện tử với cơ chế xác thực kỹ thuật số — thay thế hoàn toàn chìa khóa cơ truyền thống. Người dùng xác thực quyền truy cập bằng mã PIN nhập trên bàn phím số, mã QR quét qua app điện thoại, thẻ RFID (thẻ nhân viên hoặc thẻ từ riêng), vân tay hoặc nhận diện khuôn mặt tùy cấu hình.",
-        "Mỗi lần mở hoặc đóng ô tủ đều được ghi nhận trong hệ thống với đầy đủ thông tin: ID người dùng, thời gian chính xác và ô tủ tương ứng. Quản trị viên truy cập dashboard trên trình duyệt hoặc app để xem lịch sử này theo thời gian thực, phân quyền ô tủ cho người dùng mới và giải phóng ô khi cần can thiệp. Khi có sự cố — quên mã, cần mở khẩn cấp — quản trị viên có thể mở ô từ xa qua hệ thống mà không cần ra tận nơi.",
-        "Tủ locker thông minh của TSE Vending được thiết kế theo module: bạn có thể bắt đầu với 20 ô và mở rộng thêm mà không cần thay thế toàn bộ hệ thống. Mỗi module kết nối với bộ điều khiển trung tâm qua bus nội bộ, bộ điều khiển kết nối internet qua Wi-Fi hoặc 4G để đồng bộ với máy chủ đám mây.",
+        "Tủ locker thông minh (smart locker) là hệ thống tủ lưu trữ điện tử với cơ chế xác thực kỹ thuật số — thay thế hoàn toàn chìa khóa cơ. Người dùng xác thực qua mã PIN, mã QR qua app, thẻ RFID, vân tay hoặc nhận diện khuôn mặt tùy cấu hình.",
+        "Mỗi lần mở/đóng ô tủ đều được ghi nhận với đầy đủ thông tin: ID người dùng, thời gian và ô tủ. Quản trị viên truy cập dashboard để xem lịch sử, phân quyền và mở ô từ xa khi cần can thiệp — không cần ra tận nơi.",
+        "Tủ locker TSE Vending thiết kế theo module: bắt đầu với 20 ô và mở rộng thêm mà không cần thay toàn bộ hệ thống. Mỗi module kết nối bộ điều khiển trung tâm qua bus nội bộ, đồng bộ lên máy chủ đám mây qua Wi-Fi hoặc 4G.",
       ],
     },
     howWorks: {
-      title: "Các công nghệ xác thực trong tủ locker thông minh",
+      title: "Các phương thức xác thực và trường hợp sử dụng",
       paragraphs: [
-        "Mỗi phương thức xác thực có ưu điểm và trường hợp sử dụng tối ưu khác nhau. Mã PIN thích hợp khi người dùng không có điện thoại thông minh hoặc thẻ từ — chỉ cần nhớ 4-6 chữ số. Mã QR qua app phù hợp với tình huống giao nhận hàng: shipper quét QR để nạp hàng vào ô trống, hệ thống tự gửi mã nhận cho người nhận.",
-        "Thẻ RFID là lựa chọn tối ưu cho môi trường doanh nghiệp — tích hợp với thẻ chấm công sẵn có giúp nhân viên chỉ cần một thẻ cho nhiều mục đích: vào cổng bảo vệ, chấm công và mở tủ locker. Sinh trắc học (vân tay, khuôn mặt) loại bỏ hoàn toàn việc ghi nhớ mã hoặc quản lý thẻ — người dùng không thể quên, mất hay chia sẻ thông tin xác thực.",
-        "Hệ thống quản lý tập trung của TSE Vending hỗ trợ đồng thời nhiều phương thức xác thực trên cùng một cụm tủ, cho phép linh hoạt theo nhóm người dùng: nhân viên lâu dài dùng thẻ RFID, khách vãng lai dùng mã QR/PIN một lần, quản trị viên có quyền cao nhất qua tài khoản bảo mật 2 lớp.",
+        "Mã PIN phù hợp khi người dùng không có điện thoại thông minh hoặc thẻ. Mã QR qua app phù hợp với giao nhận hàng: shipper quét QR nạp hàng, hệ thống gửi mã nhận cho người nhận.",
+        "Thẻ RFID tối ưu cho môi trường doanh nghiệp — tích hợp với thẻ chấm công sẵn có, nhân viên dùng một thẻ cho nhiều mục đích. Sinh trắc học (vân tay, khuôn mặt) loại bỏ hoàn toàn việc quản lý mã và thẻ.",
+        "Hệ thống quản lý TSE Vending hỗ trợ đồng thời nhiều phương thức xác thực trên cùng cụm tủ, linh hoạt theo nhóm người dùng: nhân viên thường xuyên dùng thẻ RFID, khách vãng lai dùng mã QR/PIN một lần.",
       ],
     },
     locations: {
-      title: "Ứng dụng tủ locker thông minh theo từng môi trường",
+      title: "Ứng dụng theo từng môi trường triển khai",
       items: [
         {
-          name: "Chung cư cao tầng (từ 100 căn trở lên)",
-          desc: "Sảnh tầng trệt chung cư là vị trí lý tưởng cho tủ locker nhận hộ bưu phẩm. Shipper giao hàng khi cư dân vắng mặt, cư dân nhận thông báo và tự lấy hàng bất kỳ lúc nào — giải phóng bảo vệ khỏi nhiệm vụ nhận và bảo quản hàng chục kiện hàng mỗi ngày.",
+          name: "Chung cư cao tầng (từ 100 căn)",
+          desc: "Sảnh tầng trệt nhận hộ bưu phẩm 24/7. Shipper giao khi cư dân vắng mặt, cư dân tự lấy bất kỳ lúc nào — giảm tải hoàn toàn cho bảo vệ.",
         },
         {
           name: "Văn phòng & khu công nghiệp",
-          desc: "Nhân viên lưu trữ đồ cá nhân, tài liệu và thiết bị bảo hộ trong ô tủ riêng được phân quyền. Tích hợp với thẻ nhân viên sẵn có tiết kiệm chi phí triển khai và tạo trải nghiệm đồng bộ cho người dùng.",
+          desc: "Nhân viên lưu trữ đồ cá nhân và thiết bị. Tích hợp thẻ nhân viên sẵn có tiết kiệm chi phí và tạo trải nghiệm đồng bộ.",
         },
         {
           name: "Trường học & trung tâm thể thao",
-          desc: "Tủ gửi đồ thông minh thay thế tủ khóa cơ: không cần quản lý chìa khóa, không lo mất chìa. Học sinh/vận động viên quét QR mỗi lần sử dụng; admin theo dõi và giải phóng ô tủ qua phần mềm.",
+          desc: "Thay tủ khóa cơ: không quản lý chìa, không lo mất chìa. Học sinh/vận động viên quét QR mỗi lần dùng; admin quản lý qua phần mềm.",
         },
         {
           name: "Trung tâm thương mại & khách sạn",
-          desc: "Cung cấp dịch vụ gửi đồ tạm thời cho khách mua sắm, thuê ô theo giờ với thanh toán tự động. Khách sạn dùng để gửi hành lý sau khi trả phòng — khách tự lấy lúc tiện, giảm tải cho lễ tân.",
+          desc: "Gửi đồ tạm thời theo giờ, thu phí tự động. Khách sạn dùng lưu hành lý sau trả phòng — khách tự lấy, giảm tải lễ tân.",
         },
         {
           name: "Bưu cục & điểm giao nhận logistics",
-          desc: "Tủ locker tích hợp API với sàn TMĐT và đơn vị vận chuyển: trạng thái 'đã giao vào tủ' và 'đã nhận' đồng bộ tự động lên hệ thống vận đơn. Giảm tỷ lệ giao hàng thất bại và tranh chấp về thời gian giao nhận.",
+          desc: "Tích hợp API với sàn TMĐT: trạng thái giao/nhận đồng bộ tự động lên hệ thống vận đơn. Giảm tỷ lệ giao hàng thất bại.",
         },
         {
           name: "Bệnh viện & cơ sở y tế",
-          desc: "Nhân viên y tế lưu trữ đồ cá nhân và dụng cụ an toàn trong ca trực dài. Tủ locker chống khuẩn, bề mặt dễ vệ sinh phù hợp tiêu chuẩn môi trường y tế.",
+          desc: "Nhân viên y tế lưu trữ đồ cá nhân an toàn trong ca trực. Bề mặt kháng khuẩn, dễ vệ sinh theo tiêu chuẩn y tế.",
         },
       ],
     },
     investment: {
-      title: "Chi phí đầu tư và lựa chọn cấu hình tủ locker thông minh",
+      title: "Chi phí đầu tư và lựa chọn cấu hình",
       paragraphs: [
-        "Chi phí đầu tư tủ locker thông minh phụ thuộc vào số lượng ô, kích thước ô (nhỏ S, vừa M, lớn L, siêu lớn XL), công nghệ xác thực (PIN đơn giản vs. vân tay/nhận diện khuôn mặt) và mức độ tích hợp phần mềm (standalone vs. API với hệ thống hiện có).",
-        "Cụm tủ 20 ô cơ bản (mở bằng PIN/QR, quản lý qua web) có chi phí đầu tư thấp hơn đáng kể so với hệ thống 100 ô tích hợp vân tay và API logistics. TSE Vending thiết kế từng dự án theo nhu cầu thực tế và ngân sách cụ thể của từng khách hàng — không áp dụng cấu hình tiêu chuẩn duy nhất cho tất cả.",
-        "Với mô hình thuê dịch vụ (SaaS locker), chủ mặt bằng trả phí thuê hàng tháng thay vì mua đứt thiết bị. TSE Vending chịu trách nhiệm bảo trì và nâng cấp phần mềm. Mô hình này phù hợp với các dự án ngắn hạn hoặc chủ mặt bằng muốn kiểm nghiệm giải pháp trước khi đầu tư dài hạn.",
+        "Chi phí phụ thuộc vào số lượng ô, kích thước ô (S/M/L/XL), công nghệ xác thực (PIN đơn giản vs. sinh trắc học) và mức độ tích hợp phần mềm (standalone vs. API với hệ thống hiện có).",
+        "Cụm tủ 20 ô cơ bản (PIN/QR, quản lý web) có chi phí thấp hơn đáng kể so với hệ thống 100 ô tích hợp vân tay và API logistics. TSE Vending thiết kế theo nhu cầu và ngân sách cụ thể từng dự án.",
+        "Với mô hình thuê dịch vụ (SaaS locker), chủ mặt bằng trả phí thuê hàng tháng — TSE Vending chịu bảo trì và nâng cấp phần mềm. Phù hợp với dự án ngắn hạn hoặc muốn kiểm nghiệm trước khi đầu tư dài hạn.",
       ],
     },
     roi: {
-      title: "Lợi ích vận hành thực tế khi triển khai tủ locker thông minh",
+      title: "Lợi ích vận hành thực tế",
       paragraphs: [
-        "Lợi ích đo lường được rõ nhất khi triển khai tủ locker thông minh tại chung cư là giảm tải nhân lực bảo vệ. Tại một chung cư 300 căn nhận trung bình 80-100 kiện hàng/ngày, bảo vệ có thể tiết kiệm 2-3 giờ/ngày từ việc không phải ký nhận, bảo quản và thông báo từng kiện hàng — tương đương giảm 1-2 nhân viên hoặc để lực lượng hiện có tập trung vào bảo vệ an ninh thực sự.",
-        "Tại môi trường văn phòng và khu công nghiệp, lợi ích chính đến từ loại bỏ chi phí và rủi ro quản lý chìa khóa: không còn chìa bị mất, sao chép trái phép hay phải thay toàn bộ ổ khóa khi nhân viên nghỉ việc. Lịch sử truy cập đầy đủ cũng hỗ trợ quản lý tài sản và điều tra sự cố nội bộ.",
-        "Tính năng thu phí gửi đồ tự động (tích hợp thanh toán) biến tủ locker thành nguồn thu nhập thụ động cho chủ mặt bằng tại trung tâm thương mại, ga tàu và sân bay. Tại các điểm có lưu lượng cao, thu nhập từ phí gửi đồ có thể đủ để tự hoàn vốn thiết bị trong 18-36 tháng.",
+        "Tại chung cư 300 căn nhận 80–100 kiện/ngày, tủ locker giúp bảo vệ tiết kiệm 2–3 giờ/ngày — không còn ký nhận, bảo quản và thông báo từng kiện hàng.",
+        "Trong văn phòng và khu công nghiệp: loại bỏ rủi ro quản lý chìa khóa (mất chìa, sao chép trái phép, thay ổ khóa khi nhân viên nghỉ). Lịch sử truy cập đầy đủ hỗ trợ quản lý tài sản và điều tra sự cố.",
+        "Thu phí gửi đồ tự động tại trung tâm thương mại và sân bay có thể hoàn vốn thiết bị trong 18–36 tháng từ doanh thu phí dịch vụ.",
       ],
     },
     process: {
-      title: "Quy trình triển khai tủ locker thông minh với TSE Vending",
+      title: "Quy trình triển khai tủ locker thông minh",
       steps: [
-        { num: "01", title: "Khảo sát nhu cầu & vị trí", desc: "Đánh giá số lượng người dùng, tần suất sử dụng, yêu cầu tích hợp (API, thẻ nhân viên, thanh toán) và không gian vật lý để thiết kế cấu hình phù hợp nhất." },
-        { num: "02", title: "Thiết kế hệ thống & báo giá", desc: "Đề xuất số ô, kích thước ô, công nghệ xác thực và phần mềm quản lý. Báo giá chi tiết từng hạng mục, không phát sinh chi phí ẩn sau ký hợp đồng." },
-        { num: "03", title: "Sản xuất & kiểm tra chất lượng", desc: "Tủ được sản xuất theo đơn đặt hàng cụ thể, kiểm tra toàn bộ tính năng cơ khí và điện tử tại xưởng trước khi xuất hàng lắp đặt thực địa." },
-        { num: "04", title: "Lắp đặt & tích hợp phần mềm", desc: "Lắp đặt vật lý, cài đặt phần mềm quản lý, cấu hình người dùng ban đầu và kiểm tra kết nối internet. Đào tạo quản trị viên sử dụng dashboard." },
-        { num: "05", title: "Hỗ trợ & bảo trì dài hạn", desc: "Bảo trì định kỳ cơ khí và cập nhật firmware tự động. Hỗ trợ kỹ thuật 24/7 qua hotline và có thể điều phối kỹ thuật viên đến xử lý tại chỗ khi cần." },
+        { num: "01", title: "Khảo sát nhu cầu & vị trí", desc: "Đánh giá số lượng người dùng, tần suất, yêu cầu tích hợp và không gian vật lý để xác định cấu hình phù hợp." },
+        { num: "02", title: "Thiết kế hệ thống & báo giá", desc: "Đề xuất số ô, kích thước, công nghệ xác thực và phần mềm. Báo giá chi tiết từng hạng mục, không phát sinh chi phí ẩn." },
+        { num: "03", title: "Sản xuất & kiểm tra chất lượng", desc: "Sản xuất theo đơn đặt hàng cụ thể, kiểm tra toàn bộ cơ khí và điện tử tại xưởng trước khi xuất hàng." },
+        { num: "04", title: "Lắp đặt & tích hợp phần mềm", desc: "Lắp đặt vật lý, cài phần mềm, cấu hình người dùng và kiểm tra kết nối. Đào tạo quản trị viên sử dụng dashboard." },
+        { num: "05", title: "Hỗ trợ & bảo trì dài hạn", desc: "Bảo trì định kỳ cơ khí và cập nhật firmware tự động. Hỗ trợ 24/7 qua hotline, điều phối kỹ thuật viên tại chỗ khi cần." },
       ],
     },
   },
@@ -194,8 +306,6 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
 
   const posts = getPostsBySilo(silo.slug).slice(0, 6);
   const ext = extendedContent[siloSlug];
-
-  const breadcrumbs = [{ name: silo.title, path: `/${silo.slug}` }];
 
   return (
     <>
@@ -219,26 +329,56 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           })),
         })}
       />
-      <PageHeader
-        eyebrow="Sản phẩm & dịch vụ"
-        title={silo.h1}
-        description={silo.intro[0]}
-        breadcrumbs={breadcrumbs}
-      />
 
-      {/* ── MAIN CONTENT ── */}
+      {/* ── SILO HERO ── */}
+      <section className="relative overflow-hidden bg-brand-950 text-white">
+        <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-brand-900/80 via-brand-950 to-brand-950" />
+        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:40px_40px]" />
+        <div className="pointer-events-none absolute right-8 top-8 h-72 w-72 rounded-full bg-brand-600/20 blur-3xl" />
+        <div className="pointer-events-none absolute -bottom-12 left-12 h-56 w-56 rounded-full bg-accent-600/15 blur-3xl" />
+
+        <div className="relative mx-auto max-w-6xl px-4 pt-10 pb-12 sm:px-6 sm:pt-12">
+          {/* Breadcrumb */}
+          <div className="mb-5 flex items-center gap-2 text-xs text-white/50">
+            <Link href="/" className="hover:text-white/80 transition-colors">Trang chủ</Link>
+            <span>/</span>
+            <span className="text-white/70">{silo.title}</span>
+          </div>
+
+          <p className="mb-3 text-xs font-bold uppercase tracking-[0.18em] text-accent-400">
+            Sản phẩm &amp; dịch vụ
+          </p>
+          <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl lg:text-5xl">
+            {silo.h1}
+          </h1>
+          <p className="mt-4 max-w-2xl text-base leading-relaxed text-white/80">
+            {silo.intro[0]}
+          </p>
+
+          {/* Stats row */}
+          {ext && (
+            <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
+              {ext.stats.map((stat) => (
+                <div
+                  key={stat.label}
+                  className="rounded-xl border border-white/15 bg-white/10 p-4 backdrop-blur-sm"
+                >
+                  <p className="text-xl font-extrabold text-white sm:text-2xl">{stat.value}</p>
+                  <p className="mt-0.5 text-xs text-white/60">{stat.label}</p>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </section>
+
+      {/* ── INTRO + SUBCATEGORIES ── */}
       <section className="py-14">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
           <div className="grid gap-10 lg:grid-cols-3">
-            {/* Left: intro + subcategories */}
+            {/* Main */}
             <div className="lg:col-span-2">
-              <div className="prose prose-slate max-w-none">
-                {silo.intro.slice(1).map((p) => (
-                  <p key={p.slice(0, 40)}>{p}</p>
-                ))}
-              </div>
-
-              <h2 className="mt-10 mb-5 text-xl font-extrabold text-slate-900">Danh mục sản phẩm</h2>
+              <h2 className="mb-5 text-xl font-extrabold text-slate-900">Danh mục sản phẩm</h2>
               <div className="grid gap-4 sm:grid-cols-2">
                 {silo.subcategories.map((sub) => (
                   <CategoryCard
@@ -247,18 +387,31 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                     icon={sub.icon}
                     title={sub.title}
                     description={sub.metaDescription}
+                    image={`/images/products/${silo.slug}/${normalizeSlugForImage(sub.slug)}/01.jpg`}
                   />
                 ))}
               </div>
+
+              {/* Rich body with internal links — below product grid */}
+              {ext?.richBody && (
+                <div className="mt-10 space-y-3 border-t border-slate-100 pt-8">
+                  <h2 className="mb-4 text-lg font-extrabold text-slate-900">
+                    Tổng quan về {silo.title.toLowerCase()}
+                  </h2>
+                  {ext.richBody.map((para, i) => (
+                    <RichPara key={i} segments={para} />
+                  ))}
+                </div>
+              )}
             </div>
 
-            {/* Right: features sidebar */}
-            <aside className="space-y-6">
-              <div className="rounded-2xl border border-brand-100 bg-brand-50 p-6">
-                <h2 className="text-base font-bold text-brand-900">Vì sao chọn TSE Vending?</h2>
-                <ul className="mt-4 space-y-3 text-sm text-slate-700">
+            {/* Sidebar */}
+            <aside className="space-y-4">
+              <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+                <h2 className="text-sm font-bold text-slate-900">Tính năng kỹ thuật</h2>
+                <ul className="mt-4 space-y-2.5">
                   {silo.features.map((f) => (
-                    <li key={f} className="flex gap-2.5">
+                    <li key={f} className="flex gap-2.5 text-sm text-slate-600">
                       <svg className="mt-0.5 h-4 w-4 flex-none text-brand-500" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                       </svg>
@@ -267,14 +420,14 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                   ))}
                 </ul>
               </div>
-              <div className="rounded-2xl border border-accent-200 bg-accent-50 p-6">
-                <p className="text-sm font-semibold text-accent-800">Tư vấn miễn phí</p>
-                <p className="mt-2 text-xs text-accent-700 leading-relaxed">
-                  Đội chuyên gia TSE Vending khảo sát vị trí và đề xuất giải pháp phù hợp — không tính phí tư vấn ban đầu.
+              <div className="rounded-xl border border-brand-200 bg-brand-50 p-5">
+                <p className="text-sm font-bold text-brand-800">Khảo sát vị trí miễn phí</p>
+                <p className="mt-1.5 text-xs leading-relaxed text-brand-700">
+                  Đội kỹ thuật TSE Vending đến thực địa, đánh giá và đề xuất cấu hình thiết bị phù hợp — không tính phí tư vấn.
                 </p>
                 <a
                   href="/lien-he"
-                  className="mt-4 block rounded-xl bg-accent-500 px-4 py-2.5 text-center text-sm font-bold text-white transition hover:bg-accent-600"
+                  className="mt-4 block rounded-lg bg-brand-600 px-4 py-2.5 text-center text-sm font-bold text-white transition hover:bg-brand-700"
                 >
                   Yêu cầu tư vấn →
                 </a>
@@ -287,34 +440,35 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
       {/* ── COMPARISON TABLE ── */}
       <section className="border-t border-slate-100 bg-slate-50 py-14">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
-          <h2 className="mb-2 text-xl font-extrabold text-slate-900">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-brand-600">So sánh dòng sản phẩm</p>
+          <h2 className="mt-2 mb-2 text-xl font-extrabold text-slate-900">
             Nên chọn dòng nào? Bảng so sánh nhanh
           </h2>
-          <p className="mb-6 max-w-3xl text-sm text-slate-600">
-            Mỗi dòng sản phẩm trong nhóm {silo.title.toLowerCase()} phù hợp với một nhóm vị trí và mục tiêu khác nhau. Tham khảo bảng dưới để chọn phù hợp, hoặc liên hệ TSE Vending để được tư vấn theo vị trí thực tế.
+          <p className="mb-8 max-w-3xl text-sm text-slate-600">
+            Mỗi dòng sản phẩm phù hợp với một nhóm vị trí và mục tiêu khác nhau. Tham khảo bảng dưới hoặc liên hệ để được tư vấn theo vị trí thực tế.
           </p>
           <ComparisonTable subcategories={silo.subcategories} />
         </div>
       </section>
 
-      {/* ── EXTENDED CONTENT (only if exists) ── */}
+      {/* ── EXTENDED CONTENT ── */}
       {ext && (
         <>
-          {/* What is / How works */}
+          {/* What is + How works */}
           <section className="py-14">
             <div className="mx-auto max-w-6xl px-4 sm:px-6">
-              <div className="grid gap-12 lg:grid-cols-2">
+              <div className="grid gap-10 lg:grid-cols-2">
                 <div>
-                  <h2 className="text-2xl font-extrabold text-slate-900">{ext.whatIs.title}</h2>
-                  <div className="mt-5 space-y-4 text-slate-600 leading-relaxed">
+                  <h2 className="text-xl font-extrabold text-slate-900">{ext.whatIs.title}</h2>
+                  <div className="mt-4 space-y-3 text-sm leading-relaxed text-slate-600">
                     {ext.whatIs.paragraphs.map((p) => (
                       <p key={p.slice(0, 40)}>{p}</p>
                     ))}
                   </div>
                 </div>
                 <div>
-                  <h2 className="text-2xl font-extrabold text-slate-900">{ext.howWorks.title}</h2>
-                  <div className="mt-5 space-y-4 text-slate-600 leading-relaxed">
+                  <h2 className="text-xl font-extrabold text-slate-900">{ext.howWorks.title}</h2>
+                  <div className="mt-4 space-y-3 text-sm leading-relaxed text-slate-600">
                     {ext.howWorks.paragraphs.map((p) => (
                       <p key={p.slice(0, 40)}>{p}</p>
                     ))}
@@ -324,73 +478,84 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
             </div>
           </section>
 
-          {/* Locations / Applications */}
-          <section className="border-t border-slate-100 bg-slate-50 py-14">
+          {/* Locations */}
+          <section className="bg-slate-50 py-14">
             <div className="mx-auto max-w-6xl px-4 sm:px-6">
-              <h2 className="mb-3 text-2xl font-extrabold text-slate-900">{ext.locations.title}</h2>
-              <p className="mb-8 max-w-3xl text-slate-600">
-                Vị trí đặt thiết bị là yếu tố quan trọng nhất quyết định hiệu quả đầu tư. Dưới đây là các môi trường phổ biến và đặc điểm vận hành tương ứng.
+              <p className="text-xs font-bold uppercase tracking-[0.18em] text-accent-600">Phạm vi triển khai</p>
+              <h2 className="mt-2 mb-3 text-xl font-extrabold text-slate-900">{ext.locations.title}</h2>
+              <p className="mb-8 max-w-3xl text-sm text-slate-600">
+                Mỗi môi trường có yêu cầu kỹ thuật và cấu hình thiết bị khác nhau — TSE Vending đánh giá và đề xuất cấu hình phù hợp cho từng địa điểm.
               </p>
-              <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {ext.locations.items.map((loc) => (
-                  <div key={loc.name} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+                  <div
+                    key={loc.name}
+                    className="rounded-xl border border-slate-100 border-l-4 border-l-brand-500 bg-white p-5 shadow-sm"
+                  >
                     <h3 className="text-sm font-bold text-slate-900">{loc.name}</h3>
-                    <p className="mt-2 text-sm leading-relaxed text-slate-600">{loc.desc}</p>
+                    <p className="mt-1.5 text-xs leading-relaxed text-slate-600">{loc.desc}</p>
                   </div>
                 ))}
               </div>
             </div>
           </section>
 
-          {/* Investment & ROI */}
-          <section className="py-14">
+          {/* Investment + ROI */}
+          <section className="border-t border-slate-100 py-14">
             <div className="mx-auto max-w-6xl px-4 sm:px-6">
-              <div className="grid gap-12 lg:grid-cols-2">
+              <div className="grid gap-10 lg:grid-cols-2">
                 <div>
-                  <h2 className="text-2xl font-extrabold text-slate-900">{ext.investment.title}</h2>
-                  <div className="mt-5 space-y-4 text-slate-600 leading-relaxed">
+                  <h2 className="text-xl font-extrabold text-slate-900">{ext.investment.title}</h2>
+                  <div className="mt-4 space-y-3 text-sm leading-relaxed text-slate-600">
                     {ext.investment.paragraphs.map((p) => (
                       <p key={p.slice(0, 40)}>{p}</p>
                     ))}
                   </div>
                 </div>
                 <div>
-                  <h2 className="text-2xl font-extrabold text-slate-900">{ext.roi.title}</h2>
-                  <div className="mt-5 space-y-4 text-slate-600 leading-relaxed">
+                  <h2 className="text-xl font-extrabold text-slate-900">{ext.roi.title}</h2>
+                  <div className="mt-4 space-y-3 text-sm leading-relaxed text-slate-600">
                     {ext.roi.paragraphs.map((p) => (
                       <p key={p.slice(0, 40)}>{p}</p>
                     ))}
                   </div>
                 </div>
               </div>
+
+              <div className="mt-12">
+                <RoiCalculator />
+              </div>
             </div>
           </section>
 
           {/* Process */}
-          <section className="border-t border-slate-100 bg-brand-700 py-14 text-white">
-            <div className="mx-auto max-w-6xl px-4 sm:px-6">
-              <h2 className="mb-10 text-2xl font-extrabold">{ext.process.title}</h2>
-              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-5">
+          <section className="relative overflow-hidden bg-brand-950 py-14 text-white">
+            <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:40px_40px]" />
+            <div className="pointer-events-none absolute right-8 top-8 h-64 w-64 rounded-full bg-brand-700/25 blur-3xl" />
+            <div className="relative mx-auto max-w-6xl px-4 sm:px-6">
+              <h2 className="mb-10 text-xl font-extrabold">{ext.process.title}</h2>
+              <div className="relative grid gap-6 sm:grid-cols-2 lg:grid-cols-5">
+                <div className="pointer-events-none absolute left-0 right-0 top-6 hidden h-px bg-white/15 lg:block" />
                 {ext.process.steps.map((step) => (
                   <div key={step.num}>
-                    <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-full bg-brand-600 text-base font-extrabold text-white">
+                    <div className="relative z-10 mb-3 flex h-12 w-12 items-center justify-center rounded-full border border-white/20 bg-brand-600 text-sm font-extrabold shadow-lg shadow-black/20">
                       {step.num}
                     </div>
                     <h3 className="text-sm font-bold">{step.title}</h3>
-                    <p className="mt-2 text-xs leading-relaxed text-brand-200">{step.desc}</p>
+                    <p className="mt-1.5 text-xs leading-relaxed text-brand-200">{step.desc}</p>
                   </div>
                 ))}
               </div>
               <div className="mt-10 flex flex-wrap gap-3">
                 <Link
                   href="/lien-he"
-                  className="rounded-full bg-accent-500 px-6 py-3 text-sm font-bold text-white transition hover:bg-accent-600"
+                  className="rounded-full bg-accent-500 px-6 py-3 text-sm font-bold text-white shadow-lg shadow-black/20 transition hover:bg-accent-600"
                 >
-                  Bắt đầu tư vấn miễn phí →
+                  Bắt đầu tư vấn →
                 </Link>
                 <Link
                   href="/giai-phap-kinh-doanh"
-                  className="rounded-full border-2 border-brand-300 px-6 py-3 text-sm font-bold text-white transition hover:bg-brand-600"
+                  className="rounded-full border border-white/30 bg-white/10 px-6 py-3 text-sm font-bold text-white backdrop-blur-sm transition hover:bg-white/20"
                 >
                   Xem mô hình hợp tác
                 </Link>
@@ -404,10 +569,11 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
       {posts.length > 0 && (
         <section className="py-14">
           <div className="mx-auto max-w-6xl px-4 sm:px-6">
-            <h2 className="mb-6 text-xl font-extrabold text-slate-900">
+            <p className="text-xs font-bold uppercase tracking-[0.18em] text-accent-600">Tài liệu & Phân tích</p>
+            <h2 className="mt-2 mb-6 text-xl font-extrabold text-slate-900">
               Bài viết chuyên sâu về {silo.title.toLowerCase()}
             </h2>
-            <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {posts.map((post) => (
                 <ArticleCard key={post.slug} post={post} />
               ))}
@@ -417,6 +583,39 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                 Xem tất cả bài viết →
               </Link>
             </div>
+          </div>
+        </section>
+      )}
+
+      {/* ── PROVINCE MAP ── */}
+      {siloSlug === "may-ban-hang-tu-dong" && (
+        <section id="tinh-thanh" className="bg-slate-50 py-14">
+          <div className="mx-auto max-w-6xl px-4 sm:px-6">
+            <p className="text-xs font-bold uppercase tracking-[0.18em] text-accent-600">Khu vực phủ sóng</p>
+            <h2 className="mt-2 mb-2 text-xl font-extrabold text-slate-900">
+              Khu vực có kỹ thuật viên thường trú
+            </h2>
+            <p className="mb-8 max-w-3xl text-sm text-slate-600">
+              TSE Vending duy trì đội kỹ thuật và kho phụ tùng tại 4 địa bàn sau — đảm bảo lắp đặt và bảo trì trong ngày. Các tỉnh thành khác phục vụ qua mạng lưới đối tác với lịch trình sắp xếp trước.
+            </p>
+            <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+              {PROVINCES.filter((p) => ["ho-chi-minh", "ha-noi", "da-nang", "binh-duong"].includes(p.slug)).map((p) => (
+                <Link
+                  key={p.slug}
+                  href={`/may-ban-hang-tu-dong/tinh-thanh/${p.slug}`}
+                  className="flex items-center justify-between rounded-xl border border-brand-200 bg-brand-50 px-4 py-3.5 text-sm font-semibold text-brand-800 transition hover:border-brand-300 hover:bg-white hover:shadow-md"
+                >
+                  <span>{p.name}</span>
+                  <span className="ml-2 flex-none text-brand-500">→</span>
+                </Link>
+              ))}
+            </div>
+            <p className="mt-5 text-xs text-slate-500">
+              Cần lắp đặt tại tỉnh thành khác?{" "}
+              <Link href="/lien-he" className="text-brand-600 hover:underline">
+                Liên hệ để được sắp xếp qua mạng lưới đối tác.
+              </Link>
+            </p>
           </div>
         </section>
       )}

@@ -2,8 +2,17 @@
 title: "Tủ locker thư viện công cụ: Mô hình chia sẻ dụng cụ cộng đồng thông minh"
 description: "Tool Library (thư viện dụng cụ) kết hợp tủ locker thông minh đang nổi lên như mô hình kinh tế chia sẻ sáng tạo — người dân mượn khoan, cưa, máy hàn thay vì mua. Toronto, Berlin và Melbourne đang dẫn đầu."
 date: "2026-06-05"
+image: "/images/articles/tu-locker-thu-vien-cong-cu-dung-cu-chia-se.jpg"
+imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện công cụ", "tool library locker", "chia sẻ dụng cụ thông minh"]
+faqs:
+  - q: "Tủ locker thư viện công cụ là gì?"
+    a: "Là mô hình chia sẻ dụng cụ cộng đồng thông minh."
+  - q: "Mô hình Tool Library hoạt động như thế nào?"
+    a: "Thành viên đăng ký, mượn dụng cụ trả lại sau sử dụng."
+  - q: "Tại sao tủ locker thông minh được kết hợp vào Tool Library?"
+    a: "Để quản lý và chia sẻ dụng cụ một cách thông minh và hiệu quả."
 ---
 
 Bạn có bao giờ mua một cái khoan điện để dùng một lần, rồi nó nằm trong kho 5 năm? Theo thống kê, máy khoan điện trung bình được sử dụng chỉ 12-15 phút trong suốt vòng đời của nó. Đây là sự lãng phí tài nguyên khổng lồ — và **Tool Library** (thư viện dụng cụ) kết hợp với [tủ locker thông minh](/tu-locker-thong-minh) đang giải quyết bài toán này theo hướng kinh tế tuần hoàn thông minh.

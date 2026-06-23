@@ -1,0 +1,17 @@
+{
+  "dientuvietnam": {
+    "submitted": false,
+    "notes": "site offline - connection refused",
+    "date": "2026-06-18"
+  },
+  "hcmautomation": {
+    "submitted": false,
+    "notes": "site offline - timeout",
+    "date": "2026-06-18"
+  },
+  "tinhte": {
+    "submitted": false,
+    "notes": "Error: page.waitForTimeout: Target page, context or browser has been closed",
+    "date": "2026-06-18"
+  }
+}

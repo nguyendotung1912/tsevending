@@ -1,5 +1,160 @@
 {
-  "updatedAt": "2026-06-17T00:00:00.000Z",
-  "totalItems": 0,
-  "items": []
+  "updatedAt": "2026-06-19T15:01:06.451Z",
+  "totalItems": 14,
+  "items": [
+    {
+      "title": "InPost reaches 15,000 UK lockers as consumers demand more control over delivery",
+      "titleVi": "InPost reaches 15,000 UK lockers as consumers demand more control over delivery",
+      "summaryVi": "InPost, a UK out-of-home parcel locker provider, has reached 15,000 lockers nationwide, a milestone the company says reflects a shift in how consumers expect delivery to work.\nThe network now gives millions of UK consumers access to 24/7 parcel collection and returns, with InPost lockers located in supermarkets, retail parks, transportation hubs and residential areas.\nThe expansion comes amid moun",
+      "contentHtml": "<p>InPost, a UK out-of-home parcel locker provider, has reached 15,000 lockers nationwide, a milestone the company says reflects a shift in how consumers expect delivery to work.\nThe network now gives millions of UK consumers access to 24/7 parcel collection and returns, with InPost lockers located in supermarkets, retail parks, transportation hubs and residential areas.\nThe expansion comes amid moun</p>",
+      "url": "https://www.parcelandpostaltechnologyinternational.com/news/lockers-pudo/inpost-reaches-15000-uk-lockers-as-consumers-demand-more-control-over-delivery.html",
+      "source": "Parcel Industry",
+      "pubDate": "Wed, 17 Jun 2026 12:03:17 +0000",
+      "category": "logistics",
+      "slug": "parcel-industry-20260617-inpost-reaches-15000-uk-lockers-as-consumers-demand-mor"
+    },
+    {
+      "title": "How self-service is now retail infrastructure",
+      "titleVi": "How self-service is now retail infrastructure",
+      "summaryVi": "Retailers are rapidly expanding self-service technology far beyond the traditional checkout lane as they look to improve customer experience, streamline store operations and address labor shortages.",
+      "contentHtml": "<p>Retailers are rapidly expanding self-service technology far beyond the traditional checkout lane as they look to improve customer experience, streamline store operations and address labor shortages.</p>",
+      "url": "https://www.retailcustomerexperience.com/articles/how-self-service-is-now-retail-infrastructure/",
+      "source": "Retail Customer Experience",
+      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "category": "retail",
+      "slug": "retail-customer-20260601-how-self-service-is-now-retail-infrastructure"
+    },
+    {
+      "title": "German grocer deploys interactive touchscreen kiosk powered by eyefactive",
+      "titleVi": "German grocer deploys interactive touchscreen kiosk powered by eyefactive",
+      "summaryVi": "",
+      "contentHtml": "<p></p>",
+      "url": "https://www.kioskmarketplace.com/news/german-grocer-deploys-interactive-touchscreen-kiosk-powered-by-eyefactive/",
+      "source": "Retail Customer Experience",
+      "pubDate": "Tue, 26 May 2026 10:00:00 +0000",
+      "category": "retail",
+      "slug": "retail-customer-20260526-german-grocer-deploys-interactive-touchscreen-kiosk-pow"
+    },
+    {
+      "title": "Cashierless Checkout Pioneer Grabango Shuts Down After Failing to Secure Additional Funding",
+      "titleVi": "Cashierless Checkout Pioneer Grabango Shuts Down After Failing to Secure Additional Funding",
+      "summaryVi": "Grabango, a grocery-tech startup that raised over $93 million for its cashierless checkout technology, is shutting down, The Spoon has learned. The closure follows the company&#8217;s inability to secure the [&#8230;]",
+      "contentHtml": "<p>Grabango, a grocery-tech startup that raised over $93 million for its cashierless checkout technology, is shutting down, The Spoon has learned. The closure follows the company&#8217;s inability to secure the [&#8230;]</p>",
+      "url": "https://thespoon.tech/cashierless-checkout-pioneer-grabango-shuts-down-after-failing-to-secure-additional-funding/",
+      "source": "The Spoon",
+      "pubDate": "Wed, 09 Oct 2024 14:57:10 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20241009-cashierless-checkout-pioneer-grabango-shuts-down-after-"
+    },
+    {
+      "title": "Scoop: Kalanick&#8217;s Latest Idea for Disrupting Food May Be No-Fee Bulk Food Delivery &#038; Automated Pick-Up Kiosks",
+      "titleVi": "Scoop: Kalanick&#8217;s Latest Idea for Disrupting Food May Be No-Fee Bulk Food Delivery &#038; Automated Pick-Up Kiosks",
+      "summaryVi": "When Travis Kalanick showed up at the Food on Demand conference this past May, technology and restaurant industry insiders could hardly believe it. After all, the Uber cofounder had gained [&#8230;]",
+      "contentHtml": "<p>When Travis Kalanick showed up at the Food on Demand conference this past May, technology and restaurant industry insiders could hardly believe it. After all, the Uber cofounder had gained [&#8230;]</p>",
+      "url": "https://thespoon.tech/scoop-kalanicks-latest-idea-for-disrupting-food-may-be-no-fee-bulk-food-delivery-automated-pick-up-kiosks/",
+      "source": "The Spoon",
+      "pubDate": "Sat, 29 Jun 2024 17:36:22 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240629-scoop-kalanick8217s-latest-idea-for-disrupting-food-may"
+    },
+    {
+      "title": "Speedy Eats Readies First Unattended Drive-Thru Convenience Store Location for Summer Launch",
+      "titleVi": "Speedy Eats Readies First Unattended Drive-Thru Convenience Store Location for Summer Launch",
+      "summaryVi": "Speedy Eats, a maker of unattended vending and retail technology, will debut its first location with a customer this summer. The company, which has been showcasing its unattended retail concept [&#8230;]",
+      "contentHtml": "<p>Speedy Eats, a maker of unattended vending and retail technology, will debut its first location with a customer this summer. The company, which has been showcasing its unattended retail concept [&#8230;]</p>",
+      "url": "https://thespoon.tech/speedy-eats-readies-first-unattended-drive-thru-retail-store-location-for-summer-launch/",
+      "source": "The Spoon",
+      "pubDate": "Tue, 21 May 2024 15:11:05 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240521-speedy-eats-readies-first-unattended-drive-thru-conveni"
+    },
+    {
+      "title": "Wow Bao Launches Hot Bun Vending Machine In The Metaverse",
+      "titleVi": "Wow Bao Launches Hot Bun Vending Machine In The Metaverse",
+      "summaryVi": "You can now visit a hot bun vending machine in the metaverse. No, this isn&#8217;t a plotline from the sequel to Hot Tub Time Machine, but the next chapter in [&#8230;]",
+      "contentHtml": "<p>You can now visit a hot bun vending machine in the metaverse. No, this isn&#8217;t a plotline from the sequel to Hot Tub Time Machine, but the next chapter in [&#8230;]</p>",
+      "url": "https://thespoon.tech/wow-bao-launches-hot-bun-vending-machine-in-the-metaverse/",
+      "source": "The Spoon",
+      "pubDate": "Tue, 16 Apr 2024 15:27:54 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240416-wow-bao-launches-hot-bun-vending-machine-in-the-metaver"
+    },
+    {
+      "title": "Report: Diners Opting for Restaurant-Specific Apps &#038; Kiosks While Deemphasizing 3rd-Party Delivery",
+      "titleVi": "Report: Diners Opting for Restaurant-Specific Apps &#038; Kiosks While Deemphasizing 3rd-Party Delivery",
+      "summaryVi": "A new report published by Tillster shows that quick-service restaurant customers are increasingly opting to use restaurant-specific apps over 3rd party delivery apps. The report, which analyzed the results of [&#8230;]",
+      "contentHtml": "<p>A new report published by Tillster shows that quick-service restaurant customers are increasingly opting to use restaurant-specific apps over 3rd party delivery apps. The report, which analyzed the results of [&#8230;]</p>",
+      "url": "https://thespoon.tech/report-diners-opting-for-restaurant-specific-apps-kiosks-while-demphasizing-3rd-party-delivery/",
+      "source": "The Spoon",
+      "pubDate": "Mon, 15 Apr 2024 17:03:53 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240415-report-diners-opting-for-restaurant-specific-apps-038-k"
+    },
+    {
+      "title": "Amazon Pulling &#8216;Just Walk Out&#8217; from Amazon Fresh Grocery Stores",
+      "titleVi": "Amazon Pulling &#8216;Just Walk Out&#8217; from Amazon Fresh Grocery Stores",
+      "summaryVi": "According to a story published in The Information, Amazon is planning to pull its Just Walk Out cashierless technology from its large-format grocery store, Amazon Fresh. As part of the [&#8230;]",
+      "contentHtml": "<p>According to a story published in The Information, Amazon is planning to pull its Just Walk Out cashierless technology from its large-format grocery store, Amazon Fresh. As part of the [&#8230;]</p>",
+      "url": "https://thespoon.tech/amazon-pulling-just-walk-out-from-amazon-fresh-grocery-stores/",
+      "source": "The Spoon",
+      "pubDate": "Tue, 02 Apr 2024 22:42:10 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240402-amazon-pulling-8216just-walk-out8217-from-amazon-fresh-"
+    },
+    {
+      "title": "Watch This Tour of The Yo-Kai Boba Robot at CES 2024",
+      "titleVi": "Watch This Tour of The Yo-Kai Boba Robot at CES 2024",
+      "summaryVi": "In what seems to be an annual occurrence at this point, this year Yo-Kai introduced a new robotic food kiosk and drew huge crowds at CES. This year, it was [&#8230;]",
+      "contentHtml": "<p>In what seems to be an annual occurrence at this point, this year Yo-Kai introduced a new robotic food kiosk and drew huge crowds at CES. This year, it was [&#8230;]</p>",
+      "url": "https://thespoon.tech/watch-this-tour-of-the-yo-kai-boba-robot-at-ces-2024/",
+      "source": "The Spoon",
+      "pubDate": "Fri, 12 Jan 2024 14:03:19 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20240112-watch-this-tour-of-the-yo-kai-boba-robot-at-ces-2024"
+    },
+    {
+      "title": "With Launch of Bowl Food Robot, Cibotica Points to Dispensing Technology and Small Footprint as Differentiators",
+      "titleVi": "With Launch of Bowl Food Robot, Cibotica Points to Dispensing Technology and Small Footprint as Differentiators",
+      "summaryVi": "This week, Canadian food robot startup Cibotica announced that its first food robot is fully operational in a multi-brand &#8216;digital food hall&#8217; called Food Republic in Vancouver, Canada. According to [&#8230;]",
+      "contentHtml": "<p>This week, Canadian food robot startup Cibotica announced that its first food robot is fully operational in a multi-brand &#8216;digital food hall&#8217; called Food Republic in Vancouver, Canada. According to [&#8230;]</p>",
+      "url": "https://thespoon.tech/with-launch-of-bowl-food-robot-cibotica-points-to-dispensing-technology-and-lean-footprint-as-differentiators/",
+      "source": "The Spoon",
+      "pubDate": "Thu, 07 Dec 2023 17:36:02 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20231207-with-launch-of-bowl-food-robot-cibotica-points-to-dispe"
+    },
+    {
+      "title": "How Mini Melts Built a $150M Beaded Ice Cream Business With a Nationwide Network of Automated Kiosks",
+      "titleVi": "How Mini Melts Built a $150M Beaded Ice Cream Business With a Nationwide Network of Automated Kiosks",
+      "summaryVi": "If you&#8217;re like me, you&#8217;ve probably bought a beaded ice cream at your local ballpark or fairgrounds during the dog days of summer. You know the kind, that ice cream [&#8230;]",
+      "contentHtml": "<p>If you&#8217;re like me, you&#8217;ve probably bought a beaded ice cream at your local ballpark or fairgrounds during the dog days of summer. You know the kind, that ice cream [&#8230;]</p>",
+      "url": "https://thespoon.tech/how-mini-melts-built-a-150m-beaded-ice-cream-business-with-a-nationwide-network-of-automated-kiosks/",
+      "source": "The Spoon",
+      "pubDate": "Tue, 22 Aug 2023 18:15:42 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20230822-how-mini-melts-built-a-150m-beaded-ice-cream-business-w"
+    },
+    {
+      "title": "DiGiorno Debuts Pizza Vending Machine, and It Looks a Whole Lot Like Basil Street Pizza",
+      "titleVi": "DiGiorno Debuts Pizza Vending Machine, and It Looks a Whole Lot Like Basil Street Pizza",
+      "summaryVi": "This week, Nestlé frozen pizza brand DiGiorno debuted its first-ever pizza vending machine, the DiGiorno To Go. When I looked at the machine and watched the video of the DiGiorno [&#8230;]",
+      "contentHtml": "<p>This week, Nestlé frozen pizza brand DiGiorno debuted its first-ever pizza vending machine, the DiGiorno To Go. When I looked at the machine and watched the video of the DiGiorno [&#8230;]</p>",
+      "url": "https://thespoon.tech/digiorno-debuts-pizza-vending-machine-and-it-looks-a-whole-lot-like-basil-street-pizza/",
+      "source": "The Spoon",
+      "pubDate": "Thu, 20 Jul 2023 16:09:07 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20230720-digiorno-debuts-pizza-vending-machine-and-it-looks-a-wh"
+    },
+    {
+      "title": "Karakuri Joins The Growing List of Food Robot Startups That Have Shut Down",
+      "titleVi": "Karakuri Joins The Growing List of Food Robot Startups That Have Shut Down",
+      "summaryVi": "More bad news on the food robot front. Karakuri, a startup that made a robotic food kiosk that assembles various cold and hot ingredients into prepared meals, is shutting down, [&#8230;]",
+      "contentHtml": "<p>More bad news on the food robot front. Karakuri, a startup that made a robotic food kiosk that assembles various cold and hot ingredients into prepared meals, is shutting down, [&#8230;]</p>",
+      "url": "https://thespoon.tech/karakuri-joins-the-growing-list-of-food-robot-startups-that-have-shut-down/",
+      "source": "The Spoon",
+      "pubDate": "Wed, 21 Jun 2023 17:55:49 +0000",
+      "category": "foodtech",
+      "slug": "the-spoon-20230621-karakuri-joins-the-growing-list-of-food-robot-startups-"
+    }
+  ]
 }

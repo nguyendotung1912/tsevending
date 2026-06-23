@@ -2,6 +2,16 @@
 # Runs on Windows login: generates articles naturally (random count + delay)
 # API key is stored in scripts\.env.local (never committed to git)
 
+# ── PAUSED 2026-06-23 — thin-content SEO remediation ─────────────────────────
+# The Gemini generator was producing <600-word articles that Google rejects as
+# "Crawled - currently not indexed", which dragged down site-wide rankings.
+# Daily auto-generation is paused until the generator reliably emits 600+ words.
+# To re-enable: delete this block. (Or fully disable the task as Admin:
+#   schtasks /Change /TN "TSEvending-DailyContent" /DISABLE )
+Write-Output "daily-run is paused (thin-content remediation). Exiting."
+exit 0
+# ─────────────────────────────────────────────────────────────────────────────
+
 $RepoPath = "d:\vba\tsevending"
 $LogFile  = "$RepoPath\scripts\daily-run.log"
 $LockFile = "$RepoPath\scripts\daily-run.lock"

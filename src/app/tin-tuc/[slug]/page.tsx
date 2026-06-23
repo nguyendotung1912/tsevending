@@ -24,12 +24,23 @@ export async function generateMetadata({
   const post = await getPostBySlug(slug);
   if (!post) return {};
 
-  return buildMetadata({
+  const meta = buildMetadata({
     title: post.title,
     description: post.description,
     path: `/tin-tuc/${slug}`,
     image: post.image ? `${siteConfig.url}${post.image}` : undefined,
+    type: "article",
+    datePublished: post.date,
   });
+
+  // Noindex thin content — protects against Google Scaled Content Abuse penalty.
+  // `indexable` is computed in lib/content (single source of truth shared with
+  // the sitemap) so the sitemap never advertises a page we set to noindex.
+  if (!post.indexable) {
+    return { ...meta, robots: { index: false, follow: false } };
+  }
+
+  return meta;
 }
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -101,6 +112,23 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </div>
             )}
 
+            {post.faqs && post.faqs.length > 0 && (
+              <div className="mt-10 rounded-2xl border border-brand-100 bg-brand-50/40 p-6">
+                <h2 className="text-lg font-bold text-slate-900 mb-5">Câu hỏi thường gặp</h2>
+                <div className="space-y-4">
+                  {post.faqs.map((faq, i) => (
+                    <details key={i} className="group rounded-xl border border-brand-100 bg-white" open={i === 0}>
+                      <summary className="flex cursor-pointer items-center justify-between gap-3 px-5 py-4 font-semibold text-slate-800 marker:hidden list-none">
+                        <span>{faq.q}</span>
+                        <span className="shrink-0 text-brand-600 transition group-open:rotate-180">▾</span>
+                      </summary>
+                      <p className="px-5 pb-4 text-sm text-slate-600 leading-relaxed">{faq.a}</p>
+                    </details>
+                  ))}
+                </div>
+              </div>
+            )}
+
             <div className="mt-10 rounded-2xl border border-slate-200 bg-slate-50 p-5 flex gap-4 items-start">
               <div className="flex-shrink-0 w-12 h-12 rounded-full bg-brand-700 flex items-center justify-center text-white text-lg font-bold">
                 {mainAuthor.name.split(" ").pop()?.charAt(0)}
@@ -146,6 +174,50 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     {subResult.sub.icon} {subResult.sub.title}
                   </Link>
                 )}
+              </div>
+            )}
+            {silo && silo.subcategories.length > 0 && (
+              <div className="rounded-2xl border border-slate-200 bg-white p-5">
+                <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-400 mb-3">
+                  Danh mục sản phẩm
+                </h2>
+                <ul className="space-y-2">
+                  {silo.subcategories.map((sub) => (
+                    <li key={sub.slug}>
+                      <Link
+                        href={`/${silo.slug}/${sub.slug}`}
+                        className="flex items-center gap-2 text-sm text-brand-700 hover:text-brand-900 hover:underline font-medium"
+                      >
+                        <span className="text-base">{sub.icon}</span>
+                        <span>{sub.shortTitle}</span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {silo && (
+              <div className="rounded-2xl border border-slate-200 bg-white p-5">
+                <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-400 mb-3">
+                  Trang chính
+                </h2>
+                <ul className="space-y-2 text-sm">
+                  <li>
+                    <Link href={`/${silo.slug}`} className="text-brand-700 hover:underline font-medium">
+                      Tất cả {silo.shortTitle}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/tin-tuc" className="text-brand-700 hover:underline">
+                      ← Tất cả bài viết
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/lien-he" className="text-brand-700 hover:underline">
+                      Liên hệ tư vấn
+                    </Link>
+                  </li>
+                </ul>
               </div>
             )}
             <Link

@@ -2,8 +2,18 @@
 title: "Tủ locker thư viện âm nhạc: Mượn nhạc cụ qua smart locker tại trường học và trung tâm âm nhạc"
 description: "Music library locker cho phép học sinh mượn đàn guitar, violin, keyboard qua ứng dụng 24/7 không cần nhân viên. Mô hình đang được triển khai tại trường nhạc ở Mỹ, Anh, Australia và ngày càng phổ biến tại châu Á."
 date: "2026-06-06"
+image: "/images/articles/tu-locker-thu-vien-am-nhac-nhac-cu.jpg"
+imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
+imageCredit: "Photo by Efrem  Efre on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhạc cụ", "music library locker", "mượn nhạc cụ thông minh"]
+faqs:
+  - q: "Music Library Locker là gì?"
+    a: "Music Library Locker là một hệ thống tủ locker thông minh cho phép học sinh mượn nhạc cụ khi cần, gi��p giảm rào cản tài chính trong việc học nhạc."
+  - q: "Tại sao cần Music Library Locker?"
+    a: "Cần Music Library Locker vì nhạc cụ chất lượng có chi phí rất cao, đặc biệt với gia đình thu nhập trung bình, khiến nhiều người ngần ngại đầu tư."
+  - q: "Lợi ích của Music Library Locker là gì?"
+    a: "Lợi ích là học sinh có thể mượn nhạc cụ khi cần mà không cần mua, giúp giảm gánh nặng tài chính cho gia đình."
 ---
 
 Học nhạc là hành trình dài — và nhạc cụ chất lượng có chi phí rất cao. Đàn violin học sinh tử tế cũng từ vài triệu đồng, piano điện cỡ trung từ 10-20 triệu. Không phải gia đình nào cũng sẵn lòng đầu tư ngay từ đầu khi trẻ chưa chắc sẽ gắn bó lâu dài. **Music library locker** kết hợp [tủ locker thông minh](/tu-locker-thong-minh) đang giải quyết rào cản này — học sinh mượn nhạc cụ khi cần, không cần mua.

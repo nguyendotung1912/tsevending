@@ -2,8 +2,17 @@
 title: "Tủ locker thông minh là gì? Tổng quan đầy đủ về smart locker 2026"
 description: "Tủ locker thông minh là hệ thống tủ khóa điện tử tự động, được điều khiển qua phần mềm và kết nối internet. Tìm hiểu cách hoạt động, phân loại và ứng dụng thực tế của smart locker trong mọi lĩnh vực."
 date: "2026-06-08"
+image: "/images/articles/tu-locker-thong-minh-la-gi-tong-quan-2026.jpg"
+imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thông minh là gì", "smart locker là gì", "tủ locker điện tử là gì", "tủ locker thông minh 2026"]
+faqs:
+  - q: "Tủ locker thông minh là gì?"
+    a: "Tủ locker thông minh là hệ thống tủ khóa điện tử tự động dùng phần mềm quản lý và kết nối internet."
+  - q: "Tủ locker thông minh hoạt động thế nào?"
+    a: "Hệ thống hoạt động theo quy trình khép kín qua các bước: Đặt lịch, Trả, Nhận, Lấy."
+  - q: "Tủ locker thông minh có những phương thức hoạt động nào?"
+    a: "Tủ locker thông minh hoạt động qua  qua PIN, thẻ,quét mã, nhận diện khuôn mặt hoặc ứng dụng di động."
 ---
 
 **Tủ locker thông minh** (hay còn gọi là smart locker) là hệ thống tủ khóa điện tử tự động, sử dụng phần mềm quản lý tích hợp và kết nối internet để cho phép người dùng gửi, nhận hoặc lưu trữ đồ vật mà không cần sự can thiệp của nhân viên. Khác với tủ locker truyền thống dùng chìa khóa vật lý, [tủ locker thông minh](/tu-locker-thong-minh) vận hành hoàn toàn tự động 24/7 thông qua mã PIN, thẻ RFID, quét mã QR, nhận diện khuôn mặt hoặc ứng dụng di động.

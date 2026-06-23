@@ -7,7 +7,7 @@ sub: "may-ban-nuoc"
 keywords: ["vá»‹ trÃ­ Ä‘áº·t mÃ¡y bÃ¡n nÆ°á»›c", "kinh doanh mÃ¡y bÃ¡n nÆ°á»›c", "Ä‘á»‹a Ä‘iá»ƒm vending machine"]
 image: "/images/articles/vi-tri-dat-may-ban-nuoc-tu-dong-noi-dau-dem-lai-loi-nhuan-toi-uu.jpg"
 imageAlt: "Bản đồ phân tích vị trí đặt máy bán nước tự động tối ưu lợi nhuận kinh doanh"
-imageCredit: "Photo by Huu Huynh on Pexels"
+imageCredit: "Photo by www.kaboompics.com on Pexels"
 faqs:
   - q: "Thời gian thu hồi vốn trung bình khi kinh doanh máy bán nước tự động là bao lâu?"
     a: "Với vị trí tốt và quản lý hiệu quả, thời gian thu hồi vốn có thể từ 12-24 tháng, tùy thuộc vào chi phí đầu tư ban đầu và doanh thu thực tế."

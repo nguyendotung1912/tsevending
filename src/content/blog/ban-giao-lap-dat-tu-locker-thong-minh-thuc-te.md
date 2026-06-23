@@ -2,10 +2,11 @@
 title: "Lắp đặt tủ locker thông minh: Quy trình và thực tế thi công"
 description: "Quy trình lắp đặt tủ locker thông minh thực tế từ khảo sát đến bàn giao. Thời gian, yêu cầu kỹ thuật, checklist nghiệm thu và những điều cần biết trước khi ký hợp đồng."
 date: "2026-06-13"
+image: "/images/articles/ban-giao-lap-dat-tu-locker-thong-minh-thuc-te.jpg"
+imageAlt: "A sleek wall of lockers with one door open, showcasing minimalist design."
+imageCredit: "Photo by МОБО Модульные Котельные on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["lắp đặt tủ locker thông minh", "thi công locker thông minh", "quy trình lắp locker", "bàn giao locker", "yêu cầu kỹ thuật locker"]
-image: "/images/articles/ban-giao-lap-dat-tu-locker-thong-minh-thuc-te.svg"
-imageAlt: "Quy trình lắp đặt và bàn giao tủ locker thông minh thực tế tại Việt Nam"
 faqs:
   - q: "Lắp đặt tủ locker thông minh mất bao lâu?"
     a: "Thời gian lắp đặt tủ locker thông minh thường từ 1–3 ngày tùy quy mô. Cụm 20–30 ngăn mất khoảng 1 ngày; hệ thống 100+ ngăn ở nhiều vị trí có thể mất 3–5 ngày làm việc bao gồm cấu hình phần mềm và kiểm tra."

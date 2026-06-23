@@ -1,0 +1,3431 @@
+{
+  "total": 488,
+  "thinContent": [
+    {
+      "slug": "tu-locker-thong-minh-trung-tam-the-duc-tham-my-yoga-quan-ly-do-khach-hang",
+      "title": "Tủ Locker Thông Minh Tại Trung Tâm Thể Dục Thẩm Mỹ Và Yoga: Quản Lý Đồ Khách Hàng",
+      "words": 222,
+      "hasImage": true,
+      "date": "2027-01-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-in-3d-khong-gian-maker-quan-ly-dung-cu-sang-tao",
+      "title": "Tủ Locker Thông Minh Cho Nhà In 3D Và Không Gian Maker: Quản Lý Dụng Cụ Sáng Tạo",
+      "words": 235,
+      "hasImage": true,
+      "date": "2027-01-24"
+    },
+    {
+      "slug": "tu-locker-thong-minh-shipper-theo-gio-nhan-hang-linh-hoat",
+      "title": "Tủ Locker Thông Minh Dành Cho Shipper Theo Giờ: Nhận Hàng Linh Hoạt Không Cố Định",
+      "words": 236,
+      "hasImage": true,
+      "date": "2026-12-23"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-du-thuyen-cang-hang-hai-bao-mat-do-dung",
+      "title": "Tủ Locker Thông Minh Tại Khu Du Thuyền Và Cảng Hàng Hải: Bảo Mật Đồ Dùng",
+      "words": 241,
+      "hasImage": true,
+      "date": "2027-01-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-thuong-hieu-chau-a-phan-tich-thi-phan-chien-luoc",
+      "title": "Thương Hiệu Tủ Locker Thông Minh Châu Á Nổi Bật: Phân Tích Thị Phần Và Chiến Lược",
+      "words": 241,
+      "hasImage": true,
+      "date": "2027-02-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cach-tinh-so-luong-o-locker-toa-nha-van-phong",
+      "title": "Cách Tính Số Lượng Ô Locker Cần Thiết Cho Tòa Nhà Văn Phòng: Công Thức Chuẩn",
+      "words": 242,
+      "hasImage": true,
+      "date": "2027-03-02"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-quan-ly-chung-cu-app-cu-dan",
+      "title": "Tủ Locker Thông Minh Tích Hợp Hệ Thống Quản Lý Chung Cư: Kết Nối App Cư Dân",
+      "words": 242,
+      "hasImage": true,
+      "date": "2027-03-03"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nganh-cong-nghiep-dien-tu-kiem-soat-dung-cu-linh-kien",
+      "title": "Tủ Locker Thông Minh Ngành Công Nghiệp Điện Tử: Kiểm Soát Dụng Cụ Và Linh Kiện",
+      "words": 247,
+      "hasImage": true,
+      "date": "2027-03-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-noi-dia-vs-nhap-khau-chat-luong-gia-hau-mai",
+      "title": "So Sánh Tủ Locker Thông Minh Nội Địa Và Nhập Khẩu: Chất Lượng, Giá Và Dịch Vụ Hậu Mãi",
+      "words": 247,
+      "hasImage": true,
+      "date": "2027-02-24"
+    },
+    {
+      "slug": "tu-locker-thong-minh-quy-trinh-lap-dat-chung-cu-khao-sat-nghiem-thu",
+      "title": "Quy Trình Lắp Đặt Tủ Locker Thông Minh Cho Chung Cư: Từ Khảo Sát Đến Nghiệm Thu",
+      "words": 247,
+      "hasImage": true,
+      "date": "2027-03-01"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phan-tich-canh-tranh-thi-truong-viet-nam-swot-2026",
+      "title": "Phân Tích Cạnh Tranh Thị Trường Tủ Locker Thông Minh Việt Nam: SWOT 2026",
+      "words": 248,
+      "hasImage": true,
+      "date": "2027-02-08"
+    },
+    {
+      "slug": "tu-locker-thong-minh-san-khau-doi-bieu-dien-nghe-thuat-quan-ly-trang-phuc",
+      "title": "Tủ Locker Thông Minh Dành Cho Sân Khấu Và Đội Biểu Diễn Nghệ Thuật: Quản Lý Trang Phục",
+      "words": 248,
+      "hasImage": true,
+      "date": "2027-01-28"
+    },
+    {
+      "slug": "tu-locker-thong-minh-danh-gia-phan-mem-quan-ly-tinh-nang-uu-nhuoc-diem",
+      "title": "Đánh Giá Thực Tế Phần Mềm Quản Lý Tủ Locker Thông Minh: Tính Năng Và Ưu Nhược Điểm",
+      "words": 251,
+      "hasImage": true,
+      "date": "2027-02-25"
+    },
+    {
+      "slug": "tu-locker-thong-minh-rap-chieu-phim-gui-do-nhan-ve-truoc-suat-chieu",
+      "title": "Tủ Locker Thông Minh Tại Rạp Chiếu Phim: Gửi Đồ Và Nhận Vé Trước Suất Chiếu",
+      "words": 251,
+      "hasImage": true,
+      "date": "2027-01-07"
+    },
+    {
+      "slug": "tu-locker-thong-minh-kiem-dinh-chung-nhan-iso-ce-tcvn",
+      "title": "Kiểm Định Và Chứng Nhận Tủ Locker Thông Minh: Tiêu Chuẩn ISO, CE và TCVN",
+      "words": 252,
+      "hasImage": true,
+      "date": "2027-03-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-freelancer-lam-viec-tu-xa-remote-work",
+      "title": "Tủ Locker Thông Minh Cho Freelancer Và Đội Ngũ Remote Work: Giải Pháp Làm Việc Linh Hoạt",
+      "words": 253,
+      "hasImage": true,
+      "date": "2027-02-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-toa-nha-xanh-leed-tieu-chi-ben-vung",
+      "title": "Tủ Locker Thông Minh Tại Tòa Nhà Xanh LEED: Đáp Ứng Tiêu Chí Bền Vững Môi Trường",
+      "words": 253,
+      "hasImage": true,
+      "date": "2027-02-17"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-cam-trai-da-ngoai-ngoai-troi-giai-phap",
+      "title": "Tủ Locker Thông Minh Tại Khu Cắm Trại Và Dã Ngoại Ngoài Trời: Giải Pháp Ngoài Trời",
+      "words": 256,
+      "hasImage": true,
+      "date": "2027-01-10"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tram-xe-dap-dien-xe-may-dien-giao-thong-xanh",
+      "title": "Tủ Locker Thông Minh Tại Trạm Xe Đạp Điện Và Xe Máy Điện: Kết Hợp Giao Thông Xanh",
+      "words": 256,
+      "hasImage": true,
+      "date": "2027-01-21"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cong-ty-cung-ung-lao-dong-quan-ly-nhan-vien-thoi-vu",
+      "title": "Tủ Locker Thông Minh Cho Công Ty Cung Ứng Lao Động: Quản Lý Nhân Viên Thời Vụ",
+      "words": 257,
+      "hasImage": true,
+      "date": "2027-02-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nhat-ban-bai-hoc-kinh-nghiem-thi-truong-viet-nam",
+      "title": "Xu Hướng Tủ Locker Thông Minh Tại Nhật Bản: Bài Học Kinh Nghiệm Cho Thị Trường VN",
+      "words": 257,
+      "hasImage": true,
+      "date": "2027-02-18"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phong-choi-bowling-bida-gui-do-giai-tri",
+      "title": "Tủ Locker Thông Minh Tại Phòng Chơi Bowling Và Bida: Gửi Đồ Trong Khi Giải Trí",
+      "words": 257,
+      "hasImage": true,
+      "date": "2027-01-04"
+    },
+    {
+      "slug": "tu-locker-thong-minh-resort-nui-du-lich-mao-hiem-van-chuyen-nhe",
+      "title": "Tủ Locker Thông Minh Tại Resort Núi Và Du Lịch Mạo Hiểm: Giải Pháp Vận Chuyển Nhẹ",
+      "words": 257,
+      "hasImage": true,
+      "date": "2027-01-13"
+    },
+    {
+      "slug": "tu-locker-thong-minh-so-sanh-thuong-hieu-chung-cu-viet-nam-2026",
+      "title": "So Sánh Các Thương Hiệu Tủ Locker Chung Cư Phổ Biến Tại Việt Nam 2026",
+      "words": 258,
+      "hasImage": true,
+      "date": "2027-03-04"
+    },
+    {
+      "slug": "tu-locker-thong-minh-han-quoc-k-style-bai-hoc-cho-viet-nam",
+      "title": "Xu Hướng Tủ Locker Thông Minh Tại Hàn Quốc: K-Style Smart Locker Và Bài Học Cho VN",
+      "words": 259,
+      "hasImage": true,
+      "date": "2027-02-19"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ket-hop-access-control-toa-nha-tich-hop-the",
+      "title": "Tủ Locker Thông Minh Kết Hợp Hệ Thống Access Control Tòa Nhà: Tích Hợp Thẻ Toàn Diện",
+      "words": 259,
+      "hasImage": true,
+      "date": "2027-02-22"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tru-so-canh-sat-bien-phong-bao-mat-trang-thiet-bi",
+      "title": "Tủ Locker Thông Minh Tại Trụ Sở Cảnh Sát Và Biên Phòng: Bảo Mật Trang Thiết Bị",
+      "words": 260,
+      "hasImage": true,
+      "date": "2027-01-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-xe-dap-chia-se-xe-may-dien-tu-phuc-vu",
+      "title": "Tủ Locker Thông Minh Phục Vụ Mô Hình Xe Đạp Chia Sẻ Và Xe Máy Điện Tự Phục Vụ",
+      "words": 260,
+      "hasImage": true,
+      "date": "2027-02-01"
+    },
+    {
+      "slug": "tu-locker-thong-minh-xu-ly-su-co-thuong-gap-huong-dan-ky-thuat",
+      "title": "Xử Lý Sự Cố Thường Gặp Với Tủ Locker Thông Minh: Hướng Dẫn Kỹ Thuật Chi Tiết",
+      "words": 261,
+      "hasImage": true,
+      "date": "2027-02-28"
+    },
+    {
+      "slug": "tu-locker-thong-minh-viet-nam-2030-du-bao-thi-truong-co-hoi-dau-tu",
+      "title": "Tủ Locker Thông Minh Tại Việt Nam 2030: Dự Báo Thị Trường Và Cơ Hội Đầu Tư",
+      "words": 262,
+      "hasImage": true,
+      "date": "2027-02-23"
+    },
+    {
+      "slug": "xu-huong-locker-han-quoc-kakao-locker-mo-hinh-tien-tien",
+      "title": "Xu Hướng Tủ Locker Giao Nhận Hàn Quốc: Kakao i Locker Và Mô Hình Tiên Tiến Châu Á",
+      "words": 262,
+      "hasImage": true,
+      "date": "2026-12-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-vui-choi-tre-em-nha-banh-tien-ich-phu-huynh",
+      "title": "Tủ Locker Thông Minh Tại Khu Vui Chơi Trẻ Em Và Nhà Banh: Tiện Ích Cho Phụ Huynh",
+      "words": 263,
+      "hasImage": true,
+      "date": "2027-01-14"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nhan-vien-offshore-gian-khoan-tau-bien-bao-mat",
+      "title": "Tủ Locker Thông Minh Phục Vụ Nhân Viên Offshore Giàn Khoan Và Tàu Biển",
+      "words": 263,
+      "hasImage": true,
+      "date": "2027-01-31"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phong-thu-quan-ao-luu-tru-do-ca-nhan-thoi-trang",
+      "title": "Tủ Locker Thông Minh Tại Khu Vực Phòng Thử Quần Áo: Lưu Trữ Đồ Cá Nhân Thời Trang",
+      "words": 263,
+      "hasImage": true,
+      "date": "2027-01-16"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cho-thue-thiet-bi-xay-dung-nhan-tra-dung-cu",
+      "title": "Tủ Locker Thông Minh Cho Doanh Nghiệp Cho Thuê Thiết Bị Xây Dựng: Nhận Và Trả Dụng Cụ",
+      "words": 264,
+      "hasImage": true,
+      "date": "2027-02-02"
+    },
+    {
+      "slug": "tu-locker-thong-minh-kho-lanh-duoc-pham-thuc-pham-kiem-soat-nhiet-do",
+      "title": "Tủ Locker Thông Minh Trong Kho Lạnh Dược Phẩm Và Thực Phẩm: Kiểm Soát Nhiệt Độ",
+      "words": 264,
+      "hasImage": true,
+      "date": "2027-01-22"
+    },
+    {
+      "slug": "tu-locker-thong-minh-thuong-mai-dien-tu-b2b-giao-hang-van-phong",
+      "title": "Tủ Locker Thông Minh Cho Thương Mại Điện Tử B2B: Giao Hàng Văn Phòng Tự Động",
+      "words": 264,
+      "hasImage": true,
+      "date": "2026-12-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-vui-choi-cong-vien-nuoc-gui-do-an-toan",
+      "title": "Tủ Locker Thông Minh Tại Khu Vui Chơi Và Công Viên Nước: Gửi Đồ An Toàn",
+      "words": 266,
+      "hasImage": true,
+      "date": "2027-01-08"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chong-hack-tan-cong-mang-giai-phap-cybersecurity",
+      "title": "Tủ Locker Thông Minh Chống Hack Và Tấn Công Mạng: Giải Pháp Cybersecurity",
+      "words": 267,
+      "hasImage": true,
+      "date": "2027-03-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phan-loai-rac-thai-dien-tu-tai-che-thu-gom-e-waste",
+      "title": "Tủ Locker Thông Minh Phân Loại Rác Thải Điện Tử: Kết Hợp Tái Chế Và Thu Gom E-Waste",
+      "words": 267,
+      "hasImage": true,
+      "date": "2027-01-17"
+    },
+    {
+      "slug": "tu-locker-thong-minh-trung-tam-cai-nghien-phuc-hoi-chuc-nang-giai-phap",
+      "title": "Tủ Locker Thông Minh Tại Trung Tâm Cai Nghiện Và Phục Hồi Chức Năng: Giải Pháp An Toàn",
+      "words": 267,
+      "hasImage": true,
+      "date": "2027-01-30"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ga-tau-metro-tphcm-ha-noi-ha-tang-giao-thong",
+      "title": "Tủ Locker Thông Minh Tại Nhà Ga Tàu Điện Ngầm Metro TP.HCM Và Hà Nội: Hạ Tầng Giao Thông",
+      "words": 268,
+      "hasImage": true,
+      "date": "2027-01-19"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-ban-le-outlet-discount-mall-trai-nghiem-mua-sam",
+      "title": "Tủ Locker Thông Minh Tại Khu Bán Lẻ Outlet Và Discount Mall: Trải Nghiệm Mua Sắm",
+      "words": 268,
+      "hasImage": true,
+      "date": "2027-01-15"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-kinh-te-dac-biet-phu-quoc-van-don-co-hoi",
+      "title": "Tủ Locker Thông Minh Tại Khu Kinh Tế Đặc Biệt Phú Quốc Và Vân Đồn: Cơ Hội Mới",
+      "words": 268,
+      "hasImage": true,
+      "date": "2027-02-03"
+    },
+    {
+      "slug": "tu-locker-thong-minh-the-he-tiep-theo-cong-nghe-xu-huong-2027-2030",
+      "title": "Tủ Locker Thông Minh Thế Hệ Tiếp Theo: Công Nghệ Và Xu Hướng 2027-2030",
+      "words": 268,
+      "hasImage": true,
+      "date": "2027-02-20"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cong-nghiep-thuc-pham-bao-quan-dung-cu-haccp",
+      "title": "Tủ Locker Thông Minh Cho Ngành Công Nghiệp Thực Phẩm: Bảo Quản Dụng Cụ HACCP",
+      "words": 269,
+      "hasImage": true,
+      "date": "2027-02-15"
+    },
+    {
+      "slug": "tu-locker-thong-minh-doi-thi-dau-the-thao-chuyen-nghiep-quan-ly-trang-phuc",
+      "title": "Tủ Locker Thông Minh Phục Vụ Đội Thi Đấu Thể Thao Chuyên Nghiệp: Quản Lý Trang Phục",
+      "words": 269,
+      "hasImage": true,
+      "date": "2027-01-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-huong-dan-dat-hang-ky-hop-dong-doanh-nghiep",
+      "title": "Hướng Dẫn Đặt Hàng Và Ký Kết Hợp Đồng Tủ Locker Thông Minh Cho Doanh Nghiệp",
+      "words": 269,
+      "hasImage": true,
+      "date": "2027-02-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nguoi-lao-dong-nuoc-ngoai-expat-tieu-chuan",
+      "title": "Tủ Locker Thông Minh Phục Vụ Người Lao Động Nước Ngoài (Expat): Tiêu Chuẩn Và Dịch Vụ",
+      "words": 269,
+      "hasImage": true,
+      "date": "2027-02-21"
+    },
+    {
+      "slug": "tu-locker-thong-minh-trung-tam-cham-soc-khach-hang-call-center",
+      "title": "Tủ Locker Thông Minh Tại Trung Tâm Chăm Sóc Khách Hàng Call Center: Giải Pháp Hiệu Quả",
+      "words": 270,
+      "hasImage": true,
+      "date": "2027-02-13"
+    },
+    {
+      "slug": "tu-locker-thong-minh-benh-vien-tu-nhan-nang-cao-trai-nghiem-benh-nhan",
+      "title": "Tủ Locker Thông Minh Tại Bệnh Viện Tư Nhân: Nâng Cao Trải Nghiệm Bệnh Nhân",
+      "words": 272,
+      "hasImage": true,
+      "date": "2026-12-31"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phong-lab-trung-tam-nghien-cuu-bao-ve-mau-vat",
+      "title": "Tủ Locker Thông Minh Tại Phòng LAB Và Trung Tâm Nghiên Cứu: Bảo Vệ Mẫu Vật Và Thiết Bị",
+      "words": 272,
+      "hasImage": true,
+      "date": "2027-01-23"
+    },
+    {
+      "slug": "tu-locker-thong-minh-food-delivery-pickup-giai-phap-fb",
+      "title": "Tủ Locker Thông Minh Phục Vụ Food Delivery Pickup: Giải Pháp F&B Thông Minh",
+      "words": 274,
+      "hasImage": true,
+      "date": "2026-12-25"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-mua-sam-duty-free-san-bay-luu-tru-do-mua-sam",
+      "title": "Tủ Locker Thông Minh Tại Khu Mua Sắm Duty-Free Sân Bay: Lưu Trữ Đồ Mua Sắm",
+      "words": 275,
+      "hasImage": true,
+      "date": "2027-01-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-lien-ke-shophouse-xu-huong-moi",
+      "title": "Tủ Locker Thông Minh Tại Khu Dân Cư Nhà Liền Kề Và Shophouse: Xu Hướng Mới",
+      "words": 275,
+      "hasImage": true,
+      "date": "2026-12-20"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tieu-chuan-ky-thuat-dien-lap-dat-cam-nang-ky-su",
+      "title": "Tiêu Chuẩn Kỹ Thuật Điện Khi Lắp Đặt Tủ Locker Thông Minh: Cẩm Nang Cho Kỹ Sư",
+      "words": 275,
+      "hasImage": true,
+      "date": "2027-02-16"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cho-thue-thiet-bi-av-su-kien-nhan-va-tra",
+      "title": "Tủ Locker Thông Minh Cho Đơn Vị Cho Thuê Thiết Bị AV Sự Kiện: Nhận Và Trả",
+      "words": 276,
+      "hasImage": true,
+      "date": "2027-01-20"
+    },
+    {
+      "slug": "tu-locker-thong-minh-co-so-ton-giao-chua-nha-tho-thanh-that-lon",
+      "title": "Tủ Locker Thông Minh Phục Vụ Cơ Sở Tôn Giáo: Chùa, Nhà Thờ Và Thánh Thất Lớn",
+      "words": 276,
+      "hasImage": true,
+      "date": "2027-01-25"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-thuong-mai-tu-do-ftz-hai-quan",
+      "title": "Tủ Locker Thông Minh Cho Khu Thương Mại Tự Do FTZ: Yêu Cầu Đặc Thù Hải Quan",
+      "words": 277,
+      "hasImage": true,
+      "date": "2027-02-10"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-may-dien-cong-trinh-ha-tang-quan-ly-dung-cu-cong-nhan",
+      "title": "Tủ Locker Thông Minh Tại Nhà Máy Điện Và Công Trình Hạ Tầng: Quản Lý Dụng Cụ Công Nhân",
+      "words": 278,
+      "hasImage": true,
+      "date": "2027-01-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-van-phong-hanh-chinh-tap-doan-lon-case-study",
+      "title": "Tủ Locker Thông Minh Tại Văn Phòng Hành Chính Tập Đoàn Lớn: Case Study Thực Tế",
+      "words": 278,
+      "hasImage": true,
+      "date": "2027-02-14"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-chuoi-cua-hang-tien-loi-circle-k-familymart",
+      "title": "Máy Bán Hàng Tự Động Trong Chuỗi Cửa Hàng Tiện Lợi Circle K và FamilyMart: Mô Hình Bổ Trợ",
+      "words": 279,
+      "hasImage": true,
+      "date": "2027-03-13"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ben-xe-khach-lien-tinh-gui-hanh-ly-hang-hoa",
+      "title": "Tủ Locker Thông Minh Tại Bến Xe Khách Liên Tỉnh: Gửi Hành Lý Và Hàng Hóa An Toàn",
+      "words": 279,
+      "hasImage": true,
+      "date": "2027-01-18"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phan-tich-tco-so-sanh-thue-va-mua",
+      "title": "Phân Tích TCO Tủ Locker Thông Minh: So Sánh Thuê Và Mua Toàn Diện",
+      "words": 279,
+      "hasImage": true,
+      "date": "2027-02-06"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-diem-don-xe-grab-be-tien-ich-do-thi",
+      "title": "Tủ Locker Thông Minh Tích Hợp Điểm Đón Xe Công Nghệ Grab và Be: Tiện Ích Đô Thị Mới",
+      "words": 280,
+      "hasImage": true,
+      "date": "2027-03-05"
+    },
+    {
+      "slug": "chien-luoc-marketing-tu-locker-thong-minh-b2b-doanh-nghiep",
+      "title": "Chiến Lược Marketing Tủ Locker Thông Minh: Thu Hút Và Thuyết Phục Khách Hàng B2B",
+      "words": 281,
+      "hasImage": true,
+      "date": "2026-12-16"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-do-thi-sinh-thai-xanh-than-thien-moi-truong",
+      "title": "Tủ Locker Thông Minh Tại Khu Đô Thị Sinh Thái Xanh: Giải Pháp Thân Thiện Môi Trường",
+      "words": 281,
+      "hasImage": true,
+      "date": "2026-12-19"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-phuc-hop-the-thao-quan-ly-thiet-bi-dung-chung",
+      "title": "Tủ Locker Thông Minh Tại Khu Phức Hợp Thể Thao: Quản Lý Thiết Bị Dùng Chung",
+      "words": 282,
+      "hasImage": true,
+      "date": "2027-01-05"
+    },
+    {
+      "slug": "tu-locker-thong-minh-huong-dan-bao-tri-dinh-ky-quy-trinh-kiem-tra",
+      "title": "Hướng Dẫn Bảo Trì Định Kỳ Tủ Locker Thông Minh: Quy Trình Và Tần Suất Kiểm Tra",
+      "words": 284,
+      "hasImage": true,
+      "date": "2027-02-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cong-trinh-xay-dung-co-so-ha-tang-bao-quan-dung-cu",
+      "title": "Tủ Locker Thông Minh Cho Công Trình Xây Dựng: Bảo Quản Dụng Cụ Tại Công Trường",
+      "words": 286,
+      "hasImage": true,
+      "date": "2027-03-08"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cau-lac-bo-doc-sach-khong-gian-hoc-tap-cong-dong",
+      "title": "Tủ Locker Thông Minh Tại Câu Lạc Bộ Đọc Sách Và Không Gian Học Tập Cộng Đồng",
+      "words": 290,
+      "hasImage": true,
+      "date": "2027-01-06"
+    },
+    {
+      "slug": "tu-locker-thong-minh-hub-and-spoke-giao-nhan-phan-phoi",
+      "title": "Tủ Locker Thông Minh Cho Mô Hình Hub-And-Spoke Giao Nhận: Phân Phối Từ Trung Tâm",
+      "words": 290,
+      "hasImage": true,
+      "date": "2026-12-24"
+    },
+    {
+      "slug": "tu-locker-thong-minh-mam-non-tieu-hoc-quan-ly-do-dung-tre-em",
+      "title": "Tủ Locker Thông Minh Phục Vụ Mầm Non Và Tiểu Học: Quản Lý Đồ Dùng Và Bảo Mật Trẻ Em",
+      "words": 292,
+      "hasImage": true,
+      "date": "2026-12-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-bao-mat-du-lieu-gdpr-nghi-dinh-13-bao-ve-thong-tin",
+      "title": "Bảo Mật Dữ Liệu Tủ Locker Thông Minh: GDPR, Nghị Định 13 và Bảo Vệ Thông Tin Người Dùng",
+      "words": 293,
+      "hasImage": true,
+      "date": "2027-03-10"
+    },
+    {
+      "slug": "tu-locker-thong-minh-trong-he-thong-eam-quan-ly-tai-san-doanh-nghiep",
+      "title": "Tủ Locker Thông Minh Trong Hệ Thống EAM: Tích Hợp Quản Lý Tài Sản Doanh Nghiệp",
+      "words": 296,
+      "hasImage": true,
+      "date": "2027-02-07"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-thiet-ke-xuong-may-quan-ly-vai-phu-lieu",
+      "title": "Tủ Locker Thông Minh Phục Vụ Nhà Thiết Kế Và Xưởng May: Quản Lý Vải Và Phụ Liệu",
+      "words": 298,
+      "hasImage": true,
+      "date": "2027-02-05"
+    },
+    {
+      "slug": "tu-locker-thong-minh-trung-tam-day-nghe-giao-duc-nghe-nghiep",
+      "title": "Tủ Locker Thông Minh Tại Trung Tâm Dạy Nghề Và Giáo Dục Nghề Nghiệp: Bảo Vệ Dụng Cụ",
+      "words": 303,
+      "hasImage": true,
+      "date": "2026-12-30"
+    },
+    {
+      "slug": "tu-locker-thong-minh-hoc-sinh-thpt-giam-tai-balo-nang-sach-vo",
+      "title": "Tủ Locker Thông Minh Dành Cho Học Sinh THPT: Giảm Tải Balo Nặng Mỗi Ngày",
+      "words": 306,
+      "hasImage": true,
+      "date": "2026-12-28"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-du-lich-lang-nghe-truyen-thong-viet-nam",
+      "title": "Tủ Locker Thông Minh Tại Khu Du Lịch Làng Nghề Truyền Thống Việt Nam",
+      "words": 312,
+      "hasImage": true,
+      "date": "2027-02-04"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cold-chain-duoc-pham-chuoi-lanh-y-te",
+      "title": "Tủ Locker Thông Minh Theo Dõi Chuỗi Lạnh Dược Phẩm: Cold Chain Locker Y Tế",
+      "words": 314,
+      "hasImage": true,
+      "date": "2027-01-01"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cong-cong-do-thi-thong-minh-viet-nam",
+      "title": "Mô Hình Tủ Locker Thông Minh Công Cộng Trong Đô Thị Thông Minh Việt Nam",
+      "words": 314,
+      "hasImage": true,
+      "date": "2027-03-06"
+    },
+    {
+      "slug": "mo-rong-kinh-doanh-may-ban-hang-tu-dong-tu-1-may-den-50-may",
+      "title": "Mở Rộng Quy Mô Kinh Doanh Máy Bán Hàng Tự Động: Từ 1 Máy Đến 50 Máy Trong 2 Năm",
+      "words": 317,
+      "hasImage": true,
+      "date": "2027-03-14"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chung-cu-giai-phap-nhan-ho-hang",
+      "title": "Tủ locker thông minh chung cư: Giải pháp nhận hộ hàng cho cư dân",
+      "words": 317,
+      "hasImage": true,
+      "date": "2026-04-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-san-tennis-pickleball-gui-vot-phu-kien-the-thao",
+      "title": "Tủ Locker Thông Minh Tại Sân Tennis Và Pickleball: Gửi Vợt Và Phụ Kiện Thể Thao",
+      "words": 317,
+      "hasImage": true,
+      "date": "2027-01-03"
+    },
+    {
+      "slug": "vi-sao-truong-hoc-nen-lap-tu-gui-do-thong-minh",
+      "title": "Vì sao trường học nên lắp tủ gửi đồ thông minh cho học sinh?",
+      "words": 317,
+      "hasImage": true,
+      "date": "2026-04-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-biet-thu-nha-lien-ke-cao-cap-tieu-chuan-luxury",
+      "title": "Giải Pháp Tủ Locker Thông Minh Cho Biệt Thự Và Nhà Liền Kề Cao Cấp: Tiêu Chuẩn Luxury",
+      "words": 320,
+      "hasImage": true,
+      "date": "2026-12-21"
+    },
+    {
+      "slug": "xu-huong-thanh-toan-khong-tien-mat-may-ban-hang-tu-dong",
+      "title": "Xu hướng thanh toán không tiền mặt trên máy bán hàng tự động",
+      "words": 321,
+      "hasImage": true,
+      "date": "2026-04-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chong-am-chong-trom-kho-hang-nha-xuong",
+      "title": "Tủ Locker Thông Minh Chống Ẩm Và Chống Trộm Trong Kho Hàng Và Nhà Xưởng",
+      "words": 328,
+      "hasImage": true,
+      "date": "2026-12-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-byod-bao-mat-thiet-bi-ca-nhan-van-phong",
+      "title": "Tủ Locker Thông Minh Giải Pháp BYOD: Bảo Mật Thiết Bị Cá Nhân Trong Văn Phòng",
+      "words": 329,
+      "hasImage": true,
+      "date": "2026-12-14"
+    },
+    {
+      "slug": "kinh-nghiem-chon-may-ban-snack-tu-dong-cho-truong-hoc",
+      "title": "Kinh nghiệm chọn máy bán snack tự động cho căng-tin trường học",
+      "words": 337,
+      "hasImage": true,
+      "date": "2026-04-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nganh-duoc-pham-nha-phan-phoi-kiem-soat-chuoi-lanh",
+      "title": "Tủ Locker Thông Minh Cho Ngành Dược Phẩm Và Nhà Phân Phối: Kiểm Soát Chuỗi Lạnh",
+      "words": 337,
+      "hasImage": true,
+      "date": "2027-01-02"
+    },
+    {
+      "slug": "tu-locker-thong-minh-lang-dai-hoc-nhieu-co-so-giao-duc-nen-tang",
+      "title": "Tủ Locker Thông Minh Tại Làng Đại Học: Kết Nối Nhiều Cơ Sở Giáo Dục Trên Một Nền Tảng",
+      "words": 341,
+      "hasImage": true,
+      "date": "2026-12-22"
+    },
+    {
+      "slug": "tu-locker-thong-minh-van-phong-luat-su-cong-chung-ho-so-phap-ly",
+      "title": "Tủ Locker Thông Minh Tại Văn Phòng Luật Sư Và Công Chứng: Bảo Mật Hồ Sơ Pháp Lý",
+      "words": 341,
+      "hasImage": true,
+      "date": "2026-12-17"
+    },
+    {
+      "slug": "tu-locker-thong-minh-lanh-dao-cao-cap-ceo-bao-mat-tai-lieu-mat",
+      "title": "Tủ Locker Thông Minh Cho CEO Và Lãnh Đạo Cao Cấp: Bảo Mật Tài Liệu Mật",
+      "words": 343,
+      "hasImage": true,
+      "date": "2026-12-15"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nganh-in-an-xuat-ban-quan-ly-thiet-bi",
+      "title": "Tủ Locker Thông Minh Cho Ngành In Ấn Và Xuất Bản: Quản Lý Thiết Bị Và Vật Tư",
+      "words": 361,
+      "hasImage": true,
+      "date": "2026-12-18"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chong-chay-no-tieu-chuan-pccc-chat-lieu-chiu-lua",
+      "title": "Tủ Locker Thông Minh Chống Cháy Nổ: Tiêu Chuẩn PCCC Và Vật Liệu Chịu Lửa",
+      "words": 362,
+      "hasImage": true,
+      "date": "2026-12-08"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chiu-nhiet-cao-cong-nghiep-luyen-kim-duc",
+      "title": "Tủ Locker Thông Minh Chịu Nhiệt Độ Cao: Phù Hợp Khu Vực Luyện Kim Và Đúc",
+      "words": 364,
+      "hasImage": true,
+      "date": "2026-12-10"
+    },
+    {
+      "slug": "tu-locker-thong-minh-toa-nha-hon-hop-van-phong-dan-cu-giai-phap",
+      "title": "Tủ Locker Thông Minh Tại Tòa Nhà Hỗn Hợp Văn Phòng-Dân Cư: Giải Pháp Toàn Diện",
+      "words": 365,
+      "hasImage": true,
+      "date": "2026-12-13"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ngoai-troi-ip65-chiu-mua-nang-khac-nghiet",
+      "title": "Tủ Locker Thông Minh Ngoài Trời IP65: Chịu Mưa Nắng Và Điều Kiện Khắc Nghiệt",
+      "words": 370,
+      "hasImage": true,
+      "date": "2026-12-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-pccc-he-thong-phong-chay-chua-chay",
+      "title": "Tủ Locker Thông Minh Tích Hợp PCCC: An Toàn Phòng Cháy Chữa Cháy Tòa Nhà",
+      "words": 387,
+      "hasImage": true,
+      "date": "2026-12-01"
+    },
+    {
+      "slug": "he-thong-locker-da-tang-da-toa-giai-phap-tap-doan-lon",
+      "title": "Hệ Thống Quản Lý Tủ Locker Đa Tầng Đa Tòa: Giải Pháp Tổng Thể Cho Tập Đoàn",
+      "words": 406,
+      "hasImage": true,
+      "date": "2026-12-12"
+    },
+    {
+      "slug": "vi-tri-dat-may-ban-hang-tu-dong-hieu-qua-nhat",
+      "title": "8 vị trí đặt máy bán hàng tự động mang lại doanh thu cao",
+      "words": 407,
+      "hasImage": true,
+      "date": "2026-04-30"
+    },
+    {
+      "slug": "dau-tu-may-ban-hang-tu-dong-nen-chon-mo-hinh-hop-tac-nao",
+      "title": "Đầu tư máy bán hàng tự động: Nên chọn mô hình hợp tác nào?",
+      "words": 416,
+      "hasImage": true,
+      "date": "2026-04-27"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cho-khach-san-sieu-thi-khu-du-lich",
+      "title": "Tủ locker thông minh cho khách sạn, siêu thị, khu du lịch",
+      "words": 419,
+      "hasImage": true,
+      "date": "2026-04-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-token-diem-thuong-loyalty-program",
+      "title": "Tủ Locker Thông Minh Tích Hợp Token Và Điểm Thưởng: Loyalty Program Cho Người Dùng",
+      "words": 420,
+      "hasImage": true,
+      "date": "2026-12-07"
+    },
+    {
+      "slug": "tu-locker-thong-minh-he-thong-quan-ly-dung-cu-cong-nghiep-eam",
+      "title": "Tủ Locker Thông Minh Trong Hệ Thống Quản Lý Dụng Cụ Công Nghiệp EAM",
+      "words": 425,
+      "hasImage": true,
+      "date": "2027-03-07"
+    },
+    {
+      "slug": "top-5-vi-tri-dat-may-ban-nuoc-giai-khat-tu-dong",
+      "title": "Top 5 vị trí đặt máy bán nước giải khát tự động sinh lời cao",
+      "words": 432,
+      "hasImage": true,
+      "date": "2026-04-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-camera-thermal-phat-hien-nhiet",
+      "title": "Tủ Locker Thông Minh Tích Hợp Camera Thermal: Phát Hiện Thân Nhiệt Và Bảo Mật Nâng Cao",
+      "words": 435,
+      "hasImage": true,
+      "date": "2026-12-06"
+    },
+    {
+      "slug": "tu-locker-thong-minh-phan-quyen-cap-bac-manager-nhan-vien-khach",
+      "title": "Tủ Locker Thông Minh Phân Quyền Theo Cấp Bậc: Quản Lý Manager, Nhân Viên Và Khách",
+      "words": 436,
+      "hasImage": true,
+      "date": "2026-12-02"
+    },
+    {
+      "slug": "tu-locker-thong-minh-thanh-toan-tien-mat-vi-dien-tu-momo-vnpay",
+      "title": "Tủ Locker Thông Minh Tích Hợp Thanh Toán: Tiền Mặt, MoMo Và VNPay",
+      "words": 440,
+      "hasImage": true,
+      "date": "2026-12-04"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-hoa-don-dien-tu-tu-dong-giao-dich",
+      "title": "Tủ Locker Thông Minh Tích Hợp Hóa Đơn Điện Tử: Tự Động Theo Từng Giao Dịch",
+      "words": 440,
+      "hasImage": true,
+      "date": "2026-12-03"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chong-tinh-dien-esd-bao-ve-linh-kien-dien-tu",
+      "title": "Tủ Locker Thông Minh Trong Môi Trường Chống Tĩnh Điện ESD: Bảo Vệ Linh Kiện Điện Tử",
+      "words": 442,
+      "hasImage": true,
+      "date": "2026-11-30"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-iot-gateway-he-sinh-thai-thiet-bi",
+      "title": "Tủ Locker Thông Minh Tích Hợp IoT Gateway: Kết Nối Hệ Sinh Thái Thiết Bị Thông Minh",
+      "words": 461,
+      "hasImage": true,
+      "date": "2026-11-27"
+    },
+    {
+      "slug": "cong-nghe-ai-iot-quan-ly-may-ban-hang-tu-dong-tu-xa",
+      "title": "Công nghệ AI và IoT trong quản lý máy bán hàng tự động từ xa",
+      "words": 465,
+      "hasImage": true,
+      "date": "2026-04-30"
+    },
+    {
+      "slug": "tu-locker-giao-nhan-hang-cho-shipper-logistics",
+      "title": "Tủ locker giao nhận hàng cho shipper: Giải pháp tối ưu chi phí logistics",
+      "words": 465,
+      "hasImage": true,
+      "date": "2026-04-28"
+    },
+    {
+      "slug": "tu-locker-thong-minh-da-ngon-ngu-anh-nhat-han-trung-khu-cong-nghiep",
+      "title": "Tủ Locker Thông Minh Đa Ngôn Ngữ: Giao Diện Tiếng Anh, Nhật, Hàn, Trung Cho Khu Công Nghiệp FDI",
+      "words": 473,
+      "hasImage": true,
+      "date": "2026-11-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-su-dung-nang-luong-mat-troi-solar",
+      "title": "Tủ Locker Thông Minh Năng Lượng Mặt Trời: Giải Pháp Xanh Không Cần Điện Lưới",
+      "words": 475,
+      "hasImage": true,
+      "date": "2026-12-05"
+    },
+    {
+      "slug": "chi-phi-dau-tu-may-ban-hang-tu-dong-bao-lau-hoan-von",
+      "title": "Chi phí đầu tư máy bán hàng tự động: Cần bao nhiêu vốn và bao lâu hoàn vốn?",
+      "words": 481,
+      "hasImage": true,
+      "date": "2026-04-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ket-noi-bms-he-thong-quan-ly-toa-nha",
+      "title": "Tủ Locker Thông Minh Kết Nối BMS: Tích Hợp Hệ Thống Quản Lý Tòa Nhà Toàn Diện",
+      "words": 481,
+      "hasImage": true,
+      "date": "2026-11-28"
+    },
+    {
+      "slug": "cong-nghe-mo-khoa-tu-locker-qr-rfid-van-tay-nhan-dien-khuon-mat",
+      "title": "So sánh công nghệ mở khóa tủ locker: QR, RFID, vân tay, nhận diện khuôn mặt",
+      "words": 484,
+      "hasImage": true,
+      "date": "2026-04-29"
+    },
+    {
+      "slug": "vending-machine-tram-xe-buyt-dien-giao-thong-xanh",
+      "title": "Vending Machine Tại Trạm Xe Buýt Điện: Giao Thông Xanh Và Tiện Ích Đô Thị",
+      "words": 485,
+      "hasImage": true,
+      "date": "2026-10-13"
+    },
+    {
+      "slug": "may-ban-hang-khu-cong-nghe-cao-cntt-stem",
+      "title": "Máy Bán Hàng Tự Động Tại Khu Công Nghệ Cao: Phục Vụ Nhân Viên IT Và Kỹ Sư",
+      "words": 522,
+      "hasImage": true,
+      "date": "2026-10-07"
+    },
+    {
+      "slug": "phan-mem-api-tu-locker-thong-minh-tich-hop-ung-dung-doanh-nghiep",
+      "title": "Phần Mềm API Tủ Locker Thông Minh: Tích Hợp Với Ứng Dụng Của Doanh Nghiệp",
+      "words": 526,
+      "hasImage": true,
+      "date": "2026-11-23"
+    },
+    {
+      "slug": "bao-mat-tu-locker-thong-minh-aes-256-tls-https-giao-thuc",
+      "title": "Bảo Mật Tủ Locker Thông Minh: AES-256, TLS Và HTTPS — Hiểu Để Lựa Chọn Đúng",
+      "words": 528,
+      "hasImage": true,
+      "date": "2026-11-26"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-sac-dien-thoai-gia-tri-gia-tang",
+      "title": "Tủ Locker Thông Minh Tích Hợp Sạc Điện Thoại: Giá Trị Gia Tăng Thu Hút Người Dùng",
+      "words": 537,
+      "hasImage": true,
+      "date": "2026-11-21"
+    },
+    {
+      "slug": "may-ban-hang-khu-am-thuc-food-court-bo-tro-hay-canh-tranh",
+      "title": "Máy Bán Hàng Tại Khu Ẩm Thực Food Court: Bổ Trợ Hay Cạnh Tranh?",
+      "words": 543,
+      "hasImage": true,
+      "date": "2026-09-24"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-toa-nha-phuc-hop-van-phong-can-ho",
+      "title": "Máy Bán Hàng Tự Động Tại Tòa Nhà Phức Hợp Văn Phòng-Căn Hộ: Chiến Lược Đa Phân Khúc",
+      "words": 543,
+      "hasImage": true,
+      "date": "2026-11-15"
+    },
+    {
+      "slug": "smart-locker-buu-dien-vnpost-giao-hang-tu-dong",
+      "title": "Smart Locker Bưu Điện: Mở Rộng Dịch Vụ VNPost Và Logistics Tự Động",
+      "words": 553,
+      "hasImage": true,
+      "date": "2026-07-16"
+    },
+    {
+      "slug": "gia-thue-o-locker-chung-cu-phi-bao-nhieu-hop-ly-2026",
+      "title": "Giá Thuê Ô Locker Chung Cư 2026: Phí Bao Nhiêu Là Hợp Lý Cho Cư Dân?",
+      "words": 555,
+      "hasImage": true,
+      "date": "2026-07-29"
+    },
+    {
+      "slug": "vending-machine-carbon-footprint-xanh-ben-vung",
+      "title": "Vending Machine Xanh: Carbon Footprint Tracking Và Cam Kết Bền Vững",
+      "words": 558,
+      "hasImage": true,
+      "date": "2026-10-12"
+    },
+    {
+      "slug": "thiet-ke-khong-gian-dat-may-ban-hang-tu-dong-toi-uu",
+      "title": "Thiết Kế Không Gian Tối Ưu Khu Vực Đặt Máy Bán Hàng Tự Động",
+      "words": 560,
+      "hasImage": true,
+      "date": "2026-10-05"
+    },
+    {
+      "slug": "von-it-co-nen-dau-tu-may-ban-hang-tu-dong-khong",
+      "title": "Vốn ít có nên đầu tư máy bán hàng tự động không?",
+      "words": 562,
+      "hasImage": true,
+      "date": "2026-05-08"
+    },
+    {
+      "slug": "xe-tai-ban-hang-tu-dong-luu-dong-mobile-vending",
+      "title": "Xe Tải Bán Hàng Tự Động Lưu Động: Mobile Vending Xu Hướng Mới Tại Việt Nam",
+      "words": 564,
+      "hasImage": true,
+      "date": "2026-10-09"
+    },
+    {
+      "slug": "bao-quan-thuc-pham-trong-may-ban-hang-lanh-tu-dong",
+      "title": "Bảo quản thực phẩm trong máy bán hàng lạnh tự động: Những điều cần biết",
+      "words": 569,
+      "hasImage": true,
+      "date": "2026-05-01"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-e-ink-hien-thi-tu-xa-khong-day",
+      "title": "Tủ Locker Thông Minh Tích Hợp E-ink: Đổi Thông Tin Hiển Thị Từ Xa Không Dây",
+      "words": 573,
+      "hasImage": true,
+      "date": "2026-11-24"
+    },
+    {
+      "slug": "tu-gui-do-thong-minh-cho-gym-ho-boi-nang-cao-trai-nghiem-khach-hang",
+      "title": "Tủ gửi đồ thông minh cho gym, hồ bơi: Nâng cao trải nghiệm khách hàng",
+      "words": 574,
+      "hasImage": true,
+      "date": "2026-05-05"
+    },
+    {
+      "slug": "may-ban-nuoc-sach-tu-dong-khu-dan-cu-co-hoi-kinh-doanh",
+      "title": "Máy Bán Nước Sạch Tự Động Tại Khu Dân Cư: Cơ Hội Tiên Phong Và Phân Tích Lợi Nhuận",
+      "words": 576,
+      "hasImage": true,
+      "date": "2026-09-04"
+    },
+    {
+      "slug": "may-ban-do-choi-dat-set-sang-tao-cho-tre-em",
+      "title": "Máy Bán Đồ Chơi Và Đất Sét Sáng Tạo Tự Động Cho Trẻ Em Tại Trung Tâm Mua Sắm",
+      "words": 577,
+      "hasImage": true,
+      "date": "2026-09-25"
+    },
+    {
+      "slug": "may-ban-hang-bai-bien-kem-chong-nang-do-boi",
+      "title": "Máy Bán Hàng Tự Động Tại Bãi Biển: Kem Chống Nắng, Đồ Bơi Và Nước Uống",
+      "words": 577,
+      "hasImage": true,
+      "date": "2026-09-23"
+    },
+    {
+      "slug": "locker-khach-san-check-in-khong-tiep-xuc-giao-chia-khoa",
+      "title": "Locker Khách Sạn Thông Minh: Check-In Không Tiếp Xúc Và Giao Chìa Khóa Tự Động",
+      "words": 578,
+      "hasImage": true,
+      "date": "2026-07-14"
+    },
+    {
+      "slug": "may-ban-hang-tai-phong-gym-fitness-center",
+      "title": "Máy Bán Hàng Tại Phòng Gym Và Fitness Center: Tối Ưu Doanh Thu Bổ Trợ",
+      "words": 579,
+      "hasImage": true,
+      "date": "2026-09-20"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cam-bien-trong-luong-phat-hien-hang-trong-o",
+      "title": "Tủ Locker Thông Minh Tích Hợp Cảm Biến Trọng Lượng: Phát Hiện Hàng Còn Trong Ô",
+      "words": 579,
+      "hasImage": true,
+      "date": "2026-11-25"
+    },
+    {
+      "slug": "last-mile-delivery-locker-giao-hang-khong-can-nguoi-nhan",
+      "title": "Last-Mile Delivery Locker: Giao Hàng Không Cần Người Nhận Trực Tiếp",
+      "words": 582,
+      "hasImage": true,
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "locker-tra-hang-ecommerce-giai-phap-ban-le-hien-dai",
+      "title": "Locker Trả Hàng E-commerce: Giải Pháp Đổi Trả Hàng Không Cần Xếp Hàng",
+      "words": 582,
+      "hasImage": true,
+      "date": "2026-06-25"
+    },
+    {
+      "slug": "may-ban-hang-cho-nguoi-khuyet-tat-thiet-ke-pho-quat",
+      "title": "Máy Bán Hàng Tự Động Dành Cho Người Khuyết Tật: Thiết Kế Phổ Quát Và Tiêu Chuẩn ADA",
+      "words": 582,
+      "hasImage": true,
+      "date": "2026-09-27"
+    },
+    {
+      "slug": "smart-building-locker-thong-minh-tich-hop-toa-nha",
+      "title": "Smart Building Và Locker Thông Minh: Tích Hợp Hệ Thống Tòa Nhà Thế Hệ Mới",
+      "words": 582,
+      "hasImage": true,
+      "date": "2026-08-06"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-camera-ai-nhan-dien-khuon-mat-co-thuc-su-can-thiet",
+      "title": "Tủ locker thông minh tích hợp camera AI và nhận diện khuôn mặt: Có thực sự cần thiết?",
+      "words": 582,
+      "hasImage": true,
+      "date": "2026-05-09"
+    },
+    {
+      "slug": "ha-tang-giao-nhan-thong-minh-locker-drone-robot-delivery",
+      "title": "Hạ Tầng Giao Nhận Thông Minh Cho Thành Phố: Locker + Drone + Robot Delivery",
+      "words": 585,
+      "hasImage": true,
+      "date": "2026-08-09"
+    },
+    {
+      "slug": "locker-rfid-the-tu-nfc-quan-ly-thong-minh",
+      "title": "RFID Locker Thông Minh: Thẻ Từ Và NFC Trong Quản Lý Truy Cập",
+      "words": 585,
+      "hasImage": true,
+      "date": "2026-06-29"
+    },
+    {
+      "slug": "may-ban-hang-bai-do-xe-co-hoi-it-ai-khai-thac",
+      "title": "Máy Bán Hàng Tự Động Tại Bãi Đỗ Xe: Cơ Hội Tiềm Năng Ít Ai Khai Thác",
+      "words": 585,
+      "hasImage": true,
+      "date": "2026-09-11"
+    },
+    {
+      "slug": "phan-mem-quan-ly-kho-may-ban-hang-inventory-management",
+      "title": "Phần Mềm Quản Lý Kho Tích Hợp Máy Bán Hàng Tự Động: Inventory Management Hiện Đại",
+      "words": 585,
+      "hasImage": true,
+      "date": "2026-09-30"
+    },
+    {
+      "slug": "xu-huong-locker-giao-nhan-hang-ecommerce-2026",
+      "title": "Locker giao nhận hàng TMĐT: Xu hướng bùng nổ thay thế shipper gõ cửa",
+      "words": 585,
+      "hasImage": true,
+      "date": "2026-06-16"
+    },
+    {
+      "slug": "may-ban-do-luu-niem-tu-dong-tai-diem-du-lich-viet-nam",
+      "title": "Máy Bán Đồ Lưu Niệm Tự Động Tại Điểm Du Lịch Việt Nam: Cơ Hội 24/7",
+      "words": 588,
+      "hasImage": true,
+      "date": "2026-09-14"
+    },
+    {
+      "slug": "may-ban-hang-chap-nhan-the-tin-dung-tang-doanh-thu",
+      "title": "Máy Bán Hàng Tự Động Chấp Nhận Thẻ Tín Dụng: Tăng Doanh Thu 40%",
+      "words": 588,
+      "hasImage": true,
+      "date": "2026-08-03"
+    },
+    {
+      "slug": "do-thi-thong-minh-locker-cong-cong-kinh-nghiem-singapore",
+      "title": "Đô Thị Thông Minh Và Hệ Thống Locker Công Cộng: Kinh Nghiệm Từ Singapore",
+      "words": 591,
+      "hasImage": true,
+      "date": "2026-08-07"
+    },
+    {
+      "slug": "may-ban-do-choi-gashapon-capsule-toy-tao-luu",
+      "title": "Máy Bán Đồ Chơi Gashapon Tự Động: Trào Lưu Capsule Toy Tại Việt Nam",
+      "words": 592,
+      "hasImage": true,
+      "date": "2026-07-16"
+    },
+    {
+      "slug": "tu-locker-giao-nhan-hang-giai-phap-cho-shipper-cuoi-dam",
+      "title": "Tủ Locker Giao Nhận Hàng: Giải Pháp Cuối Dặm Cho Shipper Và E-commerce",
+      "words": 592,
+      "hasImage": true,
+      "date": "2026-07-08"
+    },
+    {
+      "slug": "vending-machine-cau-lac-bo-bong-da-san-the-thao",
+      "title": "Vending Machine Tại Câu Lạc Bộ Bóng Đá Và Sân Thể Thao: Tiềm Năng Chưa Được Khai Thác",
+      "words": 592,
+      "hasImage": true,
+      "date": "2026-09-21"
+    },
+    {
+      "slug": "kinh-doanh-tu-locker-thong-minh-mo-hinh-cho-thue-o-tu-theo-thang",
+      "title": "Kinh doanh tủ locker thông minh: Mô hình cho thuê ô tủ theo tháng",
+      "words": 595,
+      "hasImage": true,
+      "date": "2026-05-07"
+    },
+    {
+      "slug": "may-ban-hang-rap-chieu-phim-snack-nuoc-premium",
+      "title": "Máy Bán Hàng Tự Động Tại Rạp Chiếu Phim: Snack Và Nước Uống Premium",
+      "words": 597,
+      "hasImage": true,
+      "date": "2026-09-07"
+    },
+    {
+      "slug": "phan-tich-roi-dau-tu-tu-locker-thong-minh-chung-cu",
+      "title": "Phân Tích ROI Thực Tế Khi Đầu Tư Tủ Locker Thông Minh Tại Chung Cư",
+      "words": 597,
+      "hasImage": true,
+      "date": "2026-11-18"
+    },
+    {
+      "slug": "loi-thuong-gap-may-ban-hang-tu-dong-va-cach-xu-ly",
+      "title": "Lỗi Thường Gặp Khi Vận Hành Máy Bán Hàng Tự Động Và Cách Xử Lý",
+      "words": 598,
+      "hasImage": true,
+      "date": "2026-10-04"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-su-kien-festival-hoi-nghi",
+      "title": "Máy Bán Hàng Tự Động Cho Sự Kiện: Festival, Triển Lãm Và Hội Nghị",
+      "words": 599,
+      "hasImage": true,
+      "date": "2026-08-05"
+    }
+  ],
+  "noImage": [],
+  "ok": [
+    {
+      "slug": "5-linh-kien-may-ban-hang-tu-dong-thuong-hong-va-cach-bao-tri",
+      "title": "5 linh kiện máy bán hàng tự động thường hỏng và cách bảo trì",
+      "words": 699,
+      "hasImage": true,
+      "date": "2026-05-03"
+    },
+    {
+      "slug": "5-loi-ich-smart-locker-thay-tu-khoa-truyen-thong-van-phong",
+      "title": "5 Lợi Ích Khi Dùng Smart Locker Thay Tủ Khóa Truyền Thống Văn Phòng",
+      "words": 793,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "5g-va-locker-thong-minh-ket-noi-real-time-monitoring",
+      "title": "5G Và Tủ Locker Thông Minh: Kết Nối Tốc Độ Cao Cho Real-Time Monitoring",
+      "words": 657,
+      "hasImage": true,
+      "date": "2026-09-12"
+    },
+    {
+      "slug": "ai-du-doan-ton-kho-va-bieu-do-doanh-thu-may-ban-hang-tu-dong",
+      "title": "AI dự đoán tồn kho và tối ưu doanh thu máy bán hàng tự động như thế nào?",
+      "words": 773,
+      "hasImage": true,
+      "date": "2026-05-14"
+    },
+    {
+      "slug": "ai-nhan-dien-khuon-mat-may-ban-hang-ca-nhan-hoa",
+      "title": "Máy Bán Hàng Tích Hợp AI Nhận Diện Khuôn Mặt: Cá Nhân Hóa Trải Nghiệm Mua Sắm",
+      "words": 615,
+      "hasImage": true,
+      "date": "2026-09-28"
+    },
+    {
+      "slug": "ai-trong-ban-le-tu-dong-phan-tich-hanh-vi-khach-hang",
+      "title": "AI Trong Bán Lẻ Tự Động: Phân Tích Hành Vi Khách Hàng Qua Camera Thông Minh",
+      "words": 645,
+      "hasImage": true,
+      "date": "2026-07-22"
+    },
+    {
+      "slug": "amazon-fresh-va-tuong-lai-cua-cua-hang-khong-nguoi-ban",
+      "title": "Amazon Fresh và tương lai của cửa hàng không người bán trên toàn cầu",
+      "words": 763,
+      "hasImage": true,
+      "date": "2026-05-10"
+    },
+    {
+      "slug": "amazon-locker-xu-huong-locker-toan-cau-bai-hoc-viet-nam",
+      "title": "Amazon Locker Và Xu Hướng Locker Toàn Cầu: Bài Học Cho Thị Trường Việt Nam",
+      "words": 643,
+      "hasImage": true,
+      "date": "2026-07-14"
+    },
+    {
+      "slug": "api-tich-hop-locker-thong-minh-ket-noi-he-thong",
+      "title": "API Tích Hợp Locker Thông Minh: Kết Nối Với Hệ Thống Logistics Và ERP",
+      "words": 629,
+      "hasImage": true,
+      "date": "2026-07-08"
+    },
+    {
+      "slug": "bai-hoc-nhat-ban-coin-locker-van-hoa-tu-phuc-vu",
+      "title": "Bài Học Từ Nhật Bản: Coin Locker Và Văn Hóa Tự Phục Vụ 60 Năm Tiến Hóa",
+      "words": 718,
+      "hasImage": true,
+      "date": "2026-09-06"
+    },
+    {
+      "slug": "ban-giao-lap-dat-tu-locker-thong-minh-thuc-te",
+      "title": "Lắp đặt tủ locker thông minh: Quy trình và thực tế thi công",
+      "words": 722,
+      "hasImage": true,
+      "date": "2026-06-13"
+    },
+    {
+      "slug": "bang-gia-tu-locker-thong-minh-2026-so-sanh-tung-phan-khuc",
+      "title": "Bảng Giá Tủ Locker Thông Minh 2026: So Sánh Từng Phân Khúc Thị Trường",
+      "words": 750,
+      "hasImage": true,
+      "date": "2026-07-09"
+    },
+    {
+      "slug": "bang-gia-tu-locker-thong-minh-chi-tiet-2026",
+      "title": "Bảng giá tủ locker thông minh chi tiết theo ngăn 2026",
+      "words": 705,
+      "hasImage": true,
+      "date": "2026-06-13"
+    },
+    {
+      "slug": "bao-hiem-rui-ro-dau-tu-may-ban-hang-tu-dong",
+      "title": "Bảo hiểm và quản lý rủi ro khi đầu tư máy bán hàng tự động",
+      "words": 924,
+      "hasImage": true,
+      "date": "2026-05-17"
+    },
+    {
+      "slug": "bao-hiem-tai-san-tu-locker-trach-nhiem-phap-ly",
+      "title": "Bảo Hiểm Tài Sản Trong Tủ Locker: Trách Nhiệm Pháp Lý Của Người Vận Hành",
+      "words": 645,
+      "hasImage": true,
+      "date": "2026-09-01"
+    },
+    {
+      "slug": "bao-mat-tu-locker-thong-minh-tieu-chuan-chung-chi-2026",
+      "title": "Bảo Mật Tủ Locker Thông Minh: Tiêu Chuẩn Và Chứng Chỉ Cần Biết 2026",
+      "words": 740,
+      "hasImage": true,
+      "date": "2026-08-01"
+    },
+    {
+      "slug": "bao-tri-may-ban-hang-tu-dong-dinh-ky-quy-trinh-chuan",
+      "title": "Bảo trì máy bán hàng tự động định kỳ: Quy trình chuẩn",
+      "words": 700,
+      "hasImage": true,
+      "date": "2026-05-06"
+    },
+    {
+      "slug": "bao-tri-tu-locker-thong-minh-dinh-ky-checklist-20-diem",
+      "title": "Bảo Trì Tủ Locker Thông Minh Định Kỳ: Checklist 20 Điểm Cho Vận Hành Bền Vững",
+      "words": 791,
+      "hasImage": true,
+      "date": "2026-07-18"
+    },
+    {
+      "slug": "bao-tri-ve-sinh-may-ban-hang-tu-dong-lich-quy-trinh",
+      "title": "Bảo Trì Và Vệ Sinh Máy Bán Hàng Tự Động: Lịch Và Quy Trình Chuẩn",
+      "words": 732,
+      "hasImage": true,
+      "date": "2026-08-04"
+    },
+    {
+      "slug": "blockchain-tu-locker-thong-minh-bao-mat-phi-tap-trung",
+      "title": "Blockchain Và Tủ Locker Thông Minh: Bảo Mật Phi Tập Trung Và Truy Xuất Nguồn Gốc",
+      "words": 683,
+      "hasImage": true,
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "blockchain-vending-machine-smart-locker-cong-nghe",
+      "title": "Blockchain và AI trong vending machine và smart locker: Công nghệ đang định hình lại ngành",
+      "words": 936,
+      "hasImage": true,
+      "date": "2026-05-28"
+    },
+    {
+      "slug": "cach-tinh-roi-khi-dau-tu-may-ban-hang-tu-dong",
+      "title": "Cách tính ROI khi đầu tư máy bán hàng tự động",
+      "words": 691,
+      "hasImage": true,
+      "date": "2026-05-01"
+    },
+    {
+      "slug": "cai-dat-phan-mem-quan-ly-locker-huong-dan-tu-a-den-z",
+      "title": "Cài Đặt Phần Mềm Quản Lý Locker: Hướng Dẫn Từ A Đến Z Cho Quản Trị Viên",
+      "words": 800,
+      "hasImage": true,
+      "date": "2026-07-21"
+    },
+    {
+      "slug": "cam-bien-nhiet-do-do-am-may-ban-hang-dam-bao-chat-luong",
+      "title": "Cảm Biến Nhiệt Độ Và Độ Ẩm Trong Máy Bán Hàng: Đảm Bảo Chất Lượng Hàng Hóa",
+      "words": 712,
+      "hasImage": true,
+      "date": "2026-08-31"
+    },
+    {
+      "slug": "camera-giam-sat-ket-hop-locker-an-ninh-toan-dien",
+      "title": "Camera Giám Sát Kết Hợp Locker: Hệ Thống An Ninh Toàn Diện Cho Tòa Nhà",
+      "words": 678,
+      "hasImage": true,
+      "date": "2026-08-01"
+    },
+    {
+      "slug": "cashierless-store-tuong-lai-cua-vending-machine",
+      "title": "Cashierless Store và tương lai của máy bán hàng tự động: Khi cửa hàng trở thành vending machine khổng lồ",
+      "words": 795,
+      "hasImage": true,
+      "date": "2026-05-25"
+    },
+    {
+      "slug": "cau-hoi-thuong-gap-tu-locker-thong-minh-faq",
+      "title": "50 câu hỏi thường gặp về tủ locker thông minh (FAQ 2026)",
+      "words": 813,
+      "hasImage": true,
+      "date": "2026-06-13"
+    },
+    {
+      "slug": "cau-tao-ben-trong-may-ban-hang-tu-dong-tu-khoang-hang-den-bo-mach-dieu-khien",
+      "title": "Cấu tạo bên trong máy bán hàng tự động: Từ khoang hàng đến bo mạch điều khiển",
+      "words": 747,
+      "hasImage": true,
+      "date": "2026-05-07"
+    },
+    {
+      "slug": "chi-phi-bao-tri-locker-thong-minh-an-phi-hang-nam",
+      "title": "Chi Phí Bảo Trì Locker Thông Minh Hàng Năm: Ẩn Phí Cần Biết Trước Khi Mua",
+      "words": 678,
+      "hasImage": true,
+      "date": "2026-07-11"
+    },
+    {
+      "slug": "chien-luoc-dinh-gia-san-pham-vending-machine",
+      "title": "Chiến Lược Định Giá Sản Phẩm Vending Machine: Cách Tối Đa Lợi Nhuận",
+      "words": 686,
+      "hasImage": true,
+      "date": "2026-09-19"
+    },
+    {
+      "slug": "chinh-sach-lap-locker-thong-minh-truong-hoc-viet-nam-2026",
+      "title": "Chính Sách Lắp Locker Thông Minh Trường Học Tại Việt Nam 2026",
+      "words": 1011,
+      "hasImage": true,
+      "date": "2026-06-23"
+    },
+    {
+      "slug": "chon-cong-ty-bao-tri-may-ban-hang-tu-dong-uy-tin-viet-nam",
+      "title": "Cách Chọn Công Ty Bảo Trì Máy Bán Hàng Tự Động Uy Tín: Tiêu Chí Và Hợp Đồng",
+      "words": 774,
+      "hasImage": true,
+      "date": "2026-10-31"
+    },
+    {
+      "slug": "chung-cu-thong-minh-toan-dien-locker-quan-ly-tien-ich",
+      "title": "Chung Cư Thông Minh Toàn Diện: Từ Locker Đến Quản Lý Tiện Ích Tự Động",
+      "words": 627,
+      "hasImage": true,
+      "date": "2026-08-07"
+    },
+    {
+      "slug": "chuoi-cung-ung-may-ban-hang-tu-dong-nha-san-xuat-den-nguoi-dung",
+      "title": "Chuỗi Cung Ứng Máy Bán Hàng Tự Động: Từ Nhà Sản Xuất Đến Người Dùng Cuối",
+      "words": 823,
+      "hasImage": true,
+      "date": "2026-10-28"
+    },
+    {
+      "slug": "cloud-locker-vs-standalone-locker-nen-chon-he-thong-nao",
+      "title": "Cloud Locker Vs Standalone Locker: Nên Chọn Hệ Thống Nào?",
+      "words": 722,
+      "hasImage": true,
+      "date": "2026-07-05"
+    },
+    {
+      "slug": "co-che-phan-phoi-hang-may-vending-spiral-elevator-belt",
+      "title": "Cơ Chế Phân Phối Hàng Máy Vending: So Sánh Spiral Coil, Elevator Và Belt",
+      "words": 680,
+      "hasImage": true,
+      "date": "2026-08-29"
+    },
+    {
+      "slug": "coca-cola-pepsico-dau-tu-may-ban-hang-iot-the-he-moi",
+      "title": "Coca-Cola và PepsiCo đầu tư hàng tỷ USD vào máy bán hàng IoT thế hệ mới",
+      "words": 765,
+      "hasImage": true,
+      "date": "2026-05-11"
+    },
+    {
+      "slug": "cong-nghe-iot-tu-locker-thong-minh",
+      "title": "Công nghệ IoT trong tủ locker thông minh: Từ phần cứng đến điện toán đám mây",
+      "words": 1060,
+      "hasImage": true,
+      "date": "2026-06-10"
+    },
+    {
+      "slug": "cua-hang-tien-loi-khong-nhan-vien-cong-nghe-bai-hoc",
+      "title": "Cửa Hàng Tiện Lợi Không Nhân Viên: Công Nghệ Và Bài Học Thực Tế",
+      "words": 649,
+      "hasImage": true,
+      "date": "2026-07-22"
+    },
+    {
+      "slug": "du-bao-thi-truong-vending-machine-2027-2030",
+      "title": "Dự báo thị trường vending machine 2027-2030: Những xu hướng sẽ định hình ngành",
+      "words": 1054,
+      "hasImage": true,
+      "date": "2026-05-30"
+    },
+    {
+      "slug": "enterprise-locker-trien-khai-tap-doan-lon-chien-luoc",
+      "title": "Enterprise Locker Solution: Chiến Lược Triển Khai Hệ Thống Locker Cho Tập Đoàn Lớn",
+      "words": 613,
+      "hasImage": true,
+      "date": "2026-08-26"
+    },
+    {
+      "slug": "esd-locker-phong-sach-nha-may-dien-tu",
+      "title": "ESD Locker Phòng Sạch: Giải Pháp Cho Nhà Máy Điện Tử Và Bán Dẫn",
+      "words": 625,
+      "hasImage": true,
+      "date": "2026-07-03"
+    },
+    {
+      "slug": "franchise-may-ban-hang-tu-dong-co-hoi-kinh-doanh-nhuong-quyen",
+      "title": "Franchise Máy Bán Hàng Tự Động: Cơ Hội Kinh Doanh Nhượng Quyền Vending",
+      "words": 687,
+      "hasImage": true,
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "gia-may-ban-hang-tu-dong-bao-nhieu-bang-gia-tham-khao-2026",
+      "title": "Giá máy bán hàng tự động bao nhiêu? Bảng giá tham khảo theo từng dòng máy 2026",
+      "words": 669,
+      "hasImage": true,
+      "date": "2026-05-02"
+    },
+    {
+      "slug": "gia-tu-locker-thong-minh-bang-gia-2026",
+      "title": "Giá tủ locker thông minh 2026: Bảng giá chi tiết và các yếu tố ảnh hưởng",
+      "words": 963,
+      "hasImage": true,
+      "date": "2026-06-09"
+    },
+    {
+      "slug": "gia-tu-locker-thong-minh-bao-nhieu-bang-gia-tham-khao-2026",
+      "title": "Giá tủ locker thông minh bao nhiêu? Bảng giá tham khảo theo số ô và công nghệ mở khóa 2026",
+      "words": 632,
+      "hasImage": true,
+      "date": "2026-05-02"
+    },
+    {
+      "slug": "green-locker-ben-vung-than-thien-moi-truong-esg",
+      "title": "Green Locker: Tủ Locker Bền Vững Và Thân Thiện Môi Trường Theo Tiêu Chuẩn ESG 2026",
+      "words": 673,
+      "hasImage": true,
+      "date": "2026-08-08"
+    },
+    {
+      "slug": "hop-dong-bao-tri-may-ban-hang-tu-dong-dieu-khoan",
+      "title": "Hợp Đồng Bảo Trì Máy Bán Hàng Tự Động: Điều Khoản Quan Trọng Cần Có",
+      "words": 663,
+      "hasImage": true,
+      "date": "2026-10-03"
+    },
+    {
+      "slug": "huong-dan-chon-tu-locker-thong-minh-phu-hop",
+      "title": "Hướng dẫn chọn tủ locker thông minh phù hợp: 6 tiêu chí cần xem xét",
+      "words": 751,
+      "hasImage": true,
+      "date": "2026-06-15"
+    },
+    {
+      "slug": "huong-dan-su-dung-tu-locker-thong-minh-lan-dau-tung-buoc",
+      "title": "Hướng Dẫn Sử Dụng Tủ Locker Thông Minh Lần Đầu: Từng Bước Đơn Giản",
+      "words": 640,
+      "hasImage": true,
+      "date": "2026-07-17"
+    },
+    {
+      "slug": "huong-dan-tinh-so-o-locker-van-phong-chung-cu",
+      "title": "Cách tính số ô locker cần thiết cho văn phòng và chung cư — Công thức thực tế",
+      "words": 798,
+      "hasImage": true,
+      "date": "2026-06-17"
+    },
+    {
+      "slug": "khac-phuc-loi-thuong-gap-tu-locker-dien-tu-10-van-de",
+      "title": "Khắc Phục Lỗi Thường Gặp Tủ Locker Điện Tử: 10 Vấn Đề Và Cách Xử Lý",
+      "words": 909,
+      "hasImage": true,
+      "date": "2026-07-19"
+    },
+    {
+      "slug": "khi-nao-nen-thay-block-nen-lanh-cho-may-ban-hang-tu-dong",
+      "title": "Khi nào nên thay block nén lạnh cho máy bán hàng tự động?",
+      "words": 691,
+      "hasImage": true,
+      "date": "2026-05-03"
+    },
+    {
+      "slug": "kinh-doanh-locker-thong-minh-tinh-toan-loi-nhuan-dich-vu",
+      "title": "Kinh Doanh Locker Thông Minh: Tính Toán Lợi Nhuận Từ Dịch Vụ Giao Nhận Hàng",
+      "words": 646,
+      "hasImage": true,
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "kinh-doanh-may-ban-nuoc-tinh-khiet-tu-dong",
+      "title": "Kinh Doanh Máy Bán Nước Tinh Khiết Tự Động: Mô Hình Và Lợi Nhuận Thực Tế",
+      "words": 637,
+      "hasImage": true,
+      "date": "2026-09-17"
+    },
+    {
+      "slug": "kinh-nghiem-van-hanh-10-may-ban-hang-tu-dong-bai-hoc-thuc-te",
+      "title": "Kinh Nghiệm Vận Hành 10 Máy Bán Hàng Tự Động: Bài Học Thực Tế Từ Thực Tiễn",
+      "words": 1038,
+      "hasImage": true,
+      "date": "2026-10-15"
+    },
+    {
+      "slug": "lap-dat-locker-nhan-hang-chung-cu-chi-phi-quy-trinh-2026",
+      "title": "Lắp Đặt Locker Nhận Hàng Chung Cư: Chi Phí & Quy Trình 2026",
+      "words": 1285,
+      "hasImage": true,
+      "date": "2026-06-18"
+    },
+    {
+      "slug": "lap-dat-tu-locker-thong-minh-quy-trinh-chi-phi",
+      "title": "Lắp đặt tủ locker thông minh: Quy trình, chi phí và những điều cần chuẩn bị",
+      "words": 1162,
+      "hasImage": true,
+      "date": "2026-06-10"
+    },
+    {
+      "slug": "lap-may-ban-gas-mini-tu-dong-tai-khu-dan-cu-loi-ich-va-luu-y-an-toan",
+      "title": "Lắp máy bán gas mini tự động tại khu dân cư: Lợi ích và lưu ý an toàn",
+      "words": 617,
+      "hasImage": true,
+      "date": "2026-05-03"
+    },
+    {
+      "slug": "locker-chong-trom-vat-lieu-cong-nghe-chong-pha-khoa",
+      "title": "Locker Chống Trộm: Vật Liệu Và Công Nghệ Chống Phá Khóa Thế Hệ Mới",
+      "words": 670,
+      "hasImage": true,
+      "date": "2026-08-02"
+    },
+    {
+      "slug": "locker-da-ngon-ngu-tieng-anh-tieng-viet-nguoi-nuoc-ngoai",
+      "title": "Locker Đa Ngôn Ngữ: Giao Diện Tiếng Anh Và Tiếng Việt Cho Người Nước Ngoài",
+      "words": 629,
+      "hasImage": true,
+      "date": "2026-08-24"
+    },
+    {
+      "slug": "locker-dem-gio-tinh-phi-tu-dong-gui-do-ky-gui",
+      "title": "Locker Đếm Giờ Và Tính Phí Tự Động: Giải Pháp Thu Phí Gửi Đồ Thông Minh",
+      "words": 618,
+      "hasImage": true,
+      "date": "2026-08-21"
+    },
+    {
+      "slug": "locker-dien-tu-cho-co-working-giai-phap-hot-desk-toi-uu-tu-tse-vending",
+      "title": "Locker Điện Tử Cho Co-working: Giải Pháp Hot Desk Tối Ưu Từ TSE Vending",
+      "words": 1249,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "locker-dieu-hoa-nhiet-do-bao-quan-thuc-pham-tuoi",
+      "title": "Locker Có Điều Hòa Nhiệt Độ: Bảo Quản Thực Phẩm Tươi Và Hàng Nhiệt Độ Nhạy Cảm",
+      "words": 653,
+      "hasImage": true,
+      "date": "2026-08-25"
+    },
+    {
+      "slug": "locker-giao-hang-shopee-lazada-chinh-sach-doi-tac-2026",
+      "title": "Locker Giao Hàng Shopee, Lazada 2026: Chính Sách Và Đối Tác Locker Chính Thức",
+      "words": 645,
+      "hasImage": true,
+      "date": "2026-07-30"
+    },
+    {
+      "slug": "locker-grab-giao-hang-nhanh-jt-mang-luoi-viet-nam",
+      "title": "Locker Grab, Giao Hàng Nhanh, J&T Express: Mạng Lưới Locker Giao Hàng Việt Nam",
+      "words": 658,
+      "hasImage": true,
+      "date": "2026-07-31"
+    },
+    {
+      "slug": "locker-iot-giam-sat-quan-ly-tu-xa-real-time",
+      "title": "Locker Tích Hợp IoT: Giám Sát Và Quản Lý Từ Xa Theo Thời Gian Thực",
+      "words": 709,
+      "hasImage": true,
+      "date": "2026-06-27"
+    },
+    {
+      "slug": "locker-kho-van-logistics-toi-uu-day-chuyen-cung-ung",
+      "title": "Tủ Locker Kho Vận Logistics: Tối Ưu Dây Chuyền Cung Ứng",
+      "words": 671,
+      "hasImage": true,
+      "date": "2026-06-24"
+    },
+    {
+      "slug": "locker-khu-cong-nghiep-tieu-chuan-an-toan-lao-dong",
+      "title": "Tủ Locker Khu Công Nghiệp: Tiêu Chuẩn An Toàn Lao Động Và Quy Định",
+      "words": 685,
+      "hasImage": true,
+      "date": "2026-07-04"
+    },
+    {
+      "slug": "locker-man-hinh-quang-cao-marketing-doanh-thu-phu",
+      "title": "Locker Tích Hợp Màn Hình Quảng Cáo: Biến Tủ Locker Thành Kênh Marketing",
+      "words": 658,
+      "hasImage": true,
+      "date": "2026-08-22"
+    },
+    {
+      "slug": "locker-mo-bang-khuon-mat-cong-nghe-nhan-dien-sinh-trac",
+      "title": "Locker Mở Bằng Khuôn Mặt: Công Nghệ Nhận Diện Sinh Trắc Học 2026",
+      "words": 673,
+      "hasImage": true,
+      "date": "2026-06-29"
+    },
+    {
+      "slug": "locker-mo-bang-van-tay-sinh-trac-hoc-bao-mat",
+      "title": "Locker Mở Bằng Vân Tay: Công Nghệ Sinh Trắc Học Bảo Mật Cao",
+      "words": 635,
+      "hasImage": true,
+      "date": "2026-07-02"
+    },
+    {
+      "slug": "locker-nha-hang-cafe-gui-do-khach-vip",
+      "title": "Locker Nhà Hàng Và Quán Cà Phê: Giữ Đồ Khách VIP Và Tăng Trải Nghiệm",
+      "words": 622,
+      "hasImage": true,
+      "date": "2026-07-05"
+    },
+    {
+      "slug": "locker-nha-kho-tu-phuc-vu-self-storage-mo-hinh-kinh-doanh",
+      "title": "Locker Nhà Kho Tự Phục Vụ (Self-Storage): Mô Hình Kinh Doanh Tiềm Năng Tại Việt Nam",
+      "words": 678,
+      "hasImage": true,
+      "date": "2026-08-08"
+    },
+    {
+      "slug": "locker-nha-may-san-xuat-bao-ve-do-dung-cong-nhan",
+      "title": "Locker Nhà Máy Sản Xuất: Bảo Vệ Đồ Dùng Công Nhân Và Tài Sản Doanh Nghiệp",
+      "words": 633,
+      "hasImage": true,
+      "date": "2026-06-28"
+    },
+    {
+      "slug": "locker-nha-thuoc-tu-dong-phat-thuoc-ngoai-gio-hanh-chinh",
+      "title": "Locker Nhà Thuốc Tự Động: Phát Thuốc Ngoài Giờ Hành Chính An Toàn",
+      "words": 652,
+      "hasImage": true,
+      "date": "2026-08-09"
+    },
+    {
+      "slug": "locker-nhan-hang-cod-chung-cu-shipper-giao-tu-dong",
+      "title": "Locker Nhận Hàng COD Cho Chung Cư: Shipper Giao Tự Động Không Cần Chủ Nhà",
+      "words": 656,
+      "hasImage": true,
+      "date": "2026-07-30"
+    },
+    {
+      "slug": "locker-nhiet-do-kiem-soat-bao-quan-duoc-pham-thuc-pham",
+      "title": "Locker Nhiệt Độ Kiểm Soát: Bảo Quản Dược Phẩm Và Thực Phẩm Tươi Sống",
+      "words": 664,
+      "hasImage": true,
+      "date": "2026-07-13"
+    },
+    {
+      "slug": "locker-noi-dia-viet-nam-chat-luong-sanh-hang-nhap-khau",
+      "title": "Locker Nội Địa Việt Nam: Chất Lượng Có Sánh Được Hàng Nhập Khẩu?",
+      "words": 608,
+      "hasImage": true,
+      "date": "2026-07-18"
+    },
+    {
+      "slug": "locker-phong-gym-spa-giai-phap-thanh-vien-cao-cap",
+      "title": "Locker Phòng Gym Và Spa: Giải Pháp Hoàn Hảo Cho Thành Viên Cao Cấp",
+      "words": 643,
+      "hasImage": true,
+      "date": "2026-07-15"
+    },
+    {
+      "slug": "locker-pin-nang-luong-mat-troi-giai-phap-ngoai-troi-doc-lap",
+      "title": "Locker Pin Năng Lượng Mặt Trời: Giải Pháp Ngoài Trời Độc Lập Nguồn Điện",
+      "words": 724,
+      "hasImage": true,
+      "date": "2026-07-09"
+    },
+    {
+      "slug": "locker-sac-thiet-bi-dien-tu-truong-hoc-cong-so",
+      "title": "Locker Sạc Thiết Bị Điện Tử: Giải Pháp Cho Trường Học, Công Sở Và Sân Bay",
+      "words": 650,
+      "hasImage": true,
+      "date": "2026-07-11"
+    },
+    {
+      "slug": "locker-salon-toc-nail-quan-ly-cong-cu-bao-ve-do-khach",
+      "title": "Locker Salon Tóc Và Nail: Quản Lý Công Cụ Và Bảo Vệ Đồ Khách",
+      "words": 648,
+      "hasImage": true,
+      "date": "2026-08-10"
+    },
+    {
+      "slug": "locker-san-bay-gui-hanh-ly-an-toan-cho-hanh-khach",
+      "title": "Locker Sân Bay: Gửi Hành Lý An Toàn Cho Hành Khách Quốc Tế",
+      "words": 703,
+      "hasImage": true,
+      "date": "2026-06-25"
+    },
+    {
+      "slug": "locker-sieu-thi-click-collect-dat-online-nhan-tai-cua-hang",
+      "title": "Smart Locker Siêu Thị: Click & Collect — Đặt Online Nhận Tại Cửa Hàng",
+      "words": 640,
+      "hasImage": true,
+      "date": "2026-07-07"
+    },
+    {
+      "slug": "locker-sinh-vien-dai-hoc-quan-ly-do-dung-campus-hien-dai",
+      "title": "Locker Sinh Viên Đại Học: Quản Lý Đồ Dùng Trong Campus Hiện Đại",
+      "words": 804,
+      "hasImage": true,
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "locker-smart-ga-tau-ben-xe-giao-thong-cong-cong",
+      "title": "Smart Locker Ga Tàu Và Bến Xe: Giải Pháp Giao Thông Công Cộng 4.0",
+      "words": 656,
+      "hasImage": true,
+      "date": "2026-07-06"
+    },
+    {
+      "slug": "locker-studio-chup-anh-lam-phim-bao-quan-thiet-bi",
+      "title": "Locker Studio Chụp Ảnh Và Làm Phim: Bảo Quản Thiết Bị Đắt Tiền An Toàn",
+      "words": 756,
+      "hasImage": true,
+      "date": "2026-08-12"
+    },
+    {
+      "slug": "locker-thong-bao-sms-khi-nhan-hang-chung-cu",
+      "title": "Locker Thông Báo SMS Khi Nhận Hàng: Tính Năng Thiết Yếu Cho Chung Cư",
+      "words": 730,
+      "hasImage": true,
+      "date": "2026-08-20"
+    },
+    {
+      "slug": "locker-thong-minh-vs-thung-thu-lua-chon-nao-toi-uu-cho-chung-cu",
+      "title": "Locker Thông Minh vs Thùng Thư: Lựa Chọn Nào Tối Ưu Cho Chung Cư?",
+      "words": 1240,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "locker-thu-cung-pet-bao-quan-do-dung-cham-soc-dong-vat",
+      "title": "Locker Thú Cưng (Pet Locker): Bảo Quản Đồ Dùng Và Chăm Sóc Động Vật Thông Minh",
+      "words": 729,
+      "hasImage": true,
+      "date": "2026-08-13"
+    },
+    {
+      "slug": "locker-thu-vien-tu-phuc-vu-muon-tra-sach-24-7",
+      "title": "Locker Thư Viện Tự Phục Vụ: Mượn Và Trả Sách 24/7 Không Cần Thủ Thư",
+      "words": 638,
+      "hasImage": true,
+      "date": "2026-07-15"
+    },
+    {
+      "slug": "locker-trung-quoc-cainiao-jd-he-sinh-thai-giao-nhan",
+      "title": "Locker Thông Minh Tại Trung Quốc: Hệ Sinh Thái Giao Nhận Tỷ Đô Của Cainiao Và JD",
+      "words": 655,
+      "hasImage": true,
+      "date": "2026-09-09"
+    },
+    {
+      "slug": "locker-trung-quoc-vs-viet-nam-nen-mua-loai-nao",
+      "title": "Locker Thông Minh Trung Quốc vs Việt Nam: Nên Mua Loại Nào Tiết Kiệm Nhất?",
+      "words": 675,
+      "hasImage": true,
+      "date": "2026-07-10"
+    },
+    {
+      "slug": "locker-trung-tam-thuong-mai-gui-do-khi-mua-sam",
+      "title": "Locker Trung Tâm Thương Mại: Gửi Đồ Thoải Mái Khi Mua Sắm",
+      "words": 630,
+      "hasImage": true,
+      "date": "2026-06-26"
+    },
+    {
+      "slug": "locker-van-phong-thong-minh-quan-ly-tai-san-khong-co-nhan-su",
+      "title": "Locker Văn Phòng Thông Minh: Quản Lý Tài Sản Không Cần Nhân Sự",
+      "words": 665,
+      "hasImage": true,
+      "date": "2026-06-30"
+    },
+    {
+      "slug": "locker-xe-dap-thong-minh-thanh-pho-xanh-di-chuyen-ben-vung",
+      "title": "Locker Xe Đạp Thông Minh: Giải Pháp Cho Thành Phố Xanh Và Di Chuyển Bền Vững",
+      "words": 637,
+      "hasImage": true,
+      "date": "2026-07-13"
+    },
+    {
+      "slug": "machine-learning-du-bao-hang-hoa-vending-machine",
+      "title": "Machine Learning Trong Dự Báo Hàng Hóa Vending Machine: Từ Lý Thuyết Đến Thực Hành",
+      "words": 613,
+      "hasImage": true,
+      "date": "2026-10-01"
+    },
+    {
+      "slug": "man-hinh-quang-cao-tich-hop-may-ban-hang-nguon-thu-phu",
+      "title": "Màn Hình Quảng Cáo Tích Hợp Máy Bán Hàng: Nguồn Thu Nhập Phụ Hiệu Quả",
+      "words": 602,
+      "hasImage": true,
+      "date": "2026-09-22"
+    },
+    {
+      "slug": "may-ban-bia-thu-cong-craft-beer-vending",
+      "title": "Máy bán bia thủ công tự động: Craft Beer Vending Machine và văn hóa bia artisan",
+      "words": 845,
+      "hasImage": true,
+      "date": "2026-06-05"
+    },
+    {
+      "slug": "may-ban-ca-phe-hat-rang-xay-tuoi-tai-cho-bean-to-cup-vending",
+      "title": "Máy Bán Cà Phê Hạt Rang Xay Tươi Tại Chỗ: Bean-to-Cup Vending Machine",
+      "words": 764,
+      "hasImage": true,
+      "date": "2026-10-25"
+    },
+    {
+      "slug": "may-ban-ca-phe-specialty-bean-to-cup-tu-dong",
+      "title": "Máy pha cà phê specialty tự động: Bean-to-Cup Vending Machine đang thay đổi văn hóa cà phê",
+      "words": 786,
+      "hasImage": true,
+      "date": "2026-05-31"
+    },
+    {
+      "slug": "may-ban-ca-phe-tu-dong-co-nen-tich-hop-vao-may-ban-nuoc-giai-khat",
+      "title": "Máy bán cà phê tự động: Có nên tích hợp vào máy bán nước giải khát?",
+      "words": 670,
+      "hasImage": true,
+      "date": "2026-05-10"
+    },
+    {
+      "slug": "may-ban-ca-phe-tu-dong-van-phong-giai-phap-phuc-loi-nhan-vien-2026",
+      "title": "Máy Bán Cà Phê Tự Động Văn Phòng: Phúc Lợi Nhân Viên Hiệu Quả 2026",
+      "words": 801,
+      "hasImage": true,
+      "date": "2026-06-20"
+    },
+    {
+      "slug": "may-ban-com-hop-tu-dong-giai-phap-bua-trua-khu-cong-nghiep",
+      "title": "Máy Bán Cơm Hộp Tự Động: Giải Pháp Bữa Trưa Khu Công Nghiệp",
+      "words": 796,
+      "hasImage": true,
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "may-ban-dac-san-dia-phuong-tu-dong-qua-tang-san-vat-vung-mien",
+      "title": "Máy Bán Đặc Sản Địa Phương Tự Động: Quà Tặng Và Sản Vật Vùng Miền Việt Nam",
+      "words": 744,
+      "hasImage": true,
+      "date": "2026-10-27"
+    },
+    {
+      "slug": "may-ban-dien-thoai-va-phu-kien-tai-san-bay-xu-huong-toan-cau",
+      "title": "Máy bán điện thoại và phụ kiện tại sân bay: Xu hướng toàn cầu đang bùng nổ",
+      "words": 712,
+      "hasImage": true,
+      "date": "2026-05-12"
+    },
+    {
+      "slug": "may-ban-hang-chong-ket-hang-anti-jam-cong-nghe-2026",
+      "title": "Máy Bán Hàng Tự Động Chống Kẹt Hàng: Công Nghệ Anti-Jam Hiện Đại Nhất 2026",
+      "words": 722,
+      "hasImage": true,
+      "date": "2026-08-30"
+    },
+    {
+      "slug": "may-ban-hang-combo-ban-kem-tang-doanh-thu-moi-giao-dich",
+      "title": "Máy Bán Hàng Combo Và Bán Kèm: Chiến Lược Tăng Doanh Thu Mỗi Giao Dịch",
+      "words": 792,
+      "hasImage": true,
+      "date": "2026-10-22"
+    },
+    {
+      "slug": "may-ban-hang-csr-trach-nhiem-xa-hoi-doanh-nghiep",
+      "title": "Máy Bán Hàng Tự Động Và Trách Nhiệm Xã Hội Doanh Nghiệp: CSR Và Giá Trị Cộng Đồng",
+      "words": 628,
+      "hasImage": true,
+      "date": "2026-10-11"
+    },
+    {
+      "slug": "may-ban-hang-dong-lanh-tu-dong-giai-phap-sieu-thi-mini-khong-nhan-vien",
+      "title": "Máy bán hàng đông lạnh tự động: Giải pháp cho siêu thị mini không nhân viên",
+      "words": 608,
+      "hasImage": true,
+      "date": "2026-04-30"
+    },
+    {
+      "slug": "may-ban-hang-ngoai-troi-chiu-thoi-tiet-thiet-ke-chuan",
+      "title": "Máy Bán Hàng Tự Động Ngoài Trời: Thiết Kế Chịu Thời Tiết Chuẩn IP",
+      "words": 684,
+      "hasImage": true,
+      "date": "2026-07-06"
+    },
+    {
+      "slug": "may-ban-hang-pho-co-trung-tam-lich-su-hoa-hop-van-hoa",
+      "title": "Máy Bán Hàng Tự Động Tại Phố Cổ Và Khu Di Tích Lịch Sử: Hài Hòa Hiện Đại Và Văn Hóa",
+      "words": 742,
+      "hasImage": true,
+      "date": "2026-11-02"
+    },
+    {
+      "slug": "may-ban-hang-phong-cho-benh-vien-do-an-nhe-nuoc-uong",
+      "title": "Máy Bán Hàng Tự Động Tại Phòng Chờ Bệnh Viện: Giải Pháp Cho Bệnh Nhân Và Người Nhà",
+      "words": 605,
+      "hasImage": true,
+      "date": "2026-10-06"
+    },
+    {
+      "slug": "may-ban-hang-phuc-vu-ca-dem-giai-phap-nhan-vien-lam-muon",
+      "title": "Máy Bán Hàng Tự Động Phục Vụ Ca Đêm: Giải Pháp Cho Nhân Viên Làm Việc Đêm",
+      "words": 607,
+      "hasImage": true,
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "may-ban-hang-premium-vip-vi-tri-cao-cap-san-pham-sang-trong",
+      "title": "Máy Bán Hàng Tự Động VIP Và Premium: Vị Trí Cao Cấp Và Sản Phẩm Sang Trọng",
+      "words": 643,
+      "hasImage": true,
+      "date": "2026-11-01"
+    },
+    {
+      "slug": "may-ban-hang-tich-hop-app-loyalty-tich-diem-khuyen-mai",
+      "title": "Máy Bán Hàng Tự Động Tích Hợp App Loyalty: Tích Điểm Và Chương Trình Khuyến Mãi",
+      "words": 647,
+      "hasImage": true,
+      "date": "2026-10-02"
+    },
+    {
+      "slug": "may-ban-hang-tich-hop-mini-fridge-hotel-vending-xu-huong",
+      "title": "Máy Bán Hàng Tự Động Tích Hợp Mini Fridge: Xu Hướng Hotel Vending Mới",
+      "words": 640,
+      "hasImage": true,
+      "date": "2026-11-06"
+    },
+    {
+      "slug": "may-ban-hang-tien-xu-co-dien-con-phu-hop-2026",
+      "title": "Máy Bán Hàng Thanh Toán Bằng Tiền Xu: Mô Hình Cổ Điển Có Còn Phù Hợp 2026?",
+      "words": 633,
+      "hasImage": true,
+      "date": "2026-09-29"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-ben-pha-ben-tau-viet-nam",
+      "title": "Máy Bán Hàng Tự Động Tại Bến Phà Và Bến Tàu: Địa Điểm Chờ Đợi Tiềm Năng",
+      "words": 614,
+      "hasImage": true,
+      "date": "2026-09-16"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-ben-xe-nha-ga-viet-nam",
+      "title": "Máy bán hàng tự động tại bến xe liên tỉnh và nhà ga tàu hỏa Việt Nam: Cơ hội lớn chưa được khai thác",
+      "words": 796,
+      "hasImage": true,
+      "date": "2026-05-27"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-benh-vien-do-an-nhu-yeu-pham",
+      "title": "Máy bán hàng tự động trong bệnh viện: Phục vụ bệnh nhân, người nhà và nhân viên y tế 24/7",
+      "words": 847,
+      "hasImage": true,
+      "date": "2026-05-30"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-cang-bien-cang-ca-thuyen-vien",
+      "title": "Máy Bán Hàng Tự Động Tại Cảng Biển Và Cảng Cá: Phục Vụ Thuyền Viên Và Công Nhân Bến Cảng",
+      "words": 734,
+      "hasImage": true,
+      "date": "2026-10-26"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-chua-den-tho-cong-dong-phat-giao",
+      "title": "Máy Bán Hàng Tự Động Tại Chùa Và Đền Thờ: Tiện Ích Phục Vụ Cộng Đồng Phật Giáo",
+      "words": 752,
+      "hasImage": true,
+      "date": "2026-11-17"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-chung-cu-dich-vu-tien-ich",
+      "title": "Máy bán hàng tự động trong chung cư cao cấp: Dịch vụ tiện ích 24/7 cho cư dân",
+      "words": 805,
+      "hasImage": true,
+      "date": "2026-06-01"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-cua-hang-tien-loi-24h-bo-tro-hay-canh-tranh",
+      "title": "Máy Bán Hàng Tự Động Và Cửa Hàng Tiện Lợi 24h: Bổ Trợ Hay Cạnh Tranh?",
+      "words": 861,
+      "hasImage": true,
+      "date": "2026-10-17"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-dam-cuoi-tiec-cuoi-hau-can-su-kien",
+      "title": "Máy Bán Hàng Tự Động Tại Đám Cưới Và Tiệc Cưới: Dịch Vụ Hậu Cần Sự Kiện",
+      "words": 660,
+      "hasImage": true,
+      "date": "2026-11-08"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-dich-vu-va-phi-dich-vu-su-khac-biet",
+      "title": "Máy bán hàng tự động dịch vụ vs. phi dịch vụ: Phân tích và lựa chọn đúng",
+      "words": 678,
+      "hasImage": true,
+      "date": "2026-05-19"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-ha-noi-dia-diem-sinh-loi-2026",
+      "title": "Máy Bán Hàng Tự Động Hà Nội 2026: Địa Điểm Sinh Lời Nhất Và Cơ Hội Mở Rộng",
+      "words": 693,
+      "hasImage": true,
+      "date": "2026-08-18"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-ha-tang-van-phong-van-phong-hien-dai",
+      "title": "Máy bán hàng tự động như hạ tầng văn phòng hiện đại: Xu hướng PropTech toàn cầu",
+      "words": 777,
+      "hasImage": true,
+      "date": "2026-05-23"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-han-quoc-singapore-bai-hoc-viet-nam",
+      "title": "Máy Bán Hàng Tự Động Thế Hệ Tiếp Theo Tại Hàn Quốc Và Singapore: Bài Học Cho Việt Nam",
+      "words": 664,
+      "hasImage": true,
+      "date": "2026-11-14"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-kho-logistics-trung-tam-phan-phoi",
+      "title": "Máy Bán Hàng Tự Động Tại Kho Logistics và Trung Tâm Phân Phối: Cơ Hội Ít Ai Khai Thác",
+      "words": 1091,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-khu-du-lich-di-tich-van-hoa",
+      "title": "Máy bán hàng tự động tại khu du lịch và di tích văn hóa: Tiện ích không gián đoạn trải nghiệm",
+      "words": 843,
+      "hasImage": true,
+      "date": "2026-05-24"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-khu-vuc-kho-tiep-can-giai-phap-cung-ung",
+      "title": "Máy Bán Hàng Tự Động Cho Khu Vực Khó Tiếp Cận: Giải Pháp Cung Ứng Hàng Hóa",
+      "words": 785,
+      "hasImage": true,
+      "date": "2026-11-10"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-khu-vui-choi-giai-tri-tre-em",
+      "title": "Máy bán hàng tự động trong khu vui chơi và giải trí trẻ em: Doanh thu bổ sung và trải nghiệm vui vẻ",
+      "words": 768,
+      "hasImage": true,
+      "date": "2026-05-28"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-la-gi-phan-loai-gia-2026",
+      "title": "Máy bán hàng tự động là gì? Phân loại và giá 2026",
+      "words": 856,
+      "hasImage": true,
+      "date": "2026-04-28"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-mo-hinh-franchise-chia-se-doanh-thu",
+      "title": "Mô Hình Franchise Máy Bán Hàng Tự Động: Chia Sẻ Doanh Thu Với Chủ Mặt Bằng",
+      "words": 1039,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-nang-luong-mat-troi-solar",
+      "title": "Máy bán hàng tự động năng lượng mặt trời: Giải pháp xanh cho vị trí hẻo lánh",
+      "words": 803,
+      "hasImage": true,
+      "date": "2026-05-25"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-nhan-dien-tuoi-age-verification",
+      "title": "Máy Bán Hàng Tự Động Nhận Diện Tuổi: Công Nghệ Bán Hàng Người Lớn Hợp Pháp",
+      "words": 813,
+      "hasImage": true,
+      "date": "2026-10-20"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-nhan-vien-y-te-nhu-cau-dac-biet-benh-vien",
+      "title": "Máy Bán Hàng Tự Động Cho Nhân Viên Y Tế: Nhu Cầu Đặc Biệt Tại Bệnh Viện",
+      "words": 939,
+      "hasImage": true,
+      "date": "2026-10-16"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-phong-cho-co-quan-hanh-chinh-dich-vu-cong",
+      "title": "Máy Bán Hàng Tự Động Tại Phòng Chờ Cơ Quan Hành Chính: Dịch Vụ Công Hiện Đại",
+      "words": 647,
+      "hasImage": true,
+      "date": "2026-11-13"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-quan-doi-can-cu-quan-su",
+      "title": "Máy bán hàng tự động tại căn cứ quân sự và bệnh viện quân đội toàn cầu",
+      "words": 828,
+      "hasImage": true,
+      "date": "2026-05-20"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-bay-trung-tam-mua-sam",
+      "title": "Máy Bán Hàng Tự Động Tại Sân Bay và Trung Tâm Mua Sắm: Cơ Hội Và Yêu Cầu Đặc Biệt",
+      "words": 860,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-golf-premium-san-pham-golfer",
+      "title": "Máy Bán Hàng Tự Động Tại Sân Golf: Premium Product Mix Dành Cho Golfer",
+      "words": 720,
+      "hasImage": true,
+      "date": "2026-11-04"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-pham-dia-phuong-local",
+      "title": "Máy bán hàng tự động sản phẩm địa phương: Local Vending Movement đang thay đổi ngành",
+      "words": 840,
+      "hasImage": true,
+      "date": "2026-06-02"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-pham-eco-friendly-ben-vung",
+      "title": "Máy bán hàng tự động sản phẩm bền vững: Eco-Friendly Vending Machine và kinh tế xanh",
+      "words": 858,
+      "hasImage": true,
+      "date": "2026-06-03"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-pham-outdoor-leo-nui",
+      "title": "Máy bán hàng tự động cho outdoor và leo núi: Adventure Vending tại những nơi hẻo lánh nhất",
+      "words": 719,
+      "hasImage": true,
+      "date": "2026-06-04"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-san-pham-thu-cung-pet-vending",
+      "title": "Máy bán hàng tự động sản phẩm thú cưng: Xu hướng Pet Vending đang bùng nổ",
+      "words": 660,
+      "hasImage": true,
+      "date": "2026-05-18"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-sieu-thi-hypermarket",
+      "title": "Vending machine trong siêu thị và đại siêu thị: Kênh bán hàng bổ sung chiến lược",
+      "words": 771,
+      "hasImage": true,
+      "date": "2026-05-25"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-su-kien-hoi-cho-trien-lam-logistics",
+      "title": "Máy Bán Hàng Tự Động Phục Vụ Sự Kiện Và Hội Chợ Triển Lãm: Logistics Và Setup",
+      "words": 712,
+      "hasImage": true,
+      "date": "2026-10-30"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tai-che-dien-tu-e-waste",
+      "title": "Máy thu gom và tái chế điện thoại cũ: E-Waste Vending Machine giải quyết rác thải điện tử",
+      "words": 821,
+      "hasImage": true,
+      "date": "2026-05-31"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tai-ga-tau-chau-au-paris-berlin-milan",
+      "title": "Máy bán hàng tự động tại ga tàu châu Âu: Paris, Berlin và Milan dẫn đầu xu hướng",
+      "words": 810,
+      "hasImage": true,
+      "date": "2026-05-14"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tai-khu-nghi-duong-resort-va-du-lich",
+      "title": "Máy bán hàng tự động tại khu nghỉ dưỡng resort và điểm du lịch: Cơ hội doanh thu mới",
+      "words": 730,
+      "hasImage": true,
+      "date": "2026-05-15"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-thiet-bi-dien-tu-phu-kien",
+      "title": "Máy bán phụ kiện điện tử tự động: Electronics Vending tại sân bay, khách sạn và trung tâm thương mại",
+      "words": 899,
+      "hasImage": true,
+      "date": "2026-06-07"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-thuc-an-nhanh-fast-food",
+      "title": "Máy bán thức ăn nhanh tự động: Fast Food Vending và cuộc cách mạng ẩm thực không nhân viên",
+      "words": 870,
+      "hasImage": true,
+      "date": "2026-06-08"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-thuc-an-toi-cho-cong-nhan-ca-3",
+      "title": "Máy bán hàng tự động thức ăn tối và ca 3: Giải pháp dinh dưỡng cho công nhân ca đêm",
+      "words": 744,
+      "hasImage": true,
+      "date": "2026-05-17"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-thuc-pham-lanh-manh-xu-huong-my-va-anh",
+      "title": "Máy bán hàng tự động thực phẩm lành mạnh: Xu hướng bùng nổ tại Mỹ và Anh",
+      "words": 802,
+      "hasImage": true,
+      "date": "2026-05-11"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-thuc-pham-nhan-dinh-duong-healthy",
+      "title": "Máy bán hàng tự động thực phẩm lành mạnh: Xu hướng Healthy Vending toàn cầu",
+      "words": 810,
+      "hasImage": true,
+      "date": "2026-05-27"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tphcm-dia-diem-hot-2026",
+      "title": "Máy Bán Hàng Tự Động Tại TP.HCM 2026: Địa Điểm Hot Và Vùng Tiềm Năng",
+      "words": 706,
+      "hasImage": true,
+      "date": "2026-08-17"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tram-xang-gas-station",
+      "title": "Máy bán hàng tự động tại trạm xăng: Mô hình C-Store tự động đang thay đổi ngành bán lẻ nhiên liệu",
+      "words": 800,
+      "hasImage": true,
+      "date": "2026-05-20"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-trang-suc-dong-ho",
+      "title": "Máy bán trang sức và đồng hồ tự động: Luxury Vending Machine và nghịch lý cao cấp",
+      "words": 948,
+      "hasImage": true,
+      "date": "2026-06-07"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-tren-tau-hoa-tau-cao-toc-dich-vu-duong-sat",
+      "title": "Máy Bán Hàng Tự Động Trên Tàu Hỏa Và Tàu Cao Tốc: Dịch Vụ Tiện Ích Đường Sắt",
+      "words": 709,
+      "hasImage": true,
+      "date": "2026-11-09"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-trong-nuoc-va-nhap-khau-nen-chon-loai-nao",
+      "title": "Máy bán hàng tự động trong nước và nhập khẩu: Nên chọn loại nào?",
+      "words": 689,
+      "hasImage": true,
+      "date": "2026-05-08"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-trung-tam-nguoi-cao-tuoi-tien-ich-an-toan",
+      "title": "Máy Bán Hàng Tự Động Tại Trung Tâm Chăm Sóc Người Cao Tuổi: Tiện Ích An Toàn",
+      "words": 669,
+      "hasImage": true,
+      "date": "2026-11-16"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-trung-tam-thuong-mai-vi-tri-chien-luoc",
+      "title": "Máy Bán Hàng Tự Động Tại Trung Tâm Thương Mại: Vị Trí Chiến Lược Và Cách Tiếp Cận",
+      "words": 820,
+      "hasImage": true,
+      "date": "2026-10-19"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-va-thue-vat-hoa-don-dien-tu",
+      "title": "Máy Bán Hàng Tự Động Và Thuế: Hướng Dẫn Kê Khai VAT Và Hóa Đơn Điện Tử",
+      "words": 798,
+      "hasImage": true,
+      "date": "2026-10-29"
+    },
+    {
+      "slug": "may-ban-hang-tu-dong-xanh-than-thien-moi-truong",
+      "title": "Máy bán hàng tự động xanh: Xu hướng thân thiện môi trường đang định hình lại ngành vending",
+      "words": 729,
+      "hasImage": true,
+      "date": "2026-05-13"
+    },
+    {
+      "slug": "may-ban-hoa-tuoi-tu-dong-24-7-mo-hinh-kinh-doanh-doc-dao",
+      "title": "Máy Bán Hoa Tươi Tự Động 24/7: Mô Hình Kinh Doanh Độc Đáo",
+      "words": 680,
+      "hasImage": true,
+      "date": "2026-07-03"
+    },
+    {
+      "slug": "may-ban-hoa-tuoi-tu-dong-flower-vending",
+      "title": "Máy bán hoa tươi tự động: Flower Vending Machine đang nở rộ toàn cầu",
+      "words": 803,
+      "hasImage": true,
+      "date": "2026-05-22"
+    },
+    {
+      "slug": "may-ban-khau-trang-nuoc-rua-tay-tu-dong-bai-hoc-covid",
+      "title": "Máy Bán Khẩu Trang Và Nước Rửa Tay Tự Động: Bài Học Từ Đại Dịch COVID",
+      "words": 600,
+      "hasImage": true,
+      "date": "2026-06-28"
+    },
+    {
+      "slug": "may-ban-my-pham-cham-soc-da-tu-dong-co-hoi-kinh-doanh",
+      "title": "Máy Bán Mỹ Phẩm Tự Động: Cơ Hội Kinh Doanh Beauty Vending 2026",
+      "words": 634,
+      "hasImage": true,
+      "date": "2026-07-04"
+    },
+    {
+      "slug": "may-ban-my-pham-lam-dep-beauty-vending",
+      "title": "Máy bán mỹ phẩm và làm đẹp tự động: Beauty Vending Machine đang bùng nổ",
+      "words": 791,
+      "hasImage": true,
+      "date": "2026-05-23"
+    },
+    {
+      "slug": "may-ban-nuoc-detox-cold-press-juice-tu-dong",
+      "title": "Máy Bán Nước Detox Và Cold-Press Juice Tự Động: Xu Hướng Sức Khỏe 2026",
+      "words": 614,
+      "hasImage": true,
+      "date": "2026-09-13"
+    },
+    {
+      "slug": "may-ban-nuoc-mia-tu-dong-xu-huong-thuc-uong-dia-phuong-viet-nam",
+      "title": "Máy Bán Nước Mía Tự Động: Xu Hướng Thức Uống Địa Phương Mới Nổi",
+      "words": 788,
+      "hasImage": true,
+      "date": "2026-10-23"
+    },
+    {
+      "slug": "may-ban-nuoc-tu-dong-2026-giai-phap-kinh-doanh-toi-uu",
+      "title": "Máy Bán Nước Tự Động 2026: Giải Pháp Kinh Doanh Tối Ưu",
+      "words": 1085,
+      "hasImage": true,
+      "date": "2026-06-18"
+    },
+    {
+      "slug": "may-ban-nuoc-tu-dong-cho-van-phong-nen-chon-dung-tich-bao-nhieu",
+      "title": "Máy bán nước tự động cho văn phòng: Nên chọn dung tích bao nhiêu?",
+      "words": 710,
+      "hasImage": true,
+      "date": "2026-05-04"
+    },
+    {
+      "slug": "may-ban-nuoc-tu-dong-mua-he-toi-uu-doanh-thu-cao-diem",
+      "title": "Máy bán nước tự động mùa hè: Tối ưu doanh thu cao điểm",
+      "words": 624,
+      "hasImage": true,
+      "date": "2026-05-06"
+    },
+    {
+      "slug": "may-ban-san-pham-van-phong-tu-dong-van-phong-hien-dai",
+      "title": "Máy Bán Sản Phẩm Văn Phòng Tự Động: Tiện Ích Không Thể Thiếu 2026",
+      "words": 634,
+      "hasImage": true,
+      "date": "2026-06-30"
+    },
+    {
+      "slug": "may-ban-snack-tu-dong-lua-chon-hang-hoa-toi-uu-doanh-thu",
+      "title": "Máy Bán Snack Tự Động: Lựa Chọn Hàng Hóa Tối Ưu Doanh Thu",
+      "words": 732,
+      "hasImage": true,
+      "date": "2026-06-21"
+    },
+    {
+      "slug": "may-ban-sua-tuoi-nguyen-chat-tu-dong-farm-to-table",
+      "title": "Máy Bán Sữa Tươi Nguyên Chất Tự Động: Xu Hướng Farm-To-Table Mới Tại Việt Nam",
+      "words": 623,
+      "hasImage": true,
+      "date": "2026-09-08"
+    },
+    {
+      "slug": "may-ban-thuoc-otc-khong-ke-toa-pharmacy-vending",
+      "title": "Máy bán thuốc không kê toa tự động: Pharmacy Vending Machine đang thay đổi dịch vụ dược phẩm",
+      "words": 811,
+      "hasImage": true,
+      "date": "2026-06-02"
+    },
+    {
+      "slug": "may-ban-thuoc-tu-dong-giai-phap-y-te-tu-phuc-vu-24-7",
+      "title": "Máy Bán Thuốc Tự Động: Giải Pháp Y Tế Tự Phục Vụ 24/7",
+      "words": 669,
+      "hasImage": true,
+      "date": "2026-06-27"
+    },
+    {
+      "slug": "may-ban-ve-tu-dong-ticketing-giai-tri-du-lich",
+      "title": "Máy Bán Vé Tự Động: Hệ Thống Ticketing Thông Minh Cho Giải Trí Và Du Lịch",
+      "words": 646,
+      "hasImage": true,
+      "date": "2026-07-07"
+    },
+    {
+      "slug": "micro-market-khong-nhan-vien-vuot-troi-vending-machine",
+      "title": "Micro Market Không Nhân Viên: Mô Hình Vượt Trội Hơn Vending Machine Truyền Thống",
+      "words": 616,
+      "hasImage": true,
+      "date": "2026-08-05"
+    },
+    {
+      "slug": "micro-market-vs-may-ban-hang-tu-dong-truyen-thong",
+      "title": "Micro-market vs. Máy bán hàng tự động truyền thống: So sánh chi tiết cho nhà đầu tư",
+      "words": 802,
+      "hasImage": true,
+      "date": "2026-05-13"
+    },
+    {
+      "slug": "mo-hinh-kinh-doanh-may-ban-hang-tu-dong-2026-tu-dau-tu-den-loi-nhuan",
+      "title": "Mô Hình Kinh Doanh Máy Bán Hàng Tự Động 2026: Từ Đầu Tư Đến Lợi Nhuận",
+      "words": 638,
+      "hasImage": true,
+      "date": "2026-07-19"
+    },
+    {
+      "slug": "mo-hinh-may-ban-snack-tu-dong-tai-nha-may-khu-cong-nghiep",
+      "title": "Mô hình máy bán snack tự động tại nhà máy, khu công nghiệp",
+      "words": 664,
+      "hasImage": true,
+      "date": "2026-05-04"
+    },
+    {
+      "slug": "mua-locker-thong-minh-o-dau-uy-tin-tphcm-ha-noi",
+      "title": "Mua Locker Thông Minh Ở Đâu Uy Tín Tại TP.HCM Và Hà Nội 2026",
+      "words": 696,
+      "hasImage": true,
+      "date": "2026-07-12"
+    },
+    {
+      "slug": "nhat-ban-thien-duong-cua-may-ban-hang-tu-dong-tren-the-gioi",
+      "title": "Nhật Bản: Thiên đường của máy bán hàng tự động trên thế giới",
+      "words": 866,
+      "hasImage": true,
+      "date": "2026-05-10"
+    },
+    {
+      "slug": "nhuong-quyen-may-ban-hang-tu-dong-mo-hinh-kinh-doanh-the-gioi",
+      "title": "Nhượng quyền máy bán hàng tự động: Mô hình kinh doanh đang bùng nổ toàn cầu",
+      "words": 707,
+      "hasImage": true,
+      "date": "2026-05-15"
+    },
+    {
+      "slug": "parcel-locker-nong-thon-thuong-mai-dien-tu-vung-xa",
+      "title": "Parcel Locker Nông Thôn: Đưa Thương Mại Điện Tử Đến Vùng Xa Việt Nam",
+      "words": 661,
+      "hasImage": true,
+      "date": "2026-07-15"
+    },
+    {
+      "slug": "phan-mem-quan-ly-locker-tinh-nang-can-co-doanh-nghiep",
+      "title": "Phần Mềm Quản Lý Locker: Tính Năng Cần Có Cho Doanh Nghiệp",
+      "words": 678,
+      "hasImage": true,
+      "date": "2026-07-02"
+    },
+    {
+      "slug": "phan-tich-du-lieu-may-ban-hang-data-driven-loi-nhuan",
+      "title": "Phân Tích Dữ Liệu Máy Bán Hàng: Data-Driven Decisions Tăng Lợi Nhuận",
+      "words": 734,
+      "hasImage": true,
+      "date": "2026-08-04"
+    },
+    {
+      "slug": "phan-tich-loi-nhuan-thuc-te-may-ban-hang-tu-dong-theo-vi-tri",
+      "title": "Phân Tích Lợi Nhuận Thực Tế Máy Bán Hàng Tự Động Theo Từng Loại Vị Trí",
+      "words": 821,
+      "hasImage": true,
+      "date": "2026-11-05"
+    },
+    {
+      "slug": "proptech-locker-thong-minh-xu-huong-bat-dong-san-2026",
+      "title": "PropTech Và Locker Thông Minh: Xu Hướng Công Nghệ Bất Động Sản 2026",
+      "words": 666,
+      "hasImage": true,
+      "date": "2026-08-06"
+    },
+    {
+      "slug": "qr-code-locker-mo-tu-bang-smartphone-khong-can-chia-khoa",
+      "title": "QR Code Locker: Mở Tủ Bằng Smartphone Không Cần Chìa Khóa",
+      "words": 622,
+      "hasImage": true,
+      "date": "2026-06-26"
+    },
+    {
+      "slug": "quan-ly-tu-xa-he-thong-may-ban-hang-tu-dong-phan-mem-can-co-nhung-gi",
+      "title": "Quản lý từ xa hệ thống máy bán hàng tự động: Phần mềm cần có những gì?",
+      "words": 712,
+      "hasImage": true,
+      "date": "2026-05-05"
+    },
+    {
+      "slug": "quan-ly-tu-xa-may-ban-hang-telemetry-remote-monitoring",
+      "title": "Quản Lý Từ Xa Máy Bán Hàng Tự Động: Phần Mềm Telemetry Và Remote Monitoring",
+      "words": 641,
+      "hasImage": true,
+      "date": "2026-08-03"
+    },
+    {
+      "slug": "quan-ly-van-hanh-nhieu-may-vending-tu-xa-remote",
+      "title": "Quản lý vận hành nhiều máy vending từ xa: Remote Management System cho nhà đầu tư chuyên nghiệp",
+      "words": 941,
+      "hasImage": true,
+      "date": "2026-06-03"
+    },
+    {
+      "slug": "quen-ma-pin-tu-locker-cach-mo-khoa-khan-cap-reset",
+      "title": "Quên Mã PIN Tủ Locker: Cách Mở Khóa Khẩn Cấp Và Reset Hệ Thống",
+      "words": 658,
+      "hasImage": true,
+      "date": "2026-07-17"
+    },
+    {
+      "slug": "quy-dinh-phap-ly-khi-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+      "title": "Quy định pháp lý khi kinh doanh máy bán hàng tự động tại Việt Nam",
+      "words": 752,
+      "hasImage": true,
+      "date": "2026-05-08"
+    },
+    {
+      "slug": "quy-dinh-phap-ly-may-ban-hang-tu-dong-viet-nam",
+      "title": "Quy Định Pháp Lý Về Máy Bán Hàng Tự Động Tại Việt Nam: Giấy Phép Cần Thiết",
+      "words": 708,
+      "hasImage": true,
+      "date": "2026-08-19"
+    },
+    {
+      "slug": "quy-trinh-pilot-trien-khai-locker-thong-minh-5-buoc",
+      "title": "Quy Trình Pilot Triển Khai Locker Thông Minh: 5 Bước Từ Thử Nghiệm Đến Mở Rộng",
+      "words": 779,
+      "hasImage": true,
+      "date": "2026-08-28"
+    },
+    {
+      "slug": "review-tu-locker-dien-tu-sau-1-nam-su-dung-thuc-te",
+      "title": "Review Tủ Locker Điện Tử Sau 1 Năm Sử Dụng: Ưu Nhược Điểm Thực Tế",
+      "words": 730,
+      "hasImage": true,
+      "date": "2026-08-15"
+    },
+    {
+      "slug": "robot-barista-may-pha-ca-phe-tu-dong-xu-huong-toan-cau",
+      "title": "Robot barista và máy pha cà phê tự động: Xu hướng đang thay đổi ngành F&B toàn cầu",
+      "words": 637,
+      "hasImage": true,
+      "date": "2026-05-16"
+    },
+    {
+      "slug": "roi-tu-locker-thong-minh-cong-thuc-tinh-case-study",
+      "title": "ROI Tủ Locker Thông Minh: Công Thức Tính Và Case Study Thực Tế Việt Nam",
+      "words": 700,
+      "hasImage": true,
+      "date": "2026-08-23"
+    },
+    {
+      "slug": "sla-ho-tro-ky-thuat-locker-hop-dong-dich-vu",
+      "title": "SLA Và Hỗ Trợ Kỹ Thuật Locker: Những Điều Phải Có Trong Hợp Đồng Dịch Vụ",
+      "words": 722,
+      "hasImage": true,
+      "date": "2026-08-27"
+    },
+    {
+      "slug": "smart-locker-la-gi-nguyen-ly-hoat-dong",
+      "title": "Smart locker là gì? Nguyên lý hoạt động và khác biệt với tủ locker thường",
+      "words": 732,
+      "hasImage": true,
+      "date": "2026-06-16"
+    },
+    {
+      "slug": "smart-locker-phong-kham-tu-nang-cao-trai-nghiem-benh-nhan",
+      "title": "Smart Locker Phòng Khám Tư: Nâng Cao Trải Nghiệm Bệnh Nhân Vượt Bậc",
+      "words": 666,
+      "hasImage": true,
+      "date": "2026-07-01"
+    },
+    {
+      "slug": "so-sanh-locker-4-cua-6-cua-12-cua-nen-chon-gi",
+      "title": "So Sánh Tủ Locker 4 Cửa vs 6 Cửa vs 12 Cửa: Nên Chọn Gì Cho Nhu Cầu Của Bạn?",
+      "words": 620,
+      "hasImage": true,
+      "date": "2026-08-11"
+    },
+    {
+      "slug": "so-sanh-may-ban-hang-tu-dong-nhat-ban-trung-quoc-viet-nam",
+      "title": "So Sánh Máy Bán Hàng Tự Động Nhật Bản, Trung Quốc và Việt Nam: Nên Chọn Loại Nào?",
+      "words": 880,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "so-sanh-may-ban-hang-tu-dong-trung-quoc-nhat-ban-chon-loai-nao",
+      "title": "So sánh máy bán hàng tự động Trung Quốc và Nhật Bản: Nên chọn loại nào?",
+      "words": 746,
+      "hasImage": true,
+      "date": "2026-05-16"
+    },
+    {
+      "slug": "so-sanh-qr-rfid-van-tay-mo-khoa-locker",
+      "title": "So sánh 3 phương thức mở khóa locker: QR code, RFID và vân tay — Cái nào phù hợp nhất?",
+      "words": 859,
+      "hasImage": true,
+      "date": "2026-06-16"
+    },
+    {
+      "slug": "so-sanh-thuong-hieu-locker-thong-minh-viet-nam-2026",
+      "title": "So sánh thương hiệu locker thông minh tại Việt Nam 2026",
+      "words": 724,
+      "hasImage": true,
+      "date": "2026-06-12"
+    },
+    {
+      "slug": "so-sanh-tu-locker-thong-minh-va-tu-gui-do-truyen-thong-tai-chung-cu",
+      "title": "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư",
+      "words": 653,
+      "hasImage": true,
+      "date": "2026-05-02"
+    },
+    {
+      "slug": "thanh-toan-khong-tien-mat-may-ban-hang-qr-nfc-vi-dien-tu",
+      "title": "Thanh Toán Không Tiền Mặt Máy Bán Hàng: QR Code, NFC Và Ví Điện Tử 2026",
+      "words": 623,
+      "hasImage": true,
+      "date": "2026-08-02"
+    },
+    {
+      "slug": "thi-truong-locker-dong-nam-a-viet-nam-thai-lan-indonesia",
+      "title": "Thị Trường Locker Thông Minh Đông Nam Á: Việt Nam So Với Thái Lan Và Indonesia",
+      "words": 659,
+      "hasImage": true,
+      "date": "2026-09-03"
+    },
+    {
+      "slug": "thi-truong-may-ban-hang-tu-dong-viet-nam-2026",
+      "title": "Thị Trường Máy Bán Hàng Tự Động Việt Nam 2026: Quy Mô, Xu Hướng Và Cơ Hội",
+      "words": 783,
+      "hasImage": true,
+      "date": "2026-08-16"
+    },
+    {
+      "slug": "thi-truong-may-ban-hang-tu-dong-viet-nam-xu-huong-phat-trien-2026",
+      "title": "Thị trường máy bán hàng tự động Việt Nam: Xu hướng phát triển 2026",
+      "words": 654,
+      "hasImage": true,
+      "date": "2026-05-09"
+    },
+    {
+      "slug": "thi-truong-smart-locker-chau-a-thai-binh-duong-2026",
+      "title": "Thị trường smart locker châu Á - Thái Bình Dương 2026: Tăng trưởng mạnh, cơ hội lớn",
+      "words": 745,
+      "hasImage": true,
+      "date": "2026-05-12"
+    },
+    {
+      "slug": "thi-truong-vending-machine-an-do-bung-no",
+      "title": "Thị trường vending machine Ấn Độ: Cuộc bùng nổ tiếp theo của Châu Á",
+      "words": 819,
+      "hasImage": true,
+      "date": "2026-05-21"
+    },
+    {
+      "slug": "thi-truong-vending-machine-chau-phi-co-hoi-moi",
+      "title": "Thị trường vending machine Châu Phi: Cơ hội tiếp theo sau Châu Á",
+      "words": 927,
+      "hasImage": true,
+      "date": "2026-05-29"
+    },
+    {
+      "slug": "thi-truong-vending-machine-dong-nam-a-2026",
+      "title": "Thị trường vending machine Đông Nam Á 2026: Tổng quan toàn diện và triển vọng",
+      "words": 877,
+      "hasImage": true,
+      "date": "2026-05-23"
+    },
+    {
+      "slug": "thi-truong-vending-machine-trung-dong-uae",
+      "title": "Thị trường vending machine Trung Đông và UAE: Cơ hội từ nền kinh tế dầu mỏ chuyển đổi",
+      "words": 825,
+      "hasImage": true,
+      "date": "2026-05-26"
+    },
+    {
+      "slug": "thu-tuc-phap-ly-kinh-doanh-may-ban-hang-tu-dong-tai-viet-nam",
+      "title": "Thủ Tục Pháp Lý Kinh Doanh Máy Bán Hàng Tự Động Tại Việt Nam 2026",
+      "words": 904,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "thue-may-ban-hang-ngan-han-linh-hoat-su-kien",
+      "title": "Thuê Máy Bán Hàng Ngắn Hạn: Giải Pháp Linh Hoạt Cho Sự Kiện Và Lễ Hội",
+      "words": 654,
+      "hasImage": true,
+      "date": "2026-09-18"
+    },
+    {
+      "slug": "thue-vs-mua-tu-locker-thong-minh-tinh-roi-cho-doanh-nghiep",
+      "title": "Thuê vs Mua Tủ Locker Thông Minh: Tính Toán ROI Cho Doanh Nghiệp",
+      "words": 652,
+      "hasImage": true,
+      "date": "2026-07-10"
+    },
+    {
+      "slug": "tich-hop-may-ban-hang-tu-dong-voi-cham-soc-suc-khoe-nhan-vien",
+      "title": "Tích hợp máy bán hàng tự động vào chương trình chăm sóc sức khỏe nhân viên",
+      "words": 635,
+      "hasImage": true,
+      "date": "2026-05-18"
+    },
+    {
+      "slug": "tich-hop-tu-locker-thong-minh-voi-he-thong-quan-ly-van-don",
+      "title": "Tích hợp tủ locker thông minh với hệ thống quản lý vận đơn",
+      "words": 638,
+      "hasImage": true,
+      "date": "2026-05-05"
+    },
+    {
+      "slug": "top-thuong-hieu-tu-locker-thong-minh-uy-tin-viet-nam",
+      "title": "Top Thương Hiệu Tủ Locker Thông Minh Uy Tín Nhất Tại Việt Nam 2026",
+      "words": 666,
+      "hasImage": true,
+      "date": "2026-07-12"
+    },
+    {
+      "slug": "tu-dong-hoa-ban-le-xu-huong-unmanned-retail-viet-nam",
+      "title": "Tự Động Hóa Bán Lẻ: Xu Hướng Unmanned Retail Tại Việt Nam 2026",
+      "words": 620,
+      "hasImage": true,
+      "date": "2026-07-21"
+    },
+    {
+      "slug": "tu-locker-12-ngan-thong-minh-tieu-chuan-truong-hoc",
+      "title": "Tủ Locker 12 Ngăn Thông Minh: Giải Pháp Tiêu Chuẩn Cho Trường Học Và Khu Công Nghiệp",
+      "words": 680,
+      "hasImage": true,
+      "date": "2026-07-28"
+    },
+    {
+      "slug": "tu-locker-16-20-ngan-toa-nha-khu-cong-nghiep",
+      "title": "Tủ Locker 16–20 Ngăn: Giải Pháp Mật Độ Cao Cho Tòa Nhà Lớn Và Khu Công Nghiệp",
+      "words": 713,
+      "hasImage": true,
+      "date": "2026-07-28"
+    },
+    {
+      "slug": "tu-locker-4-ngan-thong-minh-lua-chon-toi-uu-van-phong",
+      "title": "Tủ Locker 4 Ngăn Thông Minh: Lựa Chọn Tối Ưu Cho Văn Phòng Và Trường Học",
+      "words": 663,
+      "hasImage": true,
+      "date": "2026-07-26"
+    },
+    {
+      "slug": "tu-locker-6-ngan-thong-minh-van-phong-nho-startup",
+      "title": "Tủ Locker 6 Ngăn Thông Minh: Lý Tưởng Cho Văn Phòng Nhỏ Và Startups",
+      "words": 629,
+      "hasImage": true,
+      "date": "2026-07-27"
+    },
+    {
+      "slug": "tu-locker-benh-vien-co-so-y-te-quan-ly-tai-san",
+      "title": "Tủ locker thông minh trong bệnh viện: Bảo vệ tài sản bệnh nhân và quản lý y tế hiệu quả",
+      "words": 760,
+      "hasImage": true,
+      "date": "2026-05-24"
+    },
+    {
+      "slug": "tu-locker-buu-dien-he-thong-thu-tu-hien-dai",
+      "title": "Tủ locker thông minh và tương lai của bưu điện: Khi bưu điện không còn cần nhân viên",
+      "words": 783,
+      "hasImage": true,
+      "date": "2026-06-03"
+    },
+    {
+      "slug": "tu-locker-chia-se-do-dung-coworking-space",
+      "title": "Tủ locker thông minh tại coworking space: Mô hình chia sẻ đồ dùng thế hệ mới",
+      "words": 814,
+      "hasImage": true,
+      "date": "2026-05-20"
+    },
+    {
+      "slug": "tu-locker-cho-nguoi-cao-tuoi-thiet-ke-de-dung-ho-tro",
+      "title": "Tủ Locker Cho Người Cao Tuổi: Thiết Kế Dễ Dùng Và Hỗ Trợ Đặc Biệt",
+      "words": 642,
+      "hasImage": true,
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "tu-locker-cho-phu-nu-rieng-tu-an-toan-spa-gym-van-phong",
+      "title": "Tủ Locker Cho Phụ Nữ: Riêng Tư, An Toàn Tại Spa, Gym Và Văn Phòng",
+      "words": 784,
+      "hasImage": true,
+      "date": "2026-07-27"
+    },
+    {
+      "slug": "tu-locker-cho-thu-y-benh-vien-thu-cung",
+      "title": "Tủ locker thông minh cho phòng khám thú y và spa thú cưng: Dịch vụ Pet Care tự động",
+      "words": 838,
+      "hasImage": true,
+      "date": "2026-06-02"
+    },
+    {
+      "slug": "tu-locker-cho-tre-em-an-toan-vui-nhon-truong-hoc",
+      "title": "Tủ Locker Cho Trẻ Em: An Toàn Tuyệt Đối Và Thiết Kế Vui Nhộn Tại Trường Học",
+      "words": 663,
+      "hasImage": true,
+      "date": "2026-07-26"
+    },
+    {
+      "slug": "tu-locker-chung-cu-nhan-buu-kien-parcel",
+      "title": "Tủ locker thông minh tại chung cư: Giải pháp nhận bưu kiện an toàn 24/7",
+      "words": 776,
+      "hasImage": true,
+      "date": "2026-05-28"
+    },
+    {
+      "slug": "tu-locker-co-lon-hanh-ly-thiet-bi-cong-kenh",
+      "title": "Tủ Locker Cỡ Lớn: Lưu Trữ Hành Lý Và Thiết Bị Cồng Kềnh Tại Ga Tàu, Sân Bay",
+      "words": 707,
+      "hasImage": true,
+      "date": "2026-07-29"
+    },
+    {
+      "slug": "tu-locker-co-quan-nha-nuoc-hanh-chinh",
+      "title": "Tủ locker thông minh tại cơ quan nhà nước: Hiện đại hóa hành chính công và dịch vụ công cộng",
+      "words": 904,
+      "hasImage": true,
+      "date": "2026-06-07"
+    },
+    {
+      "slug": "tu-locker-giao-nhan-hang-thuong-mai-dien-tu-mo-hinh-toan-cau",
+      "title": "Tủ locker giao nhận hàng thương mại điện tử: Mô hình đang thay đổi toàn cầu",
+      "words": 726,
+      "hasImage": true,
+      "date": "2026-05-15"
+    },
+    {
+      "slug": "tu-locker-giat-la-laundry-thong-minh",
+      "title": "Tủ locker thông minh kết hợp giặt là tự động: Laundry Locker đang thay đổi dịch vụ giặt ủi",
+      "words": 803,
+      "hasImage": true,
+      "date": "2026-06-04"
+    },
+    {
+      "slug": "tu-locker-go-sang-trong-noi-that-cao-cap-khach-san",
+      "title": "Tủ Locker Gỗ Sang Trọng: Thiết Kế Nội Thất Cao Cấp Khách Sạn Và Spa 5 Sao",
+      "words": 749,
+      "hasImage": true,
+      "date": "2026-07-25"
+    },
+    {
+      "slug": "tu-locker-gui-do-sieu-thi-coop-mart",
+      "title": "Tủ gửi đồ thông minh Co.opmart: Trải nghiệm mua sắm không lo hành lý",
+      "words": 762,
+      "hasImage": true,
+      "date": "2026-06-14"
+    },
+    {
+      "slug": "tu-locker-gui-hanh-ly-ga-ha-noi-du-lich",
+      "title": "Tủ gửi đồ thông minh Ga Hà Nội: Giải pháp thu phí tự động cho du khách",
+      "words": 833,
+      "hasImage": true,
+      "date": "2026-06-14"
+    },
+    {
+      "slug": "tu-locker-hanh-ly-san-bay-asean",
+      "title": "Tủ locker hành lý thông minh tại sân bay ASEAN: Giải pháp lưu trữ tạm thời cho hành khách",
+      "words": 771,
+      "hasImage": true,
+      "date": "2026-05-21"
+    },
+    {
+      "slug": "tu-locker-hoc-sinh-thong-minh-truong-hoc-hien-dai-khong-can-chia-khoa",
+      "title": "Tủ Locker Học Sinh Thông Minh: Trường Học Hiện Đại Không Cần Chìa Khóa",
+      "words": 832,
+      "hasImage": true,
+      "date": "2026-06-20"
+    },
+    {
+      "slug": "tu-locker-inox-304-vs-inox-201-khac-biet-ung-dung",
+      "title": "Tủ Locker Inox 304 vs Inox 201: Sự Khác Biệt Và Ứng Dụng Phù Hợp",
+      "words": 652,
+      "hasImage": true,
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "tu-locker-khach-san-capsule-nha-nghỉ-budget",
+      "title": "Tủ locker thông minh trong capsule hotel và nhà nghỉ budget: Giải pháp tối ưu không gian",
+      "words": 858,
+      "hasImage": true,
+      "date": "2026-05-27"
+    },
+    {
+      "slug": "tu-locker-khach-san-rsm-nha-trang",
+      "title": "Tủ locker thông minh khách sạn RSM Nha Trang: Gửi hành lý 24/7",
+      "words": 822,
+      "hasImage": true,
+      "date": "2026-06-15"
+    },
+    {
+      "slug": "tu-locker-ky-tuc-xa-sinh-vien-quan-ly-tai-san",
+      "title": "Tủ locker thông minh trong ký túc xá sinh viên: Giải pháp quản lý tài sản an toàn",
+      "words": 754,
+      "hasImage": true,
+      "date": "2026-05-24"
+    },
+    {
+      "slug": "tu-locker-logistics-kho-van-giao-nhan",
+      "title": "Tủ locker thông minh trong logistics và kho vận: Tối ưu hóa giao nhận hàng hóa B2B",
+      "words": 721,
+      "hasImage": true,
+      "date": "2026-05-22"
+    },
+    {
+      "slug": "tu-locker-ngan-hang-rut-tien-tai-lieu",
+      "title": "Tủ locker ngân hàng thông minh: Nhận thẻ, tài liệu và giao dịch không cần gặp nhân viên",
+      "words": 829,
+      "hasImage": true,
+      "date": "2026-06-08"
+    },
+    {
+      "slug": "tu-locker-ngan-hang-truong-dai-hoc-o-nhat-ban-cach-tan-dung-hon-200-nam",
+      "title": "Tủ locker thông minh tại ngân hàng và đại học Nhật Bản: Bài học từ 200 năm quản lý tài sản",
+      "words": 631,
+      "hasImage": true,
+      "date": "2026-05-19"
+    },
+    {
+      "slug": "tu-locker-nhua-hdpe-moi-truong-am-uot-ho-boi-spa",
+      "title": "Tủ Locker Nhựa HDPE: Ưu Điểm Vượt Trội Cho Môi Trường Ẩm Ướt Hồ Bơi Và Spa",
+      "words": 722,
+      "hasImage": true,
+      "date": "2026-07-24"
+    },
+    {
+      "slug": "tu-locker-phong-the-hinh-gym-fitness",
+      "title": "Tủ locker thông minh tại phòng gym và trung tâm thể hình: Nâng cấp trải nghiệm thành viên",
+      "words": 769,
+      "hasImage": true,
+      "date": "2026-05-26"
+    },
+    {
+      "slug": "tu-locker-photocopy-in-an-dich-vu",
+      "title": "Tủ locker dịch vụ photocopy và in ấn 24/7: In tài liệu tự động không cần nhân viên",
+      "words": 925,
+      "hasImage": true,
+      "date": "2026-06-06"
+    },
+    {
+      "slug": "tu-locker-san-golf-country-club",
+      "title": "Tủ locker thông minh tại sân golf và country club: Nâng cấp dịch vụ hội viên cao cấp",
+      "words": 822,
+      "hasImage": true,
+      "date": "2026-05-21"
+    },
+    {
+      "slug": "tu-locker-san-van-dong-the-thao-su-kien",
+      "title": "Tủ locker thông minh tại sân vận động và sự kiện thể thao: An toàn và tiện lợi cho người hâm mộ",
+      "words": 802,
+      "hasImage": true,
+      "date": "2026-06-01"
+    },
+    {
+      "slug": "tu-locker-sinh-vien-dai-hoc-rmit-viet-nam",
+      "title": "Smart locker sinh viên Đại học RMIT Việt Nam: Triển khai thực tế",
+      "words": 788,
+      "hasImage": true,
+      "date": "2026-06-14"
+    },
+    {
+      "slug": "tu-locker-tai-nha-ga-metro-mang-luoi-giao-thong-cong-cong",
+      "title": "Tủ locker thông minh tại nhà ga metro và giao thông công cộng toàn cầu",
+      "words": 703,
+      "hasImage": true,
+      "date": "2026-05-14"
+    },
+    {
+      "slug": "tu-locker-thep-son-tinh-dien-ben-dep-gia-hop-ly",
+      "title": "Tủ Locker Thép Sơn Tĩnh Điện: Bền Đẹp Và Giá Hợp Lý Cho Mọi Môi Trường",
+      "words": 711,
+      "hasImage": true,
+      "date": "2026-07-25"
+    },
+    {
+      "slug": "tu-locker-thong-minh-bao-mat-an-ninh",
+      "title": "Bảo mật tủ locker thông minh: Các lớp bảo vệ và tiêu chuẩn an toàn cần biết",
+      "words": 1181,
+      "hasImage": true,
+      "date": "2026-06-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ben-nhat-2026-tieu-chuan-danh-gia",
+      "title": "Tủ Locker Thông Minh Bền Nhất 2026: Tiêu Chuẩn Đánh Giá Và Cách Chọn",
+      "words": 786,
+      "hasImage": true,
+      "date": "2026-08-14"
+    },
+    {
+      "slug": "tu-locker-thong-minh-benh-vien-bao-quan-tu-trang-benh-nhan",
+      "title": "Tủ Locker Thông Minh Bệnh Viện: Bảo Quản Tư Trang Bệnh Nhân An Toàn",
+      "words": 725,
+      "hasImage": true,
+      "date": "2026-06-24"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cho-thue-gia-dich-vu-2026",
+      "title": "Thuê tủ locker thông minh: Bảng giá và dịch vụ tốt nhất 2026",
+      "words": 769,
+      "hasImage": true,
+      "date": "2026-06-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cho-van-phong-luu-tru-do-ca-nhan-nhan-vien",
+      "title": "Tủ locker thông minh cho văn phòng: Giải pháp lưu trữ đồ cá nhân nhân viên",
+      "words": 688,
+      "hasImage": true,
+      "date": "2026-05-01"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chung-cu-chon-lua-toi-uu-cho-cuoc-song-hien-dai",
+      "title": "Tủ Locker Thông Minh Chung Cư: Chọn Lựa Tối Ưu Cho Cuộc Sống Hiện Đại",
+      "words": 1362,
+      "hasImage": true,
+      "date": "2026-06-18"
+    },
+    {
+      "slug": "tu-locker-thong-minh-chung-cu-nhan-hang",
+      "title": "Tủ locker thông minh cho chung cư: Giải pháp nhận bưu kiện 24/7 không cần có mặt",
+      "words": 953,
+      "hasImage": true,
+      "date": "2026-06-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-co-chong-duoc-trom-cap-pha-khoa-khong",
+      "title": "Tủ locker thông minh có chống được trộm cắp, phá khóa không?",
+      "words": 701,
+      "hasImage": true,
+      "date": "2026-05-09"
+    },
+    {
+      "slug": "tu-locker-thong-minh-cong-ty-fdi-tieu-chuan-quoc-te-nha-may",
+      "title": "Tủ Locker Thông Minh Cho Công Ty FDI: Đáp Ứng Tiêu Chuẩn Quốc Tế Tại Nhà Máy Việt Nam",
+      "words": 614,
+      "hasImage": true,
+      "date": "2026-11-20"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ket-hop-pickup-thuong-mai-dien-tu-cua-hang-tien-loi",
+      "title": "Tủ Locker Thông Minh Kết Hợp Điểm Pick-up Thương Mại Điện Tử Tại Cửa Hàng Tiện Lợi",
+      "words": 643,
+      "hasImage": true,
+      "date": "2026-11-19"
+    },
+    {
+      "slug": "tu-locker-thong-minh-ket-noi-zalo-telegram-thong-bao-nhan-hang",
+      "title": "Tủ Locker Thông Minh Kết Nối Zalo Và Telegram: Thông Báo Nhận Hàng Tức Thì",
+      "words": 698,
+      "hasImage": true,
+      "date": "2026-11-22"
+    },
+    {
+      "slug": "tu-locker-thong-minh-khu-cong-nghiep-nha-may",
+      "title": "Tủ locker thông minh khu công nghiệp và nhà máy: Quản lý dụng cụ và bảo hộ lao động hiệu quả",
+      "words": 1062,
+      "hasImage": true,
+      "date": "2026-06-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-la-gi-cau-tao-cong-nghe-2026",
+      "title": "Tủ locker thông minh là gì? Cấu tạo và công nghệ 2026",
+      "words": 768,
+      "hasImage": true,
+      "date": "2026-04-28"
+    },
+    {
+      "slug": "tu-locker-thong-minh-la-gi-tong-quan-2026",
+      "title": "Tủ locker thông minh là gì? Tổng quan đầy đủ về smart locker 2026",
+      "words": 969,
+      "hasImage": true,
+      "date": "2026-06-08"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-hang-khach-san-boutique",
+      "title": "Tủ locker thông minh trong nhà hàng và khách sạn boutique: Nâng cấp trải nghiệm khách hàng",
+      "words": 670,
+      "hasImage": true,
+      "date": "2026-05-18"
+    },
+    {
+      "slug": "tu-locker-thong-minh-nha-may-san-xuat-cong-nghiep",
+      "title": "Tủ locker thông minh trong nhà máy sản xuất: Quản lý tài sản công nhân hiệu quả",
+      "words": 899,
+      "hasImage": true,
+      "date": "2026-05-29"
+    },
+    {
+      "slug": "tu-locker-thong-minh-san-bay-du-lich",
+      "title": "Tủ locker thông minh sân bay và điểm du lịch: Giải phóng hành lý, tự do khám phá",
+      "words": 1067,
+      "hasImage": true,
+      "date": "2026-06-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tai-cac-truong-dai-hoc-my-va-singapore",
+      "title": "Tủ locker thông minh tại các trường đại học Mỹ và Singapore: Mô hình và bài học",
+      "words": 754,
+      "hasImage": true,
+      "date": "2026-05-12"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tai-khu-do-thi-moi-viet-nam",
+      "title": "Tủ locker thông minh tại khu đô thị mới Việt Nam: Vinhomes, Masteri và cơ hội thị trường",
+      "words": 745,
+      "hasImage": true,
+      "date": "2026-05-17"
+    },
+    {
+      "slug": "tu-locker-thong-minh-thay-the-hop-thu-buu-dien-tai-duc-va-ha-lan",
+      "title": "Tủ locker thông minh thay thế hộp thư bưu điện tại Đức và Hà Lan",
+      "words": 759,
+      "hasImage": true,
+      "date": "2026-05-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-thu-vien-truong-dai-hoc",
+      "title": "Tủ locker thông minh thư viện đại học: Giữ chỗ, mượn sách và nhận tài liệu 24/7",
+      "words": 1042,
+      "hasImage": true,
+      "date": "2026-06-11"
+    },
+    {
+      "slug": "tu-locker-thong-minh-tich-hop-the-cham-cong-cho-nha-may",
+      "title": "Tủ locker thông minh tích hợp thẻ chấm công cho nhà máy",
+      "words": 725,
+      "hasImage": true,
+      "date": "2026-05-04"
+    },
+    {
+      "slug": "tu-locker-thong-minh-truong-hoc-hoc-sinh",
+      "title": "Tủ locker thông minh cho trường học: Bảo vệ đồ dùng học sinh và quản lý tài sản giáo dục",
+      "words": 1021,
+      "hasImage": true,
+      "date": "2026-06-10"
+    },
+    {
+      "slug": "tu-locker-thong-minh-va-bai-toan-an-ninh-chung-cu-cao-tang",
+      "title": "Tủ locker thông minh và bài toán an ninh chung cư cao tầng",
+      "words": 654,
+      "hasImage": true,
+      "date": "2026-05-07"
+    },
+    {
+      "slug": "tu-locker-thong-minh-van-phong-giai-phap-quan-ly-hien-dai",
+      "title": "Tủ Locker Thông Minh Văn Phòng: Giải Pháp Quản Lý Hiện Đại",
+      "words": 963,
+      "hasImage": true,
+      "date": "2026-06-19"
+    },
+    {
+      "slug": "tu-locker-thong-minh-van-phong-quan-ly-tai-san",
+      "title": "Tủ locker thông minh văn phòng: Quản lý tài sản nhân viên và tài liệu mật hiệu quả",
+      "words": 1009,
+      "hasImage": true,
+      "date": "2026-06-09"
+    },
+    {
+      "slug": "tu-locker-thu-vien-am-nhac-nhac-cu",
+      "title": "Tủ locker thư viện âm nhạc: Mượn nhạc cụ qua smart locker tại trường học và trung tâm âm nhạc",
+      "words": 965,
+      "hasImage": true,
+      "date": "2026-06-06"
+    },
+    {
+      "slug": "tu-locker-thu-vien-cong-cu-dung-cu-chia-se",
+      "title": "Tủ locker thư viện công cụ: Mô hình chia sẻ dụng cụ cộng đồng thông minh",
+      "words": 830,
+      "hasImage": true,
+      "date": "2026-06-05"
+    },
+    {
+      "slug": "tu-locker-thu-vien-sach-chia-se-cong-cong",
+      "title": "Tủ locker thông minh cho thư viện sách chia sẻ: Cộng đồng đọc sách không rào cản",
+      "words": 794,
+      "hasImage": true,
+      "date": "2026-05-30"
+    },
+    {
+      "slug": "tu-locker-trong-trung-tam-mua-sam-va-ban-le-hien-dai",
+      "title": "Tủ locker thông minh trong trung tâm mua sắm và bán lẻ hiện đại",
+      "words": 635,
+      "hasImage": true,
+      "date": "2026-05-16"
+    },
+    {
+      "slug": "tu-locker-trung-tam-thuong-mai-giao-nhan-mua-sam",
+      "title": "Tủ locker thông minh trong trung tâm thương mại: Giải phóng tay mua sắm và click-and-collect",
+      "words": 728,
+      "hasImage": true,
+      "date": "2026-05-31"
+    },
+    {
+      "slug": "tu-locker-truong-hoc-k12-hoc-sinh-quan-ly",
+      "title": "Tủ locker thông minh trong trường học K-12: An toàn và hiệu quả quản lý tài sản học sinh",
+      "words": 795,
+      "hasImage": true,
+      "date": "2026-06-04"
+    },
+    {
+      "slug": "tu-locker-y-te-nha-thuoc-tu-dong-xu-huong-moi",
+      "title": "Tủ locker y tế và nhà thuốc tự động: Xu hướng mới trong chăm sóc sức khỏe toàn cầu",
+      "words": 782,
+      "hasImage": true,
+      "date": "2026-05-13"
+    },
+    {
+      "slug": "tuong-lai-may-ban-hang-tu-dong-viet-nam-xu-huong-2027-2030",
+      "title": "Tương Lai Máy Bán Hàng Tự Động Việt Nam: Xu Hướng Và Dự Báo 2027-2030",
+      "words": 840,
+      "hasImage": true,
+      "date": "2026-10-14"
+    },
+    {
+      "slug": "vat-lieu-va-do-ben-cua-tu-locker-thong-minh-ngoai-troi",
+      "title": "Vật liệu và độ bền của tủ locker thông minh ngoài trời",
+      "words": 634,
+      "hasImage": true,
+      "date": "2026-05-06"
+    },
+    {
+      "slug": "vending-machine-buu-cuc-logistics-hub",
+      "title": "Vending machine tại bưu cục và logistics hub: Tự động hóa điểm phân phối cuối dặm",
+      "words": 886,
+      "hasImage": true,
+      "date": "2026-06-06"
+    },
+    {
+      "slug": "vending-machine-cho-doanh-nghiep-b2b-co-hoi-thi-truong-lon",
+      "title": "Máy bán hàng tự động B2B: Cơ hội thị trường lớn đang bị bỏ ngỏ",
+      "words": 681,
+      "hasImage": true,
+      "date": "2026-05-19"
+    },
+    {
+      "slug": "vending-machine-diem-cau-ca-khu-the-thao-ngoai-troi",
+      "title": "Vending Machine Tại Điểm Câu Cá Và Khu Thể Thao Ngoài Trời: Cơ Hội Ngách Thú Vị",
+      "words": 762,
+      "hasImage": true,
+      "date": "2026-10-24"
+    },
+    {
+      "slug": "vending-machine-homestay-airbnb-xu-huong-hospitality",
+      "title": "Vending Machine Tại Homestay Và Airbnb: Xu Hướng Hospitality Tự Động Mới",
+      "words": 693,
+      "hasImage": true,
+      "date": "2026-09-15"
+    },
+    {
+      "slug": "vending-machine-karaoke-doanh-thu-bo-tro-chu-quan",
+      "title": "Vending Machine Tại Chuỗi Karaoke: Cơ Hội Doanh Thu Bổ Trợ Cho Chủ Quán",
+      "words": 607,
+      "hasImage": true,
+      "date": "2026-09-10"
+    },
+    {
+      "slug": "vending-machine-khu-nghi-duong-bien-he-co-hoi-doanh-thu",
+      "title": "Vending Machine Tại Khu Nghỉ Dưỡng Biển: Cơ Hội Doanh Thu Mùa Hè Cao Điểm",
+      "words": 624,
+      "hasImage": true,
+      "date": "2026-11-03"
+    },
+    {
+      "slug": "vending-machine-nha-may-dien-cong-trinh-ha-tang-tien-ich-cong-nhan",
+      "title": "Vending Machine Tại Nhà Máy Điện Và Công Trình Hạ Tầng: Tiện Ích Cho Công Nhân",
+      "words": 755,
+      "hasImage": true,
+      "date": "2026-11-11"
+    },
+    {
+      "slug": "vending-machine-nhuong-quyen-mo-hinh-kinh-doanh-viet-nam",
+      "title": "Nhượng quyền máy bán hàng tự động tại Việt Nam: Mô hình kinh doanh thụ động hấp dẫn",
+      "words": 912,
+      "hasImage": true,
+      "date": "2026-05-29"
+    },
+    {
+      "slug": "vending-machine-sach-van-phong-pham-thu-vien",
+      "title": "Máy bán sách và văn phòng phẩm tự động tại thư viện: Mô hình giáo dục thông minh",
+      "words": 794,
+      "hasImage": true,
+      "date": "2026-05-22"
+    },
+    {
+      "slug": "vending-machine-san-tennis-pickleball-nuoc-the-thao",
+      "title": "Vending Machine Tại Sân Tennis Và Pickleball: Nước Thể Thao Và Gel Năng Lượng",
+      "words": 602,
+      "hasImage": true,
+      "date": "2026-09-05"
+    },
+    {
+      "slug": "vending-machine-spa-cham-soc-suc-khoe-wellness",
+      "title": "Máy bán hàng tự động trong ngành spa và wellness: Tiện ích tự phục vụ trong không gian thư giãn",
+      "words": 770,
+      "hasImage": true,
+      "date": "2026-05-26"
+    },
+    {
+      "slug": "vending-machine-tai-che-he-thong-deposit-chau-au-bai-hoc-viet-nam",
+      "title": "Vending Machine Tái Chế Và Hệ Thống Deposit Chai: Bài Học Từ Châu Âu Cho Việt Nam",
+      "words": 708,
+      "hasImage": true,
+      "date": "2026-11-07"
+    },
+    {
+      "slug": "vending-machine-thuc-pham-sach-an-uong-lanh-manh-tu-phuc-vu",
+      "title": "Vending Machine Thực Phẩm Sạch: Xu Hướng Ăn Lành Mạnh Tự Phục Vụ",
+      "words": 896,
+      "hasImage": true,
+      "date": "2026-06-22"
+    },
+    {
+      "slug": "vending-machine-tich-hop-erp-tu-dong-hoa-quy-trinh",
+      "title": "Vending Machine Tích Hợp Với Hệ Thống ERP Doanh Nghiệp: Tự Động Hóa Quy Trình",
+      "words": 601,
+      "hasImage": true,
+      "date": "2026-10-08"
+    },
+    {
+      "slug": "vending-machine-trai-tu-giam-giu-nha-tu",
+      "title": "Máy bán hàng tự động trong trại giam và cơ sở giam giữ: Ứng dụng đặc biệt và nhân văn",
+      "words": 889,
+      "hasImage": true,
+      "date": "2026-06-05"
+    },
+    {
+      "slug": "vending-machine-trung-tam-hoi-nghi-mice",
+      "title": "Máy bán hàng tự động trong trung tâm hội nghị MICE: Phục vụ đại biểu 24/7 không gián đoạn",
+      "words": 777,
+      "hasImage": true,
+      "date": "2026-06-01"
+    },
+    {
+      "slug": "vending-machine-yoga-thien-dinh-san-pham-organic",
+      "title": "Vending Machine Tại Yoga Studio Và Trung Tâm Thiền Định: Nước Thảo Dược Và Organic",
+      "words": 681,
+      "hasImage": true,
+      "date": "2026-09-26"
+    },
+    {
+      "slug": "vi-tri-dat-may-ban-nuoc-tu-dong-noi-dau-dem-lai-loi-nhuan-toi-uu",
+      "title": "Vị Trí Đặt Máy Bán Nước Tự Động: Nơi Đâu Đem Lại Lợi Nhuận Tối Ưu?",
+      "words": 1481,
+      "hasImage": true,
+      "date": "2026-06-20"
+    },
+    {
+      "slug": "wrap-quang-cao-toan-than-may-ban-hang-tu-dong-nhan-dien-thuong-hieu",
+      "title": "Wrap Quảng Cáo Toàn Thân Máy Bán Hàng Tự Động: Biến Máy Thành Công Cụ Marketing",
+      "words": 837,
+      "hasImage": true,
+      "date": "2026-10-21"
+    },
+    {
+      "slug": "xay-dung-doi-ngu-ky-thuat-bao-tri-may-ban-hang-in-house-vs-thue-ngoai",
+      "title": "Đội Ngũ Kỹ Thuật Bảo Trì Máy Bán Hàng Tự Động: In-house Vs Thuê Ngoài",
+      "words": 1007,
+      "hasImage": true,
+      "date": "2026-10-18"
+    },
+    {
+      "slug": "xay-dung-thuong-hieu-may-ban-hang-tu-dong-viet-nam-chien-luoc-branding",
+      "title": "Xây Dựng Thương Hiệu Máy Bán Hàng Tự Động Tại Việt Nam: Chiến Lược Branding",
+      "words": 783,
+      "hasImage": true,
+      "date": "2026-11-12"
+    },
+    {
+      "slug": "xu-huong-locker-thong-minh-2026-2030-cong-nghe-tuong-lai",
+      "title": "Xu Hướng Tủ Locker Thông Minh 2026–2030: Công Nghệ Nào Sẽ Thống Trị Thị Trường?",
+      "words": 817,
+      "hasImage": true,
+      "date": "2026-09-02"
+    },
+    {
+      "slug": "xu-huong-smart-locker-viet-nam-2026",
+      "title": "Xu hướng smart locker Việt Nam 2026: 5 ngành dẫn đầu triển khai",
+      "words": 787,
+      "hasImage": true,
+      "date": "2026-06-15"
+    }
+  ],
+  "summary": {
+    "total": 488,
+    "thinContent": 163,
+    "noImage": 0,
+    "ok": 325,
+    "thinContentPercent": "33.4%"
+  }
+}

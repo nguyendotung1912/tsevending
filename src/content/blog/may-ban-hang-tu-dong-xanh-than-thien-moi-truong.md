@@ -2,8 +2,18 @@
 title: "Máy bán hàng tự động xanh: Xu hướng thân thiện môi trường đang định hình lại ngành vending"
 description: "Từ máy vending tái chế vỏ lon đến điện năng lượng mặt trời và vật liệu tái chế — ngành vending toàn cầu đang chuyển đổi xanh. Tác động và cơ hội cho Việt Nam."
 date: "2026-05-13"
+image: "/images/articles/may-ban-hang-tu-dong-xanh-than-thien-moi-truong.jpg"
+imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
+imageCredit: "Photo by Lory.captures / Lorenzo Messina on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động xanh", "vending machine thân thiện môi trường", "eco vending"]
+faqs:
+  - q: "Máy vending xanh là gì?"
+    a: "Máy vending xanh là loại máy bán hàng tự động được thiết kế để thân thiện với môi trường, giảm thiểu tác động tiêu cực."
+  - q: "Máy vending ngược là gì?"
+    a: "Máy vending ngược nhận lại vỏ lon và chai nhựa, tự động phân loại và nén, rồi trả về mã QR để đổi thưởng."
+  - q: "Lợi ích của máy vending xanh là gì?"
+    a: "Lợi ích của máy vending xanh là giảm tiêu thụ điện, giảm rác thải nhựa và khuyến khích tái chế."
 ---
 
 Ngành vending machine — vốn bị chỉ trích vì tiêu thụ điện liên tục 24/7 và bán đồ uống nhựa đơn lần — đang trải qua cuộc cách mạng xanh thầm lặng nhưng quyết liệt. Từ Nhật Bản đến châu Âu, các nhà sản xuất và vận hành vending đang tái định nghĩa mô hình kinh doanh của mình theo hướng bền vững hơn.

@@ -2,10 +2,11 @@
 title: "50 câu hỏi thường gặp về tủ locker thông minh (FAQ 2026)"
 description: "Tổng hợp 50 câu hỏi thường gặp nhất về tủ locker thông minh: giá cả, lắp đặt, bảo mật, bảo trì và so sánh với locker truyền thống. Giải đáp đầy đủ và chi tiết."
 date: "2026-06-13"
+image: "/images/articles/cau-hoi-thuong-gap-tu-locker-thong-minh-faq.jpg"
+imageAlt: "A row of open lockers in a secure indoor storage area, ideal for storing valuables."
+imageCredit: "Photo by Paula on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["câu hỏi thường gặp locker thông minh", "FAQ tủ locker thông minh", "hỏi đáp locker thông minh", "locker thông minh là gì", "smart locker câu hỏi"]
-image: "/images/articles/cau-hoi-thuong-gap-tu-locker-thong-minh-faq.svg"
-imageAlt: "50 câu hỏi thường gặp và giải đáp về tủ locker thông minh tại Việt Nam 2026"
 faqs:
   - q: "Tủ locker thông minh khác tủ locker thường ở điểm nào?"
     a: "Tủ locker thông minh sử dụng khóa điện tử và xác thực số (PIN, QR, vân tay, thẻ RFID) thay vì chìa khóa cơ. Toàn bộ lịch sử mở/đóng được ghi nhận, quản trị viên điều hành từ xa qua phần mềm — không cần quản lý chìa khóa vật lý."

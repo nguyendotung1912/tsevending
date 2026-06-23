@@ -7,7 +7,7 @@ sub: "tu-locker-chung-cu"
 keywords: ["locker thông minh vs thùng thư", "locker chung cư so sánh", "quản lý bưu kiện chung cư"]
 image: "/images/articles/locker-thong-minh-vs-thung-thu-lua-chon-nao-toi-uu-cho-chung-cu.jpg"
 imageAlt: "Hình ảnh so sánh tủ locker thông minh hiện đại và dãy thùng thư truyền thống trong bối cảnh chung cư, làm nổi bật sự khác biệt về tính năng và hiệu quả quản lý bưu kiện."
-imageCredit: "Photo by Jean Fourche on Pexels"
+imageCredit: "Photo by Quang Nguyen Vinh on Pexels"
 faqs:
   - q: "Chi phí đầu tư tủ locker thông minh có cao hơn thùng thư truyền thống không?"
     a: "Ban đầu, chi phí đầu tư tủ locker thông minh thường cao hơn. Tuy nhiên, hiệu quả vận hành, bảo mật và sự hài lòng của cư dân mang lại giá trị dài hạn, giúp tiết kiệm chi phí nhân sự và giải quyết các sự cố phát sinh về sau."

@@ -2,8 +2,18 @@
 title: "Máy bán hàng tự động B2B: Cơ hội thị trường lớn đang bị bỏ ngỏ"
 description: "Phân khúc B2B trong vending machine — bán dụng cụ, PPE, vật tư văn phòng và linh kiện tự động cho nhân viên doanh nghiệp — đang tăng trưởng mạnh toàn cầu."
 date: "2026-05-19"
+image: "/images/articles/vending-machine-cho-doanh-nghiep-b2b-co-hoi-thi-truong-lon.jpg"
+imageAlt: "Vending machine cho doanh nghiệp B2B: cơ hội thị trường lớn"
+imageCredit: "Photo by Diana Nguyen on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["vending machine B2B", "máy bán hàng tự động doanh nghiệp", "industrial vending machine"]
+faqs:
+  - q: "Máy bán hàng tự động B2B là gì?"
+    a: ""
+  - q: ""
+    a: "Máy bán hàng tự động phục vụ doanh nghiệp thay vì người tiêu dùng cuối."
+  - q: "Industrial Vending Machine bán gì?"
+    a: ""
 ---
 
 Khi nói đến [máy bán hàng tự động](/may-ban-hang-tu-dong), hầu hết mọi người nghĩ ngay đến nước uống và snack bán cho người tiêu dùng cá nhân (B2C). Nhưng có một phân khúc lớn hơn và ít được nhắc đến hơn đang phát triển mạnh: **vending machine B2B** — máy bán hàng tự động phục vụ doanh nghiệp thay vì người tiêu dùng cuối.

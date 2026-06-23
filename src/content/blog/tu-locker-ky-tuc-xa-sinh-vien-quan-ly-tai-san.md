@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh trong ký túc xá sinh viên: Giải pháp quản lý tài sản an toàn"
 description: "Đại học MIT, NUS Singapore và nhiều trường danh tiếng toàn cầu đã triển khai tủ locker thông minh trong ký túc xá để bảo vệ tài sản sinh viên, nhận bưu kiện và chia sẻ thiết bị học tập."
 date: "2026-05-24"
+image: "/images/articles/tu-locker-ky-tuc-xa-sinh-vien-quan-ly-tai-san.jpg"
+imageAlt: "Two smiling girls enjoying snacks during break time in a school classroom."
+imageCredit: "Photo by Keira Burton on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ký túc xá", "smart locker sinh viên", "locker thông minh ký túc xá đại học"]
+faqs:
+  - q: "Tủ locker thông minh là gì và vai trò của nó trong ký túc xá?"
+    a: "Tủ locker thông minh là giải pháp bảo quản tài sản và quản lý giao nhận, giúp sinh viên an toàn lưu trữ tài sản cá nhân trong môi trường ký túc xá đông người."
+  - q: "Ví dụ thực tế về triển khai tủ locker thông minh trong ký túc xá?"
+    a: "Đại học MIT đã triển khai hệ thống smart package locker tại tất cả các tòa ký túc xá từ năm 2019."
+  - q: "Lợi ích của tủ locker thông minh trong quản lý tài sản ở ký túc xá?"
+    a: "Tủ locker thông minh giúp quản lý tài sản an toàn mà không phụ thuộc vào sự trung thực hay sự hiện diện của nhân viên."
 ---
 
 Ký túc xá đại học là môi trường đặc biệt: đông người, tốc độ luân chuyển cao (sinh viên đến đi theo từng học kỳ), và tài sản cá nhân bị hòa lẫn trong không gian chung. Đây là môi trường lý tưởng cho [tủ locker thông minh](/tu-locker-thong-minh) — giải pháp bảo quản tài sản và quản lý giao nhận mà không phụ thuộc vào sự trung thực hay sự hiện diện của nhân viên.

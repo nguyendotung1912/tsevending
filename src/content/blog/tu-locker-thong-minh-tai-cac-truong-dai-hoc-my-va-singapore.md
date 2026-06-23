@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh tại các trường đại học Mỹ và Singapore: Mô hình và bài học"
 description: "MIT, Harvard và NUS Singapore đã triển khai hệ thống tủ locker thông minh tích hợp toàn diện cho sinh viên. Mô hình nào phù hợp với đại học Việt Nam?"
 date: "2026-05-12"
+image: "/images/articles/tu-locker-thong-minh-tai-cac-truong-dai-hoc-my-va-singapore.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Keira Burton on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker đại học", "smart locker trường học", "locker thông minh sinh viên"]
+faqs:
+  - q: "Tủ locker thông minh được triển khai ở đâu?"
+    a: "Tại các trường đại học."
+  - q: "Mục đích ban đầu triển khai tủ locker thông minh tại MIT và Harvard là gì?"
+    a: "Để giải quyết vấn đề nhận bưu phẩm."
+  - q: "Tủ locker thông minh có vai trò gì tại các trường đại học?"
+    a: "Lưu trữ đồ đạc, đồ dùng cá nhân của sinh viên và nhân viên."
 ---
 
 Khuôn viên đại học là một trong những môi trường lý tưởng nhất để triển khai [tủ locker thông minh](/tu-locker-thong-minh) — mật độ người dùng cao, nhu cầu lưu trữ đa dạng và văn hóa công nghệ của sinh viên tạo điều kiện chấp nhận nhanh. Các đại học hàng đầu thế giới đã đi trước và bài học từ họ rất đáng để tham khảo.

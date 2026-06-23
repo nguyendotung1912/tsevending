@@ -7,7 +7,7 @@ sub: "tu-locker-chung-cu"
 keywords: ["tá»§ locker chung cÆ°", "locker thÃ´ng minh chung cÆ°", "tu locker nhan hang chung cu"]
 image: "/images/articles/tu-locker-thong-minh-chung-cu-chon-lua-toi-uu-cho-cuoc-song-hien-dai.jpg"
 imageAlt: "Nguyễn Đỗ Tùng tư vấn về tủ locker thông minh chung cư tại sảnh tòa nhà chung cư hiện đại"
-imageCredit: "Photo by Jean Fourche on Pexels"
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Tủ locker thông minh có thực sự an toàn cho bưu phẩm giá trị cao không?"
     a: "Có, các hệ thống hiện đại sử dụng mã PIN/QR, camera giám sát và báo động chống cạy phá, đảm bảo an toàn cao cho bưu phẩm, kể cả những món đồ giá trị."

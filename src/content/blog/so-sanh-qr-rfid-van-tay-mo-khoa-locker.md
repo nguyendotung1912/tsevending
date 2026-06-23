@@ -2,11 +2,12 @@
 title: "So sánh 3 phương thức mở khóa locker: QR code, RFID và vân tay — Cái nào phù hợp nhất?"
 description: "So sánh chi tiết QR code, thẻ RFID và vân tay cho tủ locker thông minh: ưu nhược điểm, chi phí, tình huống phù hợp và khuyến nghị cho từng ngành."
 date: "2026-06-16"
+image: "/images/articles/so-sanh-qr-rfid-van-tay-mo-khoa-locker.jpg"
+imageAlt: "A close-up image of an illuminated security keypad mounted on a wall."
+imageCredit: "Photo by Anna Shvets on Pexels"
 silo: "tu-locker-thong-minh"
 category: "so-sanh"
 keywords: ["so sánh phương thức mở locker", "QR code vs RFID locker", "vân tay mở tủ locker", "locker mở bằng gì tốt nhất"]
-image: "/images/articles/so-sanh-qr-rfid-van-tay-mo-khoa-locker.svg"
-imageAlt: "So sánh QR code, RFID và vân tay để mở tủ locker thông minh"
 faqs:
   - q: "QR code hay RFID tốt hơn cho locker chung cư?"
     a: "RFID tốt hơn cho chung cư vì cư dân có thẻ cư dân sẵn — không cần nhớ mã hay mở app. Tuy nhiên với locker giao nhận hàng cho shipper vãng lai, QR code linh hoạt hơn."

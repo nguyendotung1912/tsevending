@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh tại nhà ga metro và giao thông công cộng toàn cầu"
 description: "Tokyo, Seoul, London và Paris đặt tủ locker thông minh tại ga tàu điện ngầm phục vụ hành khách lưu trữ hành lý tạm thời. Tuyến metro Bến Thành - Suối Tiên mở cơ hội gì?"
 date: "2026-05-14"
+image: "/images/articles/tu-locker-tai-nha-ga-metro-mang-luoi-giao-thong-cong-cong.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Bernhard Egger on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker nhà ga metro", "locker ga tàu điện ngầm", "smart locker giao thông công cộng"]
+faqs:
+  - q: "Tủ locker thông minh tại nhà ga metro là gì?"
+    a: "Là giải pháp lưu trữ hành lý tạm thời."
+  - q: "Tủ locker thông minh có ph��� biến tại các hệ thống giao thông công cộng?"
+    a: "Đã phổ biến từ nhiều thập kỷ tại các hệ thống lớn trên thế giới."
+  - q: "Tủ locker tại Tokyo sử dụng hình thức thanh toán nào?"
+    a: "Từ đồng xu đến thẻ thông minh."
 ---
 
 Khi bạn đến một thành phố lạ và cần gửi hành lý tạm thời để khám phá thành phố trước giờ nhận phòng khách sạn — hay khi cần để đồ lại sau khi trả phòng nhưng chuyến bay còn mấy tiếng nữa — tủ locker tại nhà ga là giải pháp lý tưởng. Đây là dịch vụ đã phổ biến tại các hệ thống giao thông công cộng lớn trên thế giới từ nhiều thập kỷ.

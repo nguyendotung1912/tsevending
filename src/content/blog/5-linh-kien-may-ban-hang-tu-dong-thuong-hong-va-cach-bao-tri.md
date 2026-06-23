@@ -2,9 +2,19 @@
 title: "5 linh kiện máy bán hàng tự động thường hỏng và cách bảo trì"
 description: "Tổng hợp 5 linh kiện máy bán hàng tự động dễ hỏng nhất, dấu hiệu nhận biết sớm và quy trình bảo trì định kỳ giúp máy hoạt động ổn định, giảm gián đoạn doanh thu."
 date: "2026-05-03"
+image: "/images/articles/5-linh-kien-may-ban-hang-tu-dong-thuong-hong-va-cach-bao-tri.jpg"
+imageAlt: "Skilled electrician using a drill to repair electrical equipment indoors. Focus on precision and safety."
+imageCredit: "Photo by Jakub Pabis on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["linh kiện máy bán hàng tự động", "bảo trì vending machine", "sửa máy bán hàng tự động"]
+faqs:
+  - q: "Máy bán hàng tự động thường gặp vấn đề với linh kiện nào?"
+    a: "Motor và cuộn xoắn khay hàng."
+  - q: "Tại sao motor và cu���n xoắn dễ hỏng?"
+    a: "Do hoạt động cơ học liên tục."
+  - q: "Bảo trì linh kiện máy bán hàng tự động có lợi gì?"
+    a: "Tránh máy ngừng hoạt động bất ngờ, gây mất doanh thu và ảnh hưởng trải nghiệm khách hàng."
 ---
 
 Máy bán hàng tự động hoạt động liên tục 24/7, vì vậy một số [linh kiện máy bán hàng tự động](/may-ban-hang-tu-dong/linh-kien-phu-tung) sẽ hao mòn theo thời gian. Nhận biết sớm các linh kiện dễ hỏng và có kế hoạch bảo trì phù hợp giúp đơn vị vận hành tránh tình trạng máy ngừng hoạt động bất ngờ, gây mất doanh thu và ảnh hưởng đến trải nghiệm khách hàng.

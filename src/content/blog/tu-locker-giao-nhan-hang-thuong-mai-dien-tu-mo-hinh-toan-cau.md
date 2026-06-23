@@ -2,8 +2,18 @@
 title: "Tủ locker giao nhận hàng thương mại điện tử: Mô hình đang thay đổi toàn cầu"
 description: "Thương mại điện tử bùng nổ thúc đẩy nhu cầu tủ locker giao nhận hàng tự động tại toàn cầu. Shopee, Lazada và Tiki sẽ đi theo hướng nào tại Việt Nam?"
 date: "2026-05-15"
+image: "/images/articles/tu-locker-giao-nhan-hang-thuong-mai-dien-tu-mo-hinh-toan-cau.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Mizuno K on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thương mại điện tử", "smart locker giao hàng", "locker TMĐT Việt Nam"]
+faqs:
+  - q: "Tủ locker thông minh là gì và vai trò của nó trong giao nhận hàng?"
+    a: "Tủ locker thông minh là một giải pháp giao nhận hàng tự đ��ng, giúp người nhận hàng linh hoạt nhận hàng mà không cần ở nhà chờ."
+  - q: "Tại sao chi phí giao hàng chặng cuối chiếm tỷ lệ cao trong tổng chi phí logistics?"
+    a: "Chi phí giao hàng chặng cuối chiếm 40-55% tổng chi phí logistics do khoảng cách ngắn nhưng cần nhiều tài nguyên và nhân lực."
+  - q: "Thương mại điện tử ảnh hưởng như thế nào đến bài toán logistics?"
+    a: "Thương mại điện tử tạo ra bài toán logistics phức tạp do nhu cầu giao hàng nhanh, linh hoạt và không cần ở nhà chờ của người tiêu dùng."
 ---
 
 Thương mại điện tử toàn cầu đang tạo ra một bài toán logistics phức tạp chưa từng có: làm thế nào giao hàng đến tay người tiêu dùng một cách hiệu quả, khi người tiêu dùng ngày càng mong đợi giao hàng nhanh, linh hoạt và không cần ở nhà chờ?

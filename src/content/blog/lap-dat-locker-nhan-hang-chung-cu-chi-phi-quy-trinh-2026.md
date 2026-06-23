@@ -7,7 +7,7 @@ sub: "tu-locker-chung-cu"
 keywords: ["lắp đặt locker chung cư", "chi phí locker nhận hàng", "locker giao hàng chung cư"]
 image: "/images/articles/lap-dat-locker-nhan-hang-chung-cu-chi-phi-quy-trinh-2026.jpg"
 imageAlt: "Hình ảnh một dãy tủ locker thông minh hiện đại trong sảnh chung cư, minh họa giải pháp lắp đặt locker chung cư tiện lợi."
-imageCredit: "Photo by Jean Fourche on Pexels"
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 faqs:
   - q: "Locker thông minh có đảm bảo an toàn cho gói hàng cư dân không?"
     a: "Hoàn toàn có. [Tủ locker thông minh](/tu-locker-thong-minh) được trang bị hệ thống khóa điện tử, camera giám sát và mã PIN/QR code riêng biệt cho từng giao dịch, đảm bảo gói hàng được bảo vệ an toàn tuyệt đối khỏi mất cắp hay nhầm lẫn."

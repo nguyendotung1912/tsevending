@@ -2,8 +2,18 @@
 title: "Lắp đặt tủ locker thông minh: Quy trình, chi phí và những điều cần chuẩn bị"
 description: "Hướng dẫn đầy đủ quy trình lắp đặt tủ locker thông minh từ A đến Z — từ khảo sát vị trí, đi dây điện, cấu hình phần mềm đến đào tạo vận hành. Tránh những lỗi phổ biến khi triển khai smart locker lần đầu."
 date: "2026-06-10"
+image: "/images/articles/lap-dat-tu-locker-thong-minh-quy-trinh-chi-phi.jpg"
+imageAlt: "Electrician from Elite Power Group installing a solar inverter outside."
+imageCredit: "Photo by МОБО Модульные Котельные on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["lắp đặt tủ locker thông minh", "triển khai smart locker", "quy trình lắp đặt locker", "chi phí lắp đặt locker thông minh"]
+faqs:
+  - q: "Làm thế nào để xác định số lượng ô locker cần thiết cho văn phòng?"
+    a: "Dựa vào số nhân viên và công thức: số ô = số nhân viên × 70%."
+  - q: "Tôi cần chuẩn bị những gì trước khi lắp đặt tủ locker thông minh?"
+    a: "Xác định số lượng ô locker cần thiết và lên phương án lắp đặt."
+  - q: "Chi phí lắp đặt tủ locker thông minh gồm những gì?"
+    a: "Bài viết không đề cập cụ thể, nhưng nhấn mạnh việc lắp đặt đúng cách để hệ thống hoạt động hiệu quả."
 ---
 
 Quyết định mua [tủ locker thông minh](/tu-locker-thong-minh) chỉ là bước đầu — việc lắp đặt và triển khai đúng cách mới quyết định hệ thống có hoạt động hiệu quả trong dài hạn hay không. Bài viết này hướng dẫn chi tiết toàn bộ quy trình lắp đặt tủ locker thông minh, giúp doanh nghiệp chuẩn bị tốt và tránh những sai lầm phổ biến.

@@ -9,12 +9,15 @@
     "lint": "eslint",
     "generate:article": "tsx scripts/generate-article.ts",
     "generate:article:gemini": "tsx scripts/generate-article-gemini.ts",
+    "generate:article:groq": "tsx scripts/generate-article-groq.ts",
+    "generate:articles": "tsx scripts/generate-article-multi.ts",
     "fetch:news": "tsx scripts/fetch-world-news.ts",
     "audit:backlinks": "tsx scripts/audit-backlinks.ts",
     "submit:directories": "tsx scripts/submit-directories.ts",
     "generate:pr": "tsx scripts/generate-press-release.ts",
     "submit:pr": "tsx scripts/auto-submit-pr.ts",
-    "submit:vn": "tsx scripts/submit-vn-platforms.ts"
+    "submit:vn": "tsx scripts/submit-vn-platforms.ts",
+    "submit:forums": "tsx scripts/submit-forums.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

@@ -2,8 +2,18 @@
 title: "Cashierless Store và tương lai của máy bán hàng tự động: Khi cửa hàng trở thành vending machine khổng lồ"
 description: "Amazon Go, AiFi và Zippin đang biến cả cửa hàng thành một 'vending machine khổng lồ' không thu ngân. Công nghệ computer vision và AI đang định hình lại tương lai của bán lẻ tự động toàn cầu."
 date: "2026-05-25"
+image: "/images/articles/cashierless-store-tuong-lai-cua-vending-machine.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Tara Winstead on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["cashierless store", "cửa hàng không thu ngân", "Amazon Go Việt Nam", "tương lai vending machine"]
+faqs:
+  - q: ""
+    a: "Cashierless là một hệ thống không cần thu ngân, cho phép khách hàng lấy đồ và thanh toán tự động."
+  - q: "Công nghệ này có tên là bước vào cửa hàng lấy hàng và ra sao?"
+    a: "Công nghệ này được gọi là \"Just Walk Out\", khách hàng chỉ cần bước vào, lấy hàng và ra và ra."
+  - q: "Seattle có cửa hàng nào áp dụng công nghệ này không cần không?"
+    a: "Có, Seattle đã mở cửa hàng đầu tiên áp dụng công nghệ này vào năm 2018."
 ---
 
 Khi nghe "máy bán hàng tự động", người ta thường nghĩ đến một chiếc máy chứa vài chục sản phẩm. Nhưng công nghệ đang mở rộng khái niệm này theo hướng chưa ai ngờ đến: cả một cửa hàng với hàng nghìn mặt hàng trở thành một "vending machine khổng lồ" — khách bước vào, lấy đồ và bước ra, thanh toán tự động không cần thu ngân hay quét mã. Đây là một phần của sự phát triển đỉnh cao trong [lĩnh vực kinh doanh vending](/giai-phap-kinh-doanh).

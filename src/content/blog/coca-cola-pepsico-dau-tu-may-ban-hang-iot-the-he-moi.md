@@ -2,8 +2,18 @@
 title: "Coca-Cola và PepsiCo đầu tư hàng tỷ USD vào máy bán hàng IoT thế hệ mới"
 description: "Hai tập đoàn đồ uống lớn nhất thế giới đang chuyển đổi toàn bộ hạ tầng máy bán hàng tự động sang kết nối IoT và AI. Tác động đến ngành vending toàn cầu."
 date: "2026-05-11"
+image: "/images/articles/coca-cola-pepsico-dau-tu-may-ban-hang-iot-the-he-moi.jpg"
+imageAlt: "Detailed macro shot of an AutoPi device against a dark background, showcasing technological innovation."
+imageCredit: "Photo by Hanna Pad on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["Coca-Cola vending machine IoT", "PepsiCo smart vending", "máy bán hàng IoT công nghệ"]
+faqs:
+  - q: "Coca-Cola và PepsiCo đầu tư vào công nghệ gì?"
+    a: "Máy bán hàng IoT thế hệ mới."
+  - q: "Connected Cooler của Coca-Cola làm việc như thế nào?"
+    a: "Gửi dữ liệu tồn kho và nhiệt độ của thiết bị về nền tảng IoT tập trung."
+  - q: "Có bao nhiêu thiết bị của Coca-Cola được kết nối với mạng lưới Connected Cooler?"
+    a: "Trên 15 triệu thiết bị toàn cầu."
 ---
 
 Khi Coca-Cola và PepsiCo — hai tập đoàn kiểm soát phần lớn thị trường đồ uống đóng gói toàn cầu — quyết định đầu tư quy mô lớn vào chuyển đổi hạ tầng máy vending, đó là tín hiệu mạnh mẽ cho toàn ngành về hướng đi của công nghệ vending trong thập kỷ tới.

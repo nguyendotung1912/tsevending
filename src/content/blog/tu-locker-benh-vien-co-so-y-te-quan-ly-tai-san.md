@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh trong bệnh viện: Bảo vệ tài sản bệnh nhân và quản lý y tế hiệu quả"
 description: "Bệnh viện Johns Hopkins, Cleveland Clinic và nhiều bệnh viện hàng đầu thế giới dùng tủ locker thông minh cho bệnh nhân, nhân viên y tế và thiết bị. Ứng dụng thực tế tại hệ thống bệnh viện Việt Nam."
 date: "2026-05-24"
+image: "/images/articles/tu-locker-benh-vien-co-so-y-te-quan-ly-tai-san.jpg"
+imageAlt: "Empty underground hall with vending machine and advertisements in Ho Chi Minh City."
+imageCredit: "Photo by www.kaboompics.com on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker bệnh viện", "smart locker y tế", "locker bảo vệ tài sản bệnh nhân"]
+faqs:
+  - q: "Tại sao tủ locker thông minh cần thiết trong bệnh viện?"
+    a: "Để bảo vệ tài sản bệnh nhân và quản lý y tế hiệu quả."
+  - q: "Bệnh nhân nội trú thường mang những tài sản gì đến bệnh viện?"
+    a: "Điện thoại, ví tiền, đồ trang sức và các vật phẩm cá nhân khác."
+  - q: "Tủ locker thông minh trong bệnh viện cần đáp ứng yêu cầu gì?"
+    a: "Cần đáp ứng tiêu chuẩn kỹ thuật và vệ sinh cao."
 ---
 
 Bệnh viện là môi trường đặc biệt phức tạp — hàng trăm đến hàng nghìn người di chuyển liên tục, tài sản cá nhân và y tế cần được bảo quản an toàn, và nhân viên y tế cần quản lý thiết bị đắt tiền trong không gian nhiều người dùng chung. Đây là môi trường lý tưởng nhất cho [tủ locker thông minh](/tu-locker-thong-minh) — nhưng cũng đòi hỏi tiêu chuẩn kỹ thuật và vệ sinh cao hơn bất kỳ môi trường nào khác.

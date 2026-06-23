@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh trong logistics và kho vận: Tối ưu hóa giao nhận hàng hóa B2B"
 description: "Tủ locker thông minh đang cách mạng hóa quy trình kho vận nội bộ, giao nhận giữa nhà kho và đại lý, và logistics cuối chặng B2B. Mô hình từ DHL, UPS Supply Chain và các công ty 3PL toàn cầu."
 date: "2026-05-22"
+image: "/images/articles/tu-locker-logistics-kho-van-giao-nhan.jpg"
+imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageCredit: "Photo by Tima Miroshnichenko on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker logistics", "smart locker kho vận", "locker giao nhận B2B"]
+faqs:
+  - q: "Tủ locker thông minh được ứng dụng như thế nào trong logistics B2B?"
+    a: "Tủ locker thông minh được ứng dụng trong việc tối ưu hóa giao nhận hàng hóa B2B, đặc biệt trong last-touch inventory handling."
+  - q: "DHL đã triển khai hệ thống smart locker ở đâu?"
+    a: "DHL đã triển khai hệ thống smart locker trong hàng nghìn nhà kho và trung tâm phân phối tại hơn 40 quốc gia."
+  - q: "Giá trị kinh tế của smart locker chủ yếu nằm ở đâu?"
+    a: "Giá trị kinh tế của smart locker chủ yếu nằm ở mảng logistics B2B, giao nhận giữa doanh nghiệp với doanh nghiệp."
 ---
 
 Trong khi thị trường đại chúng thường thấy [tủ locker thông minh](/tu-locker-thong-minh) gắn với giao nhận hàng thương mại điện tử (B2C), thực ra phần lớn giá trị kinh tế của smart locker nằm ở mảng **logistics B2B** — giao nhận giữa doanh nghiệp với doanh nghiệp. Đây là phân khúc ít được biết đến nhưng đang tăng trưởng mạnh nhất trong ngành locker toàn cầu.

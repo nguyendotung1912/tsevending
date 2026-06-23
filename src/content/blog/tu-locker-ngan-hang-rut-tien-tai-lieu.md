@@ -2,8 +2,17 @@
 title: "Tủ locker ngân hàng thông minh: Nhận thẻ, tài liệu và giao dịch không cần gặp nhân viên"
 description: "Các ngân hàng lớn như DBS Singapore, KBank Thái Lan và VPBank Việt Nam đang triển khai smart locker để khách nhận thẻ tín dụng, hộ sơ vay và tài liệu 24/7 mà không cần đến chi nhánh trong giờ hành chính."
 date: "2026-06-08"
+image: "/images/articles/tu-locker-ngan-hang-rut-tien-tai-lieu.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ngân hàng", "bank smart locker", "nhận thẻ ngân hàng locker"]
+faqs:
+  - q: "Tủ locker ngân hàng thông minh là gì?"
+    a: "Tủ locker ngân hàng thông minh là cơ sở hạ tầng cho phép khách hàng nhận thẻ và tài liệu từ xa 24/7."
+  - q: "Tại sao tủ locker thông minh cần thiết cho ngân hàng số?"
+    a: "Tủ locker thông minh giúp hoàn tất vòng lặp số hóa ngân hàng, cho phép khách hàng nhận thẻ và tài liệu mà không cần gặp nhân viên."
+  - q: "Ngân hàng nào đã triển khai tủ locker thông minh?"
+    a: "DBS Bank đã triển khai Card Collection Locker từ năm 2020."
 ---
 
 Mở tài khoản ngân hàng online từ nhà trong 5 phút nhưng phải đến chi nhánh giờ hành chính để nhận thẻ vật lý — đây là nghịch lý của banking số hóa nửa vời. **Smart locker ngân hàng** đang đóng kín vòng lặp này — khách hàng hoàn tất mọi thứ từ xa, nhận thẻ và tài liệu từ locker 24/7 gần nhà. [Tủ locker thông minh](/tu-locker-thong-minh) đang trở thành cơ sở hạ tầng không thể thiếu cho ngân hàng số thế hệ mới.

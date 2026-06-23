@@ -2,8 +2,18 @@
 title: "Tích hợp máy bán hàng tự động vào chương trình chăm sóc sức khỏe nhân viên"
 description: "Doanh nghiệp tiến bộ tại Mỹ, Anh và Singapore đang dùng máy vending như công cụ chăm sóc sức khỏe nhân viên. Mô hình Wellness Vending và cơ hội tại Việt Nam."
 date: "2026-05-18"
+image: "/images/articles/tich-hop-may-ban-hang-tu-dong-voi-cham-soc-suc-khoe-nhan-vien.jpg"
+imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageCredit: "Photo by Kampus Production on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán hàng tự động chăm sóc sức khỏe", "wellness vending machine", "vending machine phúc lợi nhân viên"]
+faqs:
+  - q: "Wellness Vending là gì?"
+    a: "Wellness Vending là các máy vending được tùy chỉnh để bán sản phẩm có lợi cho sức khỏe."
+  - q: "Tại sao máy bán hàng tự động được tích hợp vào chương trình chăm sóc sức khỏe nhân viên?"
+    a: "Để hỗ trợ sức khỏe và phúc lợi cho nhân viên, tạo yếu tố cạnh tranh trong thị trường lao động."
+  - q: "Sản phẩm trong Wellness Vending có thể bao gồm gì?"
+    a: "Trái cây, rau củ tươi/cắt sẵn và các sản phẩm có lợi cho sức khỏe khác."
 ---
 
 Chương trình chăm sóc sức khỏe và phúc lợi nhân viên (Employee Wellness Program) đang trở thành yếu tố cạnh tranh quan trọng trong thị trường lao động toàn cầu. Và một công cụ ít được ngờ tới đang ngày càng phổ biến trong các chương trình này: [máy bán hàng tự động](/may-ban-hang-tu-dong).

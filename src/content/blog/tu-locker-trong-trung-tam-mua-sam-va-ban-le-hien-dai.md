@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh trong trung tâm mua sắm và bán lẻ hiện đại"
 description: "IKEA, Walmart và Uniqlo sử dụng tủ locker thông minh để kết nối kênh online và offline. Mô hình omnichannel locker đang định hình lại trải nghiệm mua sắm toàn cầu."
 date: "2026-05-16"
+image: "/images/articles/tu-locker-trong-trung-tam-mua-sam-va-ban-le-hien-dai.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Centre for Ageing Better on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker trung tâm mua sắm", "locker bán lẻ hiện đại", "smart locker omnichannel"]
+faqs:
+  - q: "Tủ locker thông minh được sử dụng như thế nào trong trung tâm mua sắm và bán lẻ hiện đại?"
+    a: "Là nơi gửi đồ cho khách và cầu nối chiến lược giữa kênh mua sắm online và trực tiếp tại cửa hàng."
+  - q: "IKEA đã triển khai tủ locker thông minh để giải quyết vấn đề gì?"
+    a: "Giúp khách hàng thành thị nhận sản phẩm nhỏ mà không cần đến cửa hàng ngoại thành."
+  - q: "Tủ locker thông minh của IKEA được triển khai dưới hình thức nào?"
+    a: "Click & Collect qua tủ locker tại trung tâm thành phố."
 ---
 
 Trung tâm mua sắm và chuỗi bán lẻ lớn toàn cầu đang phát hiện ra một công dụng mới của [tủ locker thông minh](/tu-locker-thong-minh): không chỉ là nơi gửi đồ cho khách, mà là cầu nối chiến lược giữa kênh mua sắm online và trải nghiệm mua sắm trực tiếp tại cửa hàng.

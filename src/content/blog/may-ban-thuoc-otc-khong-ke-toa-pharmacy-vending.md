@@ -2,8 +2,18 @@
 title: "Máy bán thuốc không kê toa tự động: Pharmacy Vending Machine đang thay đổi dịch vụ dược phẩm"
 description: "Máy bán thuốc không kê toa tự động đang xuất hiện tại sân bay, khách sạn và bệnh viện toàn cầu. CVS Health, Walgreens và ZEUS giải quyết bài toán tiếp cận thuốc 24/7 không cần nhân viên dược."
 date: "2026-06-02"
+image: "/images/articles/may-ban-thuoc-otc-khong-ke-toa-pharmacy-vending.jpg"
+imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageCredit: "Photo by Ayşenur on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán thuốc tự động", "pharmacy vending machine", "máy bán thuốc OTC không kê toa"]
+faqs:
+  - q: "Máy bán thuốc tự động có thể bán loại thuốc nào?"
+    a: "Thuốc OTC (không kê toa) như paracetamol, ibuprofen, antacid, antihistamine, cough syrup loại nhẹ, vitamin."
+  - q: "Thuốc kê toa có được bán qua máy bán thuốc tự động không?"
+    a: "Không, thuốc kê toa tuyệt đối không được bán qua vending machine."
+  - q: "Máy bán thuốc tự động có thể giúp giải quyết tình huống mua thuốc vào giờ nào?"
+    a: "Giờ cửa hàng đóng cửa, như 2h sáng."
 ---
 
 Khi bạn bị đau đầu lúc 2h sáng và nhà thuốc đã đóng cửa từ 22h, hoặc khi đang ở sân bay và phát hiện ra đã quên mang paracetamol — đây là những tình huống mà [máy bán hàng tự động](/may-ban-hang-tu-dong) thuốc OTC (over-the-counter, không kê toa) có thể giải quyết hoàn hảo.

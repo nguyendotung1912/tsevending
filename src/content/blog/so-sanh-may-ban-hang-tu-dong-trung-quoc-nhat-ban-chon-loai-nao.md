@@ -2,8 +2,18 @@
 title: "So sánh máy bán hàng tự động Trung Quốc và Nhật Bản: Nên chọn loại nào?"
 description: "Máy bán hàng tự động Trung Quốc giá rẻ hơn, Nhật Bản chất lượng cao hơn. Phân tích chi tiết ưu nhược điểm để giúp nhà đầu tư Việt Nam lựa chọn đúng."
 date: "2026-05-16"
+image: "/images/articles/so-sanh-may-ban-hang-tu-dong-trung-quoc-nhat-ban-chon-loai-nao.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by Dex Planet on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["so sánh máy bán hàng tự động Trung Quốc Nhật Bản", "máy vending nhập khẩu", "chọn máy bán hàng tự động"]
+faqs:
+  - q: "Nên chọn máy bán hàng tự động từ Trung Quốc hay Nhật Bản?"
+    a: "Tùy thuộc vào ngân sách, vị trí sử dụng và kỳ vọng vận hành dài hạn."
+  - q: "Ưu điểm của máy vending Trung Quốc là gì?"
+    a: "Giá tốt, công nghệ ngày càng cạnh tranh, thấp hơn 40-60% so với máy Nhật."
+  - q: "Các hãng máy vending Trung Quốc nổi bật là?"
+    a: "Jofemar, Ventek, Haloo, DN Vending."
 ---
 
 Khi nghiên cứu đầu tư [máy bán hàng tự động](/may-ban-hang-tu-dong), một trong những quyết định đầu tiên bạn sẽ gặp là: máy nhập từ Trung Quốc hay Nhật Bản (hoặc Hàn Quốc và châu Âu)?

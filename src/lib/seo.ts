@@ -13,6 +13,20 @@ interface BuildMetadataInput {
   description: string;
   path: string;
   image?: string;
+  type?: "website" | "article";
+  datePublished?: string;
+}
+
+function truncateDesc(text: string, max = 155): string {
+  if (text.length <= max) return text;
+  const cut = text.lastIndexOf(" ", max - 1);
+  return (cut > 100 ? text.slice(0, cut) : text.slice(0, max)).trimEnd() + "…";
+}
+
+function truncateTitle(text: string, max = 55): string {
+  if (text.length <= max) return text;
+  const cut = text.lastIndexOf(" ", max - 1);
+  return (cut > 30 ? text.slice(0, cut) : text.slice(0, max)).trimEnd() + "…";
 }
 
 export function buildMetadata({
@@ -20,29 +34,36 @@ export function buildMetadata({
   description,
   path,
   image,
+  type = "website",
+  datePublished,
 }: BuildMetadataInput): Metadata {
   const url = absoluteUrl(path);
-  const ogImage = image ?? "/og-default.svg";
+  const ogImage = image ?? `${siteConfig.url}/og-default.svg`;
+  const seoTitle = truncateTitle(title);
+  const seoDesc = truncateDesc(description);
 
   return {
-    title,
-    description,
+    title: seoTitle,
+    description: seoDesc,
     alternates: {
       canonical: url,
     },
     openGraph: {
-      title,
-      description,
+      title: seoTitle,
+      description: seoDesc,
       url,
       siteName: siteConfig.name,
       locale: "vi_VN",
-      type: "website",
-      images: [{ url: ogImage }],
+      type,
+      images: [{ url: ogImage, width: 1200, height: 630 }],
+      ...(type === "article" && datePublished
+        ? { publishedTime: datePublished, modifiedTime: datePublished }
+        : {}),
     },
     twitter: {
       card: "summary_large_image",
-      title,
-      description,
+      title: seoTitle,
+      description: seoDesc,
       images: [ogImage],
     },
   };

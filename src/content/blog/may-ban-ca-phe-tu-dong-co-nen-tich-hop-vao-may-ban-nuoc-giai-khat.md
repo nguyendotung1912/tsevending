@@ -2,9 +2,19 @@
 title: "Máy bán cà phê tự động: Có nên tích hợp vào máy bán nước giải khát?"
 description: "Phân tích ưu nhược điểm của máy bán cà phê tự động tích hợp vào máy bán nước giải khát: khi nào nên chọn giải pháp tích hợp, khi nào nên tách biệt."
 date: "2026-05-10"
+image: "/images/articles/may-ban-ca-phe-tu-dong-co-nen-tich-hop-vao-may-ban-nuoc-giai-khat.jpg"
+imageAlt: "City street scene featuring pedestrians walking past a kiosk with bare trees in winter."
+imageCredit: "Photo by Beyzaa Yurtkuran on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán cà phê tự động", "vending machine cà phê", "máy bán nước tích hợp cà phê"]
+faqs:
+  - q: "Có nên tích hợp máy bán cà phê tự động vào máy bán nước giải khát?"
+    a: "Tùy vào nhu cầu và mục đích sử dụng."
+  - q: "Có mấy dạng cà phê trong máy bán hàng tự động?"
+    a: "Có 2 dạng: cà phê đóng lon/hộp sẵn và cà phê pha chế."
+  - q: "Cà phê đóng lon/hộp sẵn có cần hệ thống pha chế không?"
+    a: "Không cần, chỉ cần bố trí khay chứa và duy trì nhiệt độ phù hợp."
 ---
 
 Cà phê là một trong những đồ uống được tiêu thụ nhiều nhất tại Việt Nam, đặc biệt tại văn phòng và nhà máy vào buổi sáng và đầu giờ chiều. Câu hỏi đặt ra cho nhà đầu tư [máy bán nước giải khát tự động](/may-ban-hang-tu-dong/may-ban-nuoc-giai-khat) là: có nên đầu tư máy tích hợp thêm chức năng pha cà phê, hay tách riêng thành hai máy?

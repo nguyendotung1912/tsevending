@@ -3,6 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import MobileBottomBar from "@/components/MobileBottomBar";
 import JsonLd from "@/components/JsonLd";
 import { organizationJsonLd, localBusinessJsonLd, websiteJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
@@ -28,6 +29,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi" className="h-full">
+      <head>
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+      </head>
       <body className="flex min-h-full flex-col antialiased">
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-VR47QNZRT8"
@@ -45,8 +51,9 @@ export default function RootLayout({
         <JsonLd data={organizationJsonLd()} />
         <JsonLd data={localBusinessJsonLd()} />
         <Header />
-        <main className="flex-1">{children}</main>
+        <main className="flex-1 pb-14 md:pb-0">{children}</main>
         <Footer />
+        <MobileBottomBar />
       </body>
     </html>
   );

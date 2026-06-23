@@ -2,9 +2,19 @@
 title: "Cấu tạo bên trong máy bán hàng tự động: Từ khoang hàng đến bo mạch điều khiển"
 description: "Giải thích chi tiết cấu tạo bên trong máy bán hàng tự động gồm những bộ phận nào: khoang hàng, cơ cấu nhả hàng, hệ thống thanh toán, hệ thống làm lạnh và bo mạch điều khiển."
 date: "2026-05-07"
+image: "/images/articles/cau-tao-ben-trong-may-ban-hang-tu-dong-tu-khoang-hang-den-bo-mach-dieu-khien.jpg"
+imageAlt: "Two workers handle a package in a spacious warehouse surrounded by shelves stocked with boxes and products."
+imageCredit: "Photo by Tiger Lily on Pexels"
 silo: "may-ban-hang-tu-dong"
 sub: "linh-kien-phu-tung"
 keywords: ["cấu tạo máy bán hàng tự động", "linh kiện vending machine", "bo mạch máy bán hàng tự động"]
+faqs:
+  - q: "Máy bán hàng tự động được cấu tạo từ những bộ phận chính nào?"
+    a: "Vỏ máy, khung chịu lực, khoang hàng, hệ thống phân phối và bo mạch điều khiển."
+  - q: "Vỏ máy bán hàng tự động thường làm từ vật liệu gì?"
+    a: "Thép sơn tĩnh điện hoặc thép không gỉ."
+  - q: "Tại sao hiểu cấu tạo bên trong máy bán hàng tự động lại quan trọng?"
+    a: "Giúp người vận hành chủ động bảo trì, xác định lỗi nhanh hơn và lựa chọn đúng linh kiện thay thế."
 ---
 
 Hiểu cấu tạo bên trong [máy bán hàng tự động](/may-ban-hang-tu-dong) giúp người vận hành chủ động bảo trì, xác định lỗi nhanh hơn và lựa chọn đúng [linh kiện thay thế](/may-ban-hang-tu-dong/linh-kien-phu-tung) khi cần. Bài viết mô tả các bộ phận chính của một máy bán hàng tự động tiêu chuẩn theo trình tự từ ngoài vào trong.

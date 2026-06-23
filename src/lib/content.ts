@@ -6,17 +6,41 @@ import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
 const BLOG_DIR = path.join(process.cwd(), "src", "content", "blog");
+const PUBLIC_DIR = path.join(process.cwd(), "public");
+// Shown when an article's frontmatter image is missing on disk, so the page
+// never renders a broken hero (LCP) image or emits a 404 og:image.
+const FALLBACK_IMAGE = "/og-default.svg";
 
-export type ArticleCategory = "du-an" | "huong-dan" | "xu-huong" | "so-sanh" | "kien-thuc" | "tin-tuc";
+// Validates the frontmatter image at build time: returns it only if the file
+// actually exists under /public, otherwise falls back to a known-good banner.
+// Remote (http) images are passed through untouched.
+function resolveImage(image?: string): string | undefined {
+  if (!image) return undefined;
+  if (/^https?:\/\//.test(image)) return image;
+  const filePath = path.join(PUBLIC_DIR, image.replace(/^\//, ""));
+  return fs.existsSync(filePath) ? image : FALLBACK_IMAGE;
+}
 
-export const CATEGORY_META: Record<ArticleCategory, { label: string; color: string; bg: string }> = {
-  "du-an":     { label: "Dự án",     color: "text-orange-700", bg: "bg-orange-50" },
-  "huong-dan": { label: "Hướng dẫn", color: "text-green-700",  bg: "bg-green-50" },
-  "xu-huong":  { label: "Xu hướng",  color: "text-purple-700", bg: "bg-purple-50" },
-  "so-sanh":   { label: "So sánh",   color: "text-blue-700",   bg: "bg-blue-50" },
-  "kien-thuc": { label: "Kiến thức", color: "text-slate-700",  bg: "bg-slate-100" },
-  "tin-tuc":   { label: "Tin tức",   color: "text-red-700",    bg: "bg-red-50" },
-};
+// Articles shorter than this are treated as thin content: set to noindex on the
+// page AND excluded from the sitemap, so Google isn't asked to crawl/index pages
+// it will reject as "Crawled - currently not indexed". Single source of truth.
+export const MIN_WORDS_FOR_INDEX = 600;
+
+// Approximate word count of a markdown body (strips code, html and md syntax).
+export function countWords(markdown: string): number {
+  return markdown
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[#*`>_[\]()|!~]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .filter(Boolean).length;
+}
+
+import type { ArticleCategory, BlogPostMeta } from "./categories";
+export type { ArticleCategory, BlogPostMeta } from "./categories";
+export { CATEGORY_META } from "./categories";
 
 export interface BlogFrontmatter {
   title: string;
@@ -24,7 +48,7 @@ export interface BlogFrontmatter {
   date: string;
   silo: string;
   sub?: string;
-  category?: ArticleCategory;
+  category?: import("./categories").ArticleCategory;
   keywords?: string[];
   image?: string;
   imageAlt?: string;
@@ -34,10 +58,8 @@ export interface BlogFrontmatter {
 export interface BlogPost extends BlogFrontmatter {
   slug: string;
   contentHtml: string;
-}
-
-export interface BlogPostMeta extends BlogFrontmatter {
-  slug: string;
+  wordCount: number;
+  indexable: boolean;
 }
 
 function readSlugs(): string[] {
@@ -50,11 +72,27 @@ function readSlugs(): string[] {
 
 export function getAllPostsMeta(): BlogPostMeta[] {
   const slugs = readSlugs();
-  const posts = slugs.map((slug) => {
+  const posts: BlogPostMeta[] = slugs.map((slug) => {
     const fullPath = path.join(BLOG_DIR, `${slug}.md`);
     const raw = fs.readFileSync(fullPath, "utf8");
-    const { data } = matter(raw);
-    return { ...(data as BlogFrontmatter), slug };
+    const { data, content } = matter(raw);
+    const d = data as BlogFrontmatter;
+    const wordCount = countWords(content);
+    return {
+      title: d.title,
+      description: d.description,
+      date: d.date,
+      silo: d.silo,
+      sub: d.sub,
+      category: d.category,
+      keywords: d.keywords,
+      image: resolveImage(d.image),
+      imageAlt: d.imageAlt,
+      faqs: d.faqs,
+      slug,
+      wordCount,
+      indexable: wordCount >= MIN_WORDS_FOR_INDEX,
+    };
   });
   return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
@@ -68,7 +106,16 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | undefined>
   const processed = await remark().use(remarkGfm).use(remarkHtml).process(content);
   const contentHtml = processed.toString();
 
-  return { ...(data as BlogFrontmatter), slug, contentHtml };
+  const fm = data as BlogFrontmatter;
+  const wordCount = countWords(content);
+  return {
+    ...fm,
+    image: resolveImage(fm.image),
+    slug,
+    contentHtml,
+    wordCount,
+    indexable: wordCount >= MIN_WORDS_FOR_INDEX,
+  };
 }
 
 export function getPostsBySilo(siloSlug: string, subSlug?: string): BlogPostMeta[] {

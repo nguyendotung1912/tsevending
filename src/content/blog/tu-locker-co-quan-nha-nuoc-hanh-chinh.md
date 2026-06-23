@@ -2,8 +2,17 @@
 title: "Tủ locker thông minh tại cơ quan nhà nước: Hiện đại hóa hành chính công và dịch vụ công cộng"
 description: "Tủ locker thông minh tại cơ quan hành chính giúp người dân nhận giấy tờ, hồ sơ sau giờ hành chính. Singapore, Estonia và Hàn Quốc dẫn đầu xu hướng chính phủ số kết hợp smart locker giảm thời gian chờ đợi."
 date: "2026-06-07"
+image: "/images/articles/tu-locker-co-quan-nha-nuoc-hanh-chinh.jpg"
+imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker cơ quan nhà nước", "locker hành chính công", "smart locker chính phủ số"]
+faqs:
+  - q: "Tủ locker thông minh tại cơ quan nhà nước là gì?"
+    a: ""
+  - q: ""
+    a: "Là ứng dụng cho phép người dùng nhận giấy tờ hoàn chỉnh tại locker  locker 24/7 không cần có trong giờ hành."
+  - q: "Lợi ích của tủ locker thông minh tại cơ quan nhà nước là gì?"
+    a: ""
 ---
 
 Một trong những nỗi khổ quen thuộc: xếp hàng từ sáng sớm tại UBND để nhận giấy tờ đã nộp từ tuần trước. Đến nơi thì được thông báo "hết số" hoặc "nhân viên đi họp". Phải xin nghỉ làm để chờ đợi những thủ tục đáng lẽ có thể giải quyết trong 5 phút. **Tủ locker thông minh** tại cơ quan hành chính đang thay đổi trải nghiệm này — nhận giấy tờ hoàn chỉnh tại locker 24/7, không cần có mặt trong giờ hành chính. Đây là ứng dụng [tủ locker thông minh](/tu-locker-thong-minh) có ý nghĩa xã hội sâu rộng nhất.

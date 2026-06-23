@@ -58,36 +58,83 @@ async function submitViblo(page: Page) {
   const title = "Tủ Locker Thông Minh: Không Chỉ Là Xu Hướng, Mà Là Nhu Cầu Thiết Yếu Của Việt Nam 2026 – Từ Chung Cư Đến Khu Công Nghiệp";
   const body = extractBody(raw);
 
-  // Register
-  console.log("  → Viblo: Đăng ký tài khoản...");
-  await page.goto("https://viblo.asia/register", { waitUntil: "domcontentloaded", timeout: 30000 });
+  // Step 1: Register tại accounts.viblo.asia/register
+  console.log("  → Viblo: Đăng ký tại accounts.viblo.asia...");
+  await page.goto("https://accounts.viblo.asia/register", { waitUntil: "networkidle", timeout: 40000 });
+  await page.waitForTimeout(3000);
+  await page.screenshot({ path: "scripts/backlink-profiles/viblo-register.png", fullPage: true });
+  console.log("  📸 Screenshot: scripts/backlink-profiles/viblo-register.png");
 
   try {
-    await page.fill('input[name="name"], input[id="name"]', FULL_NAME).catch(() => {});
-    await page.fill('input[name="username"], input[id="username"]', USERNAME).catch(() => {});
-    await page.fill('input[name="email"], input[type="email"]', EMAIL).catch(() => {});
-    await page.fill('input[name="password"], input[type="password"]', PASSWORD).catch(() => {});
-    // Confirm password
-    const confirmField = page.locator('input[name="password_confirmation"], input[name="confirm_password"]').first();
-    if (await confirmField.count() > 0) await confirmField.fill(PASSWORD);
+    // Đợi "Tên của bạn" xuất hiện (placeholder tiếng Việt)
+    await page.waitForSelector('input[placeholder="Tên của bạn"]', { timeout: 15000 });
+    console.log("  ✓ Form load xong");
+
+    await page.fill('input[placeholder="Tên của bạn"]', FULL_NAME);
+    console.log("  ✓ name filled");
+
+    await page.fill('input[placeholder="Địa chỉ email của bạn"]', EMAIL);
+    console.log("  ✓ email filled");
+
+    await page.fill('input[placeholder="Tên tài khoản"]', USERNAME);
+    console.log("  ✓ username filled");
+
+    await page.fill('input[placeholder="Mật khẩu"]', PASSWORD);
+    console.log("  ✓ password filled");
+
+    await page.fill('input[placeholder="Xác nhận mật khẩu của bạn"]', PASSWORD);
+    console.log("  ✓ confirm password filled");
+
+    // Check "Tôi đồng ý Điều khoản" — Element UI dùng custom checkbox, input bị hidden
+    // Phải click vào .el-checkbox__inner (visual square) hoặc dùng force
+    try {
+      const visibleCheckbox = page.locator('.el-checkbox__inner').first();
+      if (await visibleCheckbox.count() > 0) {
+        await visibleCheckbox.click();
+        console.log("  ✓ checkbox (el-checkbox__inner) checked");
+      } else {
+        // fallback: force click input hidden
+        await page.locator('input[type="checkbox"]').first().click({ force: true });
+        console.log("  ✓ checkbox (force) checked");
+      }
+    } catch (e) {
+      console.log(`  ⚠ checkbox: ${e}`);
+    }
 
     await page.waitForTimeout(1500);
-    const btn = page.locator('button[type="submit"], input[type="submit"]').first();
-    if (await btn.count() > 0) { await btn.click(); await page.waitForTimeout(3000); }
-    console.log("  ✓ Viblo: Đã đăng ký — check email để verify");
+    await page.locator('button:has-text("Đăng ký")').first().click();
+    await page.waitForTimeout(5000);
+    console.log("  ✓ Viblo: Submit đăng ký — URL:", page.url());
   } catch (e) {
     console.log(`  ⚠ Viblo register: ${e}`);
   }
 
-  // Try login in case already registered
-  await page.goto("https://viblo.asia/login", { waitUntil: "domcontentloaded", timeout: 30000 });
+  // Step 2: Login tại accounts.viblo.asia/login
+  console.log("  → Viblo: Đăng nhập tại accounts.viblo.asia...");
+  await page.goto("https://accounts.viblo.asia/login?service=viblo&continue=https%3A%2F%2Fviblo.asia%2Fnewest", { waitUntil: "networkidle", timeout: 40000 });
+  await page.waitForTimeout(3000);
+
   try {
-    await page.fill('input[name="email"], input[type="email"]', EMAIL).catch(() => {});
-    await page.fill('input[name="password"], input[type="password"]', PASSWORD).catch(() => {});
-    await page.waitForTimeout(1000);
-    const btn = page.locator('button[type="submit"]').first();
-    if (await btn.count() > 0) { await btn.click(); await page.waitForTimeout(3000); }
-  } catch {}
+    // Viblo login dùng placeholder tiếng Việt
+    await page.waitForSelector('input[placeholder="Tên tài khoản hoặc email"], input[placeholder*="email" i], input[placeholder*="tài khoản" i]', { timeout: 15000 });
+
+    const emailField = page.locator('input[placeholder="Tên tài khoản hoặc email"], input[placeholder*="email" i], input[placeholder*="tài khoản" i]').first();
+    await emailField.fill(EMAIL);
+    console.log("  ✓ login email filled");
+
+    const passField = page.locator('input[placeholder="Mật khẩu"], input[type="password"]').first();
+    await passField.fill(PASSWORD);
+    console.log("  ✓ login password filled");
+
+    await page.waitForTimeout(1500);
+    await page.locator('button:has-text("Đăng nhập"), button[type="submit"]').first().click();
+    await page.waitForTimeout(6000);
+    console.log("  ✓ Viblo: Đăng nhập xong, URL:", page.url());
+  } catch (e) {
+    console.log(`  ⚠ Viblo login: ${e}`);
+    // Chụp screenshot login để debug
+    await page.screenshot({ path: "scripts/backlink-profiles/viblo-login.png" }).catch(() => {});
+  }
 
   // New post
   console.log("  → Viblo: Tạo bài viết...");
@@ -106,7 +153,7 @@ async function submitViblo(page: Page) {
     const editor = page.locator('.CodeMirror-code, .cm-content, [contenteditable="true"], textarea[name="content"]').first();
     if (await editor.count() > 0) {
       await editor.click();
-      await page.keyboard.selectAll();
+      await page.keyboard.press("Control+a");
       await page.keyboard.type(body.slice(0, 8000));
       console.log("  ✓ Viblo: Content filled");
     }

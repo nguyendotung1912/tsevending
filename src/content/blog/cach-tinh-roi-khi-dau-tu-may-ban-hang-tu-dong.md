@@ -2,8 +2,18 @@
 title: "Cách tính ROI khi đầu tư máy bán hàng tự động"
 description: "Hướng dẫn cách tính ROI (tỷ suất hoàn vốn) khi đầu tư máy bán hàng tự động, các yếu tố ảnh hưởng đến thời gian hoàn vốn và cách tối ưu hiệu quả đầu tư."
 date: "2026-05-01"
+image: "/images/articles/cach-tinh-roi-khi-dau-tu-may-ban-hang-tu-dong.jpg"
+imageAlt: "Close-up of a tablet with the word 'Investments', held by a person. Ideal for financial topics."
+imageCredit: "Photo by Hanna Pad on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["ROI vending machine", "tính toán đầu tư vending", "đầu tư máy bán hàng tự động"]
+faqs:
+  - q: "ROI là gì?"
+    a: "ROI (Return on Investment) là chỉ số đo lường tỷ lệ lợi nhuận thu được so với số tiền đã đầu tư."
+  - q: "Tại sao ROI quan trọng khi đầu tư máy bán hàng tự động?"
+    a: "ROI giúp nhà đầu tư đánh giá hiệu quả đầu tư một cách khách quan và đưa ra quyết định phù hợp với ngân sách."
+  - q: "ROI giúp nhà đầu tư xác định điều gì?"
+    a: "ROI giúp xác định bao lâu thì thu hồi vốn và lợi nhuận thực tế từ máy bán hàng tự động."
 ---
 
 Trước khi quyết định đầu tư [máy bán hàng tự động](/may-ban-hang-tu-dong), nhiều nhà đầu tư quan tâm đến câu hỏi: bao lâu thì thu hồi vốn và lợi nhuận thực tế là bao nhiêu? Hiểu cách tính ROI (Return on Investment - tỷ suất hoàn vốn) sẽ giúp bạn đánh giá hiệu quả đầu tư một cách khách quan và đưa ra quyết định phù hợp với ngân sách của mình.

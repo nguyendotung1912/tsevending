@@ -2,8 +2,18 @@
 title: "Máy pha cà phê specialty tự động: Bean-to-Cup Vending Machine đang thay đổi văn hóa cà phê"
 description: "Máy pha cà phê bean-to-cup tự động với hạt cà phê single-origin, pha espresso theo chuẩn barista đang xuất hiện trong văn phòng, sân bay và trung tâm thương mại. Specialty coffee vending là xu hướng đang bùng nổ."
 date: "2026-05-31"
+image: "/images/articles/may-ban-ca-phe-specialty-bean-to-cup-tu-dong.jpg"
+imageAlt: "City street scene featuring pedestrians walking past a kiosk with bare trees in winter."
+imageCredit: "Photo by Betül  Üstün on Pexels"
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy pha cà phê tự động specialty", "bean to cup vending machine", "specialty coffee vending"]
+faqs:
+  - q: "Bean-to-Cup Vending Machine là gì?"
+    a: ""
+  - q: ""
+    a: "Là máy pha cà phê tự động từ hạt rang."
+  - q: "Quy trình pha cà phê của Bean-to-Cup diễn ra như thế nào?"
+    a: ""
 ---
 
 Trong nhiều năm, cà phê vending machine đồng nghĩa với cà phê hòa tan nhạt nhẽo từ bột pha sẵn. Nhưng ngành cà phê specialty đang tạo ra cuộc cách mạng: **Bean-to-Cup Vending Machine** (máy pha cà phê từ hạt rang) mang chất lượng barista thực thụ vào máy tự phục vụ — cùng với sự trỗi dậy của cà phê Việt Nam trên bản đồ specialty coffee toàn cầu.

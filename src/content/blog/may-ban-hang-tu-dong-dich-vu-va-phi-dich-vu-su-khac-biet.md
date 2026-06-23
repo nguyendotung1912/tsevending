@@ -2,8 +2,17 @@
 title: "Máy bán hàng tự động dịch vụ vs. phi dịch vụ: Phân tích và lựa chọn đúng"
 description: "Không phải máy bán hàng tự động nào cũng bán sản phẩm vật lý. Máy bán vé, đổi tiền, nạp thẻ, đặt lịch... đang mở ra chiều hướng mới. Phân tích để chọn đầu tư đúng."
 date: "2026-05-19"
+image: "/images/articles/may-ban-hang-tu-dong-dich-vu-va-phi-dich-vu-su-khac-biet.jpg"
+imageAlt: "Detailed view of a vibrant yellow and green cigarette vending machine interface."
 silo: "may-ban-hang-tu-dong"
 keywords: ["máy bán vé tự động", "máy dịch vụ tự động", "kiosk dịch vụ vending machine"]
+faqs:
+  - q: "Máy bán hàng tự động thường được phân loại thành mấy nhóm?"
+    a: "Máy bán hàng tự động được phân loại thành ít nhất 1 nhóm, phổ biến là nhóm máy bán sản phẩm vật lý."
+  - q: "Máy bán sản phẩm vật lý thường bán những loại sản phẩm gì?"
+    a: "Máy bán nước giải khát, snack, thực phẩm và phụ kiện."
+  - q: "Ngành máy bán hàng tự động có những loại máy nào ngoài máy bán sản phẩm vật lý?"
+    a: "Có các kiosk dịch vụ và máy cung cấp thông tin không bán sản phẩm vật lý."
 ---
 
 Khi nhắc đến "vending machine", đa số nghĩ ngay đến những chiếc máy bán nước và đồ ăn. Nhưng ngành [máy bán hàng tự động](/may-ban-hang-tu-dong) thực ra rộng hơn nhiều — bao gồm cả các kiosk dịch vụ và máy cung cấp thông tin không bán sản phẩm vật lý. Hiểu rõ sự phân biệt này giúp nhà đầu tư chọn đúng loại thiết bị phù hợp với vị trí và mục tiêu.

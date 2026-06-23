@@ -2,10 +2,11 @@
 title: "So sánh thương hiệu locker thông minh tại Việt Nam 2026"
 description: "Review và so sánh chi tiết các thương hiệu tủ locker thông minh phổ biến nhất tại Việt Nam 2026: tính năng, giá, chất lượng và dịch vụ hậu mãi."
 date: "2026-06-12"
+image: "/images/articles/so-sanh-thuong-hieu-locker-thong-minh-viet-nam-2026.jpg"
+imageAlt: "A row of grey metal lockers indoors with some doors ajar."
+imageCredit: "Photo by EqualStock IN on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["so sánh locker thông minh", "thương hiệu locker Việt Nam", "locker nào tốt nhất", "review locker thông minh 2026", "mua locker uy tín"]
-image: "/images/articles/so-sanh-thuong-hieu-locker-thong-minh-viet-nam-2026.svg"
-imageAlt: "So sánh các thương hiệu tủ locker thông minh uy tín tại Việt Nam 2026"
 faqs:
   - q: "Thương hiệu locker thông minh nào tốt nhất tại Việt Nam?"
     a: "Không có thương hiệu 'tốt nhất' tuyệt đối — phụ thuộc vào ngân sách, quy mô triển khai và yêu cầu tích hợp. TSE Vending, Locker & Lock (lockernlock.vn) và HAHUCO là ba tên tuổi được đánh giá cao nhất về chất lượng và hỗ trợ kỹ thuật."

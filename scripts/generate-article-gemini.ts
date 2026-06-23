@@ -221,7 +221,7 @@ async function generateArticle(
   let finalContent = withDate;
 
   console.log(`  🖼  Fetching image for "${slug}"...`);
-  const pexels = await fetchPexelsImage(slug, item.silo, item.sub ?? null, usedPhotoIds);
+  const pexels = await fetchPexelsImage(slug, item.silo, item.sub ?? null, usedPhotoIds, item.topic);
 
   if (pexels) {
     imagePath = pexels.imagePath;

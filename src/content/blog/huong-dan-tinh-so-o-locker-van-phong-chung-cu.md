@@ -2,11 +2,12 @@
 title: "Cách tính số ô locker cần thiết cho văn phòng và chung cư — Công thức thực tế"
 description: "Hướng dẫn tính toán số lượng ô tủ locker cần thiết cho văn phòng, nhà máy và chung cư: công thức, hệ số điều chỉnh và ví dụ thực tế từ các dự án TSE Vending."
 date: "2026-06-17"
+image: "/images/articles/huong-dan-tinh-so-o-locker-van-phong-chung-cu.jpg"
+imageAlt: "A perspective view of a long hallway featuring rows of metal lockers and wooden flooring."
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 silo: "tu-locker-thong-minh"
 category: "huong-dan"
 keywords: ["tính số ô locker", "bao nhiêu locker đủ cho văn phòng", "cách tính locker chung cư", "hướng dẫn thiết kế hệ thống locker"]
-image: "/images/articles/huong-dan-tinh-so-o-locker-van-phong-chung-cu.svg"
-imageAlt: "Hướng dẫn tính số ô tủ locker cần thiết cho văn phòng và chung cư"
 faqs:
   - q: "Cần bao nhiêu ô locker cho 200 nhân viên văn phòng?"
     a: "Với mô hình chỗ ngồi cố định: 60-70 ô (tỷ lệ 1:3). Với mô hình hot-desk: 120-140 ô (tỷ lệ 1:1.5). Điều chỉnh tăng 10-15% nếu nhân viên thường xuyên mang máy tính bảng, laptop phụ."

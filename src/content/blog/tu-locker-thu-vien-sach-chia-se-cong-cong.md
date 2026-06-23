@@ -2,8 +2,17 @@
 title: "Tủ locker thông minh cho thư viện sách chia sẻ: Cộng đồng đọc sách không rào cản"
 description: "Little Free Library và hệ thống thư viện sách chia sẻ thế hệ mới đang dùng tủ locker thông minh để mượn, trả và theo dõi sách 24/7. Mô hình thú vị từ Anh, Pháp và Hàn Quốc đang lan rộng."
 date: "2026-05-30"
+image: "/images/articles/tu-locker-thu-vien-sach-chia-se-cong-cong.jpg"
+imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker thư viện sách chia sẻ", "library locker thông minh", "mượn sách tự động"]
+faqs:
+  - q: "Tủ locker thông minh trong thư viện sách chia sẻ là gì?"
+    a: ""
+  - q: ""
+    a: "Tủ locker thông minh là một hệ thống cho phép mượn và trả sách 24/7 mà không cần nhân viên hoặc giờ mở cửa cố định."
+  - q: "Little Free Library là gì?"
+    a: ""
 ---
 
 Văn hóa đọc sách và chia sẻ tri thức gặp gỡ công nghệ locker thông minh — đây là sự kết hợp thú vị đang nổi lên tại nhiều quốc gia. [Tủ locker thông minh](/tu-locker-thong-minh) đang được ứng dụng vào hệ thống thư viện sách chia sẻ, tạo ra mô hình mượn-trả sách 24/7 không cần nhân viên, không cần giờ mở cửa cố định.

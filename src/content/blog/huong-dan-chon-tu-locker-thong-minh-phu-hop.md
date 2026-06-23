@@ -2,11 +2,12 @@
 title: "Hướng dẫn chọn tủ locker thông minh phù hợp: 6 tiêu chí cần xem xét"
 description: "Hướng dẫn chọn tủ locker thông minh đúng cho doanh nghiệp: số ô tủ, kích thước ngăn, công nghệ mở khóa, tích hợp phần mềm, ngân sách và nhà cung cấp."
 date: "2026-06-15"
+image: "/images/articles/huong-dan-chon-tu-locker-thong-minh-phu-hop.jpg"
+imageAlt: "Multicolored storage lockers with keys, showcasing vibrant organization."
+imageCredit: "Photo by Jan van der Wolf on Pexels"
 silo: "tu-locker-thong-minh"
 category: "huong-dan"
 keywords: ["cách chọn tủ locker thông minh", "tiêu chí lựa chọn smart locker", "hướng dẫn mua tủ locker", "tủ locker thông minh loại nào tốt"]
-image: "/images/articles/huong-dan-chon-tu-locker-thong-minh-phu-hop.svg"
-imageAlt: "Hướng dẫn lựa chọn tủ locker thông minh phù hợp cho doanh nghiệp"
 faqs:
   - q: "Cần bao nhiêu ô locker cho 100 nhân viên văn phòng?"
     a: "Thông thường tỷ lệ 1 ô/1.5-2 nhân viên là phù hợp cho mô hình hot-desk (không chỗ ngồi cố định). Với văn phòng truyền thống, 1 ô/3-4 nhân viên là đủ. TSE Vending khảo sát thực tế và đề xuất cấu hình tối ưu."

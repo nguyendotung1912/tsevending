@@ -2,8 +2,18 @@
 title: "AI dự đoán tồn kho và tối ưu doanh thu máy bán hàng tự động như thế nào?"
 description: "Trí tuệ nhân tạo đang cách mạng hóa cách vận hành mạng lưới vending machine — từ dự báo tồn kho đến tối ưu giá bán động. Công nghệ nào đang được áp dụng thực tế?"
 date: "2026-05-14"
+image: "/images/articles/ai-du-doan-ton-kho-va-bieu-do-doanh-thu-may-ban-hang-tu-dong.jpg"
+imageAlt: "Vending machines in Gamagōri, Japan offer diverse drinks in a city setting."
+imageCredit: "Photo by Nataliya Vaitkevich on Pexels"
 silo: "giai-phap-kinh-doanh"
 keywords: ["AI tối ưu vending machine", "dự đoán tồn kho máy bán hàng tự động", "AI quản lý vending"]
+faqs:
+  - q: "AI giúp giải quyết vấn đề gì trong vận hành máy bán hàng tự động?"
+    a: "Giải quyết vấn đề dự đoán nhu cầu, tồn kho và tối ưu lịch bổ sung hàng."
+  - q: "Chi phí lớn nhất trong vận hành vending là gì?"
+    a: "Nhân lực di chuyển và thời gian bổ sung hàng."
+  - q: "Ngành vending toàn cầu đang ứng dụng gì để giải quyết các vấn đề kinh điển?"
+    a: "AI và dữ liệu IoT."
 ---
 
 Nếu bạn đang vận hành 10+ điểm máy bán hàng tự động trở lên, bạn đã từng gặp các vấn đề kinh điển này: máy A hết hàng từ chiều thứ Sáu nhưng đến thứ Hai mới ai biết; máy B luôn thừa loại nước cam vì ban đầu dự đoán sai nhu cầu; nhân viên bổ sung hàng đến tất cả các máy theo lịch cố định dù nhiều máy chưa cần.

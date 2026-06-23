@@ -2,9 +2,19 @@
 title: "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư"
 description: "So sánh chi tiết tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư về chi phí, bảo mật, trải nghiệm sử dụng để cư dân và ban quản lý lựa chọn phù hợp."
 date: "2026-05-02"
+image: "/images/articles/so-sanh-tu-locker-thong-minh-va-tu-gui-do-truyen-thong-tai-chung-cu.jpg"
+imageAlt: "So sánh tủ locker thông minh và tủ gửi đồ truyền thống tại chung cư"
+imageCredit: "Photo by Max Vakhtbovych on Pexels"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["so sánh tủ locker", "tủ gửi đồ chung cư", "tủ locker thông minh"]
+faqs:
+  - q: "Tủ gửi đồ truyền thống và tủ locker thông minh khác nhau như thế nào?"
+    a: "Tủ gửi đồ truyền thống thường là tủ khóa cơ hoặc kệ để hàng mở, trong khi tủ locker thông minh là giải pháp hiện đại, tự động hóa."
+  - q: "Tủ gửi đồ truyền thống có hạn chế gì?"
+    a: "Phụ thuộc vào bảo vệ, lễ tân."
+  - q: "Tại sao nên chuyển sang tủ locker thông minh tại chung cư?"
+    a: "Vì nó hiện đại, tự động hóa, giảm phụ thuộc vào bảo vệ, lễ tân."
 ---
 
 Tại nhiều chung cư, khu vực sảnh thường có sẵn tủ gửi đồ hoặc kệ nhận hàng truyền thống để cư dân nhận hàng hóa, bưu phẩm khi không có mặt ở nhà. Khi nhu cầu mua sắm online tăng cao, nhiều ban quản lý bắt đầu cân nhắc chuyển sang [tủ locker thông minh cho chung cư](/tu-locker-thong-minh/tu-locker-chung-cu). Vậy hai giải pháp này khác nhau như thế nào và đâu là lựa chọn phù hợp hơn?

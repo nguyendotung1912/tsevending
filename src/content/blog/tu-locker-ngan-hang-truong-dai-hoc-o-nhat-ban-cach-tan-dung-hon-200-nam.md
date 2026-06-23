@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh tại ngân hàng và đại học Nhật Bản: Bài học từ 200 năm quản lý tài sản"
 description: "Ngân hàng và trường đại học Nhật Bản đã dùng locker lưu trữ tài sản và tài liệu từ hàng thế kỷ. Phiên bản thông minh đang cách mạng hóa dịch vụ này như thế nào?"
 date: "2026-05-19"
+image: "/images/articles/tu-locker-ngan-hang-truong-dai-hoc-o-nhat-ban-cach-tan-dung-hon-200-nam.jpg"
+imageAlt: "Close-up of a futuristic white robot showcasing innovation and design."
+imageCredit: "Photo by George Pak on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker ngân hàng", "locker lưu trữ tài sản Nhật Bản", "smart locker dịch vụ tài chính"]
+faqs:
+  - q: "Tủ locker thông minh tại Nhật Bản có nguồn gốc từ đâu?"
+    a: "Từ các hộp gỗ sơn mài của gia đình samurai và két sắt ngân hàng thời Minh Trị Duy Tân."
+  - q: "Tủ locker thông minh được sử dụng ở đâu?"
+    a: "Trong hệ thống ngân hàng và giáo dục tại Nhật Bản."
+  - q: "Safe Deposit Locker là gì?"
+    a: "Là dịch vụ hộp an toàn ngân hàng để lưu trữ giấy tờ quan trọng, nữ trang, ổ cứng dữ liệu."
 ---
 
 Nhật Bản có truyền thống lưu trữ an toàn lâu đời — từ các hộp gỗ sơn mài để đựng tài liệu quan trọng của các gia đình samurai cho đến các két sắt ngân hàng thời Minh Trị Duy Tân. Ngày nay, truyền thống này được kế thừa và nâng cấp bằng [tủ locker thông minh](/tu-locker-thong-minh) hiện đại trong hệ thống ngân hàng và giáo dục.

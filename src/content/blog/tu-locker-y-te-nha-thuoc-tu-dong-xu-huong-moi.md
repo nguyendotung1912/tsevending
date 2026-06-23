@@ -2,8 +2,18 @@
 title: "Tủ locker y tế và nhà thuốc tự động: Xu hướng mới trong chăm sóc sức khỏe toàn cầu"
 description: "Nhà thuốc tự động 24/7 và tủ locker y tế đang xuất hiện tại Mỹ, châu Âu và Singapore. Giải pháp tiếp cận thuốc không cần chờ đợi — cơ hội cho Việt Nam?"
 date: "2026-05-13"
+image: "/images/articles/tu-locker-y-te-nha-thuoc-tu-dong-xu-huong-moi.jpg"
+imageAlt: "Tủ locker y tế và nhà thuốc tự động: xu hướng mới trong ngành dược"
+imageCredit: "Photo by Wellington Tavares on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["nhà thuốc tự động", "tủ locker y tế", "pharmacy vending machine", "thuốc tự động 24/7"]
+faqs:
+  - q: "Tủ locker y tế và nhà thuốc tự động là gì?"
+    a: "Là máy vending bán dược phẩm, giải quyết nhu cầu thuốc men khẩn cấp."
+  - q: "Tủ locker y tế và nhà thuốc tự động đã được sử dụng ở đâu?"
+    a: "Tại Mỹ, trong khuôn viên bệnh viện."
+  - q: "Lợi ích của tủ locker y tế và nhà thuốc tự động?"
+    a: "Giải quyết nhu cầu thuốc men khẩn cấp 24/7."
 ---
 
 Khi nhu cầu thuốc men phát sinh vào lúc 2 giờ sáng — paracetamol cho trẻ sốt, thuốc dị ứng đột ngột, băng gạc cho vết thương nhỏ — hầu hết người dân Việt Nam phải chờ đến sáng hoặc tìm nhà thuốc trực 24/7 trong khu vực. Tại nhiều quốc gia tiên tiến, vấn đề này đã được giải quyết bằng tủ locker y tế và nhà thuốc tự động (pharmacy vending machine).

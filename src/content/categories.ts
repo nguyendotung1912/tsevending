@@ -42,7 +42,7 @@ export const SILOS: Silo[] = [
       "Cung cấp máy bán hàng tự động (vending machine) chính hãng: máy bán nước, đồ ăn vặt, hàng lạnh, gas... Tư vấn vị trí, lắp đặt, vận hành & bảo trì trên toàn quốc.",
     h1: "Máy Bán Hàng Tự Động",
     intro: [
-      "TSE Vending là đơn vị sản xuất và phân phối máy bán hàng tự động (vending machine) hàng đầu tại Việt Nam, phục vụ nhu cầu kinh doanh tự động hóa tại chung cư, văn phòng, trường học, bệnh viện, nhà máy và khu công nghiệp.",
+      "Máy bán hàng tự động (vending machine) là thiết bị bán lẻ tự phục vụ hoạt động 24/7, cho phép khách hàng mua sản phẩm mà không cần nhân viên phục vụ. TSE Vending là đơn vị sản xuất và phân phối máy bán hàng tự động hàng đầu Việt Nam — cung cấp giải pháp trọn gói cho chung cư, văn phòng, khu công nghiệp, bệnh viện và trường học.",
       "Mỗi dòng máy đều được tích hợp công nghệ thanh toán đa dạng (tiền mặt, thẻ, QR code, ví điện tử), hệ thống quản lý từ xa qua app/web giúp theo dõi doanh thu, hàng hóa và tình trạng máy theo thời gian thực.",
       "Chúng tôi cung cấp giải pháp trọn gói từ tư vấn lựa chọn dòng máy phù hợp, khảo sát vị trí đặt máy, lắp đặt, vận hành đến bảo trì - bảo hành dài hạn, giúp đối tác tối ưu chi phí đầu tư và tăng hiệu quả kinh doanh.",
     ],
@@ -54,6 +54,10 @@ export const SILOS: Silo[] = [
       "Bảo trì - bảo hành chính hãng, đội ngũ kỹ thuật toàn quốc",
     ],
     faqs: [
+      {
+        q: "Máy bán hàng tự động là gì?",
+        a: "Máy bán hàng tự động (vending machine) là thiết bị bán lẻ tự phục vụ, cho phép khách hàng chọn và mua sản phẩm — nước uống, thực phẩm, đồ tiêu dùng — bất kỳ lúc nào mà không cần nhân viên phục vụ. Máy nhận thanh toán tiền mặt hoặc không tiền mặt (Momo, ZaloPay, QR Pay, thẻ ngân hàng) và cấp phát hàng hóa tự động.",
+      },
       {
         q: "Giá máy bán hàng tự động khoảng bao nhiêu?",
         a: "Giá máy bán hàng tự động dao động tùy dòng máy, dung tích và tính năng tích hợp (thanh toán, camera, IoT). TSE Vending tư vấn báo giá chi tiết theo nhu cầu thực tế và mô hình kinh doanh của bạn.",
@@ -456,7 +460,7 @@ export const SILOS: Silo[] = [
         investmentTier: "Trung bình",
       },
       {
-        slug: "tu-locker-sieu-thi-banlẻ",
+        slug: "tu-locker-sieu-thi-ban-le",
         title: "Tủ locker gửi đồ siêu thị, trung tâm thương mại",
         shortTitle: "Siêu thị, TTTM",
         metaTitle: "Tủ Gửi Đồ Thông Minh Siêu Thị, Trung Tâm Thương Mại | TSE Vending",

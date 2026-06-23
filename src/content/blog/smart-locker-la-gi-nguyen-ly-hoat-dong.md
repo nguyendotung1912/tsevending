@@ -2,11 +2,12 @@
 title: "Smart locker là gì? Nguyên lý hoạt động và khác biệt với tủ locker thường"
 description: "Giải thích chi tiết smart locker là gì, cách hoạt động của hệ thống tủ locker thông minh, khác biệt so với tủ locker cơ khí và các thành phần cấu tạo."
 date: "2026-06-16"
+image: "/images/articles/smart-locker-la-gi-nguyen-ly-hoat-dong.jpg"
+imageAlt: "Outdoor parcel locker in Wroclaw, with Allegro Smart advertisement, near residential buildings."
+imageCredit: "Photo by SHOX ART on Pexels"
 silo: "tu-locker-thong-minh"
 category: "kien-thuc"
 keywords: ["smart locker là gì", "tủ locker thông minh là gì", "nguyên lý hoạt động locker thông minh", "smart locker khác gì locker thường"]
-image: "/images/articles/smart-locker-la-gi-nguyen-ly-hoat-dong.svg"
-imageAlt: "Smart locker là gì - nguyên lý hoạt động tủ locker thông minh"
 faqs:
   - q: "Smart locker là gì?"
     a: "Smart locker (tủ locker thông minh) là hệ thống tủ lưu trữ điện tử sử dụng công nghệ số để xác thực và kiểm soát quyền truy cập — thay thế chìa khóa cơ truyền thống bằng mã PIN, QR code, thẻ RFID, vân tay hoặc nhận diện khuôn mặt."

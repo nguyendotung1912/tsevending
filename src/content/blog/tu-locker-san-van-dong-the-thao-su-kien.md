@@ -2,8 +2,18 @@
 title: "Tủ locker thông minh tại sân vận động và sự kiện thể thao: An toàn và tiện lợi cho người hâm mộ"
 description: "Sân vận động FIFA, NBA Arena và các công trình thể thao toàn cầu đang dùng tủ locker thông minh để bảo quản đồ vật người hâm mộ, kiểm soát vật phẩm bị cấm vào sân và bán thiết bị thể thao."
 date: "2026-06-01"
+image: "/images/articles/tu-locker-san-van-dong-the-thao-su-kien.jpg"
+imageAlt: "Yellow DHL Packstation under solar panels in Berlin, Germany, showcasing sustainable technology."
+imageCredit: "Photo by eran design on Pexels"
 silo: "tu-locker-thong-minh"
 keywords: ["tủ locker sân vận động", "smart locker thể thao", "locker an toàn sự kiện thể thao"]
+faqs:
+  - q: "Tủ locker thông minh tại sân vận động là gì?"
+    a: "Giải pháp lưu trữ đồ đạc an toàn và tiện lợi."
+  - q: "Tại sao FIFA khuyến nghị locker service tại sân vận động?"
+    a: "Để nâng cao trải nghiệm và an toàn cho người hâm mộ."
+  - q: "Từ khi nào FIFA khuyến nghị locker service?"
+    a: "Từ World Cup 2022 tại Qatar."
 ---
 
 Đi xem trận đấu bóng đá hoặc concert tại sân vận động là trải nghiệm đỉnh cao — nhưng quy định ngày càng chặt chẽ về vật phẩm mang vào sân (túi lớn, bình nước, máy ảnh chuyên nghiệp) tạo ra vấn đề thực tế: người hâm mộ không biết để đồ ở đâu. [Tủ locker thông minh](/tu-locker-thong-minh) tại sân vận động đang trở thành giải pháp, đồng thời tạo thêm dịch vụ và doanh thu cho ban tổ chức.
