@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker công viên nước", "theme park locker", "tủ locker vui chơi"]
 image: "/images/articles/tu-locker-thong-minh-tai-khu-vui-choi-va-cong-vien-nuoc.jpg"
-imageAlt: "Tủ locker thông minh tại công viên nước"
+imageAlt: "Tủ Locker Thông Minh tại Khu Vui Chơi và Công Viên Nước"
 imageCredit: "Photo by Pew Nguyen on Pexels"
 faqs:
   - q: "Tủ locker thông minh có an toàn không?"

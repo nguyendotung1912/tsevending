@@ -29,6 +29,7 @@ const DELAY_MS = Number(process.env.DELAY_MS || "4000");
 const TEST_COUNT = Number(process.env.TEST_COUNT || "5");
 const RUN_ALL = process.env.RUN_ALL === "1";
 const DRY_RUN = process.env.DRY_RUN === "1";
+const HOTLINK = process.env.HOTLINK === "1";
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
@@ -79,7 +80,7 @@ async function main() {
   }
 
   const batch = RUN_ALL ? all : all.slice(0, TEST_COUNT);
-  console.log(`\n🎯 Chế độ: ${RUN_ALL ? "TOÀN BỘ" : `CHẠY THỬ ${batch.length} bài`}${DRY_RUN ? " (DRY RUN)" : ""}`);
+  console.log(`\n🎯 Chế độ: ${RUN_ALL ? "TOÀN BỘ" : `CHẠY THỬ ${batch.length} bài`}${HOTLINK ? " [HOTLINK]" : ""}${DRY_RUN ? " (DRY RUN)" : ""}`);
   console.log(`⏱  Nghỉ ${DELAY_MS}ms giữa mỗi bài, tuần tự, tự chờ khi bị giới hạn.\n`);
 
   const usedPhotoIds = new Set<number>();
@@ -97,7 +98,7 @@ async function main() {
           ok++;
           break;
         }
-        const res = await fetchArticleImage({ slug: a.slug, title: a.title, content: a.content, apiKey, usedPhotoIds });
+        const res = await fetchArticleImage({ slug: a.slug, title: a.title, content: a.content, apiKey, usedPhotoIds, index: i, hotlink: HOTLINK });
         if (!res) { console.log("✗ không tìm được ảnh phù hợp"); fail++; break; }
         writeImageFrontmatter(path.join(BLOG_DIR, a.file), res.imagePath, res.alt);
         console.log(`✓ "${res.query}" → photo #${res.photoId} (${res.photographer})`);

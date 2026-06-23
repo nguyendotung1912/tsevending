@@ -47,6 +47,9 @@ export default function RootLayout({
   return (
     <html lang="vi" className={`h-full ${inter.variable} ${beVietnamPro.variable}`}>
       <head>
+        {/* Article images are hotlinked from the Pexels CDN — warm the connection early. */}
+        <link rel="preconnect" href="https://images.pexels.com" />
+        <link rel="dns-prefetch" href="https://images.pexels.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />

@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker metro TP HCM", "tủ locker tàu điện ngầm", "metro station locker"]
 image: "/images/articles/tu-locker-thong-minh-tai-metro-tp-hcm-giai-phap-tuong-lai.jpg"
-imageAlt: "Tủ locker thông minh tại nhà ga tàu điện ngầm TP HCM Metro"
+imageAlt: "Tủ Locker Thông Minh tại Metro TP HCM: Giải Pháp Tương Lai"
 imageCredit: "Photo by Bernhard Egger on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại Metro TP HCM có an toàn không?"

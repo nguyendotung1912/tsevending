@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker tập đoàn", "corporate locker case study", "tủ locker văn phòng lớn"]
 image: "/images/articles/tu-locker-thong-minh-tai-khu-van-phong-hanh-chinh-tap-doan-lon-case-study-thuc-t.jpg"
-imageAlt: "Tủ locker thông minh tại khu văn phòng hành chính tập đoàn lớn"
+imageAlt: "Tủ locker thông minh tại khu văn phòng hành chính tập đoàn lớn: Case study thực tế"
 imageCredit: "Photo by Yan Krukau on Pexels"
 faqs:
   - q: "Tủ locker thông minh là gì?"

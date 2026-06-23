@@ -6,7 +6,7 @@ silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker làng đại học", "university village locker", "campus locker"]
 image: "/images/articles/tu-locker-thong-minh-tai-lang-dai-hoc-giai-phap-luu-tru-hien-dai.jpg"
-imageAlt: "Tủ locker thông minh tại làng đại học - Giải pháp lưu trữ hiện đại"
+imageAlt: "Tủ locker thông minh tại làng đại học: Giải pháp lưu trữ hiện đại"
 imageCredit: "Photo by Al Rashed on Pexels"
 faqs:
   - q: "Tủ locker thông minh tại làng đại học là gì?"
