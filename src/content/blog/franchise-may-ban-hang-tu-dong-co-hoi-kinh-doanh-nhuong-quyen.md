@@ -5,7 +5,7 @@ date: "2026-07-20"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["franchise máy bán hàng tự động", "nhượng quyền vending", "mô hình franchise vending"]
-image: "/images/articles/franchise-may-ban-hang-tu-dong-co-hoi-kinh-doanh-nhuong-quyen.md.jpg"
+image: "/images/articles/franchise-may-ban-hang-tu-dong-co-hoi-kinh-doanh-nhuong-quyen.jpg"
 imageAlt: "Nhiều máy bán hàng tự động cùng thương hiệu franchise đặt tại các địa điểm khác nhau"
 faqs:
   - q: "Franchise máy bán hàng tự động tại Việt Nam có chưa?"

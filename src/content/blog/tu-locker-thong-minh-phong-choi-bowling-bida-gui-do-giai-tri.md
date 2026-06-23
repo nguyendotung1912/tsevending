@@ -5,7 +5,7 @@ date: "2027-01-04"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker bowling", "tủ locker phòng bida", "gửi đồ khu giải trí"]
-image: "/images/articles/tu-locker-thong-minh-phong-choi-bowling-bida-gui-do-giai-tri.md.jpg"
+image: "/images/articles/tu-locker-thong-minh-phong-choi-bowling-bida-gui-do-giai-tri.jpg"
 imageAlt: "Tủ locker thông minh tại khu bowling trong trung tâm thương mại hiện đại"
 faqs:
   - q: "Tại sao phòng bowling cần locker thông minh và khách hàng có lợi gì khi sử dụng?"

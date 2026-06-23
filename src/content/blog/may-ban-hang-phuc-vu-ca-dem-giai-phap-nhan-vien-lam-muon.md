@@ -5,7 +5,7 @@ date: "2026-10-10"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng ca đêm", "vending machine nhà máy ca đêm", "đồ ăn nhẹ nhân viên làm đêm"]
-image: "/images/articles/may-ban-hang-phuc-vu-ca-dem-giai-phap-nhan-vien-lam-muon.md.jpg"
+image: "/images/articles/may-ban-hang-phuc-vu-ca-dem-giai-phap-nhan-vien-lam-muon.jpg"
 imageAlt: "Máy bán hàng tự động sáng đèn trong nhà máy tối ban đêm với công nhân ca đêm đang mua hàng"
 faqs:
   - q: "Nhân viên ca đêm cần loại thực phẩm nào khác so với ca ngày?"

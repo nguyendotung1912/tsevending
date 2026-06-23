@@ -5,7 +5,7 @@ date: "2026-10-08"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["vending machine tích hợp ERP", "SAP vending machine", "tự động hóa quy trình vending"]
-image: "/images/articles/vending-machine-tich-hop-erp-tu-dong-hoa-quy-trinh.md.jpg"
+image: "/images/articles/vending-machine-tich-hop-erp-tu-dong-hoa-quy-trinh.jpg"
 imageAlt: "Màn hình ERP dashboard hiển thị dữ liệu giao dịch vending machine tích hợp trong hệ thống doanh nghiệp"
 faqs:
   - q: "Doanh nghiệp quy mô nào mới cần tích hợp vending machine với ERP?"

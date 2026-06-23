@@ -5,7 +5,7 @@ date: "2026-10-05"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["thiết kế không gian vending machine", "layout khu vực máy bán hàng", "tối ưu vị trí vending"]
-image: "/images/articles/thiet-ke-khong-gian-dat-may-ban-hang-tu-dong-toi-uu.md.jpg"
+image: "/images/articles/thiet-ke-khong-gian-dat-may-ban-hang-tu-dong-toi-uu.jpg"
 imageAlt: "Không gian đặt máy bán hàng tự động được thiết kế tối ưu với ánh sáng tốt và bảng hiệu rõ ràng"
 faqs:
   - q: "Ánh sáng ảnh hưởng thế nào đến doanh thu máy vending?"
