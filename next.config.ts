@@ -13,8 +13,8 @@ const nextConfig: NextConfig = {
     formats: ["image/avif", "image/webp"],
     // Reasonable cache TTL for article images
     minimumCacheTTL: 2592000, // 30 days
-    // Allow article images pasted from Unsplash (via the image-search tool).
-    remotePatterns: [{ protocol: "https", hostname: "images.unsplash.com" }],
+    // Allow article images pasted from Pexels (via the image-search tool).
+    remotePatterns: [{ protocol: "https", hostname: "images.pexels.com" }],
   },
 
   async headers() {

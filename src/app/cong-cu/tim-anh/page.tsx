@@ -13,7 +13,7 @@ export default function ImageSearchToolPage() {
       <div className="mx-auto max-w-4xl px-4 sm:px-6">
         <h1 className="text-2xl font-bold text-slate-900">Tìm ảnh minh họa cho bài viết</h1>
         <p className="mt-2 mb-8 text-slate-600">
-          Dán nội dung bài viết, hệ thống phân tích từ khóa và gợi ý 5 ảnh từ Unsplash. Chọn ảnh
+          Dán nội dung bài viết, hệ thống phân tích từ khóa và gợi ý 5 ảnh từ Pexels. Chọn ảnh
           rồi chép URL dán vào bài viết.
         </p>
         <ImagePicker />

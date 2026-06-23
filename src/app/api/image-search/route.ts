@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 
-// Server-side only — the Unsplash key never reaches the browser.
-const UNSPLASH_API = "https://api.unsplash.com/search/photos";
+// Server-side only — the Pexels key never reaches the browser.
+const PEXELS_API = "https://api.pexels.com/v1/search";
 
 // Vietnamese + English stopwords to drop when extracting keywords.
 const STOPWORDS = new Set([
@@ -12,7 +12,7 @@ const STOPWORDS = new Set([
   "with", "this", "that", "by", "as", "at", "be",
 ]);
 
-// Map Vietnamese domain phrases → English Unsplash queries (Unsplash is
+// Map Vietnamese domain phrases → English search queries (stock APIs are
 // English-biased, so a domain term yields far better photos than raw Vietnamese).
 const DOMAIN_MAP: [RegExp, string][] = [
   [/tủ locker|smart locker|locker|tủ khóa/i, "smart locker parcel delivery"],
@@ -42,7 +42,7 @@ function extractKeywords(content: string): { keywords: string[]; query: string }
     .replace(/[#*`>_[\]()|!~\-]/g, " ")
     .toLowerCase();
 
-  // Domain-aware English query (best Unsplash results)
+  // Domain-aware English query (best stock-photo results)
   const domainHits: string[] = [];
   for (const [re, q] of DOMAIN_MAP) {
     if (re.test(clean) && !domainHits.includes(q)) domainHits.push(q);
@@ -70,10 +70,10 @@ function extractKeywords(content: string): { keywords: string[]; query: string }
 }
 
 export async function POST(req: Request) {
-  const key = process.env.UNSPLASH_ACCESS_KEY;
+  const key = process.env.PEXELS_API_KEY;
   if (!key) {
     return NextResponse.json(
-      { error: "Chưa cấu hình UNSPLASH_ACCESS_KEY trong biến môi trường." },
+      { error: "Chưa cấu hình PEXELS_API_KEY trong biến môi trường." },
       { status: 500 }
     );
   }
@@ -93,38 +93,39 @@ export async function POST(req: Request) {
 
   const { keywords, query } = extractKeywords(content);
 
-  const url = `${UNSPLASH_API}?query=${encodeURIComponent(
+  const url = `${PEXELS_API}?query=${encodeURIComponent(
     query
-  )}&per_page=5&orientation=landscape&content_filter=high`;
+  )}&per_page=5&orientation=landscape&size=large`;
 
   const res = await fetch(url, {
-    headers: { Authorization: `Client-ID ${key}`, "Accept-Version": "v1" },
+    headers: { Authorization: key },
     cache: "no-store",
   });
 
   if (!res.ok) {
     return NextResponse.json(
-      { error: `Unsplash lỗi (${res.status}). Kiểm tra lại Access Key.` },
+      { error: `Pexels lỗi (${res.status}). Kiểm tra lại API key.` },
       { status: 502 }
     );
   }
 
   const data = await res.json();
-  const images = (data.results ?? []).map(
+  const images = (data.photos ?? []).map(
     (p: {
-      id: string;
-      alt_description?: string;
-      urls: { thumb: string; small: string; regular: string };
-      links: { html: string };
-      user: { name: string; links: { html: string } };
+      id: number;
+      alt?: string;
+      url: string;
+      photographer: string;
+      photographer_url: string;
+      src: { medium: string; large: string; landscape: string };
     }) => ({
-      id: p.id,
-      thumb: p.urls.small,
-      url: p.urls.regular,
-      alt: p.alt_description ?? query,
-      photographer: p.user.name,
-      photographerUrl: `${p.user.links.html}?utm_source=tsevending&utm_medium=referral`,
-      unsplashUrl: `${p.links.html}?utm_source=tsevending&utm_medium=referral`,
+      id: String(p.id),
+      thumb: p.src.medium,
+      url: p.src.large ?? p.src.landscape,
+      alt: p.alt || query,
+      photographer: p.photographer,
+      photographerUrl: p.photographer_url,
+      sourceUrl: p.url,
     })
   );
 

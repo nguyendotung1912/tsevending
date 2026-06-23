@@ -10,7 +10,7 @@ interface ResultImage {
   alt: string;
   photographer: string;
   photographerUrl: string;
-  unsplashUrl: string;
+  sourceUrl: string;
 }
 
 export default function ImagePicker() {
@@ -120,7 +120,7 @@ export default function ImagePicker() {
             <a href={selected.photographerUrl} target="_blank" rel="noopener" className="text-brand-700 underline">
               {selected.photographer}
             </a>{" "}
-            trên Unsplash
+            trên Pexels
           </p>
           <div className="space-y-2">
             <div>
