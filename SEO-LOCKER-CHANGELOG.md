@@ -53,3 +53,30 @@ Xem file riêng [`keyword-map-locker.md`](./keyword-map-locker.md) — pillar (t
 - ✅ Blog hỗ trợ: 4 chủ đề trụ cột đã có, đều link về pillar.
 - ✅ Tất cả ngày đăng hợp lệ (đã sửa lỗi ngày 2027 ở brief trước).
 - ✅ Chống cannibalization: xem keyword-map-locker.md.
+
+---
+
+## Phần F — Chuẩn nội dung & Self-check (2026-06-25)
+
+**Đã nâng cấp theo chuẩn F:**
+- **F.1 Pillar:** thêm khối "Vì sao chọn smart locker TSE" (6 thẻ — 5 lợi thế cạnh tranh + sản xuất trong nước); đã có sẵn bảng so sánh, phương thức mở khóa, link 8 ngách, quy trình, FAQ.
+- **F.2 smart-locker-la-gi:** viết lại đầy đủ (~1700 từ) — thêm cấu tạo 3 thành phần (thân tủ / khóa solenoid-motor / bộ điều khiển + phần mềm), hoạt động từng bước + kết nối LAN/WiFi/4G, lợi ích có số liệu, link đủ 8 ngách, TOC 8 mục.
+- **F.3 bang-gia locker:** thêm mục "Chi phí vận hành & bảo trì"; giữ [CẦN GIÁ THẬT] ở bảng giá + phí phần mềm.
+- **Dedup (theo yêu cầu trước):** "Ai nên đầu tư" → whyInvest riêng từng ngách; "Quy trình" → theo silo + heading theo sản phẩm.
+
+**Self-check (□=đạt) — các trang trọng tâm:**
+
+| Tiêu chí | Pillar | smart-locker-la-gi | bang-gia | 8 ngách |
+|---|---|---|---|---|
+| Từ khóa ở H1/100 từ đầu/H2/kết/meta | ✅ | ✅ | ✅ | ✅ |
+| Đoạn đầu snippet-ready | ✅ | ✅ | ✅ | ✅ |
+| Nội dung khác biệt (không trùng) | ✅ | ✅ | ✅ | ✅ (sau dedup) |
+| ≥1 bảng/list cấu trúc | ✅ | ✅ | ✅ | ✅ |
+| Internal link 3-6, anchor đa dạng | ✅ | ✅ (8 ngách+pillar) | ✅ | ✅ |
+| Schema đúng loại | ✅ Service/ItemList/FAQ/Breadcrumb | ✅ Article/FAQ/Breadcrumb | ✅ Service/FAQ/Breadcrumb | ✅ Service/Product/FAQ/Breadcrumb |
+| Title <60, 1 H1 | ✅ | ✅ | ✅ | ✅ |
+| 5 lợi thế TSE thể hiện | ✅ (khối riêng) | ✅ (nhắc trọn gói/IoT) | ✅ (3 mô hình) | ✅ (theo ngách) |
+| CTA đầu + cuối | ✅ | ✅ (TOC CTA + cuối) | ✅ (giữa + cuối) | ✅ (hero + cuối) |
+| Đánh dấu [CẦN GIÁ THẬT] | — | — | ✅ | — |
+
+**Còn lại cần người:** điền số thật vào các vị trí [CẦN GIÁ THẬT] trên `/tu-locker-thong-minh/bang-gia` (3 bậc giá + phí phần mềm vận hành).

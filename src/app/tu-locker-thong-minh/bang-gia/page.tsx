@@ -176,6 +176,32 @@ export default function SmartLockerPricingPage() {
         </div>
       </section>
 
+      {/* Operating cost */}
+      <section className="border-t border-slate-100 bg-slate-50 py-12">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6">
+          <h2 className="mb-4 text-2xl font-extrabold text-slate-900">Chi phí vận hành &amp; bảo trì</h2>
+          <p className="mb-4 max-w-3xl text-sm text-slate-600">
+            Ngoài chi phí đầu tư ban đầu, smart locker có chi phí vận hành thấp và dễ dự toán:
+          </p>
+          <ul className="grid gap-3 sm:grid-cols-2">
+            {[
+              ["Điện năng", "Khóa điện tử và bộ điều khiển tiêu thụ rất thấp; chi phí điện hàng tháng không đáng kể."],
+              ["Kết nối", "Phí internet/4G cho đồng bộ dữ liệu — thường gộp sẵn trong gói vận hành."],
+              ["Bảo trì định kỳ", "Kiểm tra khóa, cảm biến, vệ sinh tiếp điểm 6 tháng/lần; firmware cập nhật tự động."],
+              ["Phần mềm", "Phí phần mềm/SaaS tùy mô hình (mua đứt hay thuê dịch vụ) — [CẦN GIÁ THẬT]."],
+            ].map(([k, v]) => (
+              <li key={k} className="flex gap-3 rounded-xl border border-slate-200 bg-white p-4 text-sm text-slate-600">
+                <span className="mt-0.5 h-2 w-2 flex-none rounded-full bg-brand-500" />
+                <span><strong className="text-slate-900">{k}:</strong> {v}</span>
+              </li>
+            ))}
+          </ul>
+          <p className="mt-4 text-sm text-slate-500">
+            So với tủ khóa cơ, smart locker tiết kiệm đáng kể chi phí nhân sự trông coi và chi phí thay ổ khóa khi mất chìa.
+          </p>
+        </div>
+      </section>
+
       <FaqSection faqs={faqs} title="Câu hỏi thường gặp về giá tủ locker thông minh" />
       <Cta />
     </>

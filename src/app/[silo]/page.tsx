@@ -528,6 +528,26 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                 </div>
               ))}
             </div>
+            <h2 className="mb-2 mt-12 text-xl font-extrabold text-slate-900">Vì sao chọn smart locker TSE Vending?</h2>
+            <p className="mb-6 max-w-3xl text-sm text-slate-600">
+              Khác với phần lớn đơn vị chỉ bán tủ, TSE Vending làm chủ toàn bộ chuỗi giá trị — đây là 5 lợi thế khác biệt.
+            </p>
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {[
+                { k: "Giải pháp trọn gói", v: "Thiết kế → sản xuất → IoT → lắp đặt → vận hành → bảo trì. Một đầu mối chịu trách nhiệm toàn bộ." },
+                { k: "Module IoT tích hợp", v: "Quản lý từ xa, giám sát tình trạng từng ô và lịch sử truy cập theo thời gian thực." },
+                { k: "Kỹ thuật viên 4 tỉnh", v: "Thường trú tại TP.HCM, Hà Nội, Đà Nẵng, Bình Dương — lắp đặt & bảo trì nhanh." },
+                { k: "3 mô hình hợp đồng", v: "Mua trọn gói, thuê dịch vụ hoặc chia sẻ doanh thu — linh hoạt theo ngân sách." },
+                { k: "Case study thật", v: "Đã triển khai tại Vinhomes Grand Park, ĐH Kinh tế TP.HCM, bệnh viện tư nhân TP.HCM." },
+                { k: "Sản xuất trong nước", v: "Chủ động linh kiện, bảo hành nhanh, tùy biến cấu hình theo từng dự án." },
+              ].map((a) => (
+                <div key={a.k} className="rounded-xl border border-slate-200 bg-white p-4">
+                  <p className="text-sm font-bold text-brand-700">{a.k}</p>
+                  <p className="mt-1 text-xs leading-relaxed text-slate-600">{a.v}</p>
+                </div>
+              ))}
+            </div>
+
             <p className="mt-6 text-sm text-slate-500">
               Tìm hiểu sâu hơn: <Link href="/tu-locker-thong-minh/smart-locker-la-gi" className="font-semibold text-brand-600 hover:underline">smart locker là gì</Link>{" "}
               · <Link href="/tu-locker-thong-minh/bang-gia" className="font-semibold text-brand-600 hover:underline">bảng giá tủ locker thông minh</Link>.
