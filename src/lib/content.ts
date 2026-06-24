@@ -57,6 +57,10 @@ export interface BlogFrontmatter {
   title: string;
   description: string;
   date: string;
+  /** Optional ISO date the article was last meaningfully updated. When set it
+   * drives dateModified (JSON-LD) and og:modified_time — a real freshness
+   * signal. Falls back to `date` when absent (no fabricated dates). */
+  updated?: string;
   silo: string;
   sub?: string;
   category?: import("./categories").ArticleCategory;

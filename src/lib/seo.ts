@@ -15,6 +15,7 @@ interface BuildMetadataInput {
   image?: string;
   type?: "website" | "article";
   datePublished?: string;
+  dateModified?: string;
 }
 
 function truncateDesc(text: string, max = 155): string {
@@ -36,6 +37,7 @@ export function buildMetadata({
   image,
   type = "website",
   datePublished,
+  dateModified,
 }: BuildMetadataInput): Metadata {
   const url = absoluteUrl(path);
   const ogImage = image ?? `${siteConfig.url}/og-default.png`;
@@ -47,6 +49,7 @@ export function buildMetadata({
     description: seoDesc,
     alternates: {
       canonical: url,
+      types: { "application/rss+xml": absoluteUrl("/feed.xml") },
     },
     openGraph: {
       title: seoTitle,
@@ -57,7 +60,7 @@ export function buildMetadata({
       type,
       images: [{ url: ogImage, width: 1200, height: 630 }],
       ...(type === "article" && datePublished
-        ? { publishedTime: datePublished, modifiedTime: datePublished }
+        ? { publishedTime: datePublished, modifiedTime: dateModified ?? datePublished }
         : {}),
     },
     twitter: {

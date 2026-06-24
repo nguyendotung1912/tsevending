@@ -31,6 +31,7 @@ export async function generateMetadata({
     image: post.image ? `${siteConfig.url}${post.image}` : undefined,
     type: "article",
     datePublished: post.date,
+    dateModified: post.updated,
   });
 
   // Noindex thin content — protects against Google Scaled Content Abuse penalty.
@@ -73,6 +74,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           description: post.description,
           path: `/tin-tuc/${slug}`,
           datePublished: post.date,
+          dateModified: post.updated,
           image: post.image ? `${siteConfig.url}${post.image}` : undefined,
           keywords: post.keywords,
           articleSection: silo?.title,
