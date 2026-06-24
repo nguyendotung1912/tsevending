@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { buildMetadata, breadcrumbJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
@@ -200,6 +201,22 @@ const stats = [
   { value: "4", label: "Tỉnh thành có kỹ thuật viên" },
 ];
 
+// Ảnh lắp đặt thực tế tại hiện trường (ảnh thật của TSE, không phải ảnh stock).
+const gallery = [
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-nha-may.webp", alt: "Lắp đặt máy bán hàng tự động trong nhà máy, có kỹ thuật viên và bảo vệ" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-locker-nha-may.webp", alt: "Máy bán hàng tự động và tủ locker lắp tại nhà máy có mái che năng lượng mặt trời" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-truong-ischool.webp", alt: "Hai nữ sinh mua hàng tại máy bán hàng tự động trong trường iSchool" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-cua-hang-locker-mini.webp", alt: "Máy bán hàng tự động cạnh cụm tủ locker mini nhiều màu trước cửa hàng" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-pho-dem.webp", alt: "Máy bán hàng tự động đôi sáng đèn ban đêm, khách đứng mua trên phố" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-truoc-toa-nha.webp", alt: "Máy bán hàng tự động đặt trước tòa nhà cao tầng" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-bai-xe-may.webp", alt: "Máy bán hàng tự động đỏ đặt cạnh bãi để xe máy ngoài trời" },
+  { src: "/images/articles/du-an-cham-hang-may-ban-hang-tu-dong-ngoai-troi.webp", alt: "Châm hàng cho máy bán hàng tự động ngoài trời dưới trời nắng" },
+  { src: "/images/articles/du-an-lap-may-ban-hang-tu-dong-mai-ton.webp", alt: "Lắp đặt máy bán hàng tự động dưới mái tôn, người dân đến mua" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-ban-dem-cua-hang.webp", alt: "Máy bán hàng tự động sáng đèn ban đêm trước cửa hàng" },
+  { src: "/images/articles/du-an-may-ban-hang-tu-dong-hanh-lang-toa-nha.webp", alt: "Máy bán hàng tự động tại hành lang tòa nhà, nhóm người bên cạnh" },
+  { src: "/images/articles/du-an-lap-may-ban-hang-tu-dong-sanh.webp", alt: "Lắp đặt máy bán hàng tự động màu trắng trong sảnh tòa nhà" },
+];
+
 export default function ProjectsPage() {
   return (
     <>
@@ -294,6 +311,36 @@ export default function ProjectsPage() {
                   </div>
                 </div>
               </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Real installation photo gallery */}
+      <section className="border-t border-slate-100 py-14">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-brand-600">Hình ảnh thực tế</p>
+          <h2 className="mt-1 mb-2 text-2xl font-extrabold text-slate-900">
+            Hình ảnh lắp đặt thực tế tại hiện trường
+          </h2>
+          <p className="mb-6 max-w-3xl text-sm text-slate-600">
+            Những hình ảnh máy bán hàng tự động TSE Vending đang vận hành thực tế tại nhà máy,
+            trường học, cửa hàng, tòa nhà và nhiều địa điểm trên toàn quốc.
+          </p>
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+            {gallery.map((g) => (
+              <div
+                key={g.src}
+                className="relative h-44 overflow-hidden rounded-xl border border-slate-200 bg-slate-50"
+              >
+                <Image
+                  src={g.src}
+                  alt={g.alt}
+                  fill
+                  sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                  className="object-cover transition duration-300 hover:scale-105"
+                />
+              </div>
             ))}
           </div>
         </div>
