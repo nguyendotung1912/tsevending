@@ -231,10 +231,10 @@ export const SILOS: Silo[] = [
     slug: "tu-locker-thong-minh",
     title: "Tủ locker thông minh",
     shortTitle: "Tủ locker thông minh",
-    metaTitle: "Tủ Locker Thông Minh (Smart Locker) | TSE Vending",
+    metaTitle: "Smart Locker - Tủ Locker Thông Minh | TSE Vending",
     metaDescription:
-      "Tủ locker thông minh (smart locker) cho chung cư, văn phòng, KCN, trường học, bệnh viện: mở khóa QR, vân tay, RFID, app. Giải pháp toàn diện, quản lý tập trung.",
-    h1: "Tủ Locker Thông Minh (Smart Locker)",
+      "Smart locker (tủ locker thông minh) trọn gói: thiết kế, sản xuất, IoT, lắp đặt, vận hành. Kỹ thuật viên 4 tỉnh (HCM/HN/ĐN/BD). Nhận tư vấn & báo giá miễn phí.",
+    h1: "Smart Locker (Tủ Locker Thông Minh) - Giải Pháp Trọn Gói",
     intro: [
       "Tủ locker thông minh (smart locker) của TSE Vending là giải pháp lưu trữ và giao nhận hiện đại, sử dụng các phương thức mở khóa điện tử như mã QR, mã PIN, thẻ RFID, vân tay - thay thế hoàn toàn chìa khóa cơ truyền thống.",
       "Hệ thống được quản lý tập trung qua phần mềm/app, cho phép theo dõi tình trạng từng ô tủ theo thời gian thực, phân quyền sử dụng và xuất báo cáo vận hành tự động.",

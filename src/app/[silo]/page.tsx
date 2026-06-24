@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { buildMetadata, serviceJsonLd, itemListJsonLd } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd, itemListJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { getAllSilos, getSiloBySlug } from "@/content/categories";
 import { PROVINCES } from "@/content/provinces";
 import { getPostsBySilo } from "@/lib/content";
@@ -345,6 +345,12 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           })),
         })}
       />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Trang chủ", path: "/" },
+          { name: silo.title, path: `/${silo.slug}` },
+        ])}
+      />
 
       {/* ── SILO HERO ── */}
       <section className="relative overflow-hidden bg-brand-950 text-white">
@@ -466,6 +472,69 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           <ComparisonTable subcategories={silo.subcategories} />
         </div>
       </section>
+
+      {/* ── SMART LOCKER: so sánh + phương thức mở khóa (chỉ pillar locker) ── */}
+      {siloSlug === "tu-locker-thong-minh" && (
+        <section className="py-14">
+          <div className="mx-auto max-w-6xl px-4 sm:px-6">
+            <h2 className="mb-2 text-xl font-extrabold text-slate-900">Smart Locker khác gì tủ khóa cơ truyền thống?</h2>
+            <p className="mb-6 max-w-3xl text-sm text-slate-600">
+              Smart locker thay chìa khóa cơ bằng xác thực điện tử và quản lý từ xa — khác biệt rõ rệt về vận hành, bảo mật và chi phí.
+            </p>
+            <div className="mb-12 overflow-x-auto">
+              <table className="w-full border-collapse text-sm">
+                <thead>
+                  <tr className="bg-slate-50 text-left">
+                    <th className="border border-slate-200 p-3">Tiêu chí</th>
+                    <th className="border border-slate-200 p-3">Tủ khóa cơ</th>
+                    <th className="border border-slate-200 p-3 text-brand-700">Smart Locker (TSE)</th>
+                  </tr>
+                </thead>
+                <tbody className="text-slate-600">
+                  {[
+                    ["Mở khóa", "Chìa vật lý", "QR / PIN / RFID / vân tay / Face ID"],
+                    ["Mất chìa", "Phải thay ổ khóa", "Cấp lại mã từ xa, miễn phí"],
+                    ["Lịch sử truy cập", "Không có", "Ghi log đầy đủ kèm thời gian"],
+                    ["Quản lý từ xa", "Không", "Dashboard IoT theo thời gian thực"],
+                    ["Phân quyền", "Cố định, thủ công", "Linh hoạt theo người / ca / thời hạn"],
+                    ["Vận hành", "Cần người trông coi", "Tự phục vụ 24/7, không nhân sự"],
+                  ].map((r) => (
+                    <tr key={r[0]}>
+                      <td className="border border-slate-200 p-3 font-medium text-slate-900">{r[0]}</td>
+                      <td className="border border-slate-200 p-3">{r[1]}</td>
+                      <td className="border border-slate-200 p-3">{r[2]}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <h2 className="mb-2 text-xl font-extrabold text-slate-900">Các phương thức mở khóa smart locker</h2>
+            <p className="mb-6 max-w-3xl text-sm text-slate-600">
+              Một hệ thống có thể dùng đồng thời nhiều phương thức cho các nhóm người dùng khác nhau.
+            </p>
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {[
+                { k: "Mã QR", v: "Cấp qua app/SMS, quét bằng điện thoại — lý tưởng cho giao nhận hàng." },
+                { k: "Mã PIN / OTP", v: "Nhập trên bàn phím cảm ứng — đơn giản, không cần thiết bị phụ." },
+                { k: "Thẻ RFID", v: "Tích hợp thẻ nhân viên/học sinh sẵn có — một thẻ đa chức năng." },
+                { k: "Vân tay", v: "Sinh trắc học, không thể quên hay mất — bảo mật cao." },
+                { k: "Nhận diện khuôn mặt", v: "Mở không chạm — phù hợp môi trường y tế, cao cấp." },
+                { k: "App di động", v: "Quản lý và mở tủ qua ứng dụng — tiện cho người dùng thường xuyên." },
+              ].map((m) => (
+                <div key={m.k} className="rounded-xl border border-slate-200 bg-white p-4">
+                  <p className="text-sm font-bold text-slate-900">{m.k}</p>
+                  <p className="mt-1 text-xs leading-relaxed text-slate-600">{m.v}</p>
+                </div>
+              ))}
+            </div>
+            <p className="mt-6 text-sm text-slate-500">
+              Tìm hiểu sâu hơn: <Link href="/tu-locker-thong-minh/smart-locker-la-gi" className="font-semibold text-brand-600 hover:underline">smart locker là gì</Link>{" "}
+              · <Link href="/tu-locker-thong-minh/bang-gia" className="font-semibold text-brand-600 hover:underline">bảng giá tủ locker thông minh</Link>.
+            </p>
+          </div>
+        </section>
+      )}
 
       {/* ── EXTENDED CONTENT ── */}
       {ext && (

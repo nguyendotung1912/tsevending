@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { buildMetadata, serviceJsonLd, productJsonLd } from "@/lib/seo";
+import { buildMetadata, serviceJsonLd, productJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { getAllCategorySlugs, getSubcategory } from "@/content/categories";
 
 // Reference price ranges (VND) for vending product categories — drives Product
@@ -373,6 +373,13 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
   return (
     <>
       <JsonLd data={serviceJsonLd({ name: sub.title, description: sub.metaDescription, path: `/${silo.slug}/${sub.slug}` })} />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Trang chủ", path: "/" },
+          { name: silo.title, path: `/${silo.slug}` },
+          { name: sub.shortTitle, path: `/${silo.slug}/${sub.slug}` },
+        ])}
+      />
       <JsonLd
         data={productJsonLd({
           name: sub.title,
