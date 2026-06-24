@@ -19,7 +19,7 @@ faqs:
 
 ## Chứng nhận tủ locker thông minh: Tiêu chuẩn ISO, CE và TCVN
 
-Trong thời đại công nghệ số hiện nay, tủ locker thông minh đã trở thành một giải pháp tiện ích và an toàn cho việc lưu trữ và quản lý hàng hóa, tài liệu. Tuy nhiên, để đảm bảo chất lượng và an toàn cho người sử dụng, việc kiểm định và chứng nhận tủ locker thông minh là vô cùng quan trọng. Bài viết dưới đây sẽ cung cấp thông tin chi tiết về các tiêu chuẩn và chứng nhận cần thiết cho tủ locker thông minh.
+Trong thời đại công nghệ số hiện nay, [tủ locker thông minh](/tu-locker-thong-minh) đã trở thành một giải pháp tiện ích và an toàn cho việc lưu trữ và quản lý hàng hóa, tài liệu. Tuy nhiên, để đảm bảo chất lượng và an toàn cho người sử dụng, việc kiểm định và chứng nhận tủ locker thông minh là vô cùng quan trọng. Bài viết dưới đây sẽ cung cấp thông tin chi tiết về các tiêu chuẩn và chứng nhận cần thiết cho tủ locker thông minh.
 
 ## Tiêu chuẩn ISO cho tủ locker thông minh
 

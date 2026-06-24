@@ -26,7 +26,7 @@ Bài toán giao hàng tại chung cư là vấn đề thực sự:
 - BQL phải nhận thay → kho BQL chật chội, nhân viên mất thời gian
 - Hàng để trước cửa → nguy cơ mất cắp hoặc va chạm hàng xóm
 
-Locker giải quyết tất cả những vấn đề này trong một lần. Với hệ thống tủ locker thông minh, cư dân có thể nhận hàng mọi lúc, mọi nơi mà không cần lo lắng về việc không có mặt tại thời điểm giao hàng. Shipper chỉ cần giao hàng vào tủ locker và cư dân sẽ nhận được hàng khi cần.
+Locker giải quyết tất cả những vấn đề này trong một lần. Với hệ thống [tủ locker thông minh](/tu-locker-thong-minh), cư dân có thể nhận hàng mọi lúc, mọi nơi mà không cần lo lắng về việc không có mặt tại thời điểm giao hàng. Shipper chỉ cần giao hàng vào tủ locker và cư dân sẽ nhận được hàng khi cần.
 
 ### Xu Hướng Thương Mại Điện Tử Tăng Tốc
 
