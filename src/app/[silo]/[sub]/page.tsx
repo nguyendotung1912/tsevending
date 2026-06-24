@@ -203,6 +203,9 @@ const subContent: Record<string, ContentBlock[]> = {
 
     { t: "h2", text: "Tích hợp và mở rộng" },
     { t: "p", segs: ["Tủ locker chung cư có thể kết hợp với ", { anchor: "hệ thống giao nhận hàng logistics", href: "/tu-locker-thong-minh/tu-locker-giao-nhan-hang" }, " nếu tòa nhà muốn trở thành điểm nhận hàng công cộng cho shipper GHN, GHTK, J&T. Xem thêm ", { anchor: "toàn bộ dòng tủ locker thông minh", href: "/tu-locker-thong-minh" }, " hoặc ", { anchor: "liên hệ để được khảo sát sảnh và báo giá", href: "/lien-he" }, "."] },
+
+    { t: "h2", text: "Dự án thực tế: Chung cư Vinhomes Grand Park" },
+    { t: "p", segs: ["TSE Vending đã triển khai hệ thống tủ locker nhận hàng thông minh tại chung cư Vinhomes Grand Park (TP. Thủ Đức, TP.HCM). Cư dân nhận bưu phẩm tự động 24/7 bằng mã QR/PIN, bảo vệ không còn phải ký nhận và bảo quản hộ từng kiện hàng. Đại diện Ban Quản Lý chia sẻ: hệ thống hoạt động ổn định từ khi lắp đặt, đội kỹ thuật TSE phản hồi nhanh khi có sự cố nhỏ — đúng với cam kết vận hành trọn gói của TSE Vending."] },
   ],
 
   "tu-locker-van-phong": [
@@ -279,6 +282,9 @@ const subContent: Record<string, ContentBlock[]> = {
 
     { t: "h2", text: "Kết hợp với tủ gửi đồ khu thể thao" },
     { t: "p", segs: ["Trường có phòng gym hoặc hồ bơi có thể kết hợp ", { anchor: "tủ gửi đồ thông minh", href: "/tu-locker-thong-minh/tu-gui-do-thong-minh" }, " tại khu thể thao — phục vụ học sinh gửi tài sản trong lúc tập, tách biệt với hệ thống tủ học. Hai khu chạy trên cùng phần mềm, quản trị viên theo dõi tập trung. Xem ", { anchor: "toàn bộ dòng tủ locker thông minh", href: "/tu-locker-thong-minh" }, " hoặc ", { anchor: "liên hệ để được tư vấn chương trình hợp tác giáo dục", href: "/lien-he" }, "."] },
+
+    { t: "h2", text: "Dự án thực tế: Trường Đại học Kinh tế TP.HCM" },
+    { t: "p", segs: ["TSE Vending đã lắp đặt tủ gửi đồ thông minh tại khu thể thao của Trường Đại học Kinh tế TP.HCM. Sinh viên xác thực bằng mã/app để gửi đồ trong lúc tập luyện, không còn tình trạng mất đồ hay thất lạc chìa khóa như tủ cơ truyền thống. Đại diện bộ phận cơ sở vật chất cho biết sinh viên đón nhận rất tích cực và việc quản lý qua app rất tiện, không cần bố trí nhân viên trực — đúng tinh thần vận hành tự động của smart locker."] },
   ],
 
   "tu-locker-khach-san-resort": [
@@ -336,6 +342,9 @@ const subContent: Record<string, ContentBlock[]> = {
 
     { t: "h2", text: "Triển khai và hỗ trợ" },
     { t: "p", segs: ["TSE Vending có kinh nghiệm triển khai tại bệnh viện và phòng khám — hiểu rõ quy trình nghiệm thu cơ sở vật chất y tế và phối hợp với bộ phận kiểm soát nhiễm khuẩn. Xem thêm ", { anchor: "toàn bộ dòng tủ locker thông minh", href: "/tu-locker-thong-minh" }, " hoặc ", { anchor: "liên hệ để được tư vấn giải pháp phù hợp tiêu chuẩn cơ sở y tế", href: "/lien-he" }, "."] },
+
+    { t: "h2", text: "Dự án thực tế: Bệnh viện Đa khoa tư nhân TP.HCM" },
+    { t: "p", segs: ["TSE Vending đã triển khai tủ locker khu nhân viên y tế tại một bệnh viện đa khoa tư nhân ở TP.HCM, đáp ứng đúng tiêu chuẩn bề mặt chống khuẩn như cam kết. Nhân viên y tế lưu trữ đồ cá nhân an toàn trong ca trực dài, mở khóa không chạm để giảm nguy cơ lây nhiễm chéo. Đại diện vận hành bệnh viện đánh giá nhân viên rất hài lòng và yên tâm về tài sản cá nhân — minh chứng cho năng lực triển khai trong môi trường y tế đặc thù của TSE."] },
   ],
 };
 
