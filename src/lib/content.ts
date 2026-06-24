@@ -119,10 +119,13 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | undefined>
   const { data, content } = matter(raw);
 
   const processed = await remark().use(remarkGfm).use(remarkHtml).process(content);
-  // Swap inline body images to their WebP sibling when one exists on disk.
+  // (1) Swap inline body images to their WebP sibling when one exists on disk.
+  // (2) Lazy-load + async-decode body images (they're below the fold; the hero
+  //     is rendered separately with next/image priority) — improves LCP/CWV.
   const contentHtml = processed
     .toString()
-    .replace(/\/images\/[^"')\s]+\.(?:jpe?g|png)/gi, (m) => webpIfExists(m));
+    .replace(/\/images\/[^"')\s]+\.(?:jpe?g|png)/gi, (m) => webpIfExists(m))
+    .replace(/<img (?![^>]*\bloading=)/gi, '<img loading="lazy" decoding="async" ');
 
   const fm = data as BlogFrontmatter;
   const wordCount = countWords(content);
