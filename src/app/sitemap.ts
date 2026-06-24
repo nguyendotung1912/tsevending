@@ -15,6 +15,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/tu-locker-thong-minh/cho-thue`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
+    { url: `${siteConfig.url}/tu-locker-thong-minh/smart-locker-la-gi`, lastModified: new Date("2026-06-15"), changeFrequency: "monthly", priority: 0.8 },
+    { url: `${siteConfig.url}/tu-locker-thong-minh/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.9 },
     {
       url: `${siteConfig.url}/${SOLUTIONS_SILO.slug}`,
       lastModified: new Date("2025-06-01"),

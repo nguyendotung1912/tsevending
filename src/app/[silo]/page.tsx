@@ -224,6 +224,13 @@ const extendedContent: Record<string, {
         { anchor: "Liên hệ ngay để được tư vấn và khảo sát thực địa miễn phí", href: "/lien-he" },
         " — đội ngũ phản hồi trong vòng 2 giờ làm việc.",
       ],
+      [
+        "Mới tìm hiểu về smart locker? Đọc bài giải thích ",
+        { anchor: "smart locker là gì", href: "/tu-locker-thong-minh/smart-locker-la-gi" },
+        " để nắm rõ cơ chế hoạt động và phân loại, hoặc xem ngay ",
+        { anchor: "bảng giá tủ locker thông minh", href: "/tu-locker-thong-minh/bang-gia" },
+        " để ước tính chi phí đầu tư theo từng cấu hình.",
+      ],
     ],
     whatIs: {
       title: "Tủ locker thông minh là gì? Nguyên lý hoạt động",
