@@ -22,10 +22,14 @@ export default function ProductGallery({ title, siloSlug, subSlug }: ProductGall
   const folder = normalizeSlug(subSlug);
   const base = `/images/products/${siloSlug}/${folder}`;
 
+  // Bump `v` whenever the underlying 01/02/03.jpg are replaced — the images are
+  // cached 30 days (see public/_headers), so reusing the same filename without a
+  // new query string would keep serving the old (stock) photo from edge/browser.
+  const v = "2";
   const allImages = [
-    { src: `${base}/01.jpg`, alt: `${title} — hình ảnh thực tế 1` },
-    { src: `${base}/02.jpg`, alt: `${title} — hình ảnh thực tế 2` },
-    { src: `${base}/03.jpg`, alt: `${title} — hình ảnh thực tế 3` },
+    { src: `${base}/01.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 1` },
+    { src: `${base}/02.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 2` },
+    { src: `${base}/03.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 3` },
   ];
 
   const [active, setActive] = useState(0);
