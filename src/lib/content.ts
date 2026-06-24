@@ -14,11 +14,22 @@ const FALLBACK_IMAGE = "/og-default.svg";
 // Validates the frontmatter image at build time: returns it only if the file
 // actually exists under /public, otherwise falls back to a known-good banner.
 // Remote (http) images are passed through untouched.
+// Returns the .webp sibling of a /public image when it exists on disk (built by
+// scripts/convert-images-webp.mjs), else the original path. Lets us serve
+// smaller WebP without rewriting any article markdown.
+function webpIfExists(publicPath: string): string {
+  if (!/\.(jpe?g|png)$/i.test(publicPath)) return publicPath;
+  const webp = publicPath.replace(/\.(jpe?g|png)$/i, ".webp");
+  const onDisk = path.join(PUBLIC_DIR, webp.replace(/^\//, ""));
+  return fs.existsSync(onDisk) ? webp : publicPath;
+}
+
 function resolveImage(image?: string): string | undefined {
   if (!image) return undefined;
   if (/^https?:\/\//.test(image)) return image;
   const filePath = path.join(PUBLIC_DIR, image.replace(/^\//, ""));
-  return fs.existsSync(filePath) ? image : FALLBACK_IMAGE;
+  if (!fs.existsSync(filePath)) return FALLBACK_IMAGE;
+  return webpIfExists(image);
 }
 
 // Articles shorter than this are treated as thin content: set to noindex on the
@@ -104,7 +115,10 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | undefined>
   const { data, content } = matter(raw);
 
   const processed = await remark().use(remarkGfm).use(remarkHtml).process(content);
-  const contentHtml = processed.toString();
+  // Swap inline body images to their WebP sibling when one exists on disk.
+  const contentHtml = processed
+    .toString()
+    .replace(/\/images\/[^"')\s]+\.(?:jpe?g|png)/gi, (m) => webpIfExists(m));
 
   const fm = data as BlogFrontmatter;
   const wordCount = countWords(content);
