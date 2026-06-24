@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Đồ Chơi Và Đất Sét Sáng Tạo Tự Động Cho Trẻ Em Tại Trung Tâm Mua Sắm"
 description: "Máy bán đồ chơi tự động cho trẻ em tại trung tâm thương mại — từ capsule toy gacha đến set đất sét sáng tạo. Mô hình kinh doanh, phân tích doanh thu và xu hướng từ Nhật Bản áp dụng tại Việt Nam."
-date: "2026-09-25"
+date: "2026-04-18"
 silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["máy bán đồ chơi tự động", "gacha vending machine trẻ em", "capsule toy Việt Nam"]

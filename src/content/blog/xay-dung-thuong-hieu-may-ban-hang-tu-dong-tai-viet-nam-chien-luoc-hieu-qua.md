@@ -1,7 +1,7 @@
 ---
 title: "Xây dựng thương hiệu máy bán hàng tự động tại Việt Nam: Chiến lược hiệu quả"
 description: "Tìm hiểu cách xây dựng thương hiệu máy bán hàng tự động tại Việt Nam. Chiến lược branding vending hiệu quả cho doanh nghiệp của bạn. Liên hệ TSE Vending để triển khai ngay hôm nay."
-date: "2026-07-02"
+date: "2026-02-14"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["thương hiệu vending machine", "branding vending Việt Nam", "marketing vending"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại Phú Quốc, Vân Đồn: Giải pháp cho khu kinh tế đặc biệt"
 description: "Tìm hiểu về tủ locker thông minh tại Phú Quốc và Vân Đồn. Giải pháp lưu trữ và quản lý hàng hóa an toàn, hiệu quả cho khu kinh tế đặc biệt. Liên hệ TSE Vending ngay hôm nay."
-date: "2026-07-02"
+date: "2026-02-14"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker Phú Quốc", "locker Vân Đồn", "tủ locker khu kinh tế đặc biệt"]

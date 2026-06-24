@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tích hợp thẻ Access Control - Giải pháp bảo mật tòa nhà"
 description: "Tủ locker thông minh kết hợp hệ thống thẻ Access Control - Giải pháp bảo mật tối ưu cho tòa nhà. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-04"
+date: "2026-02-23"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["access control locker", "tủ locker hệ thống thẻ", "integrated locker security"]

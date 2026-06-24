@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Câu Cá & Thể Thao Ngoài Trời: Mồi & Phụ Kiện"
 description: "Cung cấp giải pháp vending machine tại điểm câu cá và khu thể thao ngoài trời với mồi và phụ kiện chất lượng. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-01"
+date: "2026-02-10"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-snack-do-an-vat"
 keywords: ["vending machine câu cá", "máy bán hàng thể thao ngoài trời", "fishing vending"]

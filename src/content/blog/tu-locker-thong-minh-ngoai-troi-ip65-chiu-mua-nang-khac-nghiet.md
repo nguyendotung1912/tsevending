@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Ngoài Trời IP65: Chịu Mưa Nắng Và Điều Kiện Khắc Nghiệt"
 description: "Locker ngoài trời tại bưu điện, sân vận động, bãi đỗ xe và khu vui chơi cần tiêu chuẩn IP65 trở lên để chịu mưa, nắng, bụi và độ ẩm nhiệt đới Việt Nam. Khác với locker trong nhà — mọi thứ từ thiết kế, vật liệu đến điện tử phải chuyên biệt."
-date: "2026-12-09"
+date: "2026-05-15"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker IP65 ngoài trời", "outdoor waterproof locker", "tủ locker chống thấm"]

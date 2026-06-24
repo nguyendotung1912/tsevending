@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Xe Đạp Chia Sẻ và Xe Máy Điện"
 description: "Tủ locker thông minh cho xe đạp chia sẻ và xe máy điện t�� phục vụ. Giải pháp bảo quản và quản lý xe an toàn, tiện lợi. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-30"
+date: "2026-02-06"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["bike sharing locker", "tủ locker xe đạp chia sẻ", "e-scooter locker"]

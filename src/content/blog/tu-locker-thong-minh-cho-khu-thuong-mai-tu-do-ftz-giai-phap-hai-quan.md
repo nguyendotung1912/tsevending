@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho khu thương mại tự do FTZ: Giải pháp hải quan"
 description: "Tìm hiểu yêu cầu đặc thù hải quan cho tủ locker khu ngoại quan FTZ. Giải pháp tủ locker thông minh cho khu thương mại tự do từ TSE Vending."
-date: "2026-07-08"
+date: "2026-03-07"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker free trade zone", "FTZ locker", "tủ locker khu ngoại quan"]

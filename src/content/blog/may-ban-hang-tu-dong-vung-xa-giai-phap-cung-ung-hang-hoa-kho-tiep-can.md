@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động vùng xa - Giải pháp cung ứng hàng hóa khó tiếp cận"
 description: "Khám phá giải pháp máy bán hàng tự động cho khu vực khó tiếp cận. Cung ứng hàng hóa vùng xa hiệu quả với TSE Vending. Liên hệ ngay để được tư vấn"
-date: "2026-07-06"
+date: "2026-02-28"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["vending machine vùng xa", "cung ứng hàng hóa khó tiếp cận", "rural vending"]

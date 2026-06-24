@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Cho Người Cao Tuổi: Thiết Kế Dễ Dùng Và Hỗ Trợ Đặc Biệt"
 description: "Tủ locker thông minh cho người cao tuổi cần thiết kế đặc biệt: chữ to, nút vật lý, màn hình độ sáng cao và quy trình đơn giản. Hướng dẫn chọn locker thân thiện với người già."
-date: "2026-07-23"
+date: "2026-03-19"
 silo: "tu-locker-thong-minh"
 sub: "doi-tuong-su-dung"
 keywords: ["locker cho người cao tuổi", "locker dễ dùng người già", "tủ locker thân thiện người cao tuổi"]

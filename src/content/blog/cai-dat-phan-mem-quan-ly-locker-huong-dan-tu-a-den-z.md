@@ -1,7 +1,7 @@
 ---
 title: "Cài Đặt Phần Mềm Quản Lý Locker: Hướng Dẫn Từ A Đến Z Cho Quản Trị Viên"
 description: "Hướng dẫn đầy đủ cài đặt và cấu hình phần mềm quản lý tủ locker thông minh: từ yêu cầu hệ thống, kết nối thiết bị đến cấu hình người dùng và tích hợp API thanh toán."
-date: "2026-07-21"
+date: "2026-03-17"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["cài đặt phần mềm quản lý locker", "setup hệ thống locker", "cấu hình locker thông minh"]

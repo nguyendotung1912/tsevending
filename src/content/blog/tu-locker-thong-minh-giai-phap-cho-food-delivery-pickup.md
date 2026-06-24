@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh - Giải Pháp Cho Food Delivery Pickup"
 description: "Tủ locker thông minh giúp tối ưu hóa quy trình giao nhận thực ph��m, nâng cao trải nghiệm khách hàng. Tìm hiểu giải pháp locker food delivery ngay!"
-date: "2026-06-25"
+date: "2026-01-08"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker food delivery", "food pickup locker", "tủ locker nhà hàng giao hàng"]

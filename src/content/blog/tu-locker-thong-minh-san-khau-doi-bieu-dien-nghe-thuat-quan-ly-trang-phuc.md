@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Dành Cho Sân Khấu Và Đội Biểu Diễn Nghệ Thuật: Quản Lý Trang Phục"
 description: "Đoàn kịch, đội múa và sân khấu có hàng trăm bộ trang phục biểu diễn cần quản lý chặt chẽ. Locker thông minh tại backstage giúp diễn viên lấy đúng trang phục, phụ kiện và hóa trang theo vai diễn — không nhầm lẫn giữa các buổi diễn.**"
-date: "2027-01-28"
+date: "2026-06-03"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker sân khấu biểu diễn", "tủ locker backstage", "theatre locker trang phục"]

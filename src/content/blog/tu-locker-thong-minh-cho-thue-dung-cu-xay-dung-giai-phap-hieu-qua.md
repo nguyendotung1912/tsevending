@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Thuê Dụng Cụ Xây Dựng - Giải Pháp Hiệu Quả"
 description: "Tủ locker thông minh giúp quản lý dụng cụ xây dựng hiệu quả, tự động hóa quá trình nhận và trả thiết bị, giảm thiểu thất lạc và chi phí vận hành. Liên hệ TSE Vending để biết thêm."
-date: "2026-07-01"
+date: "2026-02-09"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["construction equipment locker", "locker cho thuê dụng cụ xây dựng", "tool rental locker"]

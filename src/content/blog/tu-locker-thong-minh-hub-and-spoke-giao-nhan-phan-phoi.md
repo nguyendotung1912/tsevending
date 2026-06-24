@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Mô Hình Hub-And-Spoke Giao Nhận: Phân Phối Từ Trung Tâm"
 description: "Mô hình hub-and-spoke dùng locker tại các điểm spoke (nút phân phối) cho phép shipper giao hàng loạt từ hub trung tâm, người nhận tự lấy tại spoke gần nhất. Giảm chi phí last-mile, tăng tốc độ giao hàng và giảm phát thải carbon."
-date: "2026-12-24"
+date: "2026-05-21"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker hub and spoke", "tủ locker trung tâm phân phối", "hub locker logistics"]

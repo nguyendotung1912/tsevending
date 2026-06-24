@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Chống Hack: Giải Pháp Cybersecurity Toàn Diện"
 description: "Giải pháp bảo mật mạng locker toàn diện. Tìm hiểu cách tủ locker thông minh TSE Vending bảo vệ dữ liệu và ngăn chặn tấn công mạng. Liên hệ ngay để được tư vấn miễn phí."
-date: "2026-07-01"
+date: "2026-02-09"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["cybersecurity locker", "chống hack tủ locker", "bảo mật mạng locker"]

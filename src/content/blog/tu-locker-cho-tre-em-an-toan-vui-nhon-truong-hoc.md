@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Cho Trẻ Em: An Toàn Tuyệt Đối Và Thiết Kế Vui Nhộn Tại Trường Học"
 description: "Tủ locker cho trẻ em tại trường học cần đảm bảo an toàn góc cạnh, chiều cao phù hợp, khóa đơn giản và thiết kế thu hút. Tiêu chuẩn an toàn và cách chọn locker đúng cho học sinh tiểu học."
-date: "2026-07-26"
+date: "2026-03-21"
 silo: "tu-locker-thong-minh"
 sub: "doi-tuong-su-dung"
 keywords: ["locker cho trẻ em", "tủ locker trường tiểu học", "locker học sinh an toàn"]

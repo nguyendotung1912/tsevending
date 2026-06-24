@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh tại Khu Du Lịch Làng Nghề Truyền Thống"
 description: "Tủ locker thông minh giúp quản lý lưu trữ và bảo mật đồ đạc tại khu du lịch làng nghề truyền thống Việt Nam hiệu quả. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-03"
+date: "2026-02-18"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker làng nghề", "craft village locker", "tủ locker du lịch làng nghề"]

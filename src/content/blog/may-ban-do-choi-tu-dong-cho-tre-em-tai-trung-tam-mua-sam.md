@@ -1,7 +1,7 @@
 ---
 title: "Máy bán đồ chơi tự động cho trẻ em tại trung tâm mua sắm"
 description: "Máy bán đất sét và đồ chơi sáng tạo tự động cho tr�� em tại trung tâm mua sắm, giải pháp kinh doanh mới cho các nhà quản lý."
-date: "2026-07-08"
+date: "2026-03-06"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán đồ chơi tự động", "kids toy vending machine", "đất sét trẻ em tự động"]

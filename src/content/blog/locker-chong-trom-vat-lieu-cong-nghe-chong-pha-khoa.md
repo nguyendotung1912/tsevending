@@ -1,7 +1,7 @@
 ---
 title: "Locker Chống Trộm: Vật Liệu Và Công Nghệ Chống Phá Khóa Thế Hệ Mới"
 description: "Locker chống trộm hiệu quả cần vật liệu cứng vững, khóa chống drill và cơ chế báo động thông minh. Phân tích các lớp bảo vệ và công nghệ chống phá khóa tiên tiến nhất 2026."
-date: "2026-08-02"
+date: "2026-03-26"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["locker chống trộm", "chống phá khóa locker", "locker bảo mật cao"]

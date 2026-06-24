@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động thế hệ mới: Bài học từ Hàn Quốc và Singapore"
 description: "Tìm hiểu về máy bán hàng tự động thế h�� tiếp theo tại Hàn Quốc và Singapore. Bài học kinh nghiệm quốc tế cho thị trường Việt Nam và giải pháp kinh doanh hiệu quả."
-date: "2026-07-02"
+date: "2026-02-12"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine Hàn Quốc", "Singapore vending machine", "kinh nghiệm quốc tế"]

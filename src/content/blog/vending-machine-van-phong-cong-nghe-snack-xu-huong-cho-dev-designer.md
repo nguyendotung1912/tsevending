@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Văn Phòng Công Nghệ: Snack Xu Hướng Cho Dev & Designer"
 description: "Tìm hiểu về xu hướng vending machine văn phòng c��ng nghệ, snack phù hợp cho lập trình viên và designer. Liên hệ TSE Vending để triển khai giải pháp kinh doanh thông minh."
-date: "2026-07-06"
+date: "2026-03-02"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine văn phòng công nghệ", "snack cho lập trình viên", "tech office vending"]

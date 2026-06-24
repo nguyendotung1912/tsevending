@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động phòng gym: Giải pháp tiện lợi cho người tập"
 description: "Máy bán hàng tự động tại phòng gym giúp cung c���p protein shake, BCAA và thực phẩm thể thao tiện lợi, hỗ trợ người tập luyện hiệu quả. Liên hệ TSE Vending để lắp đặt."
-date: "2026-07-03"
+date: "2026-02-16"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng phòng gym", "vending machine gym", "protein shake tự động"]

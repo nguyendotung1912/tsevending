@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh tại Phòng Bowling và Bida"
 description: "Tủ locker thông minh cho phòng bowling và bida, giải pháp gửi đồ tiện l��i và an toàn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-27"
+date: "2026-01-21"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng bowling", "tủ locker bida", "entertainment locker"]

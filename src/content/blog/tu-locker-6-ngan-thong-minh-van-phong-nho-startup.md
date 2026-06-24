@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker 6 Ngăn Thông Minh: Lý Tưởng Cho Văn Phòng Nhỏ Và Startups"
 description: "Tủ locker 6 ngăn thông minh tối ưu mật độ lưu trữ trong không gian nhỏ — lý tưởng cho startup và văn phòng co-working. Kích thước, cấu hình và so sánh với 4 ngăn."
-date: "2026-07-27"
+date: "2026-03-21"
 silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker 6 ngăn thông minh", "tủ locker 6 ô văn phòng", "locker 6 ngăn startup"]

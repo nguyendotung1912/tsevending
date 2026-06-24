@@ -1,7 +1,7 @@
 ---
 title: "Bảo Mật Tủ Locker Thông Minh: AES-256, TLS Và HTTPS — Hiểu Để Lựa Chọn Đúng"
 description: "Locker thông minh kết nối internet chứa dữ liệu cá nhân và kiểm soát khóa vật lý — bảo mật là yêu cầu không thể thỏa hiệp. Hướng dẫn thực tế về AES-256, TLS/HTTPS và các tiêu chuẩn bảo mật để đánh giá nhà cung cấp locker."
-date: "2026-11-26"
+date: "2026-05-11"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["bảo mật locker AES-256", "TLS tủ locker thông minh", "giao thức bảo mật locker IoT"]

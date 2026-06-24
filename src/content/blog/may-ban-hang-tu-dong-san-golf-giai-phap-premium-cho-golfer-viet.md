@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động sân golf: Giải pháp Premium cho golfer Việt"
 description: "Tìm hiểu về máy bán hàng tự động tại sân golf, giải pháp premium cung cấp sản phẩm phù hợp cho golfer Việt Nam. Liên hệ TSE Vending để triển khai ngay!"
-date: "2026-06-30"
+date: "2026-02-03"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine sân golf", "máy bán hàng golf", "sản phẩm golfer"]

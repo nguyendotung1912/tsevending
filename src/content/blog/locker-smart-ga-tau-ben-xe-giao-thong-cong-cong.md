@@ -1,7 +1,7 @@
 ---
 title: "Smart Locker Ga Tàu Và Bến Xe: Giải Pháp Giao Thông Công Cộng 4.0"
 description: "Locker thông minh tại nhà ga, bến xe và trạm metro giúp hành khách gửi hành lý, mua vé và nhận bưu kiện trong hành trình. Phân tích cơ hội và mô hình triển khai tại Việt Nam."
-date: "2026-07-06"
+date: "2026-02-27"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-san-bay"
 keywords: ["locker ga tàu", "locker bến xe", "smart locker giao thông công cộng"]

@@ -1,7 +1,7 @@
 ---
 title: "Mô Hình Kinh Doanh Máy Bán Hàng Tự Động 2026: Từ Đầu Tư Đến Lợi Nhuận"
 description: "Phân tích đầy đủ mô hình kinh doanh máy bán hàng tự động 2026: vốn đầu tư, doanh thu, chi phí vận hành, lợi nhuận và thời gian hoàn vốn thực tế tại Việt Nam."
-date: "2026-07-19"
+date: "2026-03-16"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["mô hình kinh doanh máy bán hàng tự động", "đầu tư máy vending", "lợi nhuận máy bán hàng"]

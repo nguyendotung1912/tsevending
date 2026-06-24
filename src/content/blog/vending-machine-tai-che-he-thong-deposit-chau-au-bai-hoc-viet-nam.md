@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tái Chế Và Hệ Thống Deposit Chai: Bài Học Từ Châu Âu Cho Việt Nam"
 description: "Tại Đức và Hà Lan, máy vending 'ngược' — bạn bỏ chai rỗng vào và nhận tiền lại. Hệ thống deposit (đặt cọc bao bì) đã giảm rác nhựa đến 90%. Việt Nam có thể áp dụng mô hình này không?"
-date: "2026-11-07"
+date: "2026-05-04"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine tái chế Việt Nam", "hệ thống deposit chai vỏ", "máy thu hồi chai tái chế"]

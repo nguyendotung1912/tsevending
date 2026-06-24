@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Nước Detox Tự Động & Cold-Press Juice: Xu Hướng Sức Khỏe 2026"
 description: "Khám phá tiềm năng của máy bán nước detox tự động và cold press juice vending tại Việt Nam. Chuyên gia TSE Vending chia sẻ kinh nghiệm thực tế, giải pháp kinh doanh hiệu quả. Tìm hiểu ngay!"
-date: "2026-06-30"
+date: "2026-02-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước detox tự động", "cold press juice vending", "nước ép tự động"]

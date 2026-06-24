@@ -1,7 +1,7 @@
 ---
 title: "Chiến lược định giá máy bán hàng tự động để tối ưu doanh thu"
 description: "Tìm hiểu cách định giá máy bán hàng tự động hiệu quả để tối ưu doanh thu và tăng lợi nhuận. Liên hệ TSE Vending để được tư vấn miễn phí."
-date: "2026-06-29"
+date: "2026-01-27"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["định giá máy bán hàng", "pricing strategy vending", "tối ưu doanh thu"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho đội thi đấu thể thao chuyên nghiệp"
 description: "Tủ locker thông minh giúp quản lý trang phục đội thi ��ấu thể thao chuyên nghiệp hiệu quả. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-25"
+date: "2026-01-07"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker đội thi đấu", "professional sports locker", "tủ locker thể thao chuyên nghiệp"]

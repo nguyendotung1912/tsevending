@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Hóa Đơn Điện Tử: Tự Động Theo Từng Giao Dịch"
 description: "Mỗi lần mở locker thu phí hoặc giao nhận hàng đều cần chứng từ hợp lệ theo quy định thuế. Tích hợp hóa đơn điện tử vào locker tự động phát hành VAT invoice ngay khi giao dịch hoàn thành — không cần nhân viên kế toán, đáp ứng Nghị định 123."
-date: "2026-12-03"
+date: "2026-05-13"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker hóa đơn điện tử", "tủ locker xuất hóa đơn tự động", "smart locker e-invoice VAT"]

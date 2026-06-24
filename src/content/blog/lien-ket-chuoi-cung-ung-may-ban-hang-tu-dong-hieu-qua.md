@@ -1,7 +1,7 @@
 ---
 title: "Liên kết chuỗi cung ứng máy bán hàng tự động hiệu quả"
 description: "Tìm hiểu cách xây dựng chuỗi cung ứng vending machine hiệu quả từ nhà sản xuất đến người tiêu dùng. Liên hệ TSE Vending để được tư vấn giải pháp kinh doanh phù hợp."
-date: "2026-07-05"
+date: "2026-02-23"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["chuỗi cung ứng vending machine", "supply chain vending", "nhà cung cấp hàng hóa"]

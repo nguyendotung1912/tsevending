@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Kết Hợp Hệ Thống Access Control Tòa Nhà: Tích Hợp Thẻ Toàn Diện"
 description: "Tòa nhà văn phòng và công nghiệp hiện đại dùng hệ thống thẻ kiểm soát ra vào (HID, MIFARE, DESFire). Locker thông minh tích hợp cùng thẻ này giúp nhân viên chỉ cần 1 thẻ cho cả ra vào, chấm công, in ấn và mở locker — trải nghiệm seamless."
-date: "2027-02-22"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker tích hợp access control", "tủ locker HID MIFARE thẻ", "smart locker building access card"]

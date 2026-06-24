@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Chống Hack Và Tấn Công Mạng: Giải Pháp Cybersecurity"
 description: "Locker thông minh kết nối mạng là mục tiêu tấn công mạng tiềm năng. Hiểu các vector tấn công phổ biến — từ credential stuffing đến firmware exploit — và biện pháp phòng thủ để locker của bạn không trở thành cửa hậu vào hạ tầng mạng doanh nghiệp."
-date: "2027-03-11"
+date: "2026-06-18"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật locker thông minh hack", "cybersecurity tủ locker IoT", "tấn công mạng smart locker"]

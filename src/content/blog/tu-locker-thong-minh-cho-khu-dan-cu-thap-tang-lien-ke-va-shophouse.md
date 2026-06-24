@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho khu dân cư thấp tầng liền kề và shophouse"
 description: "Tìm hiểu về tủ locker thông minh cho khu dân cư thấp tầng liền kề và shophouse. Giải pháp lưu trữ và quản lý hàng hóa tiện lợi, an toàn."
-date: "2026-06-26"
+date: "2026-01-12"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker nhà liền kề", "shophouse locker", "tủ locker nhà phố"]

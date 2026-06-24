@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Việt Nam 2030: Dự Báo Thị Trường Và Cơ Hội Đầu Tư"
 description: "Dự báo thị trường locker thông minh VN đến 2030 với các kịch bản tăng trưởng. Phân tích cơ hội đầu tư theo phân khúc, rủi ro cần lưu ý và lộ trình chiến lược cho doanh nghiệp muốn tham gia thị trường đang bùng nổ này."
-date: "2027-02-23"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["dự báo thị trường locker VN 2030", "cơ hội đầu tư locker thông minh", "smart locker Vietnam market forecast"]

@@ -1,7 +1,7 @@
 ---
 title: "ESD Locker Phòng Sạch: Giải Pháp Cho Nhà Máy Điện Tử Và Bán Dẫn"
 description: "ESD locker phòng sạch được thiết kế đặc biệt cho môi trường sản xuất điện tử và bán dẫn — chống tĩnh điện, không phát sinh hạt bụi và tuân thủ tiêu chuẩn ISO Class phòng sạch."
-date: "2026-07-03"
+date: "2026-02-15"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-cong-nghiep"
 keywords: ["ESD locker", "locker phòng sạch", "tủ locker nhà máy điện tử"]

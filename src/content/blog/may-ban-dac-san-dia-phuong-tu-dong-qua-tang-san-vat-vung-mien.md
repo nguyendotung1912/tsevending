@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Đặc Sản Địa Phương Tự Động: Quà Tặng Và Sản Vật Vùng Miền Việt Nam"
 description: "Khách du lịch muốn mua đặc sản địa phương nhưng cửa hàng quà tặng đóng cửa lúc 10h tối. Máy vending chuyên đặc sản 24/7 là giải pháp mới cho thị trường quà lưu niệm và sản phẩm địa phương tại các điểm du lịch."
-date: "2026-10-27"
+date: "2026-04-30"
 silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán đặc sản địa phương tự động", "vending machine quà tặng du lịch", "máy bán sản phẩm địa phương"]

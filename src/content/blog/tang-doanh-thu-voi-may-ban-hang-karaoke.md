@@ -1,7 +1,7 @@
 ---
 title: "Tăng Doanh Thu với Máy Bán Hàng Karaoke"
 description: "Tìm hiểu cách máy bán hàng tự động tại quán karaoke tăng doanh thu và mang lại lợi ích cho ch�� quán. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-30"
+date: "2026-02-05"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng karaoke", "vending machine quán karaoke", "kinh doanh karaoke"]

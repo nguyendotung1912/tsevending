@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Theo Dõi Chuỗi Lạnh Dược Phẩm: Cold Chain Locker Y Tế"
 description: "Vaccine, insulin, huyết thanh và một số dược phẩm đặc biệt yêu cầu bảo quản lạnh liên tục 2-8°C. Cold chain locker thông minh với cảm biến nhiệt độ, báo cáo compliance và alert tự động đảm bảo chuỗi lạnh không bị gián đoạn."
-date: "2027-01-01"
+date: "2026-05-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["cold chain locker dược phẩm", "tủ locker lạnh y tế", "pharmaceutical locker"]

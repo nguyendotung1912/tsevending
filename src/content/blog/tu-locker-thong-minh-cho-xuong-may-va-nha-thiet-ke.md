@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Xưởng May và Nhà Thiết Kế"
 description: "Tủ locker thông minh cho xưởng may và nhà thiết kế giúp quản lý vải và phụ liệu hiệu quả. Giải pháp lưu trữ và bảo mật cho ngành may mặc."
-date: "2026-07-04"
+date: "2026-02-22"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker xưởng may", "fashion design locker", "tủ locker ngành may mặc"]

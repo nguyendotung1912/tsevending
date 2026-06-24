@@ -1,7 +1,7 @@
 ---
 title: "Phân Tích Dữ Liệu Máy Bán Hàng: Data-Driven Decisions Tăng Lợi Nhuận"
 description: "Dữ liệu từ máy bán hàng tự động là kho báu kinh doanh: biết sản phẩm nào bán chạy, giờ nào cao điểm, vị trí nào hiệu quả. Cách phân tích và ứng dụng data để tăng lợi nhuận."
-date: "2026-08-04"
+date: "2026-03-27"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["phân tích dữ liệu máy bán hàng", "data analytics vending machine", "tối ưu danh mục máy bán hàng"]

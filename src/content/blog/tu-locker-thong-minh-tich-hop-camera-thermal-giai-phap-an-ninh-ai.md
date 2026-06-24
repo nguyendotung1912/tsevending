@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tích hợp camera thermal - Giải pháp an ninh AI"
 description: "Tủ locker thông minh với camera thermal giúp phát hiện đồ vật nguy hiểm, nâng cao an ninh và kiểm soát truy cập. Tìm hiểu giải pháp từ TSE Vending."
-date: "2026-06-29"
+date: "2026-01-31"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["camera thermal locker", "tủ locker camera nhiệt", "an ninh locker AI"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Sân Bay: Gửi Hành Lý An Toàn Cho Hành Khách Quốc Tế"
 description: "Locker sân bay cho phép hành khách gửi hành lý tạm thời khi chờ chuyến bay, transit hoặc khám phá thành phố. So sánh các mô hình vận hành và cơ hội kinh doanh locker tại sân bay Việt Nam."
-date: "2026-06-25"
+date: "2026-01-05"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-san-bay"
 keywords: ["locker sân bay", "gửi hành lý sân bay", "luggage locker airport"]

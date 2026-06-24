@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Đội Thi Đấu Thể Thao Chuyên Nghiệp: Quản Lý Trang Phục"
 description: "Đội bóng đá, bóng rổ, cầu lông và các môn thể thao chuyên nghiệp VN cần quản lý hàng trăm bộ trang phục, giày đấu và thiết bị cá nhân. Locker thông minh tại phòng thay đồ đội tuyển đảm bảo mỗi vận động viên luôn có đủ trang phục đúng size và trạng thái tốt."
-date: "2027-01-27"
+date: "2026-06-03"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker đội thể thao", "tủ locker phòng thay đồ VĐV", "sports team locker room"]

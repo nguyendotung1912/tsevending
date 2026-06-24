@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Bến Xe Khách Liên Tỉnh: Gửi Hành Lý Và Hàng Hóa An Toàn"
 description: "Bến xe khách liên tỉnh là trung tâm giao thông đông đúc. Hành khách cần gửi hành lý trong khi chờ xe, lấy hàng từ chuyến trước hoặc giao hàng cho người thân lên xe. Locker thông minh tại bến xe giải quyết toàn bộ nhu cầu này."
-date: "2027-01-18"
+date: "2026-05-30"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker bến xe khách", "tủ locker gửi hành lý bến xe", "bus station locker"]

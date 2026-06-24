@@ -1,7 +1,7 @@
 ---
 title: "Bài Học Từ Nhật Bản: Coin Locker Và Văn Hóa Tự Phục Vụ 60 Năm Tiến Hóa"
 description: "Nhật Bản là quốc gia khai sinh coin locker từ 1958 — 60 năm tiến hóa từ tủ sắt đơn giản đến hệ thống AI nhận diện. Bài học nào Việt Nam có thể học từ thị trường locker phát triển nhất thế giới?"
-date: "2026-09-06"
+date: "2026-04-11"
 silo: "tu-locker-thong-minh"
 sub: "thi-truong-quoc-te"
 keywords: ["coin locker Nhật Bản", "locker thông minh Nhật Bản", "văn hóa tự phục vụ Nhật Bản"]

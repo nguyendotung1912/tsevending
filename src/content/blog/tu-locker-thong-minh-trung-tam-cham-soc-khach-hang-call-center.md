@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trung Tâm Chăm Sóc Khách Hàng Call Center: Giải Pháp Hiệu Quả"
 description: "Call center có hàng trăm tổng đài viên làm việc theo ca, không có bàn cố định. Locker thông minh giúp nhân viên lưu thiết bị cá nhân, tai nghe và tài liệu an toàn giữa các ca — đồng thời đảm bảo bảo mật thông tin khách hàng theo tiêu chuẩn PCI DSS."
-date: "2027-02-13"
+date: "2026-06-09"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker call center tổng đài", "tủ locker trung tâm CSKH", "smart locker call center PCI DSS"]

@@ -1,7 +1,7 @@
 ---
 title: "Màn hình quảng cáo trên máy bán hàng tự động: Tăng doanh thu hiệu quả"
 description: "Khám phá tiềm năng quảng cáo trên máy bán hàng tự động. Tăng doanh thu với giải pháp digital signage vending của TSE Vending."
-date: "2026-07-02"
+date: "2026-02-11"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["quảng cáo trên máy bán hàng", "digital signage vending", "doanh thu quảng cáo"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Phòng Chờ Bệnh Viện: Giải Pháp Cho Bệnh Nhân Và Người Nhà"
 description: "Bệnh viện là môi trường đặc biệt cho máy vending — người nhà bệnh nhân chờ hàng giờ, không có cửa hàng gần, và nhu cầu cao hơn bình thường. Phân tích sản phẩm phù hợp và yêu cầu vận hành đặc thù."
-date: "2026-10-06"
+date: "2026-04-22"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng bệnh viện", "vending machine phòng chờ bệnh viện", "đồ ăn nhẹ khu vực y tế"]

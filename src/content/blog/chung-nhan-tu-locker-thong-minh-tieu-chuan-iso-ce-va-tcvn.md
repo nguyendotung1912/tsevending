@@ -1,7 +1,7 @@
 ---
 title: "Chứng nhận tủ locker thông minh: Tiêu chuẩn ISO, CE và TCVN"
 description: "Tìm hiểu về các tiêu chuẩn và chứng nhận cần thiết cho tủ locker thông minh, bao gồm ISO, CE và TCVN. Liên hệ TSE Vending để được tư vấn."
-date: "2026-07-02"
+date: "2026-02-10"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["chứng nhận locker", "tiêu chuẩn locker ISO", "CE locker Việt Nam"]

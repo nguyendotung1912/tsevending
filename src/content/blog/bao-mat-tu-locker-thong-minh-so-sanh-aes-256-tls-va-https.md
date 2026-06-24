@@ -1,7 +1,7 @@
 ---
 title: "Bảo Mật Tủ Locker Thông Minh: So Sánh AES-256, TLS và HTTPS"
 description: "Khám phá các giao thức bảo mật cốt lõi cho tủ locker thông minh như AES-256, TLS và HTTPS qua góc nhìn chuyên gia 10 năm kinh nghiệm. Hiểu rõ vai trò và cách kết hợp chúng để bảo vệ dữ liệu và tài sản. Liên hệ TSE Vending để tư vấn."
-date: "2026-06-25"
+date: "2026-01-05"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["bảo mật locker AES", "giao thức bảo mật tủ locker", "TLS locker"]

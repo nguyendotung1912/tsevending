@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Thanh Toán Bằng Tiền Xu: Mô Hình Cổ Điển Có Còn Phù Hợp 2026?"
 description: "Máy bán hàng tiền xu là biểu tượng của ngành vending — nhưng trong thời đại QR code và ví điện tử, liệu có còn chỗ đứng? Phân tích ưu nhược điểm, thị trường phù hợp và xu hướng 2026."
-date: "2026-09-29"
+date: "2026-04-19"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["máy bán hàng tiền xu", "coin vending machine Việt Nam", "máy bán hàng tiền mặt 2026"]

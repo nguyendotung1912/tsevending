@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Ngành Công Nghiệp Thực Phẩm: Bảo Quản Dụng Cụ HACCP"
 description: "Nhà máy thực phẩm và đồ uống phải tuân thủ HACCP, GMP, ISO 22000. Locker thông minh dành riêng cho dụng cụ và thiết bị bảo hộ trong khu vực sản xuất giúp kiểm soát vệ sinh, ngăn ngừa ô nhiễm chéo và đảm bảo truy xuất nguồn gốc dụng cụ."
-date: "2027-02-15"
+date: "2026-06-10"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker HACCP nhà máy thực phẩm", "tủ locker food safety", "GMP smart locker nhà máy"]

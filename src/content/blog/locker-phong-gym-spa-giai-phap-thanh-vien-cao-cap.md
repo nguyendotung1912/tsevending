@@ -1,7 +1,7 @@
 ---
 title: "Locker Phòng Gym Và Spa: Giải Pháp Hoàn Hảo Cho Thành Viên Cao Cấp"
 description: "Tủ locker thông minh tại phòng gym và spa nâng cao trải nghiệm thành viên, tăng bảo mật và giảm phiền phức quản lý chìa khóa. Phân tích tính năng và mô hình triển khai."
-date: "2026-07-15"
+date: "2026-03-13"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker phòng gym thông minh", "tủ locker spa", "locker thể thao điện tử"]

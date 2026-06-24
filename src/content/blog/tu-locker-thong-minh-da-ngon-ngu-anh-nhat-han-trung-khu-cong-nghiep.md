@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Đa Ngôn Ngữ: Giao Diện Tiếng Anh, Nhật, Hàn, Trung Cho Khu Công Nghiệp FDI"
 description: "Nhà máy FDI tại Việt Nam có chuyên gia người Nhật, Hàn, Đài Loan và Trung Quốc làm việc cùng công nhân Việt Nam. Hệ thống locker đa ngôn ngữ đảm bảo mọi người dùng đều sử dụng được — không phân biệt ngôn ngữ."
-date: "2026-11-29"
+date: "2026-05-12"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker đa ngôn ngữ", "multilingual smart locker", "tủ locker FDI ngoại ngữ"]

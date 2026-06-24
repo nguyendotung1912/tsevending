@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Tủ Locker 4 Cửa vs 6 Cửa vs 12 Cửa: Nên Chọn Gì Cho Nhu Cầu Của Bạn?"
 description: "So sánh chi tiết tủ locker 4 cửa, 6 cửa và 12 cửa: kích thước ô, phù hợp cho đồ gì, và môi trường nào phù hợp nhất. Hướng dẫn chọn số ngăn locker đúng cho từng trường hợp."
-date: "2026-08-11"
+date: "2026-04-01"
 silo: "tu-locker-thong-minh"
 sub: "review-so-sanh"
 keywords: ["so sánh locker 4 cửa 6 cửa 12 cửa", "locker bao nhiêu ngăn", "chọn số ngăn tủ locker"]

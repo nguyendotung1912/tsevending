@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Khu Vui Chơi Trẻ Em - Tiện Ích Cho Phụ Huynh"
 description: "Khám phá lợi ích của tủ locker thông minh cho khu phức hợp vui chơi trẻ em và nhà banh. Giải pháp tiện ích cho phụ huynh và đảm bảo an toàn cho trẻ."
-date: "2026-06-25"
+date: "2026-01-07"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker nhà banh trẻ em", "kids play locker", "tủ locker vui chơi trẻ em"]

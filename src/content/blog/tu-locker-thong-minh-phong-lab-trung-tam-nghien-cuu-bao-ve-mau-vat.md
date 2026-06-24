@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Phòng LAB Và Trung Tâm Nghiên Cứu: Bảo Vệ Mẫu Vật Và Thiết Bị"
 description: "Phòng thí nghiệm và trung tâm nghiên cứu quản lý mẫu vật quý hiếm, hóa chất đặc biệt và thiết bị tinh vi. Locker thông minh trong lab đảm bảo kiểm soát truy cập chặt chẽ, audit trail mọi giao dịch và phân quyền theo level nghiên cứu viên."
-date: "2027-01-23"
+date: "2026-06-01"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker phòng lab", "tủ locker nghiên cứu", "laboratory locker"]

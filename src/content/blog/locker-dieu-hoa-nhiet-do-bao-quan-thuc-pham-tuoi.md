@@ -1,7 +1,7 @@
 ---
 title: "Locker Có Điều Hòa Nhiệt Độ: Bảo Quản Thực Phẩm Tươi Và Hàng Nhiệt Độ Nhạy Cảm"
 description: "Tủ locker kiểm soát nhiệt độ dành cho thực phẩm tươi, sữa, dược phẩm và hàng hóa nhạy cảm. Công nghệ làm lạnh, dải nhiệt độ và ứng dụng tại chung cư, bệnh viện và siêu thị Việt Nam."
-date: "2026-08-25"
+date: "2026-04-06"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker điều hòa nhiệt độ", "locker bảo quản thực phẩm tươi", "tủ locker lạnh thông minh"]

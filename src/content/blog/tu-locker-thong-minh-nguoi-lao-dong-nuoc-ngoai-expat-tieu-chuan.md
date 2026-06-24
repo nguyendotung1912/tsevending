@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Người Lao Động Nước Ngoài (Expat): Tiêu Chuẩn Và Dịch Vụ"
 description: "VN có hơn 100,000 lao động nước ngoài làm việc tại nhà máy, văn phòng và khu công nghiệp. Locker thông minh phục vụ expat cần giao diện đa ngôn ngữ, thanh toán quốc tế và hỗ trợ kỹ thuật 24/7 theo tiêu chuẩn họ đã quen ở nước nhà."
-date: "2027-02-21"
+date: "2026-06-12"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker expat nước ngoài VN", "tủ locker đa ngôn ngữ", "smart locker foreign worker Vietnam"]

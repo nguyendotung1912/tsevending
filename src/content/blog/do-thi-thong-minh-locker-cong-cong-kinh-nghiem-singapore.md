@@ -1,7 +1,7 @@
 ---
 title: "Đô Thị Thông Minh Và Hệ Thống Locker Công Cộng: Kinh Nghiệm Từ Singapore"
 description: "Singapore triển khai mạng lưới locker công cộng toàn quốc — kinh nghiệm, công nghệ và bài học cho các đô thị Việt Nam đang xây dựng hạ tầng giao nhận thông minh."
-date: "2026-08-07"
+date: "2026-03-30"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker công cộng đô thị thông minh", "Singapore locker network", "hạ tầng giao nhận thông minh"]

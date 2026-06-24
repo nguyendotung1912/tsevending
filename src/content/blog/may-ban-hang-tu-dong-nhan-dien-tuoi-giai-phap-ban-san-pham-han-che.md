@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động nhận diện tuổi - Giải pháp bán sản phẩm hạn chế"
 description: "Tìm hiểu về công nghệ age verification vending, nhận diện tuổi máy bán hàng tự động và giải pháp bán sản phẩm hạn chế. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-07-04"
+date: "2026-02-20"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["age verification vending", "nhận diện tuổi máy bán hàng", "bán sản phẩm hạn chế"]

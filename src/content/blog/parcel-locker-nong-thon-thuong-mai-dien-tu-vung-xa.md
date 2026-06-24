@@ -1,7 +1,7 @@
 ---
 title: "Parcel Locker Nông Thôn: Đưa Thương Mại Điện Tử Đến Vùng Xa Việt Nam"
 description: "Parcel locker tại nông thôn giúp người dân vùng xa nhận hàng e-commerce mà không cần có mặt tại nhà. Phân tích mô hình, thách thức logistics nông thôn và cơ hội đầu tư tại Việt Nam."
-date: "2026-07-15"
+date: "2026-03-13"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["parcel locker nông thôn", "locker vùng xa", "thương mại điện tử nông thôn Việt Nam"]

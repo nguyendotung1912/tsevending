@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại phòng chờ cơ quan hành chính: Nâng cao dịch vụ công"
 description: "Tìm hiểu cách máy bán hàng tự đ��ng nâng cao trải nghiệm dịch vụ công tại phòng chờ cơ quan hành chính. Liên hệ TSE Vending để triển khai giải pháp."
-date: "2026-07-01"
+date: "2026-02-07"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine cơ quan nhà nước", "tiện ích phòng chờ hành chính", "dịch vụ công"]

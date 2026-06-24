@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhiệt Độ Kiểm Soát: Bảo Quản Dược Phẩm Và Thực Phẩm Tươi Sống"
 description: "Tủ locker nhiệt độ kiểm soát (cold locker) bảo quản thuốc, vaccine và thực phẩm tươi đúng chuẩn. Phân tích dải nhiệt độ, tiêu chuẩn dược phẩm và ứng dụng thực tế tại Việt Nam."
-date: "2026-07-13"
+date: "2026-03-11"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker nhiệt độ kiểm soát", "cold locker dược phẩm", "tủ locker lạnh thực phẩm"]

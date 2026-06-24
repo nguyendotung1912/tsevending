@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Trong Hệ Thống EAM: Tích Hợp Quản Lý Tài Sản Doanh Nghiệp"
 description: "EAM (Enterprise Asset Management) quản lý toàn bộ vòng đời tài sản doanh nghiệp. Locker thông minh tích hợp với EAM giúp theo dõi công cụ, thiết bị và tài sản di động theo thời gian thực — từ lúc mua đến khi thanh lý."
-date: "2027-02-07"
+date: "2026-06-07"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker tích hợp EAM", "tủ locker quản lý tài sản doanh nghiệp", "enterprise asset management locker"]

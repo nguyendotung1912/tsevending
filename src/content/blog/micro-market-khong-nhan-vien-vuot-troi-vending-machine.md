@@ -1,7 +1,7 @@
 ---
 title: "Micro Market Không Nhân Viên: Mô Hình Vượt Trội Hơn Vending Machine Truyền Thống"
 description: "Micro market không nhân viên là bước tiến vượt trội so với vending machine — không gian mở, hàng trăm SKU, trải nghiệm siêu thị thực sự mà không cần nhân viên. So sánh và cách triển khai."
-date: "2026-08-05"
+date: "2026-03-28"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["micro market không nhân viên", "unmanned micro market", "micro market vs vending machine"]

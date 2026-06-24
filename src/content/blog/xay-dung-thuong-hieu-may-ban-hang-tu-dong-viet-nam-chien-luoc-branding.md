@@ -1,7 +1,7 @@
 ---
 title: "Xây Dựng Thương Hiệu Máy Bán Hàng Tự Động Tại Việt Nam: Chiến Lược Branding"
 description: "Phần lớn operator vending machine tại Việt Nam không có thương hiệu — chỉ là 'cái máy bán hàng'. Xây dựng brand identity mạnh giúp đàm phán vị trí tốt hơn, tăng niềm tin người dùng và tạo lợi thế cạnh tranh bền vững."
-date: "2026-11-12"
+date: "2026-05-05"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["thương hiệu máy bán hàng tự động", "branding vending machine Việt Nam", "xây dựng brand vending"]

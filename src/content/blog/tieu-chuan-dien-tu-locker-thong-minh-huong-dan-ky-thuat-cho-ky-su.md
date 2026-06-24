@@ -1,7 +1,7 @@
 ---
 title: "Tiêu chuẩn điện tủ locker thông minh: Hướng dẫn kỹ thuật cho kỹ sư"
 description: "Tìm hiểu tiêu chuẩn điện khi lắp đặt t�� locker thông minh. Hướng dẫn kỹ thuật chi tiết cho kỹ sư, đảm bảo an toàn và hiệu quả."
-date: "2026-06-28"
+date: "2026-01-24"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["tiêu chuẩn điện tủ locker", "electrical standard locker", "lắp đặt locker kỹ thuật"]

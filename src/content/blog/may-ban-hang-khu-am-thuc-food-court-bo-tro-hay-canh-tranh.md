@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tại Khu Ẩm Thực Food Court: Bổ Trợ Hay Cạnh Tranh?"
 description: "Đặt máy vending tại food court có vẻ mâu thuẫn nhưng thực tế phục vụ những nhu cầu mà quầy ăn không làm được: nước uống nhanh không phải xếp hàng, sản phẩm sau giờ đóng cửa và đồ ăn đặc biệt. Phân tích thực tế."
-date: "2026-09-24"
+date: "2026-04-17"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng food court", "vending machine khu ẩm thực", "vending machine trung tâm thương mại"]

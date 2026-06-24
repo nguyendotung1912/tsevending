@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động phòng chờ bệnh viện: Giải pháp cho nhu yếu phẩm và đồ ăn nhẹ"
 description: "Khám phá giải pháp máy bán hàng tự động tại phòng chờ bệnh viện cung cấp nhu yếu phẩm và đồ ăn nhẹ. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-07-05"
+date: "2026-02-24"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng phòng chờ bệnh viện", "vending machine waiting room", "nhu yếu phẩm bệnh viện"]

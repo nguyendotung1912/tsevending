@@ -1,7 +1,7 @@
 ---
 title: "Quy Trình Pilot Triển Khai Locker Thông Minh: 5 Bước Từ Thử Nghiệm Đến Mở Rộng"
 description: "Hướng dẫn quy trình pilot triển khai locker thông minh 5 bước: từ xác định mục tiêu, chọn địa điểm thử nghiệm, đo lường KPI đến quyết định mở rộng quy mô an toàn."
-date: "2026-08-28"
+date: "2026-04-07"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-kinh-doanh"
 keywords: ["pilot triển khai locker thông minh", "thử nghiệm locker", "mở rộng hệ thống locker"]

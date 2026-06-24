@@ -1,7 +1,7 @@
 ---
 title: "Cửa Hàng Tiện Lợi Không Nhân Viên: Công Nghệ Và Bài Học Thực Tế"
 description: "Cửa hàng tiện lợi không nhân viên (unmanned convenience store) dùng AI và IoT để phục vụ 24/7. Phân tích công nghệ, bài học từ Amazon Go và Bingobox, và khả năng áp dụng tại Việt Nam."
-date: "2026-07-22"
+date: "2026-03-19"
 silo: "may-ban-hang-tu-dong"
 sub: "tu-dong-hoa"
 keywords: ["cửa hàng không nhân viên", "unmanned store Việt Nam", "Amazon Go công nghệ"]

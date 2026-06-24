@@ -1,7 +1,7 @@
 ---
 title: "Xu Hướng Tủ Locker Thông Minh Tại Hàn Quốc: K-Style Smart Locker Và Bài Học Cho VN"
 description: "Hàn Quốc đã nhanh chóng chuyển từ locker cơ bản lên smart locker kết hợp với KakaoTalk, Naver và Samsung Pay. K-style smart locker nổi bật với thiết kế đẹp, UX tối ưu và tích hợp siêu ứng dụng — bài học quan trọng cho thị trường VN đang phát triển."
-date: "2027-02-19"
+date: "2026-06-11"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["smart locker Hàn Quốc K-style", "locker KakaoTalk Naver Pay", "xu hướng locker Hàn Quốc"]

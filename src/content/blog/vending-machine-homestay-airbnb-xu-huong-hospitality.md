@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Homestay Và Airbnb: Xu Hướng Hospitality Tự Động Mới"
 description: "Homestay và Airbnb không có nhân viên 24/7 — máy bán hàng tự động giải quyết nhu cầu đồ ăn uống cho khách lúc nửa đêm, tăng trải nghiệm và doanh thu phụ cho chủ nhà. Hướng dẫn triển khai thực tế."
-date: "2026-09-15"
+date: "2026-04-14"
 silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["vending machine homestay", "máy bán hàng Airbnb", "hospitality tự động Việt Nam"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Thanh Toán Ví Điện Tử"
 description: "Tủ locker thông minh tích hợp thanh toán ví điện tử MoMo, VNPay và tiền mặt. Giải pháp lưu trữ và thanh toán tiện lợi cho người dùng."
-date: "2026-06-27"
+date: "2026-01-21"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["thanh toán ví điện tử locker", "MoMo locker", "VNPay tủ locker"]

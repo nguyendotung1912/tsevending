@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Câu Lạc Bộ Bóng Đá Và Sân Thể Thao: Tiềm Năng Chưa Được Khai Thác"
 description: "CLB bóng đá và sân thể thao tại Việt Nam có hàng nghìn thành viên tập luyện mỗi tuần — nhưng cơ sở vật chất bán hàng rất thiếu. Phân tích cơ hội đặt máy vending cho sân thể thao tại Việt Nam 2026."
-date: "2026-09-21"
+date: "2026-04-16"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine sân bóng đá", "máy bán hàng câu lạc bộ thể thao", "vending machine sân thể thao"]

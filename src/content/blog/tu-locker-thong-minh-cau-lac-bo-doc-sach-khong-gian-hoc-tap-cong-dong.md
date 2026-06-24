@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Câu Lạc Bộ Đọc Sách Và Không Gian Học Tập Cộng Đồng"
 description: "Thư viện cộng đồng, café sách và không gian co-learning cần locker để hội viên gửi đồ, lưu trữ sách đang đọc và tài liệu học tập giữa các buổi. Locker thông minh tích hợp với hệ thống mượn sách và quản lý hội viên."
-date: "2027-01-06"
+date: "2026-05-26"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker thư viện cộng đồng", "tủ locker không gian đọc sách", "library locker"]

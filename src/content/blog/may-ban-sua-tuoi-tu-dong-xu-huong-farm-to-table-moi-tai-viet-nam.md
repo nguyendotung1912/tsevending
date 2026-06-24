@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Sữa Tươi Tự Động: Xu Hướng Farm-to-Table Mới Tại Việt Nam"
 description: "Khám phá tiềm năng máy bán sữa tươi tự động với kinh nghiệm thực tế từ TSE Vending. Tối ưu vận hành, kiểm soát chất lượng, và mở rộng thị trường farm-to-table tại Việt Nam. Liên hệ để tư vấn giải pháp."
-date: "2026-06-29"
+date: "2026-01-29"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán sữa tươi tự động", "sữa nguyên chất vending", "farm to table"]

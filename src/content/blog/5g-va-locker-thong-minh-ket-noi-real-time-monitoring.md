@@ -1,7 +1,7 @@
 ---
 title: "5G Và Tủ Locker Thông Minh: Kết Nối Tốc Độ Cao Cho Real-Time Monitoring"
 description: "5G mang đến tốc độ kết nối và độ trễ thấp chưa từng có cho hệ thống locker thông minh: camera AI xử lý tại chỗ, real-time monitoring 1,000+ máy và kết nối drone delivery. Lộ trình ứng dụng tại Việt Nam."
-date: "2026-09-12"
+date: "2026-04-13"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["5G locker thông minh", "kết nối 5G vending machine", "real-time monitoring locker"]

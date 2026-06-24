@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Tòa Nhà Xanh LEED: Đáp Ứng Tiêu Chí Bền Vững Môi Trường"
 description: "Tòa nhà xanh chứng chỉ LEED, EDGE và LOTUS cần tích hợp công nghệ tiết kiệm năng lượng. Locker thông minh có thể đóng góp điểm LEED trong các hạng mục Innovation, Indoor Quality và Transportation — đồng thời giảm carbon footprint của tòa nhà."
-date: "2027-02-17"
+date: "2026-06-10"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker tòa nhà xanh LEED", "tủ locker EDGE LOTUS certificate", "green building smart locker"]

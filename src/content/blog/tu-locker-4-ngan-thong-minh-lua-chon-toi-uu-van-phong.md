@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker 4 Ngăn Thông Minh: Lựa Chọn Tối Ưu Cho Văn Phòng Và Trường Học"
 description: "Tủ locker 4 ngăn thông minh cân bằng giữa không gian lưu trữ và mật độ lắp đặt. Kích thước tiêu chuẩn, cấu hình khóa thông minh và ứng dụng thực tế tại văn phòng và trường học."
-date: "2026-07-26"
+date: "2026-03-21"
 silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker 4 ngăn thông minh", "tủ locker 4 ô văn phòng", "kích thước locker 4 ngăn"]

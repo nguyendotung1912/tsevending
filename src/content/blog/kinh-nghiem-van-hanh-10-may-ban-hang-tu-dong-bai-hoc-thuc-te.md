@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm Vận Hành 10 Máy Bán Hàng Tự Động: Bài Học Thực Tế Từ Thực Tiễn"
 description: "Những gì sách vở không dạy bạn về kinh doanh vending machine — từ lần đầu đặt máy sai vị trí đến chuỗi sự cố kỹ thuật lúc 2h sáng. 10 bài học thực tế từ người vận hành nhiều máy."
-date: "2026-10-15"
+date: "2026-04-25"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["kinh nghiệm vận hành vending machine", "bài học kinh doanh máy bán hàng tự động", "quản lý nhiều máy vending"]

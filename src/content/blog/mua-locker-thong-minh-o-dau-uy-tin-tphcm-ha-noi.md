@@ -1,7 +1,7 @@
 ---
 title: "Mua Locker Thông Minh Ở Đâu Uy Tín Tại TP.HCM Và Hà Nội 2026"
 description: "Hướng dẫn tìm nhà cung cấp tủ locker thông minh uy tín tại TP.HCM và Hà Nội 2026. Tiêu chí đánh giá, câu hỏi cần hỏi trước khi mua và cảnh báo rủi ro khi chọn nhà cung cấp."
-date: "2026-07-12"
+date: "2026-03-10"
 silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["mua locker thông minh ở đâu", "nhà cung cấp locker uy tín", "mua locker TP.HCM Hà Nội"]

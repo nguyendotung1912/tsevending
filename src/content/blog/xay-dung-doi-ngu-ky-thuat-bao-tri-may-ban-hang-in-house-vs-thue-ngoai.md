@@ -1,7 +1,7 @@
 ---
 title: "Đội Ngũ Kỹ Thuật Bảo Trì Máy Bán Hàng Tự Động: In-house Vs Thuê Ngoài"
 description: "Khi hệ thống vending mở rộng lên 10-20 máy, câu hỏi xuất hiện: tự xây đội kỹ thuật hay thuê dịch vụ ngoài? Phân tích chi phí, rủi ro và quyết định đúng theo quy mô vận hành."
-date: "2026-10-18"
+date: "2026-04-26"
 silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["bảo trì máy bán hàng tự động", "kỹ thuật viên vending machine", "thuê ngoài bảo trì vending"]

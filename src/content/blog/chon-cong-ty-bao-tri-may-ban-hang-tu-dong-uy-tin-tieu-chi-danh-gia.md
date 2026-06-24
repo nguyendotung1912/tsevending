@@ -1,7 +1,7 @@
 ---
 title: "Chọn Công Ty Bảo Trì Máy Bán Hàng Tự Động Uy Tín: Tiêu Chí Đánh Giá"
 description: "Cách chọn công ty bảo trì vending machine uy tín tại Việt Nam. Tiêu chí đánh giá dịch vụ bảo trì máy bán hàng tự động để đảm bảo hiệu suất và độ tin cậy."
-date: "2026-07-08"
+date: "2026-03-05"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["công ty bảo trì vending machine", "chọn nhà bảo trì", "đánh giá dịch vụ bảo trì"]

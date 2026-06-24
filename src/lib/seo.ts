@@ -24,7 +24,7 @@ function truncateDesc(text: string, max = 155): string {
   return (cut > 100 ? text.slice(0, cut) : text.slice(0, max)).trimEnd() + "…";
 }
 
-function truncateTitle(text: string, max = 55): string {
+function truncateTitle(text: string, max = 60): string {
   if (text.length <= max) return text;
   const cut = text.lastIndexOf(" ", max - 1);
   return (cut > 30 ? text.slice(0, cut) : text.slice(0, max)).trimEnd() + "…";
@@ -45,7 +45,9 @@ export function buildMetadata({
   const seoDesc = truncateDesc(description);
 
   return {
-    title: seoTitle,
+    // `absolute` prevents the root layout's "%s | TSE Vending" template from
+    // appending the brand a second time (page metaTitles already include it).
+    title: { absolute: seoTitle },
     description: seoDesc,
     alternates: {
       canonical: url,

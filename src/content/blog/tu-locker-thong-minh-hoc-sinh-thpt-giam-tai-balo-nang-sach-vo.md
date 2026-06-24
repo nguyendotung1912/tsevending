@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Dành Cho Học Sinh THPT: Giảm Tải Balo Nặng Mỗi Ngày"
 description: "Học sinh THPT mang balo 6-10kg sách vở mỗi ngày gây đau lưng và mệt mỏi. Locker thông minh tại trường giúp để sách không cần mang về — chỉ mang sách học ngày hôm sau. Quản lý bằng thẻ học sinh, phân quyền theo lớp, báo cáo cho ban giám hiệu."
-date: "2026-12-28"
+date: "2026-05-22"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker học sinh THPT", "tủ locker trường cấp 3", "giảm tải sách vở"]

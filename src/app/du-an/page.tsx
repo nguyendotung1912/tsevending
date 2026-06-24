@@ -8,7 +8,7 @@ import JsonLd from "@/components/JsonLd";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Công trình thực tế — Dự án lắp đặt máy bán hàng & tủ locker | TSE Vending",
+  title: "Dự Án Thực Tế: Máy Bán Hàng & Tủ Locker | TSE Vending",
   description:
     "Danh sách công trình TSE Vending đã triển khai thực tế: máy bán hàng tự động và tủ locker thông minh tại chung cư, khu công nghiệp, trường học, khách sạn, bệnh viện trên toàn quốc.",
   path: "/du-an",

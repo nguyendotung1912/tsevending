@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Nhà Thiết Kế Và Xưởng May: Quản Lý Vải Và Phụ Liệu"
 description: "Nhà thiết kế thời trang và xưởng may quản lý hàng trăm cuộn vải, phụ liệu, mẫu vải và phiên bản thiết kế. Locker thông minh giúp tổ chức kho phụ liệu, kiểm soát xuất-nhập nguyên liệu theo từng đơn hàng và bảo vệ mẫu thiết kế độc quyền."
-date: "2027-02-05"
+date: "2026-06-06"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker xưởng may quản lý vải", "tủ locker nhà thiết kế thời trang", "fashion studio smart locker"]

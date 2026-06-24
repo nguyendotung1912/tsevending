@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn đặt hàng và ký kết hợp đồng tủ locker thông minh"
 description: "Hướng dẫn chi tiết cách đặt hàng và ký kết h���p đồng tủ locker thông minh cho doanh nghiệp. Liên hệ TSE Vending để nhận tư vấn và báo giá."
-date: "2026-07-07"
+date: "2026-03-02"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["đặt hàng tủ locker", "hợp đồng locker", "mua tủ locker"]

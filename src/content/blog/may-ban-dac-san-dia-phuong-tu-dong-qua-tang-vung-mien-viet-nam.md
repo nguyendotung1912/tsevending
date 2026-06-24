@@ -1,7 +1,7 @@
 ---
 title: "Máy bán đặc sản địa phương tự động - Quà tặng vùng miền Việt Nam"
 description: "Khám phá máy bán đặc sản địa phương tự động, vending machine quà tặng độc đáo. Tìm hiểu giải pháp kinh doanh đặc sản vùng miền Việt Nam với TSE Vending."
-date: "2026-07-04"
+date: "2026-02-19"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán đặc sản địa phương", "vending machine quà tặng", "đặc sản vùng miền"]

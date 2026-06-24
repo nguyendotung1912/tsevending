@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Công Cộng - Giải Pháp Cho Đô Thị Thông Minh"
 description: "Tìm hiểu về mô hình tủ locker thông minh công cộng trong đô thị thông minh Việt Nam. Giải pháp lưu trữ và quản lý hàng hóa tiện lợi, an toàn cho người dùng. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-06-26"
+date: "2026-01-13"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker công cộng đô thị", "smart city locker", "tủ locker thành phố thông minh"]

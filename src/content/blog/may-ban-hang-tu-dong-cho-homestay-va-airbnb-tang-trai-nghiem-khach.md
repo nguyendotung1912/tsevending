@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho homestay và Airbnb: Tăng trải nghiệm khách"
 description: "Tìm hiểu cách máy bán hàng tự động cho homestay và Airbnb giúp tăng trải nghiệm khách và giảm chi phí vận hành. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-28"
+date: "2026-01-22"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng homestay", "vending airbnb", "hospitality tự động"]

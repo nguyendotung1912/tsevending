@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Cỡ Lớn: Lưu Trữ Hành Lý Và Thiết Bị Cồng Kềnh Tại Ga Tàu, Sân Bay"
 description: "Tủ locker cỡ lớn cho hành lý, xe đạp, thiết bị thể thao và đồ cồng kềnh. Kích thước tiêu chuẩn, ứng dụng tại ga tàu, sân bay và trung tâm thể thao."
-date: "2026-07-29"
+date: "2026-03-23"
 silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker cỡ lớn hành lý", "tủ locker sân bay ga tàu", "locker xe đạp thiết bị thể thao"]

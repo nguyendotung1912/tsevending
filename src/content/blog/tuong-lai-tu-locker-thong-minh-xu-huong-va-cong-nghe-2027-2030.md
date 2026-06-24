@@ -1,7 +1,7 @@
 ---
 title: "Tương lai tủ locker thông minh: Xu hướng và công nghệ 2027-2030"
 description: "Tìm hiểu về tương lai của tủ locker thông minh, xu hư���ng và công nghệ dự kiến trong giai đoạn 2027-2030. Liên hệ TSE Vending để triển khai giải pháp smart locker cho doanh nghiệp của bạn."
-date: "2026-07-02"
+date: "2026-02-14"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["tương lai tủ locker", "locker 2030", "xu hướng smart locker"]

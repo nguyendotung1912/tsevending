@@ -1,7 +1,7 @@
 ---
 title: "Thị Trường Locker Thông Minh Đông Nam Á: Việt Nam So Với Thái Lan Và Indonesia"
 description: "Phân tích thị trường locker thông minh tại Đông Nam Á 2026: quy mô thị trường, tốc độ tăng trưởng và chiến lược của các nước dẫn đầu. Việt Nam cần học gì từ Thái Lan và Singapore?"
-date: "2026-09-03"
+date: "2026-04-10"
 silo: "tu-locker-thong-minh"
 sub: "thi-truong-viet-nam"
 keywords: ["thị trường locker Đông Nam Á", "locker thông minh Thái Lan", "so sánh thị trường locker ASEAN"]

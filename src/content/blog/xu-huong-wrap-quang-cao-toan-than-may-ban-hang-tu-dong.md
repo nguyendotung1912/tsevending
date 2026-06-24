@@ -1,7 +1,7 @@
 ---
 title: "Xu hướng wrap quảng cáo toàn thân máy bán hàng tự động"
 description: "Tìm hiểu xu hướng wrap quảng cáo toàn thân máy bán hàng tự động và cách nó giúp tăng nhận diện thương hiệu hiệu quả. Liên hệ TSE Vending để triển khai giải pháp."
-date: "2026-07-05"
+date: "2026-02-26"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["wrap quảng cáo vending machine", "branding máy bán hàng", "marketing vending"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Khu Công Nghệ Cao: Phục Vụ Nhân Viên IT Và Kỹ Sư"
 description: "Nhân viên IT và kỹ sư tại khu công nghệ cao có hành vi tiêu dùng đặc thù — làm ca dài, ít rời màn hình, sẵn chi tiêu cho đồ uống premium. Máy vending với thanh toán không tiếp xúc và sản phẩm năng lượng là phù hợp nhất."
-date: "2026-10-07"
+date: "2026-04-22"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng khu công nghệ cao", "vending machine văn phòng IT", "máy vending kỹ sư công nghệ"]

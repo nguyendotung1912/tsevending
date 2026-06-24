@@ -1,7 +1,7 @@
 ---
 title: "Loyalty App Vending Machine: Tích Điểm và Khuyến Mãi Thông Minh"
 description: "Tăng cường tương tác khách hàng với máy bán hàng tự động tích hợp app loyalty, tích điểm và chương trình khuyến mãi hấp dẫn. Liên hệ TSE Vending để biết thêm!"
-date: "2026-06-29"
+date: "2026-01-28"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["loyalty app vending machine", "tích điểm máy bán hàng", "khuyến mãi vending"]

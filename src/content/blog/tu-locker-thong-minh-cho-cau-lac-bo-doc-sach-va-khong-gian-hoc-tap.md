@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho câu lạc bộ đọc sách và không gian học tập"
 description: "Tủ locker thông minh giúp quản lý đồ đạc tiện lợi cho câu lạc bộ đọc sách và không gian học tập cộng đồng. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-29"
+date: "2026-01-30"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker câu lạc bộ sách", "reading club locker", "library community locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Hóa Đơn Điện Tử Tự Động"
 description: "Tủ locker thông minh tích hợp hóa đơn điện tử tự động xuất hóa đơn theo giao dịch. Giải pháp quản lý giao dịch hiệu quả và tiết kiệm thời gian với TSE Vending."
-date: "2026-06-26"
+date: "2026-01-16"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["hóa đơn điện tử locker", "tự động xuất hóa đơn", "e-invoice locker"]

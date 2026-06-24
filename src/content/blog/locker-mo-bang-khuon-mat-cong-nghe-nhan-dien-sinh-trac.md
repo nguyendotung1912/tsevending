@@ -1,7 +1,7 @@
 ---
 title: "Locker Mở Bằng Khuôn Mặt: Công Nghệ Nhận Diện Sinh Trắc Học 2026"
 description: "Locker nhận diện khuôn mặt (facial recognition) cho phép mở tủ hoàn toàn không cần chìa, thẻ hay PIN. Phân tích công nghệ, độ chính xác, vấn đề pháp lý và khi nào nên hoặc không nên dùng."
-date: "2026-06-29"
+date: "2026-01-27"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker nhận diện khuôn mặt", "facial recognition locker", "locker sinh trắc học"]

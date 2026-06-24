@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Nhận Diện Tuổi: Công Nghệ Bán Hàng Người Lớn Hợp Pháp"
 description: "Bia, rượu, thuốc lá và một số sản phẩm người lớn không thể bán cho người dưới 18 tuổi — nhưng máy vending hoạt động 24/7 không có nhân viên kiểm tra. Age verification technology giải quyết bài toán này như thế nào?"
-date: "2026-10-20"
+date: "2026-04-27"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe"
 keywords: ["máy bán hàng nhận diện tuổi", "age verification vending machine", "vending machine bán bia rượu hợp pháp"]

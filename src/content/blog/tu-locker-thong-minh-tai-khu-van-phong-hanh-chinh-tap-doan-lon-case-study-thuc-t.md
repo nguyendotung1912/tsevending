@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại khu văn phòng hành chính tập đoàn lớn: Case study thực tế"
 description: "Khám phá giải pháp tủ locker thông minh cho khu văn phòng hành chính tập đoàn lớn. Tìm hiểu case study thực tế và ứng dụng hiệu quả."
-date: "2026-06-26"
+date: "2026-01-15"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker tập đoàn", "corporate locker case study", "tủ locker văn phòng lớn"]

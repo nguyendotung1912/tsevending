@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh sân tennis và pickleball - Giải pháp lưu trữ vợt và phụ kiện"
 description: "Tủ locker thông minh cho sân tennis và pickleball, giúp lưu trữ vợt và phụ kiện thể thao một cách an toàn và tiện lợi. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-14"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker sân tennis", "tủ locker sân pickleball", "racket storage locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Bảo Mật Dữ Liệu Tủ Locker Thông Minh: GDPR, Nghị Định 13 và Bảo Vệ Thông Tin Người Dùng"
 description: "Tủ locker thông minh thu thập dữ liệu sinh trắc học, lịch sử truy cập và hình ảnh người dùng. Hiểu rõ nghĩa vụ pháp lý theo Nghị định 13/2023 về bảo vệ dữ liệu cá nhân và GDPR (nếu có khách EU) để triển khai locker đúng luật và tránh rủi ro pháp lý."
-date: "2027-03-10"
+date: "2026-06-18"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật dữ liệu locker thông minh", "nghị định 13 locker", "GDPR smart locker compliance"]

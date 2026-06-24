@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại cảng hàng hải: Giải pháp bảo mật cho thủy thủ"
 description: "Tủ locker thông minh giúp bảo vệ đồ dùng thủy thủ tại cảng hàng hải và khu du thuyền. Giải pháp an toàn, tiện lợi cho marina và tàu du thuyền."
-date: "2026-06-25"
+date: "2026-01-09"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker cảng hàng hải", "marina locker", "tủ locker tàu du thuyền"]

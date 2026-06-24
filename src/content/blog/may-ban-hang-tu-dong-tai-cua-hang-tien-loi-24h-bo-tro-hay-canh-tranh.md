@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại cửa hàng tiện lợi 24h: Bổ trợ hay cạnh tranh?"
 description: "Máy bán hàng tự động có cạnh tranh với cửa hàng tiện lợi 24h không? Tìm hiểu vai trò của vending machine trong mô hình kinh doanh cửa hàng tiện lợi."
-date: "2026-07-01"
+date: "2026-02-07"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine cửa hàng tiện lợi", "so sánh với cửa hàng tiện lợi", "cạnh tranh vending"]

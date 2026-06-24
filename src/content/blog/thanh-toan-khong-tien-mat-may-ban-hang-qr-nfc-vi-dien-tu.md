@@ -1,7 +1,7 @@
 ---
 title: "Thanh Toán Không Tiền Mặt Máy Bán Hàng: QR Code, NFC Và Ví Điện Tử 2026"
 description: "Thanh toán không tiền mặt tại máy bán hàng tự động qua QR code, NFC, MoMo, VNPay và ZaloPay. Tích hợp kỹ thuật, tỷ lệ chấp nhận và ảnh hưởng đến doanh thu vending machine."
-date: "2026-08-02"
+date: "2026-03-26"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-thanh-toan"
 keywords: ["thanh toán không tiền mặt máy bán hàng", "QR code vending machine", "MoMo thanh toán máy bán hàng"]

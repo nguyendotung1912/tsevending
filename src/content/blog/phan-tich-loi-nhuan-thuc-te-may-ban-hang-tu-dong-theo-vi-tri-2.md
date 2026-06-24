@@ -1,7 +1,7 @@
 ---
 title: "Phân tích lợi nhuận thực tế máy bán hàng tự động theo vị trí"
 description: "Phân tích lợi nhuận thực tế máy bán hàng tự ��ộng theo vị trí. Tìm hiểu ROI vending machine và doanh thu thực tế từ kinh nghiệm triển khai của TSE Vending."
-date: "2026-07-01"
+date: "2026-02-08"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["phân tích lợi nhuận vending", "ROI vending machine theo vị trí", "doanh thu thực tế"]

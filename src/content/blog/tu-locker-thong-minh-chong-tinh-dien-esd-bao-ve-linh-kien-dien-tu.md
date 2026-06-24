@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Trong Môi Trường Chống Tĩnh Điện ESD: Bảo Vệ Linh Kiện Điện Tử"
 description: "Nhà máy sản xuất linh kiện điện tử, bán dẫn và bo mạch yêu cầu môi trường ESD (Electrostatic Discharge) được kiểm soát chặt. Tủ locker trong các khu vực này phải tuân thủ tiêu chuẩn chống tĩnh điện — từ vật liệu đến nối đất."
-date: "2026-11-30"
+date: "2026-05-12"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["ESD locker", "tủ locker chống tĩnh điện", "anti-static locker nhà máy điện tử"]

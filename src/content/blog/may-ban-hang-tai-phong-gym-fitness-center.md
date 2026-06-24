@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tại Phòng Gym Và Fitness Center: Tối Ưu Doanh Thu Bổ Trợ"
 description: "Phòng gym là địa điểm lý tưởng cho máy vending — hội viên có nhu cầu đồ uống thể thao, protein bar và thực phẩm sức khỏe cao. Phân tích sản phẩm, vị trí và mô hình chia sẻ doanh thu phù hợp."
-date: "2026-09-20"
+date: "2026-04-16"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng phòng gym", "vending machine fitness center", "đồ uống thể thao vending machine"]

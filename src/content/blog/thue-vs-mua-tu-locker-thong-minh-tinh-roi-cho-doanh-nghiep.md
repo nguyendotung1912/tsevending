@@ -1,7 +1,7 @@
 ---
 title: "Thuê vs Mua Tủ Locker Thông Minh: Tính Toán ROI Cho Doanh Nghiệp"
 description: "So sánh chi tiết mô hình thuê và mua tủ locker thông minh: dòng tiền, ROI, rủi ro và điều kiện phù hợp. Bảng tính giúp doanh nghiệp ra quyết định đúng đắn."
-date: "2026-07-10"
+date: "2026-03-09"
 silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["thuê locker thông minh", "mua locker hay thuê", "ROI locker thông minh"]

@@ -1,7 +1,7 @@
 ---
 title: "Giá Thuê Ô Locker Chung Cư 2026: Phí Bao Nhiêu Là Hợp Lý Cho Cư Dân?"
 description: "Giá thuê ô locker chung cư 2026 dao động từ 50.000 đến 300.000 đồng/tháng tùy kích thước và vị trí. Phân tích mức giá hợp lý, cách tính chi phí và so sánh giữa các dự án."
-date: "2026-07-29"
+date: "2026-03-23"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["giá thuê locker chung cư 2026", "phí locker chung cư", "ô locker chung cư bao nhiêu tiền"]

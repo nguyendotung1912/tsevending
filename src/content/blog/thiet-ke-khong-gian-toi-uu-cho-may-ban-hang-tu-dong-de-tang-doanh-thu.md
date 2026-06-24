@@ -1,7 +1,7 @@
 ---
 title: "Thiết kế không gian tối ưu cho máy bán hàng tự động để tăng doanh thu"
 description: "Tìm hiểu cách thiết kế vị trí máy bán hàng tự động và bố trí không gian tối ưu để tăng doanh thu. Liên hệ TSE Vending để được tư vấn miễn phí."
-date: "2026-07-04"
+date: "2026-02-22"
 silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["thiết kế vị trí máy bán hàng", "bố trí vending machine", "không gian tối ưu"]

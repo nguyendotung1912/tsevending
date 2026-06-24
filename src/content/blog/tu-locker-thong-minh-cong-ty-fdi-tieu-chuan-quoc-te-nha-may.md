@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Công Ty FDI: Đáp Ứng Tiêu Chuẩn Quốc Tế Tại Nhà Máy Việt Nam"
 description: "Công ty FDI từ Nhật, Hàn, Đức và Mỹ đặt tiêu chuẩn cao cho phúc lợi nhân viên — trong đó có hệ thống tủ locker theo tiêu chuẩn quốc tế. Phân tích yêu cầu đặc thù và giải pháp phù hợp cho nhà máy FDI tại Việt Nam."
-date: "2026-11-20"
+date: "2026-05-08"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker FDI", "tủ locker nhà máy FDI", "tiêu chuẩn quốc tế locker Việt Nam"]

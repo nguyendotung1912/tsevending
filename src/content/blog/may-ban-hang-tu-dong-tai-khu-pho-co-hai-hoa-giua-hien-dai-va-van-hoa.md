@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại khu phố cổ: Hài hòa giữa hiện đại và văn hóa"
 description: "Tìm hiểu cách máy bán hàng tự động được tích hợp tại khu phố cổ và trung tâm lịch sử để bảo tồn văn hóa và đáp ứng nhu cầu hiện đại. Liên hệ TSE Vending để biết thêm."
-date: "2026-06-28"
+date: "2026-01-23"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng phố cổ", "vending machine trung tâm lịch sử", "bảo tồn văn hóa"]

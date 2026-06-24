@@ -1,7 +1,7 @@
 ---
 title: "Bảo Mật Tủ Locker Thông Minh: Tiêu Chuẩn Và Chứng Chỉ Cần Biết 2026"
 description: "Tiêu chuẩn bảo mật tủ locker thông minh 2026: IP rating, chứng chỉ EN 14450, mã hóa AES-256, và các chứng nhận quốc tế. Checklist đánh giá bảo mật khi mua locker."
-date: "2026-08-01"
+date: "2026-03-25"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật locker thông minh", "tiêu chuẩn locker EN 14450", "chứng chỉ bảo mật locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phân Quyền Theo Cấp Bậc"
 description: "Tủ locker thông minh phân quyền theo cấp bậc giúp quản lý hiệu quả. Tìm hiểu giải pháp phân quyền role-based locker access cho manager, nhân viên và khách hàng."
-date: "2026-06-25"
+date: "2026-01-08"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["phân quyền tủ locker", "role-based locker access", "quản lý cấp bậc locker"]

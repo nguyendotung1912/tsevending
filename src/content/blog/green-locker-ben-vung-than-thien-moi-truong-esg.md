@@ -1,7 +1,7 @@
 ---
 title: "Green Locker: Tủ Locker Bền Vững Và Thân Thiện Môi Trường Theo Tiêu Chuẩn ESG 2026"
 description: "Green locker ứng dụng năng lượng tái tạo, vật liệu tái chế và thiết kế tiết kiệm điện. Xu hướng ESG trong công nghệ locker và cách doanh nghiệp tích hợp tiêu chí môi trường vào lựa chọn locker."
-date: "2026-08-08"
+date: "2026-03-30"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["green locker bền vững", "locker ESG môi trường", "locker năng lượng tái tạo"]

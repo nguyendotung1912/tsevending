@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Khu Thương Mại Tự Do FTZ: Yêu Cầu Đặc Thù Hải Quan"
 description: "Khu thương mại tự do (FTZ) như VSIP, Chu Lai, Long An có yêu cầu đặc biệt về kiểm soát người và hàng hóa. Locker thông minh trong FTZ phải tích hợp với hệ thống hải quan, kiểm soát ra vào và phân loại hàng hóa theo khu vực thuế quan."
-date: "2027-02-10"
+date: "2026-06-08"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker khu thương mại tự do FTZ", "tủ locker khu chế xuất hải quan", "FTZ smart locker"]

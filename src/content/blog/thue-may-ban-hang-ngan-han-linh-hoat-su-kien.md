@@ -1,7 +1,7 @@
 ---
 title: "Thuê Máy Bán Hàng Ngắn Hạn: Giải Pháp Linh Hoạt Cho Sự Kiện Và Lễ Hội"
 description: "Thuê máy vending ngắn hạn cho festival, hội chợ, triển lãm và sự kiện công ty — không cần đầu tư vốn lớn, không lo bảo trì. Giá thuê thực tế, điều cần lưu ý và cách tối đa doanh thu tại sự kiện."
-date: "2026-09-18"
+date: "2026-04-15"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["thuê máy bán hàng tự động", "vending machine cho thuê sự kiện", "rental vending machine Việt Nam"]

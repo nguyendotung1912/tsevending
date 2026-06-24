@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Phục Vụ Ca Đêm: Giải Pháp Cho Nhân Viên Làm Việc Đêm"
 description: "2 triệu công nhân và nhân viên tại Việt Nam làm ca đêm từ 22h đến 6h sáng — nhưng không có gì để ăn uống khi đói lúc 2h sáng. Máy vending ca đêm là giải pháp thiết yếu cho nhà máy, bệnh viện và khu công nghiệp."
-date: "2026-10-10"
+date: "2026-04-23"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng ca đêm", "vending machine nhà máy ca đêm", "đồ ăn nhẹ nhân viên làm đêm"]

@@ -1,7 +1,7 @@
 ---
 title: "Review Tủ Locker Điện Tử Sau 1 Năm Sử Dụng: Ưu Nhược Điểm Thực Tế"
 description: "Đánh giá tủ locker điện tử sau 1 năm vận hành thực tế: những gì hoạt động tốt, những gì gây phiền não, chi phí bảo trì phát sinh và lời khuyên cho người sắp mua."
-date: "2026-08-15"
+date: "2026-04-03"
 silo: "tu-locker-thong-minh"
 sub: "review-so-sanh"
 keywords: ["review locker điện tử sau 1 năm", "đánh giá tủ locker thông minh thực tế", "kinh nghiệm dùng locker điện tử"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Ngành In Ấn Và Xuất Bản: Quản Lý Thiết Bị Và Vật Tư"
 description: "Xưởng in và nhà xuất bản sử dụng nhiều thiết bị đắt tiền (máy quét chuyên nghiệp, đồ đo màu sắc, ổ cứng bản thảo) cùng vật tư đặc biệt. Locker thông minh giúp kiểm soát thiết bị dùng chung, bảo quản vật tư đặc thù và phòng tránh mất mát thiệt hại."
-date: "2026-12-18"
+date: "2026-05-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker ngành in ấn", "tủ locker xưởng in", "printing locker"]

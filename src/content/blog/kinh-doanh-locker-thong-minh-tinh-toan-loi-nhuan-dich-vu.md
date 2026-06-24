@@ -1,7 +1,7 @@
 ---
 title: "Kinh Doanh Locker Thông Minh: Tính Toán Lợi Nhuận Từ Dịch Vụ Giao Nhận Hàng"
 description: "Mô hình kinh doanh locker thông minh từ góc độ nhà vận hành: doanh thu từ phí dịch vụ, chi phí đầu tư và vận hành, thời gian hoàn vốn và chiến lược mở rộng quy mô."
-date: "2026-07-20"
+date: "2026-03-17"
 silo: "tu-locker-thong-minh"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["kinh doanh locker thông minh", "lợi nhuận locker dịch vụ", "đầu tư locker vận hành"]

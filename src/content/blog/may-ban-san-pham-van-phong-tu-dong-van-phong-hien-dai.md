@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Sản Phẩm Văn Phòng Tự Động: Tiện Ích Không Thể Thiếu 2026"
 description: "Máy bán sản phẩm văn phòng tự động cung cấp văn phòng phẩm, phụ kiện máy tính và đồ dùng cá nhân 24/7 tại nơi làm việc. Phân tích mô hình kinh doanh và sản phẩm phù hợp cho văn phòng hiện đại."
-date: "2026-06-30"
+date: "2026-02-05"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-van-phong-pham"
 keywords: ["máy bán văn phòng phẩm", "vending machine văn phòng", "đồ dùng văn phòng tự động"]

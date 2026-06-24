@@ -1,7 +1,7 @@
 ---
 title: "Locker Tích Hợp Màn Hình Quảng Cáo: Biến Tủ Locker Thành Kênh Marketing"
 description: "Màn hình quảng cáo tích hợp trên tủ locker thông minh tạo nguồn thu phụ từ quảng cáo, tăng nhận diện thương hiệu và tài trợ chi phí vận hành. Mô hình ad-supported locker tại Việt Nam."
-date: "2026-08-22"
+date: "2026-04-05"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker màn hình quảng cáo", "digital signage locker", "kinh doanh quảng cáo locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Trạm Xe Buýt Điện: Giao Thông Xanh Và Tiện Ích Đô Thị"
 description: "Trạm xe buýt điện thế hệ mới tại TP.HCM và Hà Nội đang được tích hợp tiện ích — máy vending là dịch vụ tự nhiên cho hành khách chờ tàu. Phân tích cơ hội và mô hình hợp tác với đơn vị vận tải công cộng."
-date: "2026-10-13"
+date: "2026-04-24"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine trạm xe buýt", "máy bán hàng giao thông công cộng", "vending machine metro Việt Nam"]

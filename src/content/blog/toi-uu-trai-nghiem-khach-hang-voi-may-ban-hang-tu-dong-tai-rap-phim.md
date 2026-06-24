@@ -1,7 +1,7 @@
 ---
 title: "Tối ưu Trải Nghiệm Khách Hàng với Máy Bán Hàng Tự Động tại Rạp Phim"
 description: "Khám phá cách máy bán hàng tự động biến đổi trải nghiệm snack cinema và đồ uống premium tại rạp phim. Chuyên gia TSE Vending chia sẻ kinh nghiệm thực tiễn từ triển khai hàng trăm dự án. Liên hệ ngay!"
-date: "2026-06-28"
+date: "2026-01-24"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng rạp phim", "vending machine rạp chiếu phim", "snack cinema"]

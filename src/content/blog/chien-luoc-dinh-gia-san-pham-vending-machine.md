@@ -1,7 +1,7 @@
 ---
 title: "Chiến Lược Định Giá Sản Phẩm Vending Machine: Cách Tối Đa Lợi Nhuận"
 description: "Định giá đúng cho máy bán hàng tự động là nghệ thuật — quá cao mất khách, quá thấp mất lợi nhuận. Các chiến lược định giá đã được kiểm chứng: premium pricing, bundle pricing, dynamic pricing và cách áp dụng tại Việt Nam."
-date: "2026-09-19"
+date: "2026-04-16"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["định giá vending machine", "chiến lược giá máy bán hàng tự động", "pricing strategy vending"]

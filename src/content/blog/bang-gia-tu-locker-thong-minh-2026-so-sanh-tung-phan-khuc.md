@@ -1,7 +1,7 @@
 ---
 title: "Bảng Giá Tủ Locker Thông Minh 2026: So Sánh Từng Phân Khúc Thị Trường"
 description: "Bảng giá tủ locker thông minh 2026 theo số lượng ô, tính năng và chất lượng vật liệu. So sánh phân khúc bình dân, tầm trung và cao cấp để chọn locker phù hợp ngân sách."
-date: "2026-07-09"
+date: "2026-03-07"
 silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["bảng giá locker thông minh", "giá tủ locker 2026", "locker thông minh bao nhiêu tiền"]

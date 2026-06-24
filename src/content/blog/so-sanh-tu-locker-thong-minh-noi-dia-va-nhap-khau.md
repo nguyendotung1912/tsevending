@@ -1,7 +1,7 @@
 ---
 title: "So sánh tủ locker thông minh nội địa và nhập khẩu"
 description: "So sánh chất lượng, giá và dịch vụ hậu mãi của tủ locker thông minh nội địa và nhập khẩu. Tìm hiểu sự khác biệt để chọn lựa phù hợp cho nhu cầu của bạn."
-date: "2026-07-05"
+date: "2026-02-26"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hai-locker"
 keywords: ["so sánh locker nội địa nhập khẩu", "locker nội địa vs nhập khẩu", "chất lượng locker"]

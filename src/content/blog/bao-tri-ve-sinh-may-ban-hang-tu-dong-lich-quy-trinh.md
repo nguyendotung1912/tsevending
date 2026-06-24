@@ -1,7 +1,7 @@
 ---
 title: "Bảo Trì Và Vệ Sinh Máy Bán Hàng Tự Động: Lịch Và Quy Trình Chuẩn"
 description: "Lịch bảo trì và quy trình vệ sinh máy bán hàng tự động đúng chuẩn giúp kéo dài tuổi thọ máy và đảm bảo vệ sinh an toàn thực phẩm. Checklist đầy đủ cho vận hành chuyên nghiệp."
-date: "2026-08-04"
+date: "2026-03-27"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["bảo trì máy bán hàng tự động", "vệ sinh máy bán hàng", "quy trình bảo dưỡng vending machine"]

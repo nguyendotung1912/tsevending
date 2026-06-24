@@ -1,7 +1,7 @@
 ---
 title: "Phân Tích ROI Thực Tế Khi Đầu Tư Tủ Locker Thông Minh Tại Chung Cư"
 description: "Tủ locker thông minh tại chung cư hứa hẹn giải quyết bài toán giao hàng và lưu trữ — nhưng chi phí đầu tư và thời gian hoàn vốn thực tế là bao nhiêu? Phân tích tài chính chi tiết dựa trên các dự án triển khai thực tế."
-date: "2026-11-18"
+date: "2026-05-08"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["ROI locker chung cư", "chi phí đầu tư tủ locker", "hoàn vốn locker thông minh"]

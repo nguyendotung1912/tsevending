@@ -1,7 +1,7 @@
 ---
 title: "Tích hợp Vending Machine với ERP: Tự động hóa kinh doanh hiệu quả"
 description: "Tìm hiểu cách tích hợp máy bán hàng tự động với hệ thống ERP doanh nghiệp giúp tự động hóa và tối ưu hóa hoạt động kinh doanh của bạn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-01"
+date: "2026-02-09"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["vending machine ERP", "tích hợp hệ thống doanh nghiệp", "ERP vending"]

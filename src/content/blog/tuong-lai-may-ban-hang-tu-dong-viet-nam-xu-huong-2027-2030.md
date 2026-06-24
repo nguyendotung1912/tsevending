@@ -1,7 +1,7 @@
 ---
 title: "Tương Lai Máy Bán Hàng Tự Động Việt Nam: Xu Hướng Và Dự Báo 2027-2030"
 description: "Ngành vending Việt Nam đang bước vào giai đoạn tăng tốc — từ 15,000 máy hiện tại đến mục tiêu 80,000-100,000 máy vào 2030. Phân tích xu hướng công nghệ, thị trường và cơ hội đầu tư trong 4 năm tới."
-date: "2026-10-14"
+date: "2026-04-25"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["tương lai máy bán hàng tự động Việt Nam", "vending machine 2027 2030", "xu hướng vending Việt Nam"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho call center: Giải pháp hiệu quả"
 description: "Tủ locker thông minh giúp tối ưu hóa quy trình tại trung tâm chăm sóc khách hàng call center. Tìm hiểu giải pháp hiệu quả cho doanh nghiệp của bạn."
-date: "2026-06-25"
+date: "2026-01-06"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker call center", "tủ locker trung tâm dịch vụ khách hàng", "customer service locker"]

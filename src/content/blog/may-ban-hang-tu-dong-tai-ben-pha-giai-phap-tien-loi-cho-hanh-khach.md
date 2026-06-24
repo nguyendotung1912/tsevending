@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Bến Phà: Giải Pháp Tiện Lợi Cho Hành Khách"
 description: "Cung cấp máy bán hàng tự động tại bến phà, phục vụ h��nh khách đường thủy 24/7. Liên hệ TSE Vending để biết thêm thông tin về giải pháp kinh doanh tiện lợi này."
-date: "2026-06-29"
+date: "2026-01-28"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng bến phà", "vending machine bến tàu", "hành khách đường thủy"]

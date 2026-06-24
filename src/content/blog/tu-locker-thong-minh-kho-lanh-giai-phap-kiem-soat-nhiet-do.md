@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Kho Lạnh: Giải Pháp Kiểm Soát Nhiệt Độ"
 description: "Tủ locker thông minh kho lạnh giúp kiểm soát nhiệt độ chính xác cho dược phẩm và thực phẩm. Giải pháp tối ưu từ TSE Vending."
-date: "2026-06-27"
+date: "2026-01-20"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["cold storage locker", "tủ locker kho lạnh", "locker dược phẩm"]

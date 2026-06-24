@@ -1,7 +1,7 @@
 ---
 title: "Smart Locker Siêu Thị: Click & Collect — Đặt Online Nhận Tại Cửa Hàng"
 description: "Smart locker tại siêu thị và chuỗi bán lẻ kết hợp trải nghiệm online-offline: khách đặt hàng qua app, nhận tại locker siêu thị bất cứ lúc nào. Phân tích mô hình click & collect và xu hướng omnichannel Việt Nam."
-date: "2026-07-07"
+date: "2026-03-02"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-thuong-mai"
 keywords: ["click collect locker", "locker siêu thị", "omnichannel bán lẻ"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tích Hợp Mini Fridge: Xu Hướng Hotel Vending Mới"
 description: "Tủ lạnh minibar trong phòng khách sạn đang được thay thế bởi máy vending thông minh tích hợp hệ thống thanh toán tự động. Xu hướng này tiết kiệm chi phí cho khách sạn và tăng doanh thu từ minibar đáng kể."
-date: "2026-11-06"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe"
 keywords: ["hotel minibar vending machine", "máy bán hàng tích hợp tủ lạnh khách sạn", "smart minibar khách sạn"]

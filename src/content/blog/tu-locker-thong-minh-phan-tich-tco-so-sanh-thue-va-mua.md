@@ -1,7 +1,7 @@
 ---
 title: "Phân Tích TCO Tủ Locker Thông Minh: So Sánh Thuê Và Mua Toàn Diện"
 description: "TCO (Total Cost of Ownership) giúp doanh nghiệp hiểu chi phí thực sự khi đầu tư locker thông minh — không chỉ giá mua ban đầu. Phân tích thuê vs. mua locker với từng mô hình kinh doanh: văn phòng, trung tâm thương mại, logistics, y tế."
-date: "2027-02-06"
+date: "2026-06-06"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["TCO tủ locker thông minh", "thuê hay mua locker", "chi phí tổng sở hữu locker"]

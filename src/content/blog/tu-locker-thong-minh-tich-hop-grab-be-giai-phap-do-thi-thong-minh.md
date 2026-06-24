@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Grab, Be: Giải Pháp Đô Thị Thông Minh"
 description: "Khám phá tủ locker thông minh tích hợp điểm đón xe công nghệ Grab, Be. Giải pháp tiện ích đô thị mới cho việc nhận hàng và di chuyển dễ dàng hơn. Liên hệ TSE Vending ngay hôm nay!"
-date: "2026-06-25"
+date: "2026-01-09"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker Grab Be", "ride-hailing locker", "tủ locker xe công nghệ"]

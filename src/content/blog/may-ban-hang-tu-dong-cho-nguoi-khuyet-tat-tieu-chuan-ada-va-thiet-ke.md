@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho người khuyết tật: Tiêu chuẩn ADA và thiết kế"
 description: "Tìm hiểu về máy bán hàng tự động dành cho người khuyết tật, tiêu chuẩn ADA và thiết kế phổ quát. Liên hệ TSE Vending để triển khai giải pháp tiếp cận toàn diện."
-date: "2026-06-28"
+date: "2026-01-22"
 silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["máy bán hàng người khuyết tật", "vending machine ADA", "tiếp cận toàn diện"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Văn Phòng Luật Sư Và Công Chứng: Bảo Mật Hồ Sơ Pháp Lý"
 description: "Hồ sơ pháp lý, tài liệu bí mật của thân chủ và chứng từ công chứng cần bảo vệ theo đạo đức nghề nghiệp và quy định pháp luật. Locker thông minh tại văn phòng luật và công chứng phải đáp ứng yêu cầu bảo mật đặc biệt và nghĩa vụ giữ bí mật của luật sư."
-date: "2026-12-17"
+date: "2026-05-18"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker văn phòng luật", "tủ locker hồ sơ pháp lý", "legal locker"]

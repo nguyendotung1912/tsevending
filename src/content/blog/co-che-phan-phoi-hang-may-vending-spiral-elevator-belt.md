@@ -1,7 +1,7 @@
 ---
 title: "Cơ Chế Phân Phối Hàng Máy Vending: So Sánh Spiral Coil, Elevator Và Belt"
 description: "Phân tích kỹ thuật 3 cơ chế phân phối hàng trong máy bán hàng tự động: spiral coil (lò xo xoắn), elevator (thang nâng) và belt conveyor. Ưu nhược điểm và phù hợp cho loại hàng gì."
-date: "2026-08-29"
+date: "2026-04-08"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["cơ chế phân phối hàng vending machine", "spiral coil máy bán hàng", "elevator vending mechanism"]

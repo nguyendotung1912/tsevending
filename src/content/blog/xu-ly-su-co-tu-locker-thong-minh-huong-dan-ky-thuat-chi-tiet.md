@@ -1,7 +1,7 @@
 ---
 title: "Xử lý sự cố tủ locker thông minh: Hướng dẫn kỹ thuật chi tiết"
 description: "Hướng dẫn xử lý sự cố thường gặp với tủ locker thông minh. Tìm hiểu cách troubleshoot và sửa lỗi tủ locker thông minh hiệu quả."
-date: "2026-07-09"
+date: "2026-03-09"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["sự cố tủ locker", "troubleshoot locker", "lỗi tủ locker thông minh"]

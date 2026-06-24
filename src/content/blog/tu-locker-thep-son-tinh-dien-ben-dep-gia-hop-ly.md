@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thép Sơn Tĩnh Điện: Bền Đẹp Và Giá Hợp Lý Cho Mọi Môi Trường"
 description: "Tủ locker thép sơn tĩnh điện kết hợp độ bền cơ học của thép với lớp phủ màu sắc đẹp và chống gỉ tốt. Tìm hiểu quy trình sơn tĩnh điện, ưu nhược điểm và cách chọn đúng."
-date: "2026-07-25"
+date: "2026-03-20"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker thép sơn tĩnh điện", "tủ locker powder coat", "locker sắt sơn tĩnh điện"]

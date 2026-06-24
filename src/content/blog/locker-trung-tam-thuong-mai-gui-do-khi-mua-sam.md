@@ -1,7 +1,7 @@
 ---
 title: "Locker Trung Tâm Thương Mại: Gửi Đồ Thoải Mái Khi Mua Sắm"
 description: "Locker tự động trong trung tâm thương mại giúp khách gửi đồ để mua sắm thoải mái, tăng thời gian lưu trú và chi tiêu bình quân. Phân tích lợi ích cho TTTM và cách triển khai hiệu quả."
-date: "2026-06-26"
+date: "2026-01-10"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-thuong-mai"
 keywords: ["locker trung tâm thương mại", "gửi đồ mua sắm", "smart locker mall"]

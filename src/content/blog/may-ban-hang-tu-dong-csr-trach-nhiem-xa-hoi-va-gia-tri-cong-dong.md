@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động CSR: Trách nhiệm xã hội và giá trị cộng đồng"
 description: "Tìm hiểu về vai trò của máy bán hàng tự động trong trách nhiệm xã hội doanh nghiệp (CSR) và cách tạo ra giá trị cho cộng đồng. Liên hệ TSE Vending để triển khai giải pháp vending máy tự động CSR."
-date: "2026-07-04"
+date: "2026-02-20"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine CSR", "trách nhiệm xã hội vending", "phúc lợi cộng đồng"]

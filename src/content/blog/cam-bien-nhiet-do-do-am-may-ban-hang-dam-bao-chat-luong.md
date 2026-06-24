@@ -1,7 +1,7 @@
 ---
 title: "Cảm Biến Nhiệt Độ Và Độ Ẩm Trong Máy Bán Hàng: Đảm Bảo Chất Lượng Hàng Hóa"
 description: "Hệ thống cảm biến nhiệt độ và độ ẩm trong máy bán hàng tự động đảm bảo hàng hóa được bảo quản đúng tiêu chuẩn. Cảnh báo sự cố và tích hợp remote monitoring cho vận hành hiệu quả."
-date: "2026-08-31"
+date: "2026-04-09"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["cảm biến nhiệt độ máy bán hàng", "bảo quản hàng hóa vending machine", "monitoring vending machine nhiệt độ"]

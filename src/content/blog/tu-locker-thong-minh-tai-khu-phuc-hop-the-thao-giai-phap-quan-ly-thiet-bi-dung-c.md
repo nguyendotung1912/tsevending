@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh tại Khu Phức Hợp Thể Thao: Giải Pháp Quản Lý Thiết Bị Dùng Chung"
 description: "Tìm hiểu giải pháp tủ locker thông minh cho khu phức hợp thể thao, giúp quản lý thiết bị dùng chung hiệu quả. Liên hệ TSE Vending để triển khai ngay hôm nay."
-date: "2026-06-28"
+date: "2026-01-26"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker khu thể thao phức hợp", "sports complex locker", "shared equipment locker"]

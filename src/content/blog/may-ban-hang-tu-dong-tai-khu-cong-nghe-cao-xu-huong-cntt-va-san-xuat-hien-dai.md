@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại khu công nghệ cao: Xu hướng CNTT và sản xuất hiện đại"
 description: "Tìm hiểu về xu hướng máy bán hàng tự động tại khu công nghệ cao. Giải pháp tiện lợi và hiện đại cho nhu cầu ăn uống và giải trí của nhân viên và khách thăm."
-date: "2026-06-30"
+date: "2026-02-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng khu công nghệ cao", "vending machine tech park", "công nghệ cao vending"]

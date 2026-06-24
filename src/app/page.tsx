@@ -10,7 +10,7 @@ import FaqSection from "@/components/Faq";
 import ReviewsSection from "@/components/ReviewsSection";
 
 export const metadata: Metadata = buildMetadata({
-  title: `${siteConfig.name} - Máy Bán Hàng Tự Động & Tủ Locker Thông Minh`,
+  title: "Máy Bán Hàng Tự Động & Tủ Locker Thông Minh | TSE Vending",
   description:
     "TSE Vending thiết kế, sản xuất và vận hành máy bán hàng tự động & tủ locker thông minh tại Việt Nam. Tích hợp IoT, thanh toán không tiền mặt, hỗ trợ kỹ thuật 24/7.",
   path: "/",

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại làng đại học: Giải pháp lưu trữ hiện đại"
 description: "Tủ locker thông minh tại làng đại học - Giải pháp lưu trữ an toàn, tiện lợi cho sinh viên. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-27"
+date: "2026-01-20"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker làng đại học", "university village locker", "campus locker"]

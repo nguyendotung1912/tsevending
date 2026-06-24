@@ -1,7 +1,7 @@
 ---
 title: "Chiến Lược Marketing Tủ Locker Thông Minh: Thu Hút Và Thuyết Phục Khách Hàng B2B"
 description: "Bán locker thông minh cho doanh nghiệp khác với bán hàng tiêu dùng — quy trình dài, nhiều người quyết định, cần ROI rõ ràng. Chiến lược marketing B2B hiệu quả kết hợp content authority, case study thực tế và quy trình sales được tối ưu hóa."
-date: "2026-12-16"
+date: "2026-05-18"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["marketing locker B2B", "bán tủ locker doanh nghiệp", "sales locker"]

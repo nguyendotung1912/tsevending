@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh trong EAM: Giải pháp quản lý tài sản toàn diện"
 description: "Khám phá cách tủ locker thông minh tích hợp vào h��� thống quản lý tài sản doanh nghiệp EAM để tối ưu hóa việc quản lý và bảo vệ tài sản của bạn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-06"
+date: "2026-03-01"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["EAM locker", "tủ locker quản lý tài sản", "enterprise asset management locker"]

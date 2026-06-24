@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Khu Công Nghiệp: Tiêu Chuẩn An Toàn Lao Động Và Quy Định"
 description: "Tủ locker trong khu công nghiệp phải đáp ứng tiêu chuẩn an toàn lao động Việt Nam và quốc tế. Hướng dẫn lựa chọn locker phù hợp với từng ngành công nghiệp và quy định hiện hành 2026."
-date: "2026-07-04"
+date: "2026-02-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-cong-nghiep"
 keywords: ["locker khu công nghiệp", "tủ locker an toàn lao động", "tiêu chuẩn locker nhà máy"]

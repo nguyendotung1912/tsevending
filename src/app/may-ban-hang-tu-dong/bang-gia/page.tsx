@@ -8,7 +8,7 @@ import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Bảng Giá Máy Bán Hàng Tự Động 2026 — Tham Khảo Chi Tiết | TSE Vending",
+  title: "Bảng Giá Máy Bán Hàng Tự Động 2026 | TSE Vending",
   description:
     "Bảng giá tham khảo máy bán hàng tự động (vending machine) 2026: máy bán nước, snack, hàng lạnh, gas. Mức đầu tư, chi phí lắp đặt, ROI và so sánh mua vs thuê.",
   path: "/may-ban-hang-tu-dong/bang-gia",

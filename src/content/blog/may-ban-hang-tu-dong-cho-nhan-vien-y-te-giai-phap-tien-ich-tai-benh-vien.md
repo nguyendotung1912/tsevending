@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho nhân viên y tế: Giải pháp tiện ích tại bệnh viện"
 description: "Khám phá nhu cầu đặc biệt về máy bán hàng tự động tại bệnh viện để phục vụ nhân viên y tế. Giải pháp tiện ích giúp nâng cao chất lượng cuộc sống cho đội ngũ y tế."
-date: "2026-06-30"
+date: "2026-02-03"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["vending machine nhân viên y tế", "tiện ích bệnh viện nhân viên", "nhu cầu y tế"]

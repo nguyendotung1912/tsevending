@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động phục vụ sự kiện hội chợ triển lãm: Logistics và setup"
 description: "Tìm hiểu cách triển khai máy bán hàng tự động tại sự kiện hội chợ triển lãm. Logistics và setup quan trọng để đảm bảo hoạt động trơn tru và thành công."
-date: "2026-07-07"
+date: "2026-03-03"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine hội chợ", "máy bán hàng sự kiện", "triển lãm vending"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tích hợp AI nhận diện khuôn mặt - Cá nhân hóa trải nghiệm"
 description: "Tìm hiểu về máy bán hàng tự động tích hợp AI nhận diện khuôn mặt, công nghệ face recognition vending và cách cá nhân hóa trải nghiệm mua sắm với TSE Vending."
-date: "2026-06-29"
+date: "2026-01-28"
 silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["máy bán hàng AI nhận diện khuôn mặt", "face recognition vending", "cá nhân hóa vending"]

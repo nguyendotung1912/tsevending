@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Trên Tàu Hỏa Và Tàu Cao Tốc: Dịch Vụ Tiện Ích Đường Sắt"
 description: "Hành khách tàu hỏa Bắc-Nam dành 12-30 tiếng trên tàu — nhu cầu đồ ăn, nước uống và tiện ích là khổng lồ. Tàu cao tốc trong tương lai đang được quy hoạch. Phân tích cơ hội vending machine trong ngành đường sắt Việt Nam."
-date: "2026-11-09"
+date: "2026-05-04"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng trên tàu hỏa", "vending machine tàu cao tốc Việt Nam", "dịch vụ đường sắt vending"]

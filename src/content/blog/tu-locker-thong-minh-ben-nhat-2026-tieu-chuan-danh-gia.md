@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Bền Nhất 2026: Tiêu Chuẩn Đánh Giá Và Cách Chọn"
 description: "Tiêu chuẩn đánh giá độ bền tủ locker thông minh: độ dày thép, chứng nhận IP, vòng đời khóa điện tử, và bảo hành thực chất. Cách phân biệt locker bền thật và chỉ bền trên giấy."
-date: "2026-08-14"
+date: "2026-04-02"
 silo: "tu-locker-thong-minh"
 sub: "review-so-sanh"
 keywords: ["locker thông minh bền nhất 2026", "đánh giá độ bền tủ locker", "tiêu chuẩn locker bền"]

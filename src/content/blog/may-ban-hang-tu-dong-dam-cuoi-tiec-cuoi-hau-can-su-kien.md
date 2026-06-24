@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Đám Cưới Và Tiệc Cưới: Dịch Vụ Hậu Cần Sự Kiện"
 description: "Đám cưới 500-1,000 khách trong 4-6 tiếng — khách khát, thiếu đồ uống giữa chừng, nhà hàng không đủ phục vụ tức thì. Máy vending cho thuê theo sự kiện là giải pháp logistics đang được các nhà tổ chức tiệc cưới chú ý."
-date: "2026-11-08"
+date: "2026-05-04"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng đám cưới", "vending machine tiệc cưới", "thuê máy vending sự kiện"]

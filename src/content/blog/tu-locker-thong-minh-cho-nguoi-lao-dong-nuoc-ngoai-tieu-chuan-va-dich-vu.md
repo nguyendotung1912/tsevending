@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho người lao động nước ngoài: Tiêu chuẩn và dịch vụ"
 description: "Tìm hiểu về tủ locker thông minh dành cho người lao động nước ngoài tại Việt Nam. Tiêu chuẩn và dịch vụ cần thiết cho expat."
-date: "2026-07-03"
+date: "2026-02-18"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker expat", "tủ locker người nước ngoài", "foreigner locker Việt Nam"]

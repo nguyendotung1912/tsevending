@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Rạp Chiếu Phim: Snack Và Nước Uống Premium"
 description: "Cải thiện trải nghiệm khách hàng tại rạp chiếu phim với m��y bán hàng tự động cung cấp snack và nước uống premium. Liên hệ TSE Vending để tìm hiểu thêm."
-date: "2026-06-27"
+date: "2026-01-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng rạp phim", "vending machine rạp chiếu phim", "snack cinema"]

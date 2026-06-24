@@ -1,7 +1,7 @@
 ---
 title: "Phân Tích Cạnh Tranh Thị Trường Tủ Locker Thông Minh Việt Nam: SWOT 2026"
 description: "Thị trường locker thông minh VN đang trong giai đoạn sơ khai với nhiều cơ hội. Phân tích SWOT toàn diện về điểm mạnh, điểm yếu, cơ hội và thách thức giúp doanh nghiệp muốn đầu tư hoặc mua locker hiểu rõ landscape thị trường."
-date: "2027-02-08"
+date: "2026-06-07"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["thị trường locker thông minh Việt Nam", "SWOT locker VN 2026", "cạnh tranh locker thông minh"]

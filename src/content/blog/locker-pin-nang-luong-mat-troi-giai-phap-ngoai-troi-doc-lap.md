@@ -1,7 +1,7 @@
 ---
 title: "Locker Pin Năng Lượng Mặt Trời: Giải Pháp Ngoài Trời Độc Lập Nguồn Điện"
 description: "Tủ locker thông minh chạy bằng năng lượng mặt trời phù hợp triển khai nơi không có điện lưới. Phân tích kỹ thuật pin mặt trời, pin lưu trữ và ứng dụng thực tế tại Việt Nam."
-date: "2026-07-09"
+date: "2026-03-07"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker năng lượng mặt trời", "solar locker", "locker pin mặt trời độc lập điện"]

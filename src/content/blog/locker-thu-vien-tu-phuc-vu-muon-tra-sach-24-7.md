@@ -1,7 +1,7 @@
 ---
 title: "Locker Thư Viện Tự Phục Vụ: Mượn Và Trả Sách 24/7 Không Cần Thủ Thư"
 description: "Smart locker thư viện cho phép bạn đọc mượn và trả sách ngoài giờ hành chính, nhận sách đặt trước tự động mà không cần nhân viên. Mô hình thư viện thông minh đang được áp dụng tại Việt Nam."
-date: "2026-07-15"
+date: "2026-03-13"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker thư viện tự phục vụ", "smart locker library", "mượn sách tự động 24/7"]

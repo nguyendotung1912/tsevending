@@ -1,7 +1,7 @@
 ---
 title: "Kinh Doanh Máy Bán Nước Tinh Khiết Tự Động: Mô Hình Và Lợi Nhuận Thực Tế"
 description: "Máy bán nước tinh khiết tự động (water vending machine) thu tiền theo lít — chi phí thấp, biên lãi cao, hoạt động 24/7 tại khu dân cư và chợ. Phân tích mô hình kinh doanh và lợi nhuận thực tế tại Việt Nam."
-date: "2026-09-17"
+date: "2026-04-15"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["máy bán nước tinh khiết tự động", "water vending machine Việt Nam", "kinh doanh nước lọc tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho cảnh sát, biên phòng: Giải pháp bảo mật tối ưu"
 description: "Tủ locker thông minh giúp bảo mật trang thiết bị đặc biệt tại trụ sở cảnh sát, biên phòng. Giải pháp an toàn, tiện lợi cho lực lượng thực thi pháp luật."
-date: "2026-06-27"
+date: "2026-01-19"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker cảnh sát", "security forces locker", "tủ locker biên phòng"]

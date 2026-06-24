@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Tòa Nhà Phức Hợp Văn Phòng-Căn Hộ: Chiến Lược Đa Phân Khúc"
 description: "Tòa nhà mixed-use kết hợp văn phòng, căn hộ, thương mại và khách sạn là xu hướng phát triển bất động sản hiện đại. Mỗi phân khúc có nhu cầu vending khác nhau — chiến lược đúng giúp tối đa hóa doanh thu từ một tòa nhà."
-date: "2026-11-15"
+date: "2026-05-07"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine tòa nhà hỗn hợp", "mixed-use building vending", "máy bán hàng phức hợp"]

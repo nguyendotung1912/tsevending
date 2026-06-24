@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Phòng Chơi Bowling Và Bida: Gửi Đồ Trong Khi Giải Trí"
 description: "Bowling và bida là hoạt động giải trí phổ biến tại trung tâm thương mại VN. Khách hàng cần giải pháp gửi đồ an toàn — ví, điện thoại, túi xách — trong khi chơi mà không bị lo lắng. Locker thông minh tích hợp với hệ thống đặt làn/bàn."
-date: "2027-01-04"
+date: "2026-05-25"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker bowling", "tủ locker phòng bida", "gửi đồ khu giải trí"]

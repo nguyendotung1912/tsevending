@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp IoT Gateway: Kết Nối Hệ Sinh Thái Thiết Bị Thông Minh"
 description: "IoT gateway trong tủ locker thông minh cho phép kết nối với hệ thống tòa nhà thông minh, camera an ninh, cảm biến môi trường và các thiết bị IoT khác. Tủ locker trở thành nút hub trong hệ sinh thái smart building."
-date: "2026-11-27"
+date: "2026-05-11"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["IoT gateway locker", "tủ locker IoT smart building", "locker hệ sinh thái thông minh"]

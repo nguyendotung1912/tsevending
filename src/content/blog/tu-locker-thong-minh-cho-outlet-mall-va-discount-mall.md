@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho outlet mall và discount mall"
 description: "Giải pháp tủ locker thông minh cho khu phức hợp bán lẻ outlet và discount mall, giúp quản lý lưu trữ và bảo mật đồ đạc cho khách hàng. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-13"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker outlet mall", "tủ locker trung tâm outlet", "discount mall locker"]

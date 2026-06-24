@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh tại Metro TP HCM: Giải Pháp Tương Lai"
 description: "Tìm hiểu về tủ locker thông minh tại nhà ga tàu điện ngầm TP HCM Metro, giải pháp lưu trữ an toàn và tiện lợi cho hành khách. Liên hệ TSE Vending để triển khai dự án."
-date: "2026-06-25"
+date: "2026-01-09"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker metro TP HCM", "tủ locker tàu điện ngầm", "metro station locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phân Loại Rác Thải Điện Tử: Kết Hợp Tái Chế Và Thu Gom E-Waste"
 description: "Rác thải điện tử (e-waste) là vấn đề môi trường nghiêm trọng. Smart locker kết hợp với hệ thống thu gom e-waste cho phép người dân trả điện thoại cũ, pin, đèn LED tại các điểm tập trung — nhận thưởng điểm và đóng góp vào tái chế bền vững."
-date: "2027-01-17"
+date: "2026-05-30"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker thu gom e-waste", "tủ locker tái chế điện tử", "e-waste collection locker"]

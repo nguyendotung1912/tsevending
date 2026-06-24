@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Khẩu Trang Và Nước Rửa Tay Tự Động: Bài Học Từ Đại Dịch COVID"
 description: "Đại dịch COVID-19 thúc đẩy sự bùng nổ của máy bán khẩu trang và nước rửa tay tự động. Phân tích xu hướng vệ sinh y tế tự phục vụ, cơ hội kinh doanh và sản phẩm phù hợp trong giai đoạn hậu đại dịch."
-date: "2026-06-28"
+date: "2026-01-23"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-y-te"
 keywords: ["máy bán khẩu trang tự động", "vending machine y tế", "nước rửa tay tự động"]

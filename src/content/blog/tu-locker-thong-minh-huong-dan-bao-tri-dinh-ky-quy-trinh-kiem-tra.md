@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Bảo Trì Định Kỳ Tủ Locker Thông Minh: Quy Trình Và Tần Suất Kiểm Tra"
 description: "Bảo trì định kỳ đúng cách kéo dài tuổi thọ locker thông minh lên 10-15 năm. Hướng dẫn chi tiết kiểm tra hàng tuần, hàng tháng và hàng năm cho bộ phận kỹ thuật và admin quản lý locker trong doanh nghiệp."
-date: "2027-02-27"
+date: "2026-06-14"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["bảo trì tủ locker thông minh", "quy trình kiểm tra locker định kỳ", "maintenance smart locker"]

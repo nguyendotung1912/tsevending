@@ -1,7 +1,7 @@
 ---
 title: "Locker Tích Hợp IoT: Giám Sát Và Quản Lý Từ Xa Theo Thời Gian Thực"
 description: "Locker IoT kết nối internet cho phép quản trị viên theo dõi tình trạng, nhận cảnh báo và điều khiển từ xa qua dashboard web. Phân tích kiến trúc hệ thống, tính năng và chi phí triển khai."
-date: "2026-06-27"
+date: "2026-01-16"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker IoT", "quản lý locker từ xa", "smart locker kết nối internet"]

@@ -1,7 +1,7 @@
 ---
 title: "Hạ Tầng Giao Nhận Thông Minh Cho Thành Phố: Locker + Drone + Robot Delivery"
 description: "Tương lai logistics đô thị kết hợp locker thông minh, drone giao hàng và robot delivery thành mạng lưới giao nhận hoàn chỉnh. Thực trạng công nghệ và lộ trình cho Việt Nam."
-date: "2026-08-09"
+date: "2026-03-31"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker drone delivery", "robot delivery thành phố thông minh", "hạ tầng giao nhận thông minh"]

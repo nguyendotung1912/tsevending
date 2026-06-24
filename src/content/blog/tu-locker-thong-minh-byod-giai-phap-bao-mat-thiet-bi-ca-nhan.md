@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh BYOD: Giải Pháp Bảo Mật Thiết Bị Cá Nhân"
 description: "Tủ locker thông minh BYOD giúp bảo mật thiết bị cá nhân như laptop, điện thoại trong môi trường văn phòng, khu công nghiệp. Giải pháp an toàn cho chính sách BYOD."
-date: "2026-06-27"
+date: "2026-01-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["BYOD locker", "tủ locker bảo mật laptop", "device locker"]

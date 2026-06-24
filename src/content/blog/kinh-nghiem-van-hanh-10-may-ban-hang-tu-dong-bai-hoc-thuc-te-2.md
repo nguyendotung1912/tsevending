@@ -1,7 +1,7 @@
 ---
 title: "Kinh nghiệm vận hành 10 máy bán hàng tự động: Bài học thực tế"
 description: "Kinh nghiệm vận hành 10 máy bán hàng tự động, bài học thực tế và rút ra từ việc quản lý nhiều máy vending machine. Liên hệ TSE Vending để biết thêm."
-date: "2026-06-30"
+date: "2026-02-02"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["kinh nghiệm vận hành vending machine", "vận hành nhiều máy", "bài học thực tế"]

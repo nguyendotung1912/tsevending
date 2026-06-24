@@ -1,7 +1,7 @@
 ---
 title: "Locker Thông Báo SMS Khi Nhận Hàng: Tính Năng Thiết Yếu Cho Chung Cư"
 description: "Hệ thống thông báo SMS và push notification khi locker nhận hàng giúp cư dân chung cư lấy bưu kiện đúng lúc, tránh hàng tồn quá lâu. Cách hoạt động và tích hợp với app quản lý chung cư."
-date: "2026-08-20"
+date: "2026-04-05"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker thông báo SMS nhận hàng", "locker chung cư nhận bưu kiện", "thông báo locker tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Khách Sạn Thông Minh: Check-In Không Tiếp Xúc Và Giao Chìa Khóa Tự Động"
 description: "Tủ locker thông minh tại khách sạn giúp khách check-in tự phục vụ, nhận chìa khóa và gửi hành lý mà không cần chờ quầy lễ tân. Giải pháp contactless cho hospitality hiện đại."
-date: "2026-07-14"
+date: "2026-03-12"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker khách sạn thông minh", "check-in tự động khách sạn", "key locker hotel"]

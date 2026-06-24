@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho tiệc cưới và đám cưới - Giải pháp hậu cần thông minh"
 description: "Khám phá giải pháp máy bán hàng tự động cho tiệc cưới và đám cưới. Dịch vụ sự kiện vending thông minh, tiết kiệm và hiệu quả cho các sự kiện đặc biệt của bạn."
-date: "2026-07-04"
+date: "2026-02-20"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine tiệc cưới", "dịch vụ sự kiện vending", "đám cưới tự động"]

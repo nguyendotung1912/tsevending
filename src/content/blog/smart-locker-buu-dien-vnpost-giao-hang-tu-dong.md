@@ -1,7 +1,7 @@
 ---
 title: "Smart Locker Bưu Điện: Mở Rộng Dịch Vụ VNPost Và Logistics Tự Động"
 description: "Smart locker tại bưu điện và điểm giao dịch VNPost cho phép nhận hàng 24/7, gửi hàng tự động và tra cứu bưu phẩm không cần nhân viên. Giải pháp số hóa dịch vụ bưu chính Việt Nam."
-date: "2026-07-16"
+date: "2026-03-14"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["smart locker bưu điện", "VNPost locker", "nhận hàng bưu điện tự động"]

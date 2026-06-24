@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại cảng biển và cảng cá: Giải pháp phục vụ thuyền viên và ngư dân"
 description: "Tìm hiểu về máy bán hàng tự động tại cảng biển và cảng cá, giải pháp phục vụ thuyền viên và ngư dân. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-07-03"
+date: "2026-02-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng cảng biển", "vending machine cảng cá", "thuyền viên ngư dân"]

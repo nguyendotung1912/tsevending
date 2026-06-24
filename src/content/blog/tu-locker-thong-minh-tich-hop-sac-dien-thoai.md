@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Sạc Điện Thoại"
 description: "Khám phá giá trị gia tăng của tủ locker thông minh tích hợp sạc điện thoại, thu hút người dùng với công nghệ hiện đại và tiện lợi, liên hệ TSE Vending để biết thêm thông tin"
-date: "2026-06-25"
+date: "2026-01-10"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker sạc điện thoại", "charging locker", "tủ locker sạc pin"]

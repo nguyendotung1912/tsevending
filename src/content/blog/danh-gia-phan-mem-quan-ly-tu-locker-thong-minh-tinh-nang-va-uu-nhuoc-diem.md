@@ -1,7 +1,7 @@
 ---
 title: "Đánh giá phần mềm quản lý tủ locker thông minh: Tính năng và ưu nhược điểm"
 description: "Đánh giá thực tế phần mềm qu��n lý tủ locker thông minh, bao gồm tính năng và ưu nhược điểm. Tìm hiểu giải pháp quản lý locker hiệu quả cho doanh nghiệp của bạn."
-date: "2026-07-06"
+date: "2026-02-27"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["đánh giá phần mềm locker", "locker software review", "quản lý locker app"]

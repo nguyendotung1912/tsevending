@@ -1,7 +1,7 @@
 ---
 title: "Quy Định Pháp Lý Về Máy Bán Hàng Tự Động Tại Việt Nam: Giấy Phép Cần Thiết"
 description: "Hướng dẫn đầy đủ quy định pháp lý kinh doanh máy bán hàng tự động tại Việt Nam: đăng ký kinh doanh, giấy phép an toàn thực phẩm, thuế và nghĩa vụ pháp lý của người vận hành."
-date: "2026-08-19"
+date: "2026-04-04"
 silo: "may-ban-hang-tu-dong"
 sub: "phap-ly-thi-truong"
 keywords: ["pháp lý máy bán hàng tự động Việt Nam", "giấy phép vending machine", "quy định kinh doanh vending"]

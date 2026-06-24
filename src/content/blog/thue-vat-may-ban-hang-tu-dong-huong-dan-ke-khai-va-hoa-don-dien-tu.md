@@ -1,7 +1,7 @@
 ---
 title: "Thuế VAT máy bán hàng tự động: Hướng dẫn kê khai và hóa đơn điện tử"
 description: "Hướng dẫn kê khai thuế VAT và sử dụng hóa đơn điện tử cho máy bán hàng tự động. Tìm hiểu quy định và cách thực hiện kế toán vending machine."
-date: "2026-07-06"
+date: "2026-02-28"
 silo: "may-ban-hang-tu-dong"
 sub: "luat-phap"
 keywords: ["thuế VAT máy bán hàng", "hóa đơn điện tử vending", "kế toán vending machine"]

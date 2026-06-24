@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Thế Hệ Tiếp Theo Tại Hàn Quốc Và Singapore: Bài Học Cho Việt Nam"
 description: "Hàn Quốc có 250,000 máy vending với tỷ lệ 1 máy/200 dân. Singapore đang thử nghiệm vending robot phục vụ thực phẩm nóng. Những đổi mới này sẽ đến Việt Nam trong 3-5 năm tới — doanh nghiệp nào chuẩn bị sớm sẽ chiếm lợi thế."
-date: "2026-11-14"
+date: "2026-05-06"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine Hàn Quốc", "Singapore vending machine", "xu hướng vending Đông Nam Á"]

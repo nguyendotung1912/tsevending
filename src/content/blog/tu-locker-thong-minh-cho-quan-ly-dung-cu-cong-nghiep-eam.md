@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho quản lý dụng cụ công nghiệp EAM"
 description: "Tủ locker thông minh giúp quản lý dụng cụ công nghiệp EAM hiệu quả. Tìm hiểu giải pháp locker công nghiệp EAM từ TSE Vending."
-date: "2026-06-27"
+date: "2026-01-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker công nghiệp EAM", "industrial tool locker", "tủ locker dụng cụ"]

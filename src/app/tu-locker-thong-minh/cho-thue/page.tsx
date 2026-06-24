@@ -8,7 +8,7 @@ import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Cho Thuê Tủ Locker Thông Minh — Dịch Vụ Trọn Gói | TSE Vending",
+  title: "Cho Thuê Tủ Locker Thông Minh Trọn Gói | TSE Vending",
   description:
     "Cho thuê tủ locker thông minh trọn gói (OPEX): không cần đầu tư vốn, TSE Vending cài đặt và bảo trì — bạn chỉ trả phí dịch vụ hàng tháng. Phù hợp chung cư, văn phòng, siêu thị.",
   path: "/tu-locker-thong-minh/cho-thue",

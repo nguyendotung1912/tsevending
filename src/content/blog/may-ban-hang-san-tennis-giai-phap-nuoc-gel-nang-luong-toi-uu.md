@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Sân Tennis: Giải Pháp Nước & Gel Năng Lượng Tối Ưu"
 description: "Khám phá lợi ích của máy bán hàng tự động chuyên dụng tại sân tennis và pickleball, cung cấp nước điện giải và gel năng lượng tức thì. Nâng cao trải nghiệm người chơi và doanh thu. Liên hệ TSE Vending để triển khai giải pháp."
-date: "2026-06-27"
+date: "2026-01-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng sân tennis", "vending machine thể thao", "gel năng lượng tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh HACCP cho Ngành Thực Phẩm - Giải Pháp Bảo Quản Dụng Cụ"
 description: "Tủ locker thông minh HACCP - Giải pháp b��o quản dụng cụ ngành thực phẩm an toàn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-27"
+date: "2026-01-20"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["HACCP locker", "food industry locker", "tủ locker ngành thực phẩm"]

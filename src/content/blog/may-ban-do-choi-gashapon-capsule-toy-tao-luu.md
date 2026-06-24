@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Đồ Chơi Gashapon Tự Động: Trào Lưu Capsule Toy Tại Việt Nam"
 description: "Máy bán đồ chơi Gashapon và capsule toy đang bùng nổ tại Việt Nam. Phân tích mô hình kinh doanh, lợi nhuận, vị trí đặt máy và cách nhập hàng phù hợp thị trường."
-date: "2026-07-16"
+date: "2026-03-14"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-choi"
 keywords: ["máy bán Gashapon", "capsule toy Việt Nam", "máy bán đồ chơi tự động"]

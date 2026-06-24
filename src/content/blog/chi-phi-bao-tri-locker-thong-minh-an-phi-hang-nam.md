@@ -1,7 +1,7 @@
 ---
 title: "Chi Phí Bảo Trì Locker Thông Minh Hàng Năm: Ẩn Phí Cần Biết Trước Khi Mua"
 description: "Chi phí bảo trì tủ locker thông minh thực tế gồm những gì? Phân tích đầy đủ linh kiện hay hỏng, lịch bảo trì định kỳ và cách tính tổng chi phí sở hữu (TCO) cho locker thông minh."
-date: "2026-07-11"
+date: "2026-03-10"
 silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["chi phí bảo trì locker thông minh", "bảo trì locker hàng năm", "TCO tủ locker thông minh"]

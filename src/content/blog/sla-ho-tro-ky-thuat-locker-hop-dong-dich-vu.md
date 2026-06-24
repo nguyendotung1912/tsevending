@@ -1,7 +1,7 @@
 ---
 title: "SLA Và Hỗ Trợ Kỹ Thuật Locker: Những Điều Phải Có Trong Hợp Đồng Dịch Vụ"
 description: "Hướng dẫn đàm phán SLA cho hệ thống locker thông minh: uptime cam kết, thời gian phản hồi, penalty vi phạm và các điều khoản bảo trì phải có trong hợp đồng."
-date: "2026-08-27"
+date: "2026-04-07"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-kinh-doanh"
 keywords: ["SLA locker thông minh", "hỗ trợ kỹ thuật locker", "hợp đồng dịch vụ locker"]

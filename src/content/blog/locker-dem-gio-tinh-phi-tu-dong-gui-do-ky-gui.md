@@ -1,7 +1,7 @@
 ---
 title: "Locker Đếm Giờ Và Tính Phí Tự Động: Giải Pháp Thu Phí Gửi Đồ Thông Minh"
 description: "Locker tính phí theo giờ cho phép thu tiền gửi đồ tự động tại bãi biển, sân bay, trung tâm thương mại. Cách hoạt động, cấu hình giá và mô hình kinh doanh thực tế."
-date: "2026-08-21"
+date: "2026-04-05"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker tính phí theo giờ", "locker đếm giờ gửi đồ", "thu phí gửi đồ tự động"]

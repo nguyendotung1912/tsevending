@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Vực Phòng Thử Quần Áo: Lưu Trữ Đồ Cá Nhân Thời Trang"
 description: "Khách thử quần áo cần đặt túi xách, áo khoác và đồ dùng cá nhân ở đâu đó trong khi thử. Locker nhỏ ngay cạnh phòng thử quần áo giải quyết vấn đề này — tăng sự thoải mái và giảm thời gian thử đồ. Phòng thời trang cao cấp và H&M, Zara áp dụng mô hình này."
-date: "2027-01-16"
+date: "2026-05-29"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng thử đồ", "tủ locker thời trang", "fitting room locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Thanh Toán: Tiền Mặt, MoMo Và VNPay"
 description: "Locker thu phí cần chấp nhận mọi hình thức thanh toán phổ biến tại Việt Nam: tiền mặt tự động, MoMo, VNPay, thẻ ngân hàng và QR Code. Người dùng không phải lo thiếu ứng dụng hay sóng điện thoại để thanh toán."
-date: "2026-12-04"
+date: "2026-05-14"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker thanh toán MoMo VNPay", "tủ locker nhận tiền mặt", "smart locker payment integration"]

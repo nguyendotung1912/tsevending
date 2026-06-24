@@ -323,7 +323,7 @@ export const SILOS: Silo[] = [
         slug: "tu-locker-van-phong",
         title: "Tủ locker thông minh văn phòng, khu công nghiệp",
         shortTitle: "Văn phòng, KCN",
-        metaTitle: "Tủ Locker Thông Minh Văn Phòng, Khu Công Nghiệp | TSE Vending",
+        metaTitle: "Tủ Locker Thông Minh Văn Phòng & KCN | TSE Vending",
         metaDescription:
           "Tủ locker thông minh cho văn phòng, nhà máy, khu công nghiệp: lưu trữ đồ cá nhân, tài liệu, thiết bị bảo hộ. Mở khóa bằng thẻ nhân viên, vân tay.",
         h1: "Tủ Locker Thông Minh Văn Phòng, Khu Công Nghiệp",
@@ -379,7 +379,7 @@ export const SILOS: Silo[] = [
         slug: "tu-locker-giao-nhan-hang",
         title: "Tủ locker giao nhận hàng (logistics, shipper)",
         shortTitle: "Giao nhận hàng (logistics)",
-        metaTitle: "Tủ Locker Giao Nhận Hàng Cho Logistics, Shipper | TSE Vending",
+        metaTitle: "Tủ Locker Giao Nhận Hàng Logistics | TSE Vending",
         metaDescription:
           "Tủ locker thông minh cho điểm giao nhận hàng, bưu cục, shipper: gửi/nhận hàng tự động 24/7, tích hợp API với sàn TMĐT và đơn vị vận chuyển.",
         h1: "Tủ Locker Giao Nhận Hàng Cho Logistics, Shipper",
@@ -463,7 +463,7 @@ export const SILOS: Silo[] = [
         slug: "tu-locker-sieu-thi-ban-le",
         title: "Tủ locker gửi đồ siêu thị, trung tâm thương mại",
         shortTitle: "Siêu thị, TTTM",
-        metaTitle: "Tủ Gửi Đồ Thông Minh Siêu Thị, Trung Tâm Thương Mại | TSE Vending",
+        metaTitle: "Tủ Gửi Đồ Thông Minh Siêu Thị, TTTM | TSE Vending",
         metaDescription:
           "Tủ gửi đồ thông minh tự phục vụ cho siêu thị, trung tâm thương mại: khách hàng gửi đồ bằng QR/mã PIN trong 30 giây, vận hành không cần nhân viên trực.",
         h1: "Tủ Gửi Đồ Thông Minh Cho Siêu Thị, Trung Tâm Thương Mại",
@@ -531,7 +531,7 @@ export const SOLUTIONS_SILO = {
   slug: "giai-phap-kinh-doanh",
   title: "Giải pháp & tư vấn vận hành vending",
   shortTitle: "Giải pháp kinh doanh",
-  metaTitle: "Giải Pháp Kinh Doanh Vending & Tủ Locker Thông Minh | TSE Vending",
+  metaTitle: "Giải Pháp Kinh Doanh Vending & Smart Locker | TSE Vending",
   metaDescription:
     "Tư vấn giải pháp kinh doanh máy bán hàng tự động & tủ locker thông minh: khảo sát vị trí, mô hình hợp tác đầu tư, vận hành - quản lý từ xa, tối ưu chi phí.",
   h1: "Giải Pháp & Tư Vấn Vận Hành Vending",

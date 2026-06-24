@@ -1,7 +1,7 @@
 ---
 title: "Camera Giám Sát Kết Hợp Locker: Hệ Thống An Ninh Toàn Diện Cho Tòa Nhà"
 description: "Tích hợp camera giám sát IP với tủ locker thông minh tạo hệ thống an ninh toàn diện. Cách lắp đặt, góc camera, tích hợp AI phát hiện bất thường và quy định pháp lý."
-date: "2026-08-01"
+date: "2026-03-25"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["camera giám sát locker", "hệ thống an ninh locker tòa nhà", "camera AI kết hợp locker"]

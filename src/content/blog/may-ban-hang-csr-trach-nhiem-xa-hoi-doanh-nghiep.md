@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Và Trách Nhiệm Xã Hội Doanh Nghiệp: CSR Và Giá Trị Cộng Đồng"
 description: "Máy vending không chỉ là thiết bị kinh doanh — mà còn là công cụ thực hiện CSR: phúc lợi nhân viên, hỗ trợ nhà sản xuất địa phương, giảm thiểu rác thải nhựa và tạo tiếp cận công bằng cho mọi người."
-date: "2026-10-11"
+date: "2026-04-24"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine CSR", "trách nhiệm xã hội máy bán hàng", "vending machine bền vững Việt Nam"]

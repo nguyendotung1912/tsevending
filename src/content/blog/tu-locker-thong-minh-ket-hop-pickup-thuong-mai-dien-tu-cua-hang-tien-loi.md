@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Kết Hợp Điểm Pick-up Thương Mại Điện Tử Tại Cửa Hàng Tiện Lợi"
 description: "Amazon Locker, Cainiao locker và các mô hình pickup point đang thay đổi logistics thương mại điện tử toàn cầu. Cửa hàng tiện lợi tại Việt Nam có thể trở thành điểm pickup với tủ locker thông minh — tăng traffic và doanh thu cho cả chuỗi và đơn vị logistics."
-date: "2026-11-19"
+date: "2026-05-08"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker pickup thương mại điện tử", "điểm nhận hàng tự động", "ecommerce pickup locker cửa hàng"]

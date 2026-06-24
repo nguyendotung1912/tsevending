@@ -1,7 +1,7 @@
 ---
 title: "Thuê máy bán hàng tự động ngắn hạn: Giải pháp kinh doanh linh hoạt"
 description: "Tìm hiểu về thuê máy bán hàng tự động ngắn hạn, lợi thế, chi phí và điều kiện thuê. Liên hệ TSE Vending để được tư vấn giải pháp kinh doanh linh hoạt."
-date: "2026-06-30"
+date: "2026-02-06"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["thuê máy bán hàng tự động", "cho thuê vending machine", "thuê ngắn hạn"]

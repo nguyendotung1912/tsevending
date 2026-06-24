@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Khu Nghỉ Dưỡng Biển: Cơ Hội Doanh Thu Mùa Hè Cao Điểm"
 description: "Resort biển Đà Nẵng, Nha Trang, Phú Quốc đón hàng trăm nghìn khách mùa hè — bãi biển, hồ bơi và spa là những vị trí vàng cho vending machine. Phân tích doanh thu, sản phẩm và mô hình hợp tác với resort."
-date: "2026-11-03"
+date: "2026-05-02"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["vending machine resort biển", "máy bán hàng khu du lịch biển", "vending machine Đà Nẵng Nha Trang Phú Quốc"]

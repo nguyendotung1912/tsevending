@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Trong Hệ Thống Quản Lý Dụng Cụ Công Nghiệp EAM"
 description: "Enterprise Asset Management (EAM) tại nhà máy công nghiệp đòi hỏi kiểm soát dụng cụ chính xác. Tủ locker thông minh tích hợp EAM giúp theo dõi ai lấy dụng cụ gì, khi nào và trả lại hay chưa — giảm thất lạc, tăng trách nhiệm và tối ưu tồn kho dụng cụ."
-date: "2027-03-07"
+date: "2026-06-17"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker EAM công nghiệp", "tủ locker quản lý dụng cụ nhà máy", "smart locker enterprise asset management"]

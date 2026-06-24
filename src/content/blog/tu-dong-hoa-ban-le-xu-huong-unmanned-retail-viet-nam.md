@@ -1,7 +1,7 @@
 ---
 title: "Tự Động Hóa Bán Lẻ: Xu Hướng Unmanned Retail Tại Việt Nam 2026"
 description: "Unmanned retail — cửa hàng không người phục vụ — đang thay đổi ngành bán lẻ Việt Nam. Phân tích xu hướng, công nghệ, thị trường và cơ hội đầu tư vào mô hình bán lẻ tự động."
-date: "2026-07-21"
+date: "2026-03-18"
 silo: "may-ban-hang-tu-dong"
 sub: "tu-dong-hoa"
 keywords: ["unmanned retail Việt Nam", "tự động hóa bán lẻ", "cửa hàng không nhân viên"]

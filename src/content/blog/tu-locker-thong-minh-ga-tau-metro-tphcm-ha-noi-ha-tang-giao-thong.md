@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Nhà Ga Tàu Điện Ngầm Metro TP.HCM Và Hà Nội: Hạ Tầng Giao Thông"
 description: "Metro TP.HCM Line 1 (2024) và Hà Nội Metro đang mở ra hệ thống giao thông công cộng văn minh. Locker thông minh tại ga metro là tiêu chuẩn quốc tế — hành khách gửi hành lý, xe đạp và đồ cồng kềnh khi di chuyển bằng tàu điện ngầm."
-date: "2027-01-19"
+date: "2026-05-31"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker ga metro", "tủ locker tàu điện ngầm", "metro station locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn bảo trì định kỳ tủ locker thông minh"
 description: "Hướng dẫn bảo trì định kỳ tủ locker thông minh để đảm b��o hoạt động ổn định và kéo dài tuổi thọ. Liên hệ TSE Vending để được tư vấn miễn phí."
-date: "2026-07-08"
+date: "2026-03-06"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["bảo trì tủ locker", "maintenance locker", "quy trình kiểm tra locker"]

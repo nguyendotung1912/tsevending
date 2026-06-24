@@ -1,7 +1,7 @@
 ---
 title: "Máy bán cà phê hạt rang xay tươi tại chỗ - Xu hướng mới Whole Bean Vending"
 description: "Tìm hiểu về máy bán cà phê hạt rang xay tươi tại chỗ, xu hướng mới trong ngành cà phê tự động. Giải pháp kinh doanh cà phê tươi với whole bean vending machine."
-date: "2026-07-02"
+date: "2026-02-12"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán cà phê hạt rang xay", "whole bean vending", "cà phê tươi tự động"]

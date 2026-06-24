@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Đơn Vị Cho Thuê Thiết Bị AV Sự Kiện: Nhận Và Trả"
 description: "Đơn vị cho thuê thiết bị âm thanh, ánh sáng và hình ảnh (AV) phục vụ sự kiện phải quản lý hàng trăm thiết bị đắt tiền. Locker thông minh tại kho AV và tại địa điểm sự kiện giúp kiểm soát nhận/trả thiết bị, track tình trạng và giảm mất mát."
-date: "2027-01-20"
+date: "2026-05-31"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker thiết bị AV", "tủ locker cho thuê sự kiện", "event equipment locker"]

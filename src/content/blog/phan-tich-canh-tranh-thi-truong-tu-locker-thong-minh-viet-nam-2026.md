@@ -1,7 +1,7 @@
 ---
 title: "Phân tích cạnh tranh thị trường tủ locker thông minh Việt Nam 2026"
 description: "Phân tích SWOT thị trường tủ locker thông minh Vi��t Nam 2026. Tìm hiểu về cạnh tranh, cơ hội và thách thức trong ngành locker thông minh."
-date: "2026-07-07"
+date: "2026-03-04"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["cạnh tranh thị trường locker", "SWOT locker Việt Nam", "phân tích thị trường locker"]

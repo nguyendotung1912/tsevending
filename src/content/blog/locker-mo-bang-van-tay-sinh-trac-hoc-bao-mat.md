@@ -1,7 +1,7 @@
 ---
 title: "Locker Mở Bằng Vân Tay: Công Nghệ Sinh Trắc Học Bảo Mật Cao"
 description: "Tủ locker mở bằng vân tay (fingerprint locker) cung cấp xác thực sinh trắc không thể làm giả. Phân tích công nghệ cảm biến vân tay, độ chính xác thực tế và so sánh với các phương thức mở khóa khác."
-date: "2026-07-02"
+date: "2026-02-11"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker vân tay", "fingerprint locker", "tủ locker sinh trắc học"]

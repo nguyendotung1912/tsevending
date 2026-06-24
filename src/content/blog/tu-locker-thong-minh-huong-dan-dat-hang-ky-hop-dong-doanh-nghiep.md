@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Đặt Hàng Và Ký Kết Hợp Đồng Tủ Locker Thông Minh Cho Doanh Nghiệp"
 description: "Quy trình từ lúc liên hệ nhà cung cấp đến ký hợp đồng và nhận locker hoàn chỉnh. Doanh nghiệp cần chuẩn bị gì, hỏi gì và kiểm tra gì trong hợp đồng để đảm bảo đầu tư hiệu quả và tránh rủi ro pháp lý sau này."
-date: "2027-02-26"
+date: "2026-06-14"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["đặt hàng tủ locker thông minh", "hợp đồng mua locker doanh nghiệp", "quy trình mua locker"]

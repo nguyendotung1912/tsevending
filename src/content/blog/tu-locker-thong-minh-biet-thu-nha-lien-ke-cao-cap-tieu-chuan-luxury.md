@@ -1,7 +1,7 @@
 ---
 title: "Giải Pháp Tủ Locker Thông Minh Cho Biệt Thự Và Nhà Liền Kề Cao Cấp: Tiêu Chuẩn Luxury"
 description: "Chủ biệt thự và nhà liền kề cao cấp yêu cầu mọi thứ trong nhà phải ở tiêu chuẩn luxury — kể cả locker. Không phải locker công nghiệp, mà là hệ thống lưu trữ tích hợp vào kiến trúc, dùng vật liệu cao cấp và tích hợp với hệ thống smart home."
-date: "2026-12-21"
+date: "2026-05-20"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker biệt thự", "luxury locker", "tủ locker nhà cao cấp"]

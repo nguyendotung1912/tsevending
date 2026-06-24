@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Làng Đại Học: Kết Nối Nhiều Cơ Sở Giáo Dục Trên Một Nền Tảng"
 description: "Làng Đại học ĐHQG TP.HCM, Hòa Lạc (Hà Nội) có hàng chục trường đại học và hàng trăm nghìn sinh viên. Hệ thống locker chung cho toàn làng đại học giúp sinh viên dùng một thẻ tại mọi trường, chia sẻ tài nguyên và tiết kiệm chi phí đầu tư."
-date: "2026-12-22"
+date: "2026-05-20"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker làng đại học", "university village locker", "campus locker"]

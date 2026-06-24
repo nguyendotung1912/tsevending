@@ -1,7 +1,7 @@
 ---
 title: "Xu Hướng Tủ Locker Giao Nhận Hàn Quốc: Kakao i Locker Và Mô Hình Tiên Tiến Châu Á"
 description: "Hàn Quốc là thị trường locker thông minh phát triển bậc nhất châu Á — Kakao i Locker, GS25 Parcel Locker, CU PickUp và mạng lưới locker của các chuỗi tiện lợi. Bài học từ Hàn Quốc cho thị trường locker Việt Nam đang phát triển."
-date: "2026-12-27"
+date: "2026-05-22"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["Kakao locker Hàn Quốc", "locker giao nhận Hàn Quốc", "mô hình locker châu Á"]

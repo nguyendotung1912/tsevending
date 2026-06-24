@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trung Tâm Dạy Nghề Và Giáo Dục Nghề Nghiệp: Bảo Vệ Dụng Cụ"
 description: "Học sinh trường nghề sử dụng dụng cụ đắt tiền — bộ dao nhà bếp, thiết bị điện, máy đo điện tử, dụng cụ cơ khí. Locker thông minh tại phòng thực hành quản lý dụng cụ dùng chung, kiểm soát mượn trả và phòng ngừa mất mát thiệt hại."
-date: "2026-12-30"
+date: "2026-05-23"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker dạy nghề", "tủ locker trường nghề", "vocational locker"]

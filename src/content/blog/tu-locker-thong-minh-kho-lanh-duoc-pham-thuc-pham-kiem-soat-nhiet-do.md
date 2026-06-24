@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Trong Kho Lạnh Dược Phẩm Và Thực Phẩm: Kiểm Soát Nhiệt Độ"
 description: "Kho lạnh dược phẩm và thực phẩm yêu cầu kiểm soát nhiệt độ nghiêm ngặt. Locker thông minh tích hợp vào cold room giúp quản lý xuất nhập hàng với audit trail đầy đủ, đảm bảo FEFO và duy trì chuỗi lạnh không bị gián đoạn."
-date: "2027-01-22"
+date: "2026-06-01"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker kho lạnh", "tủ locker cold storage", "cold room locker dược phẩm"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Mô Hình Xe Đạp Chia Sẻ Và Xe Máy Điện Tự Phục Vụ"
 description: "Bike-sharing và xe máy điện tự phục vụ đang phát triển tại các đô thị VN. Trạm locker kết hợp với điểm lấy/trả xe tạo ra hub tiện lợi — người dùng gửi đồ, lấy xe và thanh toán tại cùng một điểm. Giải pháp multimodal cho đô thị thông minh."
-date: "2027-02-01"
+date: "2026-06-04"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe đạp chia sẻ", "tủ locker bike sharing", "micro-mobility locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine tại Khu Nghỉ Dưỡng Biển: Cơ Hội Doanh Thu Cao Điểm Mùa Hè"
 description: "Khám phá cách vending machine tại khu nghỉ dưỡng biển giúp tăng doanh thu cao điểm mùa hè. Liên hệ TSE Vending để triển khai giải pháp máy bán hàng tự động."
-date: "2026-06-29"
+date: "2026-02-01"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine resort biển", "máy bán hàng mùa hè", "doanh thu cao điểm"]

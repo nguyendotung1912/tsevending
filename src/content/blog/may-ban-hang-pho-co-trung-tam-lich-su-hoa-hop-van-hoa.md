@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Phố Cổ Và Khu Di Tích Lịch Sử: Hài Hòa Hiện Đại Và Văn Hóa"
 description: "Phố cổ Hội An, phố cổ Hà Nội, Huế cổ đô — những khu vực này thu hút triệu khách du lịch nhưng đặt máy vending 'hiện đại' mà không phá vỡ cảnh quan lịch sử là bài toán thiết kế thú vị."
-date: "2026-11-02"
+date: "2026-05-02"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng phố cổ Hội An", "vending machine khu di tích", "máy bán hàng hòa hợp văn hóa"]

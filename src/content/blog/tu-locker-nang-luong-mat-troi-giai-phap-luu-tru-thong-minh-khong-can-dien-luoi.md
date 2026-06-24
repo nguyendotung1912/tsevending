@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker năng lượng mặt trời - Giải pháp lưu trữ thông minh không cần điện lưới"
 description: "Khám phá tủ locker năng lượng mặt trời, giải pháp lưu trữ hàng hóa thông minh không cần điện lưới. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-06-28"
+date: "2026-01-24"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker năng lượng mặt trời", "solar locker", "tủ locker điện mặt trời"]

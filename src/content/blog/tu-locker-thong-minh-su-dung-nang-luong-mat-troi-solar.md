@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Năng Lượng Mặt Trời: Giải Pháp Xanh Không Cần Điện Lưới"
 description: "Locker tại bãi biển, khu du lịch, sân golf hoặc vùng sâu vùng xa không có điện lưới ổn định. Hệ thống locker chạy hoàn toàn bằng năng lượng mặt trời với pin dự phòng giải quyết bài toán này — vận hành 24/7 mà không cần kéo điện."
-date: "2026-12-05"
+date: "2026-05-14"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker năng lượng mặt trời", "tủ locker solar", "smart locker không cần điện lưới"]

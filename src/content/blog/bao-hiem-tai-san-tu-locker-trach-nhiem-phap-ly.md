@@ -1,7 +1,7 @@
 ---
 title: "Bảo Hiểm Tài Sản Trong Tủ Locker: Trách Nhiệm Pháp Lý Của Người Vận Hành"
 description: "Trách nhiệm pháp lý của chủ sở hữu và người vận hành tủ locker khi tài sản người dùng bị mất hoặc hư hỏng. Bảo hiểm trách nhiệm dân sự, giới hạn bồi thường và các điều khoản cần thiết."
-date: "2026-09-01"
+date: "2026-04-09"
 silo: "tu-locker-thong-minh"
 sub: "phap-ly-van-hanh"
 keywords: ["bảo hiểm locker thông minh", "trách nhiệm pháp lý tủ locker", "mất đồ trong locker bồi thường"]

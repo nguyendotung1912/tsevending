@@ -1,7 +1,7 @@
 ---
 title: "Franchise Máy Bán Hàng Tự Động: Cơ Hội Kinh Doanh Nhượng Quyền Vending"
 description: "Mô hình franchise máy bán hàng tự động — mua nhượng quyền thương hiệu và hệ thống vận hành đã được kiểm chứng. Phân tích ưu nhược điểm và so sánh với tự kinh doanh độc lập."
-date: "2026-07-20"
+date: "2026-03-17"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["franchise máy bán hàng tự động", "nhượng quyền vending", "mô hình franchise vending"]

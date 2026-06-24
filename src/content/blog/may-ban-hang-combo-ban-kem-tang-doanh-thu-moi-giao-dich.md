@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Combo Và Bán Kèm: Chiến Lược Tăng Doanh Thu Mỗi Giao Dịch"
 description: "McDonald's tăng doanh thu 30% chỉ với câu hỏi 'Bạn muốn thêm khoai tây chiên không?'. Máy vending cũng có thể áp dụng chiến lược upsell và cross-sell tương tự — tăng giá trị giỏ hàng mà không tốn thêm chi phí thu hút khách."
-date: "2026-10-22"
+date: "2026-04-28"
 silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["máy bán hàng combo", "upsell vending machine", "tăng doanh thu máy bán hàng tự động"]

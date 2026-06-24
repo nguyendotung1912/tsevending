@@ -1,7 +1,7 @@
 ---
 title: "PropTech Và Locker Thông Minh: Xu Hướng Công Nghệ Bất Động Sản 2026"
 description: "PropTech (Property Technology) đang tái định nghĩa bất động sản Việt Nam — và locker thông minh là một trong những công nghệ đang được tích hợp nhanh nhất vào dự án nhà ở mới."
-date: "2026-08-06"
+date: "2026-03-29"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["PropTech locker thông minh", "công nghệ bất động sản locker", "locker chung cư PropTech"]

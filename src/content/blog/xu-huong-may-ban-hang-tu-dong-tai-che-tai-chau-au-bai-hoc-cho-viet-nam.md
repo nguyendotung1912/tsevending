@@ -1,7 +1,7 @@
 ---
 title: "Xu hướng máy bán hàng tự động tái chế tại Châu Âu: Bài học cho Việt Nam"
 description: "Tìm hiểu xu hướng máy bán hàng tự động tái chế và hệ thống deposit tại Châu Âu. Bài học kinh nghiệm cho Việt Nam trong việc triển khai reverse vending machine."
-date: "2026-07-03"
+date: "2026-02-19"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["reverse vending machine", "máy thu hồi chai tự động", "deposit system vending"]

@@ -1,7 +1,7 @@
 ---
 title: "So sánh bảo mật locker AES, TLS và HTTPS cho tủ locker thông minh"
 description: "Tìm hiểu về các giao thức bảo mật tủ locker thông minh như AES, TLS v�� HTTPS để bảo vệ dữ liệu và tài sản của bạn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-25"
+date: "2026-01-06"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["bảo mật locker AES", "giao thức bảo mật tủ locker", "TLS locker"]

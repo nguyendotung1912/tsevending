@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Trong Dự Báo Hàng Hóa Vending Machine: Từ Lý Thuyết Đến Thực Hành"
 description: "Machine Learning giúp dự báo chính xác khi nào máy vending sắp hết hàng, sản phẩm nào bán nhiều hơn vào ngày nào, và tối ưu lộ trình tiếp hàng. Hướng dẫn thực tế cho vận hành 10–200 máy."
-date: "2026-10-01"
+date: "2026-04-20"
 silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["machine learning vending machine", "AI dự báo hàng hóa", "demand forecasting vending"]

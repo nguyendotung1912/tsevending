@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Token Và Điểm Thưởng: Loyalty Program Cho Người Dùng"
 description: "Tích hợp chương trình loyalty vào locker thông minh biến việc sử dụng locker thành hành động tích điểm — mở ô đúng giờ, sử dụng thường xuyên, giới thiệu bạn bè đều được thưởng. Token và điểm thưởng tăng gắn kết và giảm tỷ lệ bỏ dùng."
-date: "2026-12-07"
+date: "2026-05-15"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker điểm thưởng loyalty", "tủ locker token tích điểm", "smart locker gamification"]

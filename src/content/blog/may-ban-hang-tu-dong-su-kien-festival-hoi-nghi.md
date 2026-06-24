@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Cho Sự Kiện: Festival, Triển Lãm Và Hội Nghị"
 description: "Máy bán hàng tự động tại sự kiện festival, triển lãm và hội nghị là giải pháp bán lẻ linh hoạt, không cần nhân viên 24/7. Thuê máy theo sự kiện, loại sản phẩm phù hợp và tính toán doanh thu."
-date: "2026-08-05"
+date: "2026-03-28"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán hàng sự kiện", "vending machine festival", "thuê máy bán hàng tự động sự kiện"]

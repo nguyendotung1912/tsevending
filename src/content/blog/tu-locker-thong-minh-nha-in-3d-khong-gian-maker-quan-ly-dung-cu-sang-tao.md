@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Nhà In 3D Và Không Gian Maker: Quản Lý Dụng Cụ Sáng Tạo"
 description: "Makerspace, fablab và coworking sáng tạo cần quản lý máy in 3D, laser cutter, dụng cụ điện và vật liệu cho nhiều thành viên dùng chung. Locker thông minh kiểm soát checkout dụng cụ, bảo vệ thiết bị đắt tiền và đảm bảo an toàn."
-date: "2027-01-24"
+date: "2026-06-01"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker makerspace", "tủ locker fablab", "3D printing locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Bảo Trì Tủ Locker Thông Minh Định Kỳ: Checklist 20 Điểm Cho Vận Hành Bền Vững"
 description: "Checklist bảo trì tủ locker thông minh đầy đủ 20 điểm theo tần suất hàng tháng, quý và năm. Giúp quản trị viên duy trì locker hoạt động ổn định và kéo dài tuổi thọ thiết bị."
-date: "2026-07-18"
+date: "2026-03-15"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["bảo trì locker thông minh", "checklist bảo trì locker", "quy trình bảo dưỡng locker"]

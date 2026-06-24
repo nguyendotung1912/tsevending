@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhà Kho Tự Phục Vụ (Self-Storage): Mô Hình Kinh Doanh Tiềm Năng Tại Việt Nam"
 description: "Self-storage locker là mô hình kinh doanh cho thuê không gian lưu trữ tự phục vụ. Phân tích thị trường, chi phí đầu tư, doanh thu và cách vận hành self-storage tại Việt Nam 2026."
-date: "2026-08-08"
+date: "2026-03-30"
 silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["self-storage locker Việt Nam", "nhà kho tự phục vụ", "kinh doanh self-storage"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Du Thuyền Và Cảng Hàng Hải: Bảo Mật Đồ Dùng"
 description: "Cảng du thuyền, marina và cảng hàng hải cần locker chịu môi trường biển khắc nghiệt — muối, ẩm, sóng gió. Thủy thủ và khách du lịch biển cần gửi đồ an toàn. Locker marine-grade là giải pháp cho coastal hospitality cao cấp tại VN."
-date: "2027-01-12"
+date: "2026-05-28"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker cảng du thuyền", "tủ locker marina", "marine grade locker"]

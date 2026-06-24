@@ -1,7 +1,7 @@
 ---
 title: "Thương Hiệu Tủ Locker Thông Minh Châu Á Nổi Bật: Phân Tích Thị Phần Và Chiến Lược"
 description: "Thị trường locker thông minh châu Á dẫn đầu thế giới với các thương hiệu từ Nhật, Hàn, Trung Quốc và Singapore. Phân tích chiến lược và bài học từ các thương hiệu thành công để doanh nghiệp VN hiểu xu hướng và lựa chọn đối tác phù hợp."
-date: "2027-02-09"
+date: "2026-06-07"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["thương hiệu locker thông minh châu Á", "locker Nhật Bản Hàn Quốc", "thị phần smart locker ASEAN"]

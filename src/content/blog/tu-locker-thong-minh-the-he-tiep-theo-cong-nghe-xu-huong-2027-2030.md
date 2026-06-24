@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Thế Hệ Tiếp Theo: Công Nghệ Và Xu Hướng 2027-2030"
 description: "Trong 3-5 năm tới, locker thông minh sẽ tích hợp AI nhận dạng khuôn mặt, IoT cảm biến tiên tiến, blockchain truy xuất và năng lượng tái tạo. Phân tích các xu hướng công nghệ sẽ định hình thế hệ locker tiếp theo và tác động đến thị trường VN."
-date: "2027-02-20"
+date: "2026-06-11"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["xu hướng locker thông minh 2030", "công nghệ locker tương lai AI IoT", "next-gen smart locker"]

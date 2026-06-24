@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tiền xu: Liệu còn phù hợp 2026?"
 description: "Máy bán hàng tự động thanh toán tiền xu - Mô hình cổ đi��n vẫn có giá trị. Tìm hiểu ưu điểm và ứng dụng trong thời đại hiện đại. Liên hệ TSE Vending để triển khai giải pháp."
-date: "2026-06-30"
+date: "2026-02-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-thanh-toan"
 keywords: ["máy bán hàng tiền xu", "coin vending machine", "thanh toán tiền xu"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Nước Detox Và Cold-Press Juice Tự Động: Xu Hướng Sức Khỏe 2026"
 description: "Cold-press juice và nước detox tươi đang thay thế nước ngọt tại phân khúc premium Việt Nam. Máy bán tự động giữ lạnh 2-4°C cho phép kinh doanh 24/7 mà không cần nhân viên — mô hình và lợi nhuận thực tế."
-date: "2026-09-13"
+date: "2026-04-13"
 silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["máy bán nước detox tự động", "cold-press juice vending machine", "vending machine nước ép tươi"]

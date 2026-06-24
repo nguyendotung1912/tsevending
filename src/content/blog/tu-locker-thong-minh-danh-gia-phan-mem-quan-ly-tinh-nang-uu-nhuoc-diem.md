@@ -1,7 +1,7 @@
 ---
 title: "Đánh Giá Thực Tế Phần Mềm Quản Lý Tủ Locker Thông Minh: Tính Năng Và Ưu Nhược Điểm"
 description: "Phần mềm là linh hồn của locker thông minh — phần cứng tốt nhưng phần mềm kém thì hệ thống vẫn thất bại. Đánh giá khách quan các tính năng cần có của phần mềm quản lý locker, báo cáo, tích hợp API và trải nghiệm người dùng qua app."
-date: "2027-02-25"
+date: "2026-06-13"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["phần mềm quản lý locker thông minh", "đánh giá app locker", "locker management software"]

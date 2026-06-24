@@ -1,7 +1,7 @@
 ---
 title: "Tương lai máy bán hàng tự động Việt Nam 2027-2030: Xu hướng & Dự báo"
 description: "Khám phá tương lai của máy bán hàng tự động tại Việt Nam từ 2027-2030. Tìm hiểu xu hướng và dự báo thị trường vending machine Việt Nam."
-date: "2026-07-07"
+date: "2026-03-05"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["tương lai vending machine Việt Nam", "xu hướng 2030 vending", "dự báo thị trường"]

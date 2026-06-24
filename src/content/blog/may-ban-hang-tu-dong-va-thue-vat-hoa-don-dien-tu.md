@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Và Thuế: Hướng Dẫn Kê Khai VAT Và Hóa Đơn Điện Tử"
 description: "Kinh doanh vending machine có những nghĩa vụ thuế gì? Cách kê khai VAT đúng, xuất hóa đơn điện tử từ máy vending và những lỗi thuế phổ biến cần tránh — hướng dẫn thực tế cho operator Việt Nam."
-date: "2026-10-29"
+date: "2026-04-30"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["thuế máy bán hàng tự động", "VAT vending machine", "hóa đơn điện tử máy bán hàng tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Chuỗi Cung Ứng Máy Bán Hàng Tự Động: Từ Nhà Sản Xuất Đến Người Dùng Cuối"
 description: "Để 1 lon Coca-Cola vào tay bạn từ nhà máy qua máy vending mất bao nhiêu bước và ai thu lợi ở mỗi khâu? Hiểu chuỗi cung ứng vending giúp operator tối ưu chi phí và tìm cơ hội lợi thế cạnh tranh."
-date: "2026-10-28"
+date: "2026-04-30"
 silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["chuỗi cung ứng vending machine", "supply chain máy bán hàng tự động", "nguồn hàng vending machine Việt Nam"]

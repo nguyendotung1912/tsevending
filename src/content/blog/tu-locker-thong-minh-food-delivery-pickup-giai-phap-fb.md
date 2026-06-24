@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Food Delivery Pickup: Giải Pháp F&B Thông Minh"
 description: "Nhà hàng và chuỗi F&B có đơn giao hàng online nhưng shipper phải đợi thức ăn xong rồi mới lấy. Locker giữ nhiệt tích hợp vào quy trình pickup cho phép nhân viên đặt thức ăn vào locker ngay khi xong — shipper đến lấy không cần đợi, không cần giao tiếp."
-date: "2026-12-25"
+date: "2026-05-21"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker food delivery", "food pickup locker", "tủ locker nhà hàng giao hàng"]

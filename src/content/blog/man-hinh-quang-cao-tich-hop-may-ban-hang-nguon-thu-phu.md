@@ -1,7 +1,7 @@
 ---
 title: "Màn Hình Quảng Cáo Tích Hợp Máy Bán Hàng: Nguồn Thu Nhập Phụ Hiệu Quả"
 description: "Máy bán hàng tự động có màn hình 21–32 inch là bảng quảng cáo di động — bán quảng cáo cho thương hiệu địa phương tạo doanh thu phụ 500,000–5 triệu/tháng/máy. Hướng dẫn triển khai thực tế."
-date: "2026-09-22"
+date: "2026-04-17"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["màn hình quảng cáo máy bán hàng", "digital signage vending machine", "quảng cáo trên vending machine"]

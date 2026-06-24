@@ -1,7 +1,7 @@
 ---
 title: "Tiêu Chuẩn Kỹ Thuật Điện Khi Lắp Đặt Tủ Locker Thông Minh: Cẩm Nang Cho Kỹ Sư"
 description: "Lắp đặt locker thông minh yêu cầu hiểu biết về nguồn điện, mạng LAN, UPS và cách đi dây an toàn. Bài viết cung cấp thông số kỹ thuật chi tiết về điện năng tiêu thụ, yêu cầu MCB, cáp mạng và checklist lắp đặt đúng tiêu chuẩn TCVN."
-date: "2027-02-16"
+date: "2026-06-10"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["tiêu chuẩn điện lắp đặt locker thông minh", "kỹ thuật điện tủ locker", "smart locker electrical installation"]

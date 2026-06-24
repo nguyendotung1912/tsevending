@@ -1,7 +1,7 @@
 ---
 title: "Thiết Kế Không Gian Tối Ưu Khu Vực Đặt Máy Bán Hàng Tự Động"
 description: "Vị trí đặt máy quyết định 50% doanh thu — nhưng thiết kế không gian xung quanh máy quyết định thêm 20-30%. Ánh sáng, lối đi, bảng hiệu và layout có thể tăng hoặc giảm đáng kể doanh thu của máy vending."
-date: "2026-10-05"
+date: "2026-04-21"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["thiết kế không gian vending machine", "layout khu vực máy bán hàng", "tối ưu vị trí vending"]

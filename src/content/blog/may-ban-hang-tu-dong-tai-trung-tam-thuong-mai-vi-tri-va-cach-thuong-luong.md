@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại trung tâm thương mại: Vị trí và cách thương lượng"
 description: "Tìm hiểu về vị trí chiến lược và cách thương lượng thuê mặt bằng cho máy bán hàng tự động tại trung tâm thương mại. Liên hệ TSE Vending để triển khai thành công."
-date: "2026-07-03"
+date: "2026-02-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng trung tâm thương mại", "vending mall", "thuê mặt bằng mall"]

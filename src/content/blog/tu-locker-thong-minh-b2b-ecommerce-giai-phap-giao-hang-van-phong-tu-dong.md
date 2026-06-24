@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh B2B ecommerce: Giải pháp giao hàng văn phòng tự động"
 description: "Khám phá giải pháp tủ locker thông minh cho thương mại điện tử B2B, giúp giao hàng văn phòng tự động, tiết kiệm thời gian và chi phí. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-12"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker B2B ecommerce", "tủ locker giao hàng văn phòng", "B2B delivery locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại khu ẩm thực Food Court: Bổ trợ hay cạnh tranh?"
 description: "Máy bán hàng tự động tại Food Court: Li��u là sự bổ trợ hay cạnh tranh với các quầy ăn uống truyền thống? Tìm hiểu ngay trong bài viết này."
-date: "2026-07-07"
+date: "2026-03-03"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng food court", "vending machine ẩm thực", "food court tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho tòa nhà hỗn hợp văn phòng-dân cư"
 description: "Giải pháp toàn diện cho tòa nhà hỗn hợp văn phòng-dân cư với tủ locker thông minh. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-13"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker mixed-use building", "tủ locker tòa nhà hỗn hợp", "văn phòng dân cư locker"]

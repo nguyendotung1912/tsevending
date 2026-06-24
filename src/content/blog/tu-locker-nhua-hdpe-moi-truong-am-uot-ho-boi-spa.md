@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Nhựa HDPE: Ưu Điểm Vượt Trội Cho Môi Trường Ẩm Ướt Hồ Bơi Và Spa"
 description: "Tủ locker nhựa HDPE hoàn toàn không gỉ, không mốc, nhẹ và bền trong môi trường ẩm ướt. Tại sao HDPE là lựa chọn hàng đầu cho hồ bơi, phòng gym và spa tại Việt Nam."
-date: "2026-07-24"
+date: "2026-03-20"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker nhựa HDPE", "tủ locker hồ bơi", "locker chống ẩm spa"]

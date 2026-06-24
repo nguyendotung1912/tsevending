@@ -1,7 +1,7 @@
 ---
 title: "Bảo Mật Dữ Liệu Tủ Locker Thông Minh: GDPR & Nghị Định 13"
 description: "Tìm hiểu về bảo mật dữ liệu tủ locker thông minh, GDPR và nghị định 13 để bảo vệ thông tin người dùng. Liên hệ TSE Vending để triển khai giải pháp an toàn."
-date: "2026-06-30"
+date: "2026-02-02"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["bảo mật dữ liệu locker", "GDPR locker", "bảo vệ thông tin locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Cơ Sở Tôn Giáo: Chùa, Nhà Thờ Và Thánh Thất Lớn"
 description: "Cơ sở tôn giáo lớn đón hàng nghìn tín đồ và du khách mỗi ngày. Khách cần gửi giày dép trước khi vào chùa, gửi đồ đạc trong khi tham dự lễ. Locker thông minh tại chùa, nhà thờ và thánh thất giải quyết nhu cầu thực tiễn với thiết kế tôn trọng không gian thiêng liêng."
-date: "2027-01-25"
+date: "2026-06-02"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker chùa Phật giáo", "tủ locker cơ sở tôn giáo", "temple locker"]

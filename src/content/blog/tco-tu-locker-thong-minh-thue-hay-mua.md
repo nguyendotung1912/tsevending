@@ -1,7 +1,7 @@
 ---
 title: "TCO Tủ Locker Thông Minh: Thuê hay Mua?"
 description: "Phân tích tổng chi phí sở hữu tủ locker thông minh: So sánh thuê và mua để tối ưu hóa chi phí cho doanh nghiệp. Liên hệ TSE Vending để được tư vấn."
-date: "2026-06-27"
+date: "2026-01-18"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["TCO tủ locker", "chi phí sở hữu locker", "thuê vs mua locker"]

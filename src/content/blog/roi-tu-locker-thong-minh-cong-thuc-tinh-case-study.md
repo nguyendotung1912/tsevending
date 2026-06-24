@@ -1,7 +1,7 @@
 ---
 title: "ROI Tủ Locker Thông Minh: Công Thức Tính Và Case Study Thực Tế Việt Nam"
 description: "Hướng dẫn tính ROI đầu tư tủ locker thông minh: chi phí đầu tư, lợi ích định lượng (tiết kiệm nhân công, giảm khiếu nại) và lợi ích định tính. Case study thực tế từ văn phòng, chung cư và bệnh viện."
-date: "2026-08-23"
+date: "2026-04-06"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-kinh-doanh"
 keywords: ["ROI locker thông minh", "tính ROI tủ locker", "đầu tư locker thông minh hiệu quả"]

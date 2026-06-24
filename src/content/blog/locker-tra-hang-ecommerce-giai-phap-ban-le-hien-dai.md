@@ -1,7 +1,7 @@
 ---
 title: "Locker Trả Hàng E-commerce: Giải Pháp Đổi Trả Hàng Không Cần Xếp Hàng"
 description: "Locker trả hàng e-commerce cho phép khách hàng gửi trả đơn hàng 24/7 mà không cần ra bưu cục hay chờ shipper. Phân tích cách hoạt động, lợi ích cho shop online và xu hướng omnichannel tại Việt Nam."
-date: "2026-06-25"
+date: "2026-01-05"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["locker trả hàng", "đổi trả hàng online", "return locker ecommerce"]

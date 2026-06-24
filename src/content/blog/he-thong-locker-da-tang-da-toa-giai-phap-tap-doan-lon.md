@@ -1,7 +1,7 @@
 ---
 title: "Hệ Thống Quản Lý Tủ Locker Đa Tầng Đa Tòa: Giải Pháp Tổng Thể Cho Tập Đoàn"
 description: "Tập đoàn lớn với nhiều tòa nhà, nhiều tầng và hàng nghìn nhân viên cần hệ thống locker thống nhất — một dashboard quản lý toàn bộ, nhân viên dùng 1 thẻ ở mọi địa điểm, báo cáo tập trung. Kiến trúc multi-site locker management là nền tảng cho mô hình này."
-date: "2026-12-12"
+date: "2026-05-17"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker đa tòa", "hệ thống locker tập đoàn", "multi-building locker"]

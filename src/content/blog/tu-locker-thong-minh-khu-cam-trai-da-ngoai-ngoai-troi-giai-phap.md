@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Cắm Trại Và Dã Ngoại Ngoài Trời: Giải Pháp Ngoài Trời"
 description: "Khu cắm trại, glamping và điểm dã ngoại cần locker chịu nắng mưa, nhiệt độ khắc nghiệt và không có nguồn điện ổn định. Locker năng lượng mặt trời và offline-capable là giải pháp cho outdoor hospitality tại VN."
-date: "2027-01-10"
+date: "2026-05-27"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker khu cắm trại", "tủ locker ngoài trời", "outdoor locker glamping"]

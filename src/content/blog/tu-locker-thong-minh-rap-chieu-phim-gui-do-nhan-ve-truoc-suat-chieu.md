@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Rạp Chiếu Phim: Gửi Đồ Và Nhận Vé Trước Suất Chiếu"
 description: "Rạp chiếu phim hiện đại không chỉ là màn ảnh lớn — là trải nghiệm trọn gói. Locker thông minh cho khách gửi đồ, nhận vé điện tử và combo đồ ăn đặt trước mà không phải xếp hàng. Tích hợp với app đặt vé tăng trải nghiệm CGV, Lotte, BHD."
-date: "2027-01-07"
+date: "2026-05-26"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker rạp chiếu phim", "tủ locker cinema", "gửi đồ xem phim"]

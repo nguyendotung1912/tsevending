@@ -1,7 +1,7 @@
 ---
 title: "Quy Trình Lắp Đặt Tủ Locker Thông Minh Cho Chung Cư: Từ Khảo Sát Đến Nghiệm Thu"
 description: "Lắp đặt locker tại chung cư cần phối hợp với Ban quản lý, BQL tòa nhà và đơn vị MEP. Quy trình đầy đủ từ khảo sát vị trí, thiết kế layout, xin phép, thi công đến nghiệm thu và bàn giao cho cư dân sử dụng."
-date: "2027-03-01"
+date: "2026-06-15"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["lắp đặt locker chung cư", "quy trình lắp tủ locker", "installation smart locker apartment"]

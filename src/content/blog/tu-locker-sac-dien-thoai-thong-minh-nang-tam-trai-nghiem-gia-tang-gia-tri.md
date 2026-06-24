@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Sạc Điện Thoại Thông Minh: Nâng Tầm Trải Nghiệm & Gia Tăng Giá Trị"
 description: "Khám phá cách tủ locker sạc điện thoại thông minh tạo giá trị gia tăng tại các địa điểm công cộng và doanh nghiệp. Chuyên gia TSE Vending chia sẻ kinh nghiệm thực tế về triển khai hiệu quả."
-date: "2026-06-25"
+date: "2026-01-06"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker sạc điện thoại", "charging locker", "tủ locker sạc pin"]

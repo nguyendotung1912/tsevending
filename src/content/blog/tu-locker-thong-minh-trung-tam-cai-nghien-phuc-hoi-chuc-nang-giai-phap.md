@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trung Tâm Cai Nghiện Và Phục Hồi Chức Năng: Giải Pháp An Toàn"
 description: "Trung tâm cai nghiện, bệnh viện tâm thần và cơ sở phục hồi chức năng cần quản lý tài sản người điều trị theo quy định đặc biệt. Locker thông minh đảm bảo kiểm soát chặt chẽ, theo dõi và bảo vệ cả người điều trị lẫn cán bộ nhân viên."
-date: "2027-01-30"
+date: "2026-06-04"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trung tâm cai nghiện", "tủ locker phục hồi chức năng", "rehabilitation locker"]

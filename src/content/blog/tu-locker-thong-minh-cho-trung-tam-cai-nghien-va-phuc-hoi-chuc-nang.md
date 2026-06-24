@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho trung tâm cai nghiện và phục hồi chức năng"
 description: "Giải pháp locker an toàn cho trung tâm cai nghiện và phục hồi chức năng. Tìm hiểu về lợi ích và ứng dụng của tủ locker thông minh trong môi trường phục hồi chức năng."
-date: "2026-06-28"
+date: "2026-01-25"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trung tâm cai nghiện", "rehabilitation locker", "tủ locker phục hồi chức năng"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh tại Tòa Nhà Xanh LEED: Giải Pháp Bền Vững"
 description: "Tìm hiểu về tủ locker thông minh đáp ứng tiêu chí bền vững môi trường trong tòa nhà xanh LEED. Giải pháp tiết kiệm năng lượng và bảo vệ môi trường cho các công trình xanh."
-date: "2026-06-29"
+date: "2026-01-31"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["LEED locker", "green building locker", "tủ locker tòa nhà xanh"]

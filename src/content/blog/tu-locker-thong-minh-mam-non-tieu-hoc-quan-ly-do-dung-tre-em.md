@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Mầm Non Và Tiểu Học: Quản Lý Đồ Dùng Và Bảo Mật Trẻ Em"
 description: "Trường mầm non và tiểu học cần locker nhỏ vừa với trẻ, dễ dùng không cần PIN phức tạp, và hệ thống xác nhận phụ huynh đến đón. Thiết kế locker cho trẻ nhỏ hoàn toàn khác với locker người lớn — an toàn, màu sắc vui tươi và tích hợp hệ thống quản lý phụ huynh."
-date: "2026-12-29"
+date: "2026-05-23"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker trường mầm non", "tủ locker tiểu học", "locker trẻ em nhỏ"]

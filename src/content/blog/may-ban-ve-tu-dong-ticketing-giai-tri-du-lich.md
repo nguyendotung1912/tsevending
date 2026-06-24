@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Vé Tự Động: Hệ Thống Ticketing Thông Minh Cho Giải Trí Và Du Lịch"
 description: "Máy bán vé tự động tại công viên, bảo tàng, rạp chiếu phim và điểm du lịch giảm hàng chờ, tăng doanh thu và cải thiện trải nghiệm khách. Phân tích công nghệ, mô hình và triển khai tại Việt Nam."
-date: "2026-07-07"
+date: "2026-03-04"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán vé tự động", "ticketing machine", "vé điện tử tự động"]

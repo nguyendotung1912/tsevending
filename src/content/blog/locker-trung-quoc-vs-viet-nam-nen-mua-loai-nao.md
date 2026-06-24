@@ -1,7 +1,7 @@
 ---
 title: "Locker Thông Minh Trung Quốc vs Việt Nam: Nên Mua Loại Nào Tiết Kiệm Nhất?"
 description: "So sánh tủ locker thông minh sản xuất Trung Quốc và Việt Nam về chất lượng, giá cả, bảo hành và hỗ trợ kỹ thuật. Hướng dẫn chọn đúng nguồn gốc phù hợp nhu cầu và ngân sách."
-date: "2026-07-10"
+date: "2026-03-09"
 silo: "tu-locker-thong-minh"
 sub: "gia-locker"
 keywords: ["locker Trung Quốc vs Việt Nam", "locker thông minh nên mua loại nào", "so sánh locker nhập khẩu"]

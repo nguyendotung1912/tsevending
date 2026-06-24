@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Công Ty Cung Ứng Lao Động: Quản Lý Nhân Viên Thời Vụ"
 description: "Công ty cung ứng lao động và dịch vụ nhân sự thời vụ quản lý hàng trăm nhân viên luân chuyển qua nhiều địa điểm. Locker thông minh giúp phát và thu hồi đồng phục, thiết bị bảo hộ và dụng cụ làm việc theo từng ca và từng hợp đồng."
-date: "2027-02-11"
+date: "2026-06-08"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker công ty cung ứng lao động", "tủ locker nhân viên thời vụ", "staffing agency smart locker"]

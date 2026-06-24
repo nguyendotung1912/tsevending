@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phục Vụ Nhân Viên Offshore Giàn Khoan Và Tàu Biển"
 description: "Nhân viên làm việc trên giàn khoan dầu khí và tàu biển sống trong không gian hạn chế với thiết bị đắt tiền. Locker thông minh marine-grade tại cabin và khu vực chung đảm bảo bảo mật tài sản cá nhân trong môi trường 28+ ngày trên biển."
-date: "2027-01-31"
+date: "2026-06-04"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker giàn khoan dầu khí", "tủ locker offshore", "marine vessel locker"]

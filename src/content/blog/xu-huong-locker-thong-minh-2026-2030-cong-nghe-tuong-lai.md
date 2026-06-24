@@ -1,7 +1,7 @@
 ---
 title: "Xu Hướng Tủ Locker Thông Minh 2026–2030: Công Nghệ Nào Sẽ Thống Trị Thị Trường?"
 description: "Phân tích xu hướng công nghệ locker thông minh đến 2030: AI nhận diện khuôn mặt, IoT sensor, tích hợp drone delivery và mô hình Locker-as-a-Service. Việt Nam đứng ở đâu?"
-date: "2026-09-02"
+date: "2026-04-09"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["xu hướng locker thông minh 2026 2030", "tương lai locker thông minh", "công nghệ locker mới nhất"]

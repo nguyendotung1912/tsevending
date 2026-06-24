@@ -1,7 +1,7 @@
 ---
 title: "Locker Salon Tóc Và Nail: Quản Lý Công Cụ Và Bảo Vệ Đồ Khách"
 description: "Tủ locker trong salon tóc và nail giải quyết hai bài toán: quản lý công cụ kỹ thuật viên và bảo vệ đồ đạc khách hàng. Cách chọn locker phù hợp cho ngành làm đẹp."
-date: "2026-08-10"
+date: "2026-04-01"
 silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["locker salon tóc nail", "tủ locker salon làm đẹp", "quản lý công cụ salon"]

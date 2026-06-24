@@ -1,7 +1,7 @@
 ---
 title: "Xe tải bán hàng tự động lưu động - Mobile vending truck xu hướng mới"
 description: "Khám phá xu hướng mới với xe tải bán hàng tự động lưu động tại Việt Nam. Tìm hiểu lợi ích và ứng dụng của mobile vending truck trong kinh doanh."
-date: "2026-07-02"
+date: "2026-02-15"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["xe tải vending machine", "mobile vending truck", "bán hàng lưu động tự động"]

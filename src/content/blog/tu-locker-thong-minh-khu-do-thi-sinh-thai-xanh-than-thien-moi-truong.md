@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Đô Thị Sinh Thái Xanh: Giải Pháp Thân Thiện Môi Trường"
 description: "Khu đô thị xanh như Ecopark, Vinhomes Ocean Park, Gamuda Gardens xây dựng tiêu chuẩn sống cao và bền vững. Locker thông minh eco-friendly — làm từ vật liệu tái chế, chạy năng lượng xanh — phù hợp với triết lý và thương hiệu khu đô thị sinh thái."
-date: "2026-12-19"
+date: "2026-05-19"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker khu đô thị xanh", "eco locker", "tủ locker xanh"]

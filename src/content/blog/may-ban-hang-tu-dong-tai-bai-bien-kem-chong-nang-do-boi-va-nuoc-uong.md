@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại bãi biển: Kem chống nắng, đồ bơi và nước uống"
 description: "Tìm hiểu về máy bán hàng tự động tại bãi biển công cộng, cung cấp kem chống nắng, đồ bơi và nước uống. Giải pháp kinh doanh thông minh cho chủ đầu tư."
-date: "2026-07-05"
+date: "2026-02-24"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng bãi biển", "beach vending machine", "kem chống nắng tự động"]

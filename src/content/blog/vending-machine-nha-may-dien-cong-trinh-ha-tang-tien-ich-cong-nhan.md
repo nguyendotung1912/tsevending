@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Nhà Máy Điện Và Công Trình Hạ Tầng: Tiện Ích Cho Công Nhân"
 description: "Nhà máy thủy điện, nhiệt điện, điện gió, công trình hầm đường bộ — công nhân làm ca 8-12 tiếng không rời công trường. Máy bán hàng tự động 24/7 là giải pháp tiện ích thiết yếu trong môi trường công nghiệp đặc thù này."
-date: "2026-11-11"
+date: "2026-05-05"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng nhà máy điện", "vending machine công trình hạ tầng", "máy bán hàng công nhân"]

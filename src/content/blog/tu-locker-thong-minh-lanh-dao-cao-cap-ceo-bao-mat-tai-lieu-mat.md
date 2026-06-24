@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho CEO Và Lãnh Đạo Cao Cấp: Bảo Mật Tài Liệu Mật"
 description: "Locker dành cho C-suite và lãnh đạo cao cấp yêu cầu tiêu chuẩn bảo mật khác hoàn toàn — tài liệu mật, hợp đồng nhạy cảm, thiết bị bảo mật. Thiết kế executive locker cần bảo mật đa lớp, audit trail và tích hợp với hạ tầng bảo mật doanh nghiệp."
-date: "2026-12-15"
+date: "2026-05-18"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker lãnh đạo", "executive locker", "tủ locker bảo mật cấp cao"]

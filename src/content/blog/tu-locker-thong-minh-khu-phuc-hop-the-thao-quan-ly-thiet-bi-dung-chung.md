@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Phức Hợp Thể Thao: Quản Lý Thiết Bị Dùng Chung"
 description: "Khu phức hợp thể thao có hồ bơi, sân cầu lông, phòng gym và yoga cần hệ thống locker linh hoạt — một người có thể chuyển qua nhiều khu trong cùng buổi. Quản lý thiết bị thể thao dùng chung và locker phòng thay đồ là thách thức phức tạp."
-date: "2027-01-05"
+date: "2026-05-25"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker khu thể thao", "tủ locker phức hợp thể thao", "sports complex locker"]

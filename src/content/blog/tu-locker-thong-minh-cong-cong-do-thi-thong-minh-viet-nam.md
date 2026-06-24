@@ -1,7 +1,7 @@
 ---
 title: "Mô Hình Tủ Locker Thông Minh Công Cộng Trong Đô Thị Thông Minh Việt Nam"
 description: "Smart city VN đang cần hạ tầng phục vụ người dân thực sự, không chỉ camera và cảm biến. Locker thông minh công cộng tại công viên, bến xe, bệnh viện và trung tâm hành chính là dịch vụ đô thị thiết thực nhất mà người dân có thể thấy và dùng mỗi ngày."
-date: "2027-03-06"
+date: "2026-06-17"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker công cộng đô thị thông minh", "smart city locker Việt Nam", "tủ locker hạ tầng đô thị"]

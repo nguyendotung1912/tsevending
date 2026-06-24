@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phòng Thử Quần Áo: Giải Pháp Lưu Trữ Đồ Thời Trang"
 description: "Tủ locker thông minh phòng thử quần áo giúp lưu trữ đồ cá nhân thời trang an toàn, tiện lợi. Khám phá giải pháp fitting room locker từ TSE Vending ngay hôm nay!"
-date: "2026-06-26"
+date: "2026-01-14"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng thử đồ", "fitting room locker", "fashion locker"]

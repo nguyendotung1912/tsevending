@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hoa Tươi Tự Động 24/7: Mô Hình Kinh Doanh Độc Đáo"
 description: "Máy bán hoa tươi tự động hoạt động 24/7, phục vụ nhu cầu mua hoa đột xuất mọi lúc. Phân tích tính khả thi, thách thức bảo quản và mô hình kinh doanh tại Việt Nam 2026."
-date: "2026-07-03"
+date: "2026-02-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán hoa tươi tự động", "flower vending machine", "kinh doanh hoa tự động"]

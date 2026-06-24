@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động cho tòa nhà hỗn hợp: Giải pháp tiện lợi"
 description: "Tìm hiểu giải pháp máy bán hàng tự động cho tòa nhà hỗn hợp, văn phòng và căn hộ. Liên hệ TSE Vending để triển khai."
-date: "2026-07-03"
+date: "2026-02-16"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine tòa nhà hỗn hợp", "mixed-use building vending", "complex vending"]

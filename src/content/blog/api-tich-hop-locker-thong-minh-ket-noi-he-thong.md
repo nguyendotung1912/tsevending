@@ -1,7 +1,7 @@
 ---
 title: "API Tích Hợp Locker Thông Minh: Kết Nối Với Hệ Thống Logistics Và ERP"
 description: "API locker thông minh cho phép kết nối với hệ thống quản lý vận chuyển, ERP, WMS và ứng dụng mobile. Hướng dẫn tích hợp, các endpoint phổ biến và kiến trúc hệ thống cho doanh nghiệp."
-date: "2026-07-08"
+date: "2026-03-05"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["API locker thông minh", "tích hợp locker hệ thống", "locker API kết nối"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Chịu Nhiệt Độ Cao: Phù Hợp Khu Vực Luyện Kim Và Đúc"
 description: "Nhà máy luyện kim, đúc kim loại và xử lý nhiệt có môi trường nhiệt độ cực cao — 60-200°C không phải hiếm. Locker thông thường tan chảy, cong vênh hoặc hỏng điện tử. Locker chuyên biệt cho môi trường nhiệt cao cần thiết kế đặc biệt từ vật liệu đến điện tử."
-date: "2026-12-10"
+date: "2026-05-16"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chịu nhiệt", "high temperature locker", "tủ locker công nghiệp"]

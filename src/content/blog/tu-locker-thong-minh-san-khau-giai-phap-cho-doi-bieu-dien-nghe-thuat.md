@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Sân Khấu - Giải Pháp Cho Đội Biểu Diễn Nghệ Thuật"
 description: "Tủ locker thông minh sân khấu giúp quản lý trang phục và đồ dùng biểu diễn nghệ thuật một cách hiệu quả. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-14"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker sân khấu", "performance locker", "tủ locker nghệ thuật biểu diễn"]

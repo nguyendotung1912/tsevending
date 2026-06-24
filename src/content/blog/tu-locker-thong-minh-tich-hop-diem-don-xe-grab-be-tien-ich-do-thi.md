@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Điểm Đón Xe Công Nghệ Grab và Be: Tiện Ích Đô Thị Mới"
 description: "Điểm đón Grab và Be tại tòa nhà, trung tâm thương mại và khu văn phòng có thể kết hợp với locker thông minh để tạo ra hub tiện lợi. Người dùng gửi đồ vào locker, gọi xe và lấy đồ khi trở về — tiết kiệm thời gian và tăng an toàn."
-date: "2027-03-05"
+date: "2026-06-16"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-do-thi"
 keywords: ["locker điểm đón Grab Be", "tủ locker ride-hailing hub", "smart locker mobility đô thị"]

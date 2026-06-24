@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho học sinh THPT - Giảm tải balo nặng hiệu quả"
 description: "Tìm hiểu giải pháp tủ locker thông minh cho học sinh THPT giúp giảm tải sách vở, đảm bảo an toàn và tiện lợi. Liên hệ TSE Vending để triển khai ngay hôm nay!"
-date: "2026-06-28"
+date: "2026-01-25"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker học sinh THPT", "tủ locker trường cấp 3", "giảm tải sách vở"]

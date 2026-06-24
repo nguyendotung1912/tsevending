@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Các Thương Hiệu Tủ Locker Chung Cư Phổ Biến Tại Việt Nam 2026"
 description: "Thị trường locker chung cư VN 2026 có nhiều lựa chọn từ nội địa đến nhập khẩu. Đánh giá các tiêu chí quan trọng: kích thước ô, bảo mật, tích hợp app chung cư, giá cả và dịch vụ sau bán hàng để BQL chung cư và chủ đầu tư chọn đúng."
-date: "2027-03-04"
+date: "2026-06-16"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["so sánh locker chung cư VN", "thương hiệu locker chung cư 2026", "chọn locker cho chung cư"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Thú Cưng (Pet Locker): Bảo Quản Đồ Dùng Và Chăm Sóc Động Vật Thông Minh"
 description: "Locker thú cưng ứng dụng trong thú y, pet hotel, grooming và cửa hàng thức ăn thú cưng. Bảo quản thuốc, thức ăn đặc biệt và đồ dùng cá nhân cho thú cưng an toàn."
-date: "2026-08-13"
+date: "2026-04-02"
 silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["locker thú cưng", "tủ bảo quản đồ thú cưng", "pet locker thông minh"]

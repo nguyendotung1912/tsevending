@@ -1,7 +1,7 @@
 ---
 title: "Phần Mềm Quản Lý Locker: Tính Năng Cần Có Cho Doanh Nghiệp"
 description: "Phần mềm quản lý locker thông minh quyết định hiệu quả vận hành cả hệ thống. Tìm hiểu các tính năng cốt lõi, tiêu chí đánh giá và cách chọn phần mềm phù hợp với quy mô và nhu cầu của doanh nghiệp."
-date: "2026-07-02"
+date: "2026-02-13"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["phần mềm quản lý locker", "locker management software", "hệ thống quản lý tủ locker"]

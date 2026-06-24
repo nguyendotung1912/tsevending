@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Sử Dụng Tủ Locker Thông Minh Lần Đầu: Từng Bước Đơn Giản"
 description: "Chưa bao giờ dùng tủ locker thông minh? Hướng dẫn chi tiết từng bước để gửi đồ, lấy đồ, thanh toán và xử lý sự cố thường gặp — dành cho người dùng lần đầu."
-date: "2026-07-17"
+date: "2026-03-14"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["hướng dẫn dùng locker thông minh", "cách sử dụng tủ locker", "locker thông minh lần đầu"]

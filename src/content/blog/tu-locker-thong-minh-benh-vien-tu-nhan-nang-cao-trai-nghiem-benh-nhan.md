@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Bệnh Viện Tư Nhân: Nâng Cao Trải Nghiệm Bệnh Nhân"
 description: "Bệnh viện tư nhân cạnh tranh bằng dịch vụ và trải nghiệm, không chỉ chuyên môn. Locker thông minh tại buồng bệnh, phòng khám và khu phẫu thuật giảm lo lắng về tài sản, tăng cảm giác an toàn và đóng góp vào điểm hài lòng bệnh nhân."
-date: "2026-12-31"
+date: "2026-05-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["locker bệnh viện tư nhân", "tủ locker bệnh viện quốc tế", "patient locker"]

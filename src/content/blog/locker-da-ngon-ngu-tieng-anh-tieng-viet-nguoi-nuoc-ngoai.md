@@ -1,7 +1,7 @@
 ---
 title: "Locker Đa Ngôn Ngữ: Giao Diện Tiếng Anh Và Tiếng Việt Cho Người Nước Ngoài"
 description: "Locker thông minh đa ngôn ngữ phục vụ expat, khách du lịch và nhân viên quốc tế. Yêu cầu giao diện song ngữ Anh-Việt, hỗ trợ thêm tiếng Nhật, Hàn và Trung Quốc cho khu công nghiệp FDI."
-date: "2026-08-24"
+date: "2026-04-06"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-cong-nghe"
 keywords: ["locker đa ngôn ngữ tiếng Anh", "locker cho người nước ngoài", "bilingual locker Vietnam"]

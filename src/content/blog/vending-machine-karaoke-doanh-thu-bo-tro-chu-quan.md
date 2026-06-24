@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tại Chuỗi Karaoke: Cơ Hội Doanh Thu Bổ Trợ Cho Chủ Quán"
 description: "Máy bán hàng tự động tại quán karaoke bán nước uống, snack và phụ kiện trong giờ cao điểm khi nhân viên bận. Phân tích doanh thu, sản phẩm phù hợp và cách tiếp cận chủ chuỗi karaoke Việt Nam."
-date: "2026-09-10"
+date: "2026-04-12"
 silo: "may-ban-hang-tu-dong"
 sub: "niche-product"
 keywords: ["vending machine karaoke", "máy bán hàng tại quán karaoke", "doanh thu bổ trợ karaoke"]

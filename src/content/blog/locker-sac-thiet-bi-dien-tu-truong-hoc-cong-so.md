@@ -1,7 +1,7 @@
 ---
 title: "Locker Sạc Thiết Bị Điện Tử: Giải Pháp Cho Trường Học, Công Sở Và Sân Bay"
 description: "Tủ locker sạc thiết bị điện tử (laptop, điện thoại, máy tính bảng) giúp học sinh, nhân viên và hành khách sạc an toàn nơi công cộng mà không lo trộm cắp. Phân tích tính năng và ứng dụng thực tế."
-date: "2026-07-11"
+date: "2026-03-10"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker sạc điện thoại", "tủ sạc thiết bị điện tử", "charging locker thông minh"]

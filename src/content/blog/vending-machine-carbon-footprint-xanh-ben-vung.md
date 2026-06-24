@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Xanh: Carbon Footprint Tracking Và Cam Kết Bền Vững"
 description: "Ngành vending đang chuyển mình xanh — từ refrigerant thân thiện môi trường đến năng lượng mặt trời và carbon footprint tracking. Cách doanh nghiệp vending tại Việt Nam có thể tích hợp sustainability vào mô hình kinh doanh."
-date: "2026-10-12"
+date: "2026-04-24"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine xanh bền vững", "carbon footprint vending", "máy bán hàng năng lượng mặt trời"]

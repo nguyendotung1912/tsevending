@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Trung Tâm Thương Mại: Vị Trí Chiến Lược Và Cách Tiếp Cận"
 description: "Vincom, Aeon, Lotte và các trung tâm thương mại lớn là địa điểm lý tưởng cho máy vending — lưu lượng khổng lồ, khách hàng sẵn tiền chi tiêu. Nhưng làm thế nào để vào được và đặt ở đâu trong mall?"
-date: "2026-10-19"
+date: "2026-04-27"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng trung tâm thương mại", "vending machine Vincom", "đặt máy vending trong mall"]

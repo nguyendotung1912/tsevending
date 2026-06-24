@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Doanh Nghiệp Cho Thuê Thiết Bị Xây Dựng: Nhận Và Trả Dụng Cụ"
 description: "Doanh nghiệp cho thuê máy khoan, máy cắt, máy trộn và thiết bị xây dựng cần quy trình nhận/trả chặt chẽ. Locker thông minh tại kho thiết bị cho thuê giúp khách hàng tự phục vụ 24/7, giảm nhân lực quầy và track tình trạng thiết bị liên tục."
-date: "2027-02-02"
+date: "2026-06-05"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker cho thuê thiết bị xây dựng", "tủ locker equipment rental", "construction rental locker"]

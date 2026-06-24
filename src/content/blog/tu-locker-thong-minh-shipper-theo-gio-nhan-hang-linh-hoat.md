@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Dành Cho Shipper Theo Giờ: Nhận Hàng Linh Hoạt Không Cố Định"
 description: "Shipper theo giờ (GrabExpress, Ahamove, đồng nghiệp giao hộ) không biết người nhận có ở nhà không. Locker thông minh giải quyết: shipper giao hàng vào locker, người nhận lấy khi thuận tiện. Không cần đợi nhau, không bỏ lỡ đơn hàng."
-date: "2026-12-23"
+date: "2026-05-21"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker shipper", "tủ locker giao hàng theo giờ", "flexible delivery locker"]

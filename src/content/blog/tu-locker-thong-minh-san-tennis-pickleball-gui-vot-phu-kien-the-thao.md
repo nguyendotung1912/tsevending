@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Sân Tennis Và Pickleball: Gửi Vợt Và Phụ Kiện Thể Thao"
 description: "Vợt tennis cao cấp, giày chuyên dụng và phụ kiện có giá trị không thể để trong xe hay mang vào sân. Locker thông minh tại sân tennis và pickleball giải quyết vấn đề gửi đồ an toàn, đặt sân online và quản lý thiết bị cho hội viên."
-date: "2027-01-03"
+date: "2026-05-25"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker sân tennis", "tủ locker pickleball", "gửi đồ sân thể thao"]

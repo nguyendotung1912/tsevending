@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Yoga: Nước Thảo Dược và Sản Phẩm Organic"
 description: "Cung cấp máy bán hàng tự động cho câu lạc bộ yoga và thiền định với nước thảo dược và sản phẩm organic. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-09"
+date: "2026-03-08"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng yoga", "vending machine thiền", "nước thảo dược tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Quản Lý Từ Xa Máy Bán Hàng Tự Động: Phần Mềm Telemetry Và Remote Monitoring"
 description: "Hệ thống telemetry và remote monitoring giúp quản lý hàng trăm máy bán hàng tự động từ xa. Theo dõi hàng tồn kho, doanh thu real-time, và cảnh báo sự cố tự động."
-date: "2026-08-03"
+date: "2026-03-27"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["quản lý máy bán hàng từ xa", "telemetry vending machine", "remote monitoring máy bán hàng"]

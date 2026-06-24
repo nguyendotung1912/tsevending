@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Bán Lẻ Outlet Và Discount Mall: Trải Nghiệm Mua Sắm"
 description: "Outlet mall và discount shopping center thu hút khách mua sắm nhiều giờ. Locker thông minh cho phép khách gửi đồ đã mua để tiếp tục mua sắm không bị cản trở bởi túi nặng. Tăng thời gian lưu trú và chi tiêu trung bình tại mall."
-date: "2027-01-15"
+date: "2026-05-29"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker outlet mall", "tủ locker discount shopping", "gửi đồ trung tâm mua sắm"]

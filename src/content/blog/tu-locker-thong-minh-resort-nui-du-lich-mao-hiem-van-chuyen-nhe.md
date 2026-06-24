@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Resort Núi Và Du Lịch Mạo Hiểm: Giải Pháp Vận Chuyển Nhẹ"
 description: "Resort núi và điểm du lịch mạo hiểm cần khách đi nhẹ nhàng để tận hưởng hoạt động ngoài trời. Locker tại base camp cho phép gửi hành lý nặng, chỉ mang theo thiết yếu — kết hợp với locker ở điểm dừng chân trên đường trekking."
-date: "2027-01-13"
+date: "2026-05-28"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker resort núi", "tủ locker du lịch mạo hiểm", "adventure travel locker"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Grab, Giao Hàng Nhanh, J&T Express: Mạng Lưới Locker Giao Hàng Việt Nam"
 description: "Tổng quan mạng lưới locker giao hàng của Grab Express, Giao Hàng Nhanh, J&T Express và GHTK tại Việt Nam. So sánh độ phủ, tích hợp công nghệ và mô hình đối tác."
-date: "2026-07-31"
+date: "2026-03-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["locker Grab Express", "locker Giao Hàng Nhanh", "mạng lưới locker giao hàng Việt Nam"]

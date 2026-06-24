@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Kết Nối BMS: Tích Hợp Hệ Thống Quản Lý Tòa Nhà Toàn Diện"
 description: "Hệ thống BMS (Building Management System) kiểm soát điện, điều hòa, thang máy và an ninh trong tòa nhà thông minh. Tích hợp tủ locker vào BMS tạo ra quản lý tập trung, tiết kiệm năng lượng và vận hành hiệu quả hơn."
-date: "2026-11-28"
+date: "2026-05-11"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["BMS locker integration", "tủ locker tòa nhà thông minh", "locker building management system"]

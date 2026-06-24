@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Sân Golf: Premium Product Mix Dành Cho Golfer"
 description: "Sân golf Việt Nam có 100+ sân và hàng triệu lượt chơi mỗi năm — golfer chi tiêu cao, dành 4-6 tiếng trên sân, và thường thiếu tiện ích giữa sân. Máy vending chuyên golf là cơ hội premium đặc biệt."
-date: "2026-11-04"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng sân golf", "vending machine golf Việt Nam", "máy bán hàng cho golfer"]

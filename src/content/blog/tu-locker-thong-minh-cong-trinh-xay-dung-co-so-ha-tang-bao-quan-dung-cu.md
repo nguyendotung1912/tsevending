@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Công Trình Xây Dựng: Bảo Quản Dụng Cụ Tại Công Trường"
 description: "Công trường xây dựng mất hàng trăm triệu đồng mỗi năm do dụng cụ thất lạc, hư hỏng hoặc bị lấy trộm. Locker thông minh chống nước, chịu bụi và tích hợp quản lý dụng cụ giúp kiểm soát tài sản tại công trường, tăng trách nhiệm và giảm lãng phí."
-date: "2027-03-08"
+date: "2026-06-17"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker công trường xây dựng", "tủ locker bảo quản dụng cụ công trình", "smart locker construction site"]

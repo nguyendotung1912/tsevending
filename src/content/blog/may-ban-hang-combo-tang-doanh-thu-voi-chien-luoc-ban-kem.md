@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng combo: Tăng doanh thu với chiến lược bán kèm"
 description: "Tìm hiểu cách máy bán hàng combo giúp tăng doanh thu trên m���i giao dịch. Giải pháp bán kèm sản phẩm hiệu quả cho doanh nghiệp."
-date: "2026-07-06"
+date: "2026-02-27"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["combo vending machine", "bán kèm máy bán hàng", "upsell vending"]

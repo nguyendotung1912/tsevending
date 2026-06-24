@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Thương Mại Điện Tử B2B: Giao Hàng Văn Phòng Tự Động"
 description: "Văn phòng và doanh nghiệp đặt hàng văn phòng phẩm, thiết bị IT, tài liệu qua B2B e-commerce ngày càng nhiều. Locker thông minh tại tòa nhà văn phòng tự động nhận hàng từ supplier B2B, phân phối đúng phòng ban và theo dõi chuỗi cung ứng nội bộ."
-date: "2026-12-26"
+date: "2026-05-22"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker B2B ecommerce", "tủ locker giao hàng văn phòng", "B2B delivery locker"]

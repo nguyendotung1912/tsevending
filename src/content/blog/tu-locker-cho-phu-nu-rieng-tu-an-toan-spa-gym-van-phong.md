@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Cho Phụ Nữ: Riêng Tư, An Toàn Tại Spa, Gym Và Văn Phòng"
 description: "Tủ locker dành cho phụ nữ cần đảm bảo quyền riêng tư cao, không gian đủ cho túi xách, và thiết kế tinh tế. Tính năng bảo mật nào quan trọng nhất trong phòng thay đồ nữ?"
-date: "2026-07-27"
+date: "2026-03-22"
 silo: "tu-locker-thong-minh"
 sub: "doi-tuong-su-dung"
 keywords: ["locker phụ nữ", "tủ locker phòng thay đồ nữ", "locker bảo mật riêng tư phụ nữ"]

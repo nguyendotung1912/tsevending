@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Dành Cho Người Khuyết Tật: Thiết Kế Phổ Quát Và Tiêu Chuẩn ADA"
 description: "Thiết kế máy vending tiếp cận được cho người khuyết tật không chỉ là yêu cầu pháp lý — mà là mở rộng thị trường 6.2 triệu người khuyết tật tại Việt Nam. Tiêu chuẩn kỹ thuật, điều chỉnh thực tế và lợi ích kinh doanh."
-date: "2026-09-27"
+date: "2026-04-19"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["máy bán hàng người khuyết tật", "vending machine ADA accessible", "thiết kế phổ quát máy vending"]

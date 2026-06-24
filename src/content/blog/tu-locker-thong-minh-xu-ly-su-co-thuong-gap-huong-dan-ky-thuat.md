@@ -1,7 +1,7 @@
 ---
 title: "Xử Lý Sự Cố Thường Gặp Với Tủ Locker Thông Minh: Hướng Dẫn Kỹ Thuật Chi Tiết"
 description: "Khi locker thông minh gặp sự cố, admin cần biết cách xử lý ngay để giảm thiểu ảnh hưởng đến người dùng. Hướng dẫn troubleshooting từng loại sự cố phổ biến: cửa kẹt, kết nối mạng, thanh toán, ứng dụng và nguồn điện."
-date: "2027-02-28"
+date: "2026-06-14"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["xử lý sự cố locker thông minh", "troubleshoot tủ locker", "sửa chữa locker thông minh"]

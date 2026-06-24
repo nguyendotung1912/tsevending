@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Camera Thermal: Phát Hiện Thân Nhiệt Và Bảo Mật Nâng Cao"
 description: "Camera nhiệt (thermal camera) tích hợp vào locker thông minh giúp phát hiện người cố tình che mặt, phát hiện nhiệt bất thường từ cháy nổ trong ô, và nhận diện từ xa ngay cả trong bóng tối. Ứng dụng bảo mật nâng cao cho môi trường đặc thù."
-date: "2026-12-06"
+date: "2026-05-14"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["locker camera thermal", "tủ locker nhận diện thân nhiệt", "thermal imaging smart locker"]

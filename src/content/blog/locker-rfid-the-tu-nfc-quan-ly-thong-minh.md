@@ -1,7 +1,7 @@
 ---
 title: "RFID Locker Thông Minh: Thẻ Từ Và NFC Trong Quản Lý Truy Cập"
 description: "RFID locker sử dụng thẻ từ và NFC để mở khóa nhanh, chính xác và không cần tiếp xúc. So sánh RFID vs PIN vs QR Code và hướng dẫn chọn công nghệ phù hợp cho từng môi trường triển khai."
-date: "2026-06-29"
+date: "2026-01-27"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["RFID locker", "thẻ từ locker", "NFC smart locker"]

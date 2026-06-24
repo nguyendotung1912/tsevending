@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tích Hợp App Loyalty: Tích Điểm Và Chương Trình Khuyến Mãi"
 description: "Chương trình loyalty tích hợp với máy vending giữ khách quay lại và tăng giá trị trung bình đơn hàng. Cách thiết kế app loyalty, cơ chế tích điểm và ví dụ chương trình khuyến mãi hiệu quả cho chuỗi vending tại Việt Nam."
-date: "2026-10-02"
+date: "2026-04-20"
 silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["app loyalty vending machine", "tích điểm máy bán hàng tự động", "chương trình khuyến mãi vending"]

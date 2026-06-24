@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Nước Detox Tự Động: Xu Hướng Sức Khỏe Mới"
 description: "Tìm hiểu về máy bán nước detox tự động và cold press juice vending, giải ph��p kinh doanh mới cho thị trường sức khỏe. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-29"
+date: "2026-01-29"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước detox tự động", "cold press juice vending", "nước ép tự động"]

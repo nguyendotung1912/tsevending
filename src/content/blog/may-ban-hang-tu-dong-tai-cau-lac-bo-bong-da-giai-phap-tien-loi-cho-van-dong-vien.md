@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại câu lạc bộ bóng đá: Giải pháp tiện lợi cho vận động viên"
 description: "Tìm hiểu về máy bán hàng tự động tại câu lạc bộ bóng đá, cung cấp nước thể thao và gel năng lượng cho vận động viên. Giải pháp tiện lợi và thông minh cho các CLB bóng đá."
-date: "2026-07-04"
+date: "2026-02-21"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng câu lạc bộ bóng đá", "vending máy sân bóng", "thể thao vending"]

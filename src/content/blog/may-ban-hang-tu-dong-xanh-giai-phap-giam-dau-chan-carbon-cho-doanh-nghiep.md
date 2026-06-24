@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động xanh - Giải pháp giảm dấu chân carbon cho doanh nghiệp"
 description: "Khám phá máy bán hàng tự động tích hợp theo dõi dấu chân carbon, giải pháp ESG cho doanh nghiệp xanh và bền vững. Liên hệ TSE Vending để triển khai ngay."
-date: "2026-07-05"
+date: "2026-02-26"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["carbon footprint vending", "máy bán hàng xanh", "ESG vending machine"]

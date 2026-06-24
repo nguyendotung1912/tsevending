@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine tại Trạm Xe Buýt Điện: Tương Lai Giao Thông Xanh Đô Thị"
 description: "Khám phá tiềm năng của vending machine tại tr��m xe buýt điện trong việc hỗ trợ giao thông xanh đô thị. Giải pháp kinh doanh sáng tạo cho tương lai."
-date: "2026-07-06"
+date: "2026-03-01"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine xe buýt điện", "trạm sạc xe điện vending", "giao thông xanh"]

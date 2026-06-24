@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine tại Nhà Máy Điện và Công Trình: Tiện Ích Cho Công Nhân"
 description: "Cung cấp giải pháp vending machine tại nhà máy ��iện và công trình hạ tầng, mang lại tiện ích cho công nhân viên. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-29"
+date: "2026-02-01"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["vending machine nhà máy điện", "máy bán hàng công trình", "tiện ích hạ tầng"]

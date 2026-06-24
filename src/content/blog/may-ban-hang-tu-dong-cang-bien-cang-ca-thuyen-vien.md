@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Cảng Biển Và Cảng Cá: Phục Vụ Thuyền Viên Và Công Nhân Bến Cảng"
 description: "Cảng biển và cảng cá hoạt động 24/7, thuyền viên lên bờ ít giờ trước khi ra khơi lại — nhu cầu mua sắm nhanh cực cao nhưng không có tiện ích phục vụ. Máy vending chuyên dụng cho môi trường biển là cơ hội đặc biệt."
-date: "2026-10-26"
+date: "2026-04-29"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng cảng biển", "vending machine cảng cá Việt Nam", "máy bán hàng thuyền viên"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trạm Xe Đạp Điện Và Xe Máy Điện: Kết Hợp Giao Thông Xanh"
 description: "Xe đạp điện và xe máy điện đang bùng nổ tại VN. Trạm sạc điện kết hợp với locker thông minh tạo ra ecosystem giao thông xanh hoàn chỉnh — người dùng sạc xe, gửi đồ và nhận hàng tại cùng một điểm dừng tiện lợi."
-date: "2027-01-21"
+date: "2026-05-31"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe điện", "tủ locker giao thông xanh", "EV charging locker"]

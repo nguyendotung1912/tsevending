@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Tòa Nhà Hỗn Hợp Văn Phòng-Dân Cư: Giải Pháp Toàn Diện"
 description: "Tòa nhà hỗn hợp (mixed-use) kết hợp văn phòng và căn hộ cần locker phục vụ hai nhóm khách hàng khác nhau — nhân viên văn phòng và cư dân — với nhu cầu, thời gian sử dụng và bảo mật hoàn toàn khác nhau. Một hệ thống nhưng hai mô hình vận hành song song."
-date: "2026-12-13"
+date: "2026-05-17"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker mixed-use building", "tủ locker tòa nhà hỗn hợp", "văn phòng dân cư locker"]

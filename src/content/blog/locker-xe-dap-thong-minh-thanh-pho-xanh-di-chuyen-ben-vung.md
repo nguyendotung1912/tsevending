@@ -1,7 +1,7 @@
 ---
 title: "Locker Xe Đạp Thông Minh: Giải Pháp Cho Thành Phố Xanh Và Di Chuyển Bền Vững"
 description: "Tủ locker xe đạp thông minh bảo vệ xe đạp và xe điện khỏi trộm cắp tại nơi công cộng. Phân tích thiết kế, công nghệ khóa và cơ hội triển khai trong đô thị Việt Nam."
-date: "2026-07-13"
+date: "2026-03-12"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker xe đạp thông minh", "bãi gửi xe đạp thông minh", "bicycle locker đô thị"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Chống Cháy Nổ: Tiêu Chuẩn PCCC Và Vật Liệu Chịu Lửa"
 description: "Locker đặt trong tòa nhà cần đáp ứng yêu cầu an toàn cháy nổ — từ vật liệu thân tủ chịu lửa đến việc không cản trở sơ tán. Hiểu đúng tiêu chuẩn chịu lửa giúp lựa chọn locker phù hợp và tránh vi phạm quy định PCCC."
-date: "2026-12-08"
+date: "2026-05-15"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chống cháy", "tủ locker chịu lửa", "fire-resistant locker"]

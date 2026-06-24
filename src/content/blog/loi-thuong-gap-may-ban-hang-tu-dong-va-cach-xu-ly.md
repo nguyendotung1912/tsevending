@@ -1,7 +1,7 @@
 ---
 title: "Lỗi Thường Gặp Khi Vận Hành Máy Bán Hàng Tự Động Và Cách Xử Lý"
 description: "Máy kẹt hàng, không nhận tiền, màn hình đơ, tủ lạnh không lạnh — đây là những lỗi phổ biến nhất khi vận hành máy vending. Hướng dẫn chẩn đoán và xử lý tại chỗ trước khi gọi kỹ thuật viên."
-date: "2026-10-04"
+date: "2026-04-21"
 silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["lỗi máy bán hàng tự động", "sửa chữa vending machine", "xử lý sự cố máy vending"]

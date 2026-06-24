@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh tại trạm xe điện: Giải pháp cho giao thông xanh"
 description: "Tìm hiểu về tủ locker thông minh tại trạm xe đạp điện và xe máy điện. Giải pháp an toàn, tiện lợi cho người dùng giao thông xanh."
-date: "2026-06-26"
+date: "2026-01-15"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker trạm xe điện", "e-bike locker", "tủ locker xe đạp điện"]

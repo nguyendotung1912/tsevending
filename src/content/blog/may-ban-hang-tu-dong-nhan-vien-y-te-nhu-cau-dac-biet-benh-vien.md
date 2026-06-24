@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Cho Nhân Viên Y Tế: Nhu Cầu Đặc Biệt Tại Bệnh Viện"
 description: "Bác sĩ và điều dưỡng làm việc 12-16 tiếng, không có thời gian ra ngoài ăn — máy vending trong bệnh viện không phải tiện ích xa xỉ mà là nhu cầu thiết yếu. Phân tích đặc thù và giải pháp cho môi trường y tế."
-date: "2026-10-16"
+date: "2026-04-26"
 silo: "may-ban-hang-tu-dong"
 sub: "vi-tri-dat-may"
 keywords: ["máy bán hàng bệnh viện", "vending machine nhân viên y tế", "máy bán hàng phòng trực bác sĩ"]

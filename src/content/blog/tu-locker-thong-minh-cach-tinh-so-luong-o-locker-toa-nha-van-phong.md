@@ -1,7 +1,7 @@
 ---
 title: "Cách Tính Số Lượng Ô Locker Cần Thiết Cho Tòa Nhà Văn Phòng: Công Thức Chuẩn"
 description: "Nhiều doanh nghiệp mua locker sai số lượng — quá ít thì thiếu chỗ, quá nhiều thì lãng phí. Công thức tính số ô locker chuẩn theo số nhân viên, tỷ lệ hot-desk, loại hình văn phòng và nhu cầu đặc thù giúp đầu tư chính xác ngay từ đầu."
-date: "2027-03-02"
+date: "2026-06-15"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["tính số lượng ô locker văn phòng", "công thức locker doanh nghiệp", "how many lockers office"]

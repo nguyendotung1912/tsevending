@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Locker Solution: Chiến Lược Triển Khai Hệ Thống Locker Cho Tập Đoàn Lớn"
 description: "Hướng dẫn triển khai hệ thống locker quy mô lớn cho tập đoàn đa chi nhánh: từ đánh giá nhu cầu, chọn nhà cung cấp, đến quản lý tập trung và tích hợp hệ thống HR/ERP."
-date: "2026-08-26"
+date: "2026-04-07"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-kinh-doanh"
 keywords: ["enterprise locker solution", "hệ thống locker tập đoàn", "triển khai locker quy mô lớn"]

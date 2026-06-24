@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh cho trường mầm non và tiểu học"
 description: "Giải pháp tủ locker thông minh cho trường mầm non và tiểu học, giúp quản lý đồ dùng và bảo mật cho trẻ em. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-29"
+date: "2026-01-30"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-truong-hoc"
 keywords: ["locker trường mầm non", "tủ locker tiểu học", "locker trẻ em nhỏ"]

@@ -1,7 +1,7 @@
 ---
 title: "Khắc Phục Lỗi Thường Gặp Tủ Locker Điện Tử: 10 Vấn Đề Và Cách Xử Lý"
 description: "Hướng dẫn tự chẩn đoán và khắc phục 10 lỗi thường gặp nhất trên tủ locker thông minh: ô không mở, màn hình treo, mất kết nối mạng, thanh toán thất bại và các sự cố phổ biến khác."
-date: "2026-07-19"
+date: "2026-03-16"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["lỗi locker thông minh", "sửa locker điện tử", "khắc phục sự cố locker"]

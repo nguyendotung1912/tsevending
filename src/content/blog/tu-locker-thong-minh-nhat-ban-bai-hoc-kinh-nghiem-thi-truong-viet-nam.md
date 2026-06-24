@@ -1,7 +1,7 @@
 ---
 title: "Xu Hướng Tủ Locker Thông Minh Tại Nhật Bản: Bài Học Kinh Nghiệm Cho Thị Trường VN"
 description: "Nhật Bản là quốc gia có lịch sử locker lâu đời nhất thế giới với 500,000+ ô locker tại ga tàu, sân bay và trung tâm thương mại. Phân tích hành trình phát triển từ coin locker đến smart locker Nhật Bản và bài học có thể áp dụng tại VN."
-date: "2027-02-18"
+date: "2026-06-11"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker Nhật Bản bài học", "xu hướng smart locker Japan", "locker thông minh kinh nghiệm Nhật"]

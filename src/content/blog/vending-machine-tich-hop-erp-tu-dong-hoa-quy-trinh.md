@@ -1,7 +1,7 @@
 ---
 title: "Vending Machine Tích Hợp Với Hệ Thống ERP Doanh Nghiệp: Tự Động Hóa Quy Trình"
 description: "Tích hợp máy vending với ERP (SAP, Oracle, MISA) cho phép tự động hóa kế toán, quản lý phúc lợi nhân viên và phân tích chi phí. Hướng dẫn kiến trúc tích hợp và lợi ích thực tế cho doanh nghiệp lớn."
-date: "2026-10-08"
+date: "2026-04-23"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["vending machine tích hợp ERP", "SAP vending machine", "tự động hóa quy trình vending"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Studio Chụp Ảnh Và Làm Phim: Bảo Quản Thiết Bị Đắt Tiền An Toàn"
 description: "Tủ locker thông minh trong studio chụp ảnh và làm phim giúp bảo quản lens, máy ảnh, thiết bị ánh sáng và phụ kiện đắt tiền. Giải pháp quản lý thiết bị cho đội ngũ sáng tạo."
-date: "2026-08-12"
+date: "2026-04-02"
 silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["locker studio chụp ảnh", "tủ bảo quản thiết bị quay phim", "locker đựng lens máy ảnh"]

@@ -1,7 +1,7 @@
 ---
 title: "Smart Locker Phòng Khám Tư: Nâng Cao Trải Nghiệm Bệnh Nhân Vượt Bậc"
 description: "Smart locker trong phòng khám tư nhân và bệnh viện quốc tế tạo trải nghiệm bệnh nhân chuyên nghiệp, tiết kiệm thời gian chờ và tăng sự hài lòng. Phân tích ứng dụng thực tế và lợi ích đo lường được."
-date: "2026-07-01"
+date: "2026-02-08"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["smart locker phòng khám", "locker bệnh viện tư", "nâng cao trải nghiệm bệnh nhân"]

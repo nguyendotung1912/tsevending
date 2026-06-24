@@ -1,7 +1,7 @@
 ---
 title: "Xu hướng tủ locker thông minh K-style Hàn Quốc và bài học"
 description: "Tìm hiểu xu hướng tủ locker thông minh K-style từ Hàn Qu��c, bài học kinh nghiệm triển khai smart locker thành công. Liên hệ TSE Vending để được tư vấn giải pháp locker thông minh phù hợp."
-date: "2026-07-01"
+date: "2026-02-10"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["locker Hàn Quốc", "Korea locker trend", "K-style locker"]

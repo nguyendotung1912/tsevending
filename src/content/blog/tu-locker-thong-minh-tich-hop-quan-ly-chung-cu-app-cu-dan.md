@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Hệ Thống Quản Lý Chung Cư: Kết Nối App Cư Dân"
 description: "App chung cư như Landsoft, VietHome, Homebase đang trở thành trung tâm dịch vụ cho cư dân. Tích hợp locker thông minh vào app chung cư giúp cư dân nhận thông báo, mở locker và thanh toán trực tiếp trong một ứng dụng duy nhất."
-date: "2027-03-03"
+date: "2026-06-15"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["locker chung cư tích hợp app", "tủ locker Landsoft VietHome", "apartment smart locker app"]

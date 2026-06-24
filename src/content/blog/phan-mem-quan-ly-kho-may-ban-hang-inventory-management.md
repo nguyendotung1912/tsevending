@@ -1,7 +1,7 @@
 ---
 title: "Phần Mềm Quản Lý Kho Tích Hợp Máy Bán Hàng Tự Động: Inventory Management Hiện Đại"
 description: "Quản lý hàng hóa cho hệ thống 10–100 máy vending thủ công là không thể. Phần mềm inventory management tích hợp IoT giúp dự báo hết hàng, tối ưu lộ trình tiếp hàng và giảm lãng phí 30–50%."
-date: "2026-09-30"
+date: "2026-04-20"
 silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["phần mềm quản lý vending machine", "inventory management máy bán hàng", "IoT quản lý kho vending"]

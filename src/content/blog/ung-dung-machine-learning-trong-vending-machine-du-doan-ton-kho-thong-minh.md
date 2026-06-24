@@ -1,7 +1,7 @@
 ---
 title: "Ứng dụng Machine Learning trong Vending Machine: Dự đoán tồn kho thông minh"
 description: "Tìm hiểu cách machine learning vending machine giúp dự đoán tồn kho thông minh, tối ưu hóa hoạt động kinh doanh của bạn. Liên hệ TSE Vending để biết thêm."
-date: "2026-06-28"
+date: "2026-01-26"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["machine learning vending machine", "dự đoán tồn kho AI", "AI vending machine"]

@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Và Tủ Locker Thông Minh: Bảo Mật Phi Tập Trung Và Truy Xuất Nguồn Gốc"
 description: "Blockchain ứng dụng trong locker thông minh tạo ra audit trail không thể giả mạo, bảo mật phi tập trung và truy xuất nguồn gốc hàng hóa. Công nghệ thực tế và ứng dụng phù hợp."
-date: "2026-08-10"
+date: "2026-03-31"
 silo: "tu-locker-thong-minh"
 sub: "xu-huong"
 keywords: ["blockchain locker thông minh", "phi tập trung bảo mật locker", "truy xuất nguồn gốc locker"]

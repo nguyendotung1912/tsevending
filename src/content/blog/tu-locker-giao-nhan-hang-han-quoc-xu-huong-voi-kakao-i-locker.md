@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker giao nhận hàng Hàn Quốc: Xu hướng với Kakao i Locker"
 description: "Tìm hiểu xu hướng tủ locker giao nhận hàng tại Hàn Quốc với Kakao i Locker. Liên hệ TSE Vending để triển khai giải pháp locker thông minh cho doanh nghiệp của bạn."
-date: "2026-06-27"
+date: "2026-01-18"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["Kakao locker Hàn Quốc", "locker giao nhận Hàn Quốc", "mô hình locker châu Á"]

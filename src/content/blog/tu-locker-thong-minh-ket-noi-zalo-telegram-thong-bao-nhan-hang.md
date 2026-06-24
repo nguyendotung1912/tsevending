@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Kết Nối Zalo Và Telegram: Thông Báo Nhận Hàng Tức Thì"
 description: "Hệ thống locker thông minh tích hợp Zalo OA hoặc Telegram bot gửi thông báo tức thì khi hàng được bỏ vào ô — kèm mã OTP mở khóa. Giải pháp này phù hợp đặc thù thị trường Việt Nam và không cần cư dân tải thêm app mới."
-date: "2026-11-22"
+date: "2026-05-09"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker Zalo notification", "tủ locker Telegram bot", "thông báo nhận hàng locker tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh phòng thí nghiệm - Bảo vệ mẫu vật và thiết bị"
 description: "Tủ locker thông minh cho phòng thí nghiệm và trung tâm nghiên cứu, bảo vệ mẫu vật và thiết bị khoa học. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-28"
+date: "2026-01-26"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["laboratory locker", "tủ locker phòng thí nghiệm", "research lab locker"]

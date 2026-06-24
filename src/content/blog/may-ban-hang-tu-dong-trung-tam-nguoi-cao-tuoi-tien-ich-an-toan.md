@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Trung Tâm Chăm Sóc Người Cao Tuổi: Tiện Ích An Toàn"
 description: "Người cao tuổi tại viện dưỡng lão và trung tâm chăm sóc cần hàng hóa thiết yếu nhưng có hạn chế về vận động. Máy bán hàng tự động thiết kế phù hợp người cao tuổi — giao diện đơn giản, sản phẩm lành mạnh, giá hợp lý — là giải pháp tiện ích nhân văn."
-date: "2026-11-16"
+date: "2026-05-07"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng người cao tuổi", "vending machine dưỡng lão", "tiện ích trung tâm chăm sóc"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Freelancer Và Đội Ngũ Remote Work: Giải Pháp Làm Việc Linh Hoạt"
 description: "Freelancer và nhân viên remote cần không gian làm việc linh hoạt tại coworking space. Locker thông minh tại coworking cho phép lưu thiết bị giữa các buổi làm việc mà không cần book bàn cố định — tối ưu không gian và giảm chi phí."
-date: "2027-02-12"
+date: "2026-06-08"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker freelancer coworking", "tủ locker remote work", "smart locker làm việc linh hoạt"]

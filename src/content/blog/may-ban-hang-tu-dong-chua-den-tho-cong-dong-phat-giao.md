@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Chùa Và Đền Thờ: Tiện Ích Phục Vụ Cộng Đồng Phật Giáo"
 description: "Chùa lớn tại Việt Nam tiếp đón hàng nghìn phật tử và du khách mỗi ngày, đặc biệt vào ngày lễ và rằm. Máy bán hàng tự động cung cấp đồ chay, hoa quả, nhang đèn và nước uống — phù hợp với không gian tâm linh và hỗ trợ chi phí vận hành chùa."
-date: "2026-11-17"
+date: "2026-05-07"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine chùa", "máy bán hàng đền thờ", "tiện ích phật giáo tự động"]

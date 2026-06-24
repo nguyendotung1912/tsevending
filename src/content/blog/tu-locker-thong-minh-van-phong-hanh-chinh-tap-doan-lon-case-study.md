@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Văn Phòng Hành Chính Tập Đoàn Lớn: Case Study Thực Tế"
 description: "Tập đoàn đa quốc gia và tập đoàn VN lớn với hàng nghìn nhân viên đang chuyển sang hot-desk model. Locker thông minh là hạ tầng cần thiết khi không còn bàn cố định — giúp nhân viên lưu giữ tài sản cá nhân và đảm bảo không gian làm việc gọn gàng."
-date: "2027-02-14"
+date: "2026-06-09"
 silo: "tu-locker-thong-minh"
 sub: "doanh-nghiep"
 keywords: ["locker văn phòng tập đoàn lớn", "tủ locker hot desk workplace", "corporate office smart locker"]

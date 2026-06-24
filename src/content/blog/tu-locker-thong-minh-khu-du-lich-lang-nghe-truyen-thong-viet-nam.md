@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Du Lịch Làng Nghề Truyền Thống Việt Nam"
 description: "Làng gốm Bát Tràng, làng lụa Vạn Phúc, làng tranh Đông Hồ — du khách tham quan và mua đồ thủ công mỹ nghệ cần nơi gửi đồ an toàn. Locker thông minh tại làng nghề giúp du khách thoải mái trải nghiệm mà không phải mang vác nặng."
-date: "2027-02-04"
+date: "2026-06-05"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker làng nghề truyền thống", "tủ locker Bát Tràng", "smart locker du lịch văn hóa"]

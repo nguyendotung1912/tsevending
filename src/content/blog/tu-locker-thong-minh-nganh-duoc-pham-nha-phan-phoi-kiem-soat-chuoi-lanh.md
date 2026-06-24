@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Ngành Dược Phẩm Và Nhà Phân Phối: Kiểm Soát Chuỗi Lạnh"
 description: "Nhà phân phối dược phẩm cần kiểm soát hàng nghìn SKU, quản lý nhiều điều kiện bảo quản khác nhau và duy trì audit trail cho thanh tra. Locker thông minh tại kho dược phẩm tối ưu quy trình xuất nhập hàng và đảm bảo tuân thủ GDP."
-date: "2027-01-02"
+date: "2026-05-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["locker dược phẩm", "tủ locker nhà phân phối thuốc", "pharmaceutical distribution locker"]

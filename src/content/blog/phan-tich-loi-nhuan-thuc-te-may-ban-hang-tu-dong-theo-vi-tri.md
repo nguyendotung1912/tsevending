@@ -1,7 +1,7 @@
 ---
 title: "Phân Tích Lợi Nhuận Thực Tế Máy Bán Hàng Tự Động Theo Từng Loại Vị Trí"
 description: "Văn phòng, trường học, khu công nghiệp, sân golf, resort — mỗi vị trí có profile lợi nhuận hoàn toàn khác nhau. So sánh thực tế để giúp investor chọn đúng vị trí đặt máy đầu tiên hoặc mở rộng portfolio."
-date: "2026-11-05"
+date: "2026-05-03"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh"
 keywords: ["lợi nhuận máy bán hàng tự động", "ROI vending machine Việt Nam", "vị trí đặt máy vending sinh lời nhất"]

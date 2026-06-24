@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Vui Chơi Trẻ Em Và Nhà Banh: Tiện Ích Cho Phụ Huynh"
 description: "Phụ huynh đưa con đến khu vui chơi thường phải ngồi trông đồ trong khi con chơi. Locker thông minh giải phóng phụ huynh — gửi đồ, thoải mái theo dõi con. Tích hợp với hệ thống kiểm soát trẻ em (wristband) và thanh toán."
-date: "2027-01-14"
+date: "2026-05-29"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker khu vui chơi trẻ em", "tủ locker nhà banh", "gửi đồ khu trẻ em"]

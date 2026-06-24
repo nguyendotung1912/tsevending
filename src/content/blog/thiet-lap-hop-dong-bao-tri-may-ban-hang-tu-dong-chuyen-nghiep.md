@@ -1,7 +1,7 @@
 ---
 title: "Thiết lập hợp đồng bảo trì máy bán hàng tự động chuyên nghiệp"
 description: "Hướng dẫn thiết lập hợp đồng bảo trì máy bán hàng tự động chuyên nghiệp, bao gồm các điều khoản cần có và lưu ý quan trọng."
-date: "2026-07-02"
+date: "2026-02-13"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["hợp đồng bảo trì vending machine", "service contract máy bán hàng", "bảo trì chuyên nghiệp"]

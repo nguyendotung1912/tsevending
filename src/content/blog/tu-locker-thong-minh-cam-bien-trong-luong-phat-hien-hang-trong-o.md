@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Cảm Biến Trọng Lượng: Phát Hiện Hàng Còn Trong Ô"
 description: "Cảm biến trọng lượng trong locker phát hiện khi hàng vẫn còn trong ô sau thời hạn — tự động cảnh báo và tính phí quá hạn. Loại bỏ tình trạng ô chiếm dụng vô thời hạn và tăng hiệu quả sử dụng mạng lưới locker."
-date: "2026-11-25"
+date: "2026-05-10"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["weight sensor locker", "cảm biến trọng lượng tủ locker", "smart locker phát hiện hàng"]

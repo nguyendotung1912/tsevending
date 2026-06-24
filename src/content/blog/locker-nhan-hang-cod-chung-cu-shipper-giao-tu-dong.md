@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhận Hàng COD Cho Chung Cư: Shipper Giao Tự Động Không Cần Chủ Nhà"
 description: "Locker nhận hàng COD tại chung cư giải quyết bài toán shipper không gặp được chủ nhà. Quy trình thanh toán COD qua locker, tích hợp với Shopee và Lazada, và lợi ích cho tất cả các bên."
-date: "2026-07-30"
+date: "2026-03-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker COD chung cư", "nhận hàng COD qua locker", "shipper giao hàng locker tự động"]

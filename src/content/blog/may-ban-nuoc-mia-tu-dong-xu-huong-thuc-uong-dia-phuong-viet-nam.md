@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Nước Mía Tự Động: Xu Hướng Thức Uống Địa Phương Mới Nổi"
 description: "Nước mía là thức uống đường phố quen thuộc của người Việt — nhưng lo ngại vệ sinh là rào cản lớn. Máy ép nước mía tự động khép kín giải quyết được bài toán này, mở ra thị trường hàng triệu khách mỗi ngày."
-date: "2026-10-23"
+date: "2026-04-28"
 silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán nước mía tự động", "máy ép nước mía vending", "nước mía tự động vệ sinh"]

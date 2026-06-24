@@ -1,7 +1,7 @@
 ---
 title: "Cloud Locker Vs Standalone Locker: Nên Chọn Hệ Thống Nào?"
 description: "So sánh chi tiết cloud locker (kết nối internet, quản lý tập trung) và standalone locker (độc lập, không cần mạng). Phân tích ưu nhược điểm, chi phí và khi nào nên chọn mô hình nào."
-date: "2026-07-05"
+date: "2026-02-23"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["cloud locker", "standalone locker", "so sánh hệ thống locker"]

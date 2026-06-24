@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trung Tâm Thể Dục Thẩm Mỹ Và Yoga: Quản Lý Đồ Khách Hàng"
 description: "Phòng gym và yoga studio tại VN cạnh tranh gay gắt — dịch vụ và trải nghiệm là điểm khác biệt. Locker thông minh với phòng thay đồ cao cấp, quản lý đồ cá nhân và tích hợp với ứng dụng fitness là tiêu chuẩn mới của studio cao cấp."
-date: "2027-01-09"
+date: "2026-05-27"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker phòng gym", "tủ locker yoga studio", "fitness locker thông minh"]

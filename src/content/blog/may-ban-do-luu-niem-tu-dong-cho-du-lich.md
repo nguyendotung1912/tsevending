@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Đồ Lưu Niệm Tự Động Cho Du Lịch"
 description: "Tìm hiểu về máy bán đồ lưu niệm tự động cho điểm du lịch, giải pháp kinh doanh m��i cho chủ đầu tư. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-27"
+date: "2026-01-16"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán đồ lưu niệm tự động", "souvenir vending machine", "du lịch tự động"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tích hợp mini fridge - Xu hướng hotel vending mới"
 description: "Tìm hiểu về máy bán hàng tự động tích h���p mini fridge và cách nó giúp khách sạn cạnh tranh với minibar truyền thống. Liên hệ TSE Vending để triển khai giải pháp."
-date: "2026-07-02"
+date: "2026-02-13"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["mini fridge vending machine", "hotel minibar vending", "khách sạn tự động"]

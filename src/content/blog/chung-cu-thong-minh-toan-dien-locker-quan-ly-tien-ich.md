@@ -1,7 +1,7 @@
 ---
 title: "Chung Cư Thông Minh Toàn Diện: Từ Locker Đến Quản Lý Tiện Ích Tự Động"
 description: "Chung cư thông minh toàn diện tích hợp locker nhận hàng, quản lý khách, camera AI và thanh toán phí tự động trong 1 hệ sinh thái. Mô hình và công nghệ cần thiết cho dự án mới."
-date: "2026-08-07"
+date: "2026-03-29"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["chung cư thông minh locker", "smart apartment tiện ích tự động", "hệ thống chung cư thông minh"]

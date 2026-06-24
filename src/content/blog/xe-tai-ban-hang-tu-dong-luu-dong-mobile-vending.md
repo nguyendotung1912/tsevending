@@ -1,7 +1,7 @@
 ---
 title: "Xe Tải Bán Hàng Tự Động Lưu Động: Mobile Vending Xu Hướng Mới Tại Việt Nam"
 description: "Mobile vending truck — xe tải hoặc xe máy tích hợp máy vending di động — phục vụ công trường, khu công nghiệp, sự kiện ngoài trời và vùng thiếu hạ tầng cố định. Mô hình, thiết bị và cơ hội tại Việt Nam 2026."
-date: "2026-10-09"
+date: "2026-04-23"
 silo: "may-ban-hang-tu-dong"
 sub: "kinh-doanh-may-ban-hang"
 keywords: ["xe tải vending machine lưu động", "mobile vending Vietnam", "máy bán hàng di động"]

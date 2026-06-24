@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại TP.HCM 2026: Địa Điểm Hot Và Vùng Tiềm Năng"
 description: "Bản đồ máy bán hàng tự động tại TP.HCM 2026: quận nào có nhiều máy nhất, địa điểm nào sinh lời cao nhất, và những khu vực còn dư địa lớn chưa được khai thác."
-date: "2026-08-17"
+date: "2026-04-03"
 silo: "may-ban-hang-tu-dong"
 sub: "thi-truong-viet-nam"
 keywords: ["máy bán hàng tự động TP.HCM", "vending machine TP HCM", "đầu tư máy bán hàng Sài Gòn"]

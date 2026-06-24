@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Mua Sắm Duty-Free Sân Bay: Lưu Trữ Đồ Mua Sắm"
 description: "Du khách quốc tế mua sắm duty-free tại sân bay thường mua nhiều hàng nhưng không muốn xách theo suốt hành trình tới cổng boarding. Locker thông minh tại khu duty-free cho phép gửi đồ, tiếp tục mua sắm và lấy tất cả trước khi lên máy bay."
-date: "2027-01-11"
+date: "2026-05-28"
 silo: "tu-locker-thong-minh"
 sub: "tu-gui-do-thong-minh"
 keywords: ["locker sân bay duty-free", "tủ locker airport shopping", "gửi đồ duty-free"]

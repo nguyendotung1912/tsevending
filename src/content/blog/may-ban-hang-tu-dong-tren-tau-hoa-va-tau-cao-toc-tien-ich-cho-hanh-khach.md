@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động trên tàu hỏa và tàu cao tốc: Tiện ích cho hành khách"
 description: "Khám phá lợi ích của máy bán hàng tự động trên tàu hỏa và tàu cao tốc. Cung cấp tiện ích cho hành khách với giải pháp kinh doanh hiệu quả."
-date: "2026-07-05"
+date: "2026-02-25"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine tàu hỏa", "máy bán hàng đường sắt", "tiện ích hành khách tàu"]

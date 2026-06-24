@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker 16–20 Ngăn: Giải Pháp Mật Độ Cao Cho Tòa Nhà Lớn Và Khu Công Nghiệp"
 description: "Tủ locker 16–20 ngăn tối ưu không gian với mật độ ô cao nhất, phù hợp khu công nghiệp lớn, tòa nhà văn phòng và trung tâm thương mại. Thiết kế, quản lý và tính toán quy mô."
-date: "2026-07-28"
+date: "2026-03-23"
 silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker 16 ngăn", "tủ locker 20 ngăn khu công nghiệp", "locker mật độ cao"]

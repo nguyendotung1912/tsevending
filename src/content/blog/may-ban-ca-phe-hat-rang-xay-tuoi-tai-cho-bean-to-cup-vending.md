@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Cà Phê Hạt Rang Xay Tươi Tại Chỗ: Bean-to-Cup Vending Machine"
 description: "Máy cà phê bean-to-cup nghiền hạt và pha ngay tại chỗ — không phải cà phê hòa tan hay pha sẵn. Xu hướng này đang thay đổi thị trường cà phê tự động từ 'tiện lợi nhưng kém chất lượng' thành 'tiện lợi và ngon thật sự'."
-date: "2026-10-25"
+date: "2026-04-29"
 silo: "may-ban-hang-tu-dong"
 sub: "san-pham-dac-biet"
 keywords: ["máy bán cà phê hạt tươi tự động", "bean to cup vending machine", "máy pha cà phê tự động ngon"]

@@ -1,7 +1,7 @@
 ---
 title: "Hợp Đồng Bảo Trì Máy Bán Hàng Tự Động: Điều Khoản Quan Trọng Cần Có"
 description: "Hợp đồng bảo trì tốt bảo vệ vận hành không bị gián đoạn — hợp đồng xấu để máy nằm hỏng 2 tuần mà không ai chịu trách nhiệm. Hướng dẫn các điều khoản cần có và những điều cần tránh khi ký hợp đồng bảo trì."
-date: "2026-10-03"
+date: "2026-04-21"
 silo: "may-ban-hang-tu-dong"
 sub: "quan-ly-van-hanh"
 keywords: ["hợp đồng bảo trì máy vending", "bảo hành máy bán hàng tự động", "SLA vending machine Việt Nam"]

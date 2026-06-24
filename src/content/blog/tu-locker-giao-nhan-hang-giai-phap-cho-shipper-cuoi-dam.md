@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Giao Nhận Hàng: Giải Pháp Cuối Dặm Cho Shipper Và E-commerce"
 description: "Tủ locker giao nhận hàng giúp shipper không cần gặp người nhận, giảm tỷ lệ giao thất bại và tiết kiệm chi phí logistics. Phân tích mô hình, lợi ích và cách triển khai tại Việt Nam."
-date: "2026-07-08"
+date: "2026-03-06"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-giao-nhan-hang"
 keywords: ["locker giao nhận hàng", "smart locker shipper", "locker cuối dặm"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Gỗ Sang Trọng: Thiết Kế Nội Thất Cao Cấp Khách Sạn Và Spa 5 Sao"
 description: "Tủ locker gỗ sang trọng kết hợp vật liệu gỗ tự nhiên và công nghệ thông minh cho không gian khách sạn cao cấp, spa 5 sao và resort. Ưu nhược điểm và lưu ý khi chọn."
-date: "2026-07-25"
+date: "2026-03-20"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker gỗ sang trọng", "tủ locker khách sạn cao cấp", "locker gỗ nội thất spa"]

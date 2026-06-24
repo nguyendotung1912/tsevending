@@ -1,7 +1,7 @@
 ---
 title: "Kiểm Định Và Chứng Nhận Tủ Locker Thông Minh: Tiêu Chuẩn ISO, CE và TCVN"
 description: "Mua locker thông minh không có chứng nhận là rủi ro về an toàn, pháp lý và bảo hiểm. Hiểu các tiêu chuẩn ISO, CE, TCVN áp dụng cho tủ locker thông minh tại Việt Nam để đàm phán đúng với nhà cung cấp và đảm bảo sản phẩm đạt chuẩn."
-date: "2027-03-12"
+date: "2026-06-19"
 silo: "tu-locker-thong-minh"
 sub: "bao-mat-locker"
 keywords: ["chứng nhận locker thông minh ISO CE", "tiêu chuẩn TCVN tủ locker", "kiểm định smart locker Việt Nam"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Phòng Chờ Cơ Quan Hành Chính: Dịch Vụ Công Hiện Đại"
 description: "Người dân chờ giải quyết thủ tục hành chính có thể mất 30 phút đến 3-4 giờ. Máy bán hàng tự động trong phòng chờ là dịch vụ tiện ích đang được nhiều UBND, sở và bộ ngành áp dụng để nâng cao trải nghiệm người dân."
-date: "2026-11-13"
+date: "2026-05-06"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine cơ quan nhà nước", "tiện ích phòng chờ hành chính", "máy bán hàng dịch vụ công"]

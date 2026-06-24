@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhà Thuốc Tự Động: Phát Thuốc Ngoài Giờ Hành Chính An Toàn"
 description: "Locker nhà thuốc tự động cho phép phát thuốc 24/7 cho bệnh nhân mãn tính với đơn thuốc đã được duyệt. Yêu cầu pháp lý, công nghệ kiểm soát và triển khai tại bệnh viện Việt Nam."
-date: "2026-08-09"
+date: "2026-03-31"
 silo: "tu-locker-thong-minh"
 sub: "nganh-niche"
 keywords: ["locker nhà thuốc tự động", "phát thuốc tự động", "locker dược phẩm bệnh viện"]

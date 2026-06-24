@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Nhà Máy Điện Và Công Trình Hạ Tầng: Quản Lý Dụng Cụ Công Nhân"
 description: "Nhà máy điện, cầu đường và công trình hạ tầng lớn cần kiểm soát dụng cụ chuyên dụng, thiết bị bảo hộ và tài sản cá nhân của công nhân. Locker thông minh tại công trường đảm bảo an toàn lao động và quản lý tài sản hiệu quả."
-date: "2027-01-26"
+date: "2026-06-02"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker nhà máy điện", "tủ locker công trình hạ tầng", "construction site locker"]

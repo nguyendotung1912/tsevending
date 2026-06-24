@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Nhân Viên Offshore Giàn Khoan & Tàu Biển"
 description: "Tủ locker thông minh cho nhân viên offshore giàn khoan và tàu biển. Giải pháp lưu trữ an toàn, bảo mật cho thiết bị và đồ cá nhân. Liên hệ TSE Vending để biết thêm."
-date: "2026-06-29"
+date: "2026-01-30"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker giàn khoan", "offshore locker", "tủ locker tàu biển"]

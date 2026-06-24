@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại trung tâm chăm sóc người cao tuổi: Tiện ích & An toàn"
 description: "Giải pháp máy bán hàng tự ��ộng cho trung tâm chăm sóc người cao tuổi, cung cấp tiện ích và đảm bảo an toàn cho người dùng cao tuổi. Liên hệ TSE Vending để biết thêm."
-date: "2026-07-04"
+date: "2026-02-21"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["vending machine người cao tuổi", "tiện ích dưỡng lão", "máy bán hàng an toàn"]

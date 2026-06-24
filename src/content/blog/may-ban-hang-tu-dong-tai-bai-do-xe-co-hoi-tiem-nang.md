@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Tại Bãi Đỗ Xe: Cơ Hội Tiềm Năng"
 description: "Khám phá cơ hội kinh doanh máy bán hàng tự động tại bãi đỗ xe. Tìm hiểu về lợi ích và cách thức triển khai dự án thành công với TSE Vending."
-date: "2026-06-26"
+date: "2026-01-11"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng bãi đỗ xe", "vending machine parking", "kinh doanh bãi xe"]

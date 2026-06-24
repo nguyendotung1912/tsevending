@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Chống Ẩm Và Chống Trộm Trong Kho Hàng Và Nhà Xưởng"
 description: "Kho hàng và nhà xưởng có độ ẩm cao, bụi nhiều và nguy cơ trộm cắp thiết bị, dụng cụ cao hơn văn phòng. Locker cho môi trường này cần chống ẩm IP54+, chống cắt phá, khóa độ bền công nghiệp và hệ thống ghi log chống gian lận nội bộ."
-date: "2026-12-11"
+date: "2026-05-16"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker chống ẩm kho", "moisture-proof locker", "tủ locker nhà kho"]

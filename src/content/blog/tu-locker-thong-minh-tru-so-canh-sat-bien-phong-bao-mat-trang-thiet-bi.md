@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Trụ Sở Cảnh Sát Và Biên Phòng: Bảo Mật Trang Thiết Bị"
 description: "Cơ quan công an, cảnh sát và biên phòng cần kiểm soát nghiêm ngặt trang thiết bị nghiệp vụ, dụng cụ hỗ trợ và đồ dùng cá nhân cán bộ. Locker thông minh với phân quyền cấp bậc và audit trail đáp ứng yêu cầu bảo mật đặc thù của lực lượng vũ trang."
-date: "2027-01-29"
+date: "2026-06-03"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker cơ quan công an", "tủ locker an ninh cảnh sát", "law enforcement locker"]

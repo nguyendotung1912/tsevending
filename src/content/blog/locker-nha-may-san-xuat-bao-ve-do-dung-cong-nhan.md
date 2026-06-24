@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhà Máy Sản Xuất: Bảo Vệ Đồ Dùng Công Nhân Và Tài Sản Doanh Nghiệp"
 description: "Tủ locker thông minh trong nhà máy sản xuất quản lý đồ cá nhân công nhân, thiết bị bảo hộ và dụng cụ sản xuất. Phân tích tiêu chuẩn an toàn lao động, giải pháp kỹ thuật và ROI cho doanh nghiệp sản xuất."
-date: "2026-06-28"
+date: "2026-01-21"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-cong-nghiep"
 keywords: ["locker nhà máy", "tủ đựng đồ công nhân", "locker khu công nghiệp"]

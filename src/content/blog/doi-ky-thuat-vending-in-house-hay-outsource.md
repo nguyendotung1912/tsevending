@@ -1,7 +1,7 @@
 ---
 title: "Đội kỹ thuật vending: In-house hay Outsource?"
 description: "Xây dựng đội kỹ thuật vending in-house hay thuê ngoài? Tìm hiểu ưu nhược điểm của từng phương pháp để đưa ra quyết định phù hợp cho doanh nghiệp của bạn."
-date: "2026-07-02"
+date: "2026-02-11"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["đội kỹ thuật vending", "bảo trì in-house vending", "outsource bảo trì máy bán hàng"]

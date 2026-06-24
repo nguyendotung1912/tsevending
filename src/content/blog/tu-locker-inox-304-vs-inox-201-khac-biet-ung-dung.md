@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Inox 304 vs Inox 201: Sự Khác Biệt Và Ứng Dụng Phù Hợp"
 description: "So sánh chi tiết tủ locker inox 304 và inox 201: thành phần hợp kim, khả năng chống gỉ, giá thành và môi trường phù hợp. Hướng dẫn chọn đúng loại inox cho từng vị trí lắp đặt."
-date: "2026-07-23"
+date: "2026-03-19"
 silo: "tu-locker-thong-minh"
 sub: "chat-lieu-locker"
 keywords: ["locker inox 304", "locker inox 201", "so sánh tủ locker inox 304 vs 201"]

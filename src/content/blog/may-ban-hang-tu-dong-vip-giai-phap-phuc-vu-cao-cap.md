@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động VIP - Giải pháp phục vụ cao cấp"
 description: "Tìm hiểu về máy bán hàng tự động premium và cách chúng phục vụ nhu cầu VIP. Liên hệ TSE Vending để triển khai giải pháp cao cấp cho doanh nghiệp của bạn."
-date: "2026-07-09"
+date: "2026-03-08"
 silo: "may-ban-hang-tu-dong"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["premium vending machine", "máy bán hàng VIP", "vending machine cao cấp"]

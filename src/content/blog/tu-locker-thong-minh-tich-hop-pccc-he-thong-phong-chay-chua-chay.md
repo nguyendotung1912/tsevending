@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp PCCC: An Toàn Phòng Cháy Chữa Cháy Tòa Nhà"
 description: "Khi báo cháy kích hoạt, tất cả người cần sơ tán ngay lập tức — không có thời gian lấy đồ trong locker đã khóa. Tích hợp locker với hệ thống PCCC đảm bảo locker tự động mở khi báo động, tránh cản trở sơ tán và đáp ứng quy định an toàn."
-date: "2026-12-01"
+date: "2026-05-13"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker PCCC", "tủ locker phòng cháy tích hợp", "fire safety locker thông minh"]

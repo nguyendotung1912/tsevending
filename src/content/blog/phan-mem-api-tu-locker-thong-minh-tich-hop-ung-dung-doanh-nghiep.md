@@ -1,7 +1,7 @@
 ---
 title: "Phần Mềm API Tủ Locker Thông Minh: Tích Hợp Với Ứng Dụng Của Doanh Nghiệp"
 description: "API locker thông minh cho phép tích hợp với hệ thống HR, app nội bộ, ERP và logistics platform của doanh nghiệp. Hiểu rõ các loại API, luồng tích hợp và yêu cầu kỹ thuật để đánh giá và lựa chọn giải pháp phù hợp."
-date: "2026-11-23"
+date: "2026-05-10"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker API", "tích hợp phần mềm locker", "locker SDK doanh nghiệp"]

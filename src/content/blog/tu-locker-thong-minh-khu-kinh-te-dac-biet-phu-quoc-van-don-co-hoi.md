@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Kinh Tế Đặc Biệt Phú Quốc Và Vân Đồn: Cơ Hội Mới"
 description: "Phú Quốc và Vân Đồn là hai đặc khu kinh tế đang phát triển nhanh nhất VN. Hạ tầng thông minh, bao gồm locker tại sân bay, resort, bến du thuyền và khu thương mại, là yếu tố cạnh tranh thu hút đầu tư và du khách quốc tế."
-date: "2027-02-03"
+date: "2026-06-05"
 silo: "tu-locker-thong-minh"
 sub: "ung-dung-dac-biet"
 keywords: ["locker Phú Quốc đặc khu kinh tế", "tủ locker Vân Đồn", "SEZ smart locker"]

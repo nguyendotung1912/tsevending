@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Phân Quyền Theo Cấp Bậc: Quản Lý Manager, Nhân Viên Và Khách"
 description: "Hệ thống locker thông minh cần phân quyền chặt chẽ: Admin có toàn quyền, Manager quản lý khu vực, nhân viên truy cập ô của mình, khách chỉ dùng tạm thời. RBAC (Role-Based Access Control) là nền tảng kiến trúc bảo mật đúng đắn."
-date: "2026-12-02"
+date: "2026-05-13"
 silo: "tu-locker-thong-minh"
 sub: "tinh-nang-locker"
 keywords: ["phân quyền tủ locker", "role-based locker access", "RBAC locker thông minh"]

@@ -1,7 +1,7 @@
 ---
 title: "Locker Văn Phòng Thông Minh: Quản Lý Tài Sản Không Cần Nhân Sự"
 description: "Tủ locker thông minh văn phòng thay thế phòng bảo quản đồ, ngăn lấy thiết bị và tủ chìa khóa truyền thống. Phân tích các trường hợp sử dụng, ROI và cách triển khai trong văn phòng hiện đại."
-date: "2026-06-30"
+date: "2026-02-02"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker văn phòng thông minh", "tủ locker công ty", "quản lý tài sản văn phòng"]

@@ -1,7 +1,7 @@
 ---
 title: "AI Trong Bán Lẻ Tự Động: Phân Tích Hành Vi Khách Hàng Qua Camera Thông Minh"
 description: "AI camera trong máy bán hàng và cửa hàng tự động phân tích hành vi khách hàng, tối ưu hóa sản phẩm và cá nhân hóa trải nghiệm. Ứng dụng thực tế và giới hạn đạo đức."
-date: "2026-07-22"
+date: "2026-03-18"
 silo: "may-ban-hang-tu-dong"
 sub: "tu-dong-hoa"
 keywords: ["AI camera máy bán hàng", "phân tích hành vi khách hàng vending", "AI bán lẻ tự động"]

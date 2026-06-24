@@ -1,7 +1,7 @@
 ---
 title: "Máy bán hàng tự động tại chùa và đền thờ - Tiện ích cho cộng đồng Phật giáo"
 description: "Khám phá tiện ích của máy bán hàng tự động tại chùa và đền thờ. Giải pháp hiện đại cho cộng đồng Phật giáo, tăng cường trải nghiệm cho khách thập phương."
-date: "2026-07-05"
+date: "2026-02-25"
 silo: "may-ban-hang-tu-dong"
 sub: "xu-huong"
 keywords: ["vending machine chùa", "tiện ích phật giáo", "đền thờ tự động"]

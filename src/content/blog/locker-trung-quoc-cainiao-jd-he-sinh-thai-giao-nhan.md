@@ -1,7 +1,7 @@
 ---
 title: "Locker Thông Minh Tại Trung Quốc: Hệ Sinh Thái Giao Nhận Tỷ Đô Của Cainiao Và JD"
 description: "Trung Quốc có mạng lưới locker giao nhận lớn nhất thế giới với 500,000+ tủ. Cainiao (Alibaba), JD Logistics và Hive Box đã xây dựng hệ sinh thái thế nào — và bài học gì cho Việt Nam?"
-date: "2026-09-09"
+date: "2026-04-12"
 silo: "tu-locker-thong-minh"
 sub: "thi-truong-quoc-te"
 keywords: ["locker thông minh Trung Quốc", "Cainiao locker Alibaba", "JD Logistics locker"]

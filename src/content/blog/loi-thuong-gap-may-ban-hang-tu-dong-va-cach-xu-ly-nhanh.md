@@ -1,7 +1,7 @@
 ---
 title: "Lỗi thường gặp máy bán hàng tự động và cách xử lý nhanh"
 description: "Tìm hiểu lỗi thường gặp khi vận hành máy bán hàng t��� động và cách xử lý nhanh chóng, hiệu quả. Liên hệ TSE Vending để được hỗ trợ."
-date: "2026-06-30"
+date: "2026-02-03"
 silo: "may-ban-hang-tu-dong"
 sub: "ky-thuat"
 keywords: ["lỗi máy bán hàng tự động", "sự cố vending machine", "xử lý sự cố"]

@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Giải Pháp BYOD: Bảo Mật Thiết Bị Cá Nhân Trong Văn Phòng"
 description: "Chính sách BYOD (Bring Your Own Device) cho phép nhân viên mang laptop và điện thoại cá nhân vào văn phòng. Locker thông minh chuyên biệt giải quyết thách thức lưu trữ an toàn, sạc thiết bị và phân ly dữ liệu cá nhân và công ty."
-date: "2026-12-14"
+date: "2026-05-17"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["BYOD locker", "tủ locker bảo mật laptop", "device locker"]

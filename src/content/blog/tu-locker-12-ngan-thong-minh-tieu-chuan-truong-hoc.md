@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker 12 Ngăn Thông Minh: Giải Pháp Tiêu Chuẩn Cho Trường Học Và Khu Công Nghiệp"
 description: "Tủ locker 12 ngăn thông minh là cấu hình phổ biến nhất cho trường THCS/THPT và nhà máy. Tìm hiểu kích thước tiêu chuẩn, cách quản lý và tính toán số lượng cần thiết."
-date: "2026-07-28"
+date: "2026-03-22"
 silo: "tu-locker-thong-minh"
 sub: "thong-so-locker"
 keywords: ["locker 12 ngăn thông minh", "tủ locker 12 ô trường học", "locker 12 ngăn khu công nghiệp"]

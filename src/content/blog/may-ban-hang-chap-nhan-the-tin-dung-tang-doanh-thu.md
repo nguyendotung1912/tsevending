@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Chấp Nhận Thẻ Tín Dụng: Tăng Doanh Thu 40%"
 description: "Tích hợp thanh toán thẻ tín dụng và thẻ ghi nợ vào máy bán hàng tự động giúp tăng doanh thu 30–40%. Tìm hiểu thiết bị đầu đọc thẻ, phí và quy trình kết nối ngân hàng."
-date: "2026-08-03"
+date: "2026-03-26"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-thanh-toan"
 keywords: ["máy bán hàng chấp nhận thẻ", "vending machine thẻ tín dụng", "đầu đọc thẻ máy bán hàng"]

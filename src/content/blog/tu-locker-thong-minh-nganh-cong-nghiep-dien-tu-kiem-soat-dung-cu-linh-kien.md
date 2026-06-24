@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Ngành Công Nghiệp Điện Tử: Kiểm Soát Dụng Cụ Và Linh Kiện"
 description: "Nhà máy điện tử đòi hỏi kiểm soát dụng cụ và linh kiện ở mức độ cao nhất: ESD-safe, traceability đầy đủ và không để lẫn linh kiện. Locker thông minh ESD cho ngành điện tử giải quyết đồng thời bài toán an toàn tĩnh điện, quản lý tài sản và tuân thủ ISO."
-date: "2027-03-09"
+date: "2026-06-18"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-van-phong"
 keywords: ["locker ESD nhà máy điện tử", "tủ locker kiểm soát linh kiện điện tử", "smart locker electronics manufacturing"]

@@ -1,7 +1,7 @@
 ---
 title: "Last-Mile Delivery Locker: Giao Hàng Không Cần Người Nhận Trực Tiếp"
 description: "Parcel locker giải quyết bài toán giao hàng chặng cuối khi người nhận không có nhà. Phân tích mô hình vận hành, vị trí triển khai và cơ hội thị trường cho locker giao nhận hàng tại Việt Nam."
-date: "2026-07-01"
+date: "2026-02-06"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["parcel locker Việt Nam", "locker giao hàng", "last-mile delivery locker"]

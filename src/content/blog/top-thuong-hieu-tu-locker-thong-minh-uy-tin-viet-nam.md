@@ -1,7 +1,7 @@
 ---
 title: "Top Thương Hiệu Tủ Locker Thông Minh Uy Tín Nhất Tại Việt Nam 2026"
 description: "Điểm danh các thương hiệu tủ locker thông minh uy tín đang hoạt động tại thị trường Việt Nam 2026. So sánh điểm mạnh, định vị phân khúc và phù hợp với từng nhu cầu."
-date: "2026-07-12"
+date: "2026-03-11"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["thương hiệu locker thông minh Việt Nam", "hãng locker uy tín", "locker thông minh nào tốt nhất"]

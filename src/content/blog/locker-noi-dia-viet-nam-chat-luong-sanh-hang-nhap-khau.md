@@ -1,7 +1,7 @@
 ---
 title: "Locker Nội Địa Việt Nam: Chất Lượng Có Sánh Được Hàng Nhập Khẩu?"
 description: "Đánh giá khách quan tủ locker thông minh sản xuất tại Việt Nam so với hàng nhập khẩu: vật liệu, công nghệ, phần mềm, giá thành và dịch vụ hậu mãi. Thực trạng ngành locker nội địa 2026."
-date: "2026-07-18"
+date: "2026-03-16"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["locker nội địa Việt Nam", "locker sản xuất Việt Nam", "chất lượng locker Việt Nam"]

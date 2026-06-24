@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp E-ink: Đổi Thông Tin Hiển Thị Từ Xa Không Dây"
 description: "Màn hình e-ink (electronic paper) trên tủ locker cho phép cập nhật tên chủ ô, số phòng, trạng thái và thông tin khác từ xa không dây — tiêu thụ điện gần bằng 0 khi màn hình không thay đổi. Công nghệ đang được các hệ thống locker cao cấp ứng dụng."
-date: "2026-11-24"
+date: "2026-05-10"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["e-ink locker", "tủ locker màn hình điện tử", "electronic paper locker display"]

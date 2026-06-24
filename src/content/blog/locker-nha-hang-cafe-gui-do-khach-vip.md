@@ -1,7 +1,7 @@
 ---
 title: "Locker Nhà Hàng Và Quán Cà Phê: Giữ Đồ Khách VIP Và Tăng Trải Nghiệm"
 description: "Smart locker tại nhà hàng và quán cà phê cao cấp giúp khách gửi đồ thoải mái, tăng thời gian ngồi và nâng cao trải nghiệm dịch vụ. Phân tích mô hình phù hợp với từng loại hình F&B."
-date: "2026-07-05"
+date: "2026-02-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-thuong-mai"
 keywords: ["locker nhà hàng", "locker quán cà phê", "gửi đồ F&B thông minh"]

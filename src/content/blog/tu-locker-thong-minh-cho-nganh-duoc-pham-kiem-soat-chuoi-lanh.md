@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Cho Ngành Dược Phẩm - Kiểm Soát Chuỗi Lạnh"
 description: "Tủ locker thông minh cho nhà phân phối dược, giúp kiểm soát chuỗi lạnh và bảo quản thuốc. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-25"
+date: "2026-01-07"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-benh-vien"
 keywords: ["locker nhà phân phối dược", "pharmaceutical distributor locker", "drug locker"]

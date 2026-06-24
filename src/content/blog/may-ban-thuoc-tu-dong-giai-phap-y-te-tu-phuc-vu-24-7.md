@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Thuốc Tự Động: Giải Pháp Y Tế Tự Phục Vụ 24/7"
 description: "Máy bán thuốc không kê đơn (OTC) tự động tại bệnh viện, sân bay và khu dân cư phục vụ nhu cầu y tế cơ bản 24/7. Phân tích quy định pháp lý, danh mục sản phẩm và mô hình kinh doanh tại Việt Nam."
-date: "2026-06-27"
+date: "2026-01-17"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-y-te"
 keywords: ["máy bán thuốc tự động", "vending machine y tế", "thuốc OTC tự động"]

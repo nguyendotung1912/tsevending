@@ -1,7 +1,7 @@
 ---
 title: "Amazon Locker Và Xu Hướng Locker Toàn Cầu: Bài Học Cho Thị Trường Việt Nam"
 description: "Amazon Locker đã thay đổi cách giao nhận hàng thế giới như thế nào? Phân tích mô hình, bài học và xu hướng locker toàn cầu áp dụng cho thị trường e-commerce Việt Nam."
-date: "2026-07-14"
+date: "2026-03-12"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["Amazon Locker Việt Nam", "xu hướng locker toàn cầu", "mô hình locker e-commerce"]

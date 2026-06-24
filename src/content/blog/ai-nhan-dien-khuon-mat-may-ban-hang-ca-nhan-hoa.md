@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tích Hợp AI Nhận Diện Khuôn Mặt: Cá Nhân Hóa Trải Nghiệm Mua Sắm"
 description: "AI nhận diện khuôn mặt trên máy vending gợi ý sản phẩm theo lịch sử mua, tuổi tác và thời tiết — tăng doanh thu 15–25%. Phân tích công nghệ, quyền riêng tư và lộ trình triển khai tại Việt Nam."
-date: "2026-09-28"
+date: "2026-04-19"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-vending"
 keywords: ["AI nhận diện khuôn mặt vending machine", "facial recognition máy bán hàng", "cá nhân hóa vending machine"]

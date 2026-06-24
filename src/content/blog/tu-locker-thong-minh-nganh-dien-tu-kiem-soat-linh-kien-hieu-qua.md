@@ -1,7 +1,7 @@
 ---
 title: "Tủ locker thông minh ngành điện tử - Kiểm soát linh kiện hiệu quả"
 description: "Tủ locker thông minh cho ngành điện tử giúp kiểm soát linh kiện và dụng cụ hiệu quả. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-29"
+date: "2026-01-31"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-nganh-dien-tu"
 keywords: ["locker ngành điện tử", "electronics industry locker", "tủ locker linh kiện"]

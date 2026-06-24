@@ -1,7 +1,7 @@
 ---
 title: "Cách Chọn Công Ty Bảo Trì Máy Bán Hàng Tự Động Uy Tín: Tiêu Chí Và Hợp Đồng"
 description: "Hợp đồng bảo trì sai có thể khiến bạn mất tiền và máy downtime kéo dài. Hướng dẫn đánh giá nhà cung cấp dịch vụ bảo trì vending machine: tiêu chí lựa chọn, điều khoản hợp đồng cần có và câu hỏi phải hỏi trước khi ký."
-date: "2026-10-31"
+date: "2026-05-01"
 silo: "may-ban-hang-tu-dong"
 sub: "van-hanh"
 keywords: ["công ty bảo trì máy bán hàng tự động", "hợp đồng bảo trì vending machine", "dịch vụ sửa chữa máy vending Việt Nam"]

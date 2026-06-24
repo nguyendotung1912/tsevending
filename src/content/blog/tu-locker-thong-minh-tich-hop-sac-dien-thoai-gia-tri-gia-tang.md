@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tích Hợp Sạc Điện Thoại: Giá Trị Gia Tăng Thu Hút Người Dùng"
 description: "Locker có cổng sạc USB bên trong ngăn giải quyết hai nhu cầu cùng lúc: lưu trữ an toàn và sạc điện thoại. Tính năng này đặc biệt hấp dẫn tại sân bay, bệnh viện, trung tâm thương mại và khu công nghiệp nơi người dùng ở lại nhiều giờ."
-date: "2026-11-21"
+date: "2026-05-09"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["locker sạc điện thoại", "charging locker", "tủ locker USB sạc pin"]

@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Trong Chuỗi Cửa Hàng Tiện Lợi Circle K và FamilyMart: Mô Hình Bổ Trợ"
 description: "Circle K, FamilyMart, GS25 và Ministop đang mở rộng tại VN. Máy bán hàng tự động bổ trợ cho chuỗi tiện lợi bằng cách phục vụ 24/7 tại vị trí không có nhân viên, trong khi cửa hàng tập trung vào dịch vụ phức tạp hơn — tạo hệ sinh thái bán lẻ đồng bộ."
-date: "2027-03-13"
+date: "2026-06-19"
 silo: "tu-locker-thong-minh"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán hàng tự động Circle K", "vending machine chuỗi tiện lợi VN", "FamilyMart vending bổ trợ"]

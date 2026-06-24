@@ -1,7 +1,7 @@
 ---
 title: "Locker Giao Hàng Shopee, Lazada 2026: Chính Sách Và Đối Tác Locker Chính Thức"
 description: "Chính sách và mạng lưới locker giao hàng Shopee, Lazada tại Việt Nam 2026. Cách đăng ký điểm locker đối tác, tiêu chuẩn kỹ thuật và mô hình hợp tác kinh doanh."
-date: "2026-07-30"
+date: "2026-03-24"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-kho-van"
 keywords: ["locker Shopee", "locker Lazada", "locker giao hàng sàn thương mại điện tử"]

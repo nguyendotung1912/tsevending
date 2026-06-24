@@ -1,7 +1,7 @@
 ---
 title: "Máy bán nước mía tự động: Xu hướng thức uống mới tại Việt Nam"
 description: "Tìm hiểu về máy bán nước mía tự động, xu hướng thức uống địa phương mới nổi tại Việt Nam. Giải pháp kinh doanh với nước mía sạch, tiện lợi."
-date: "2026-07-07"
+date: "2026-03-03"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-nuoc-giai-khat"
 keywords: ["máy bán nước mía tự động", "sugarcane juice vending", "nước mía sạch"]

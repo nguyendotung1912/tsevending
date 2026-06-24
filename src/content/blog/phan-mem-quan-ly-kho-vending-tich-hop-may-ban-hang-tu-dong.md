@@ -1,7 +1,7 @@
 ---
 title: "Phần mềm quản lý kho vending tích hợp máy bán hàng tự động"
 description: "Giải pháp quản lý kho thông minh cho máy bán hàng tự động, tối ưu hóa tồn kho và vận hành kinh doanh của bạn. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-07-01"
+date: "2026-02-07"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-quan-ly"
 keywords: ["phần mềm quản lý kho vending", "inventory management vending machine", "tồn kho tự động"]

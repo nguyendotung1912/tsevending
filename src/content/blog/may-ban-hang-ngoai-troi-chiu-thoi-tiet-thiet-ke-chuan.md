@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Ngoài Trời: Thiết Kế Chịu Thời Tiết Chuẩn IP"
 description: "Máy bán hàng tự động ngoài trời phải chịu mưa, nắng, bụi và độ ẩm cao. Tìm hiểu tiêu chuẩn IP, vật liệu chống thời tiết và các giải pháp thiết kế cho máy vending ngoài trời tại Việt Nam."
-date: "2026-07-06"
+date: "2026-02-28"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-dac-biet"
 keywords: ["máy bán hàng ngoài trời", "outdoor vending machine", "máy vending chống thời tiết"]

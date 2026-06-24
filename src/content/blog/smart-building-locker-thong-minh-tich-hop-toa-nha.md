@@ -1,7 +1,7 @@
 ---
 title: "Smart Building Và Locker Thông Minh: Tích Hợp Hệ Thống Tòa Nhà Thế Hệ Mới"
 description: "Locker thông minh tích hợp vào hệ thống BMS (Building Management System) của smart building — cùng thẻ access, cùng app, cùng dashboard quản lý. Xu hướng và cách triển khai."
-date: "2026-08-06"
+date: "2026-03-29"
 silo: "tu-locker-thong-minh"
 sub: "giai-phap-nha-o"
 keywords: ["smart building locker", "locker tích hợp BMS", "tòa nhà thông minh locker"]

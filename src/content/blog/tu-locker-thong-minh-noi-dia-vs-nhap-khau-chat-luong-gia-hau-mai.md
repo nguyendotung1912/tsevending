@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Tủ Locker Thông Minh Nội Địa Và Nhập Khẩu: Chất Lượng, Giá Và Dịch Vụ Hậu Mãi"
 description: "Thị trường VN có locker nội địa và nhập khẩu từ Trung Quốc, Đài Loan, Hàn Quốc. So sánh khách quan về chất lượng vật liệu, giá cả, phần mềm, khả năng tích hợp và dịch vụ sau bán hàng để doanh nghiệp chọn đúng đối tác."
-date: "2027-02-24"
+date: "2026-06-13"
 silo: "tu-locker-thong-minh"
 sub: "thuong-hieu-locker"
 keywords: ["so sánh locker nội địa nhập khẩu", "locker Trung Quốc vs Việt Nam", "chọn mua tủ locker thông minh"]

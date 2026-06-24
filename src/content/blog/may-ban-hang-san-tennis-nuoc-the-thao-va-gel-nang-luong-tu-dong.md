@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Sân Tennis: Nước Thể Thao và Gel Năng Lượng Tự Động"
 description: "Tìm hiểu về máy bán hàng sân tennis và pickleball, cung cấp nước thể thao và gel năng lượng tự động. Liên hệ TSE Vending để biết thêm thông tin."
-date: "2026-06-26"
+date: "2026-01-11"
 silo: "may-ban-hang-tu-dong"
 sub: "may-ban-do-an-vat"
 keywords: ["máy bán hàng sân tennis", "vending machine thể thao", "gel năng lượng tự động"]

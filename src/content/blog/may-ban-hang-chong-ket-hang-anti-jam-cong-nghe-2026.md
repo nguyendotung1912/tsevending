@@ -1,7 +1,7 @@
 ---
 title: "Máy Bán Hàng Tự Động Chống Kẹt Hàng: Công Nghệ Anti-Jam Hiện Đại Nhất 2026"
 description: "Công nghệ anti-jam trong máy bán hàng tự động: cảm biến phát hiện kẹt, cơ chế phục hồi tự động và thiết kế phần cứng giảm kẹt. Cách chọn máy ít kẹt nhất cho doanh nghiệp."
-date: "2026-08-30"
+date: "2026-04-08"
 silo: "may-ban-hang-tu-dong"
 sub: "cong-nghe-ky-thuat"
 keywords: ["máy bán hàng chống kẹt hàng", "anti-jam vending machine", "chống kẹt hàng vending"]

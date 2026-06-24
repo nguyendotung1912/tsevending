@@ -1,7 +1,7 @@
 ---
 title: "QR Code Locker: Mở Tủ Bằng Smartphone Không Cần Chìa Khóa"
 description: "QR code locker cho phép mở tủ bằng smartphone — không cần chìa, không cần thẻ, không cần nhớ PIN. Tìm hiểu công nghệ, ưu nhược điểm và khi nào nên chọn QR code thay vì các phương thức mở khóa khác."
-date: "2026-06-26"
+date: "2026-01-12"
 silo: "tu-locker-thong-minh"
 sub: "cong-nghe-locker"
 keywords: ["QR code locker", "mở tủ bằng điện thoại", "locker không cần chìa khóa"]

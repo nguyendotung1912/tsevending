@@ -1,7 +1,7 @@
 ---
 title: "Quên Mã PIN Tủ Locker: Cách Mở Khóa Khẩn Cấp Và Reset Hệ Thống"
 description: "Quên mã PIN hoặc OTP locker thông minh? Hướng dẫn chi tiết cách xử lý khẩn cấp, liên hệ hỗ trợ, và quy trình reset mã để lấy lại đồ trong tủ locker an toàn."
-date: "2026-07-17"
+date: "2026-03-15"
 silo: "tu-locker-thong-minh"
 sub: "huong-dan-su-dung"
 keywords: ["quên mã PIN locker", "mở khóa khẩn cấp locker", "reset OTP tủ locker"]

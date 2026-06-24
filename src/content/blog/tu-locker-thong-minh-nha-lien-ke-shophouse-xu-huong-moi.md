@@ -1,7 +1,7 @@
 ---
 title: "Tủ Locker Thông Minh Tại Khu Dân Cư Nhà Liền Kề Và Shophouse: Xu Hướng Mới"
 description: "Khu dân cư thấp tầng liền kề và shophouse đang bùng nổ ở vùng ven các đô thị lớn. Cư dân có nhu cầu nhận hàng online an toàn và quản lý đồ đạc khi vắng nhà. Locker thông minh cho cluster nhà liền kề là giải pháp cộng đồng phù hợp quy mô nhỏ."
-date: "2026-12-20"
+date: "2026-05-20"
 silo: "tu-locker-thong-minh"
 sub: "tu-locker-chung-cu"
 keywords: ["locker nhà liền kề", "shophouse locker", "tủ locker nhà phố"]

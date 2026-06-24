@@ -1,7 +1,7 @@
 ---
 title: "Mở Rộng Quy Mô Kinh Doanh Máy Bán Hàng Tự Động: Từ 1 Máy Đến 50 Máy Trong 2 Năm"
 description: "Nhiều người bắt đầu với 1-2 máy bán hàng tự động rồi không biết cách scale. Lộ trình từ 1 máy đến 50 máy trong 2 năm: giai đoạn pilot, tái đầu tư lợi nhuận, xây dựng hệ thống vận hành, tuyển người và quản lý từ xa để tăng trưởng bền vững."
-date: "2027-03-14"
+date: "2026-06-20"
 silo: "tu-locker-thong-minh"
 sub: "mo-hinh-kinh-doanh"
 keywords: ["mở rộng kinh doanh máy bán hàng tự động", "scale vending machine business VN", "từ 1 máy đến 50 máy vending"]
