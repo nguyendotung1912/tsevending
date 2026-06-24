@@ -354,6 +354,93 @@ const investmentTierMeta: Record<string, { label: string; color: string; desc: s
   "Cao": { label: "Vốn cao", color: "text-red-700 bg-red-50 border-red-200", desc: "Dành cho nhà đầu tư dài hạn tại vị trí lưu lượng lớn." },
 };
 
+// Per-niche "who should invest" bullets — unique per sub to avoid the templated
+// duplicate-content block that previously repeated across all 13 sub-pages.
+const whyInvestBySub: Record<string, string[]> = {
+  "tu-locker-chung-cu": [
+    "Ban quản lý chung cư muốn chấm dứt cảnh bảo vệ ký nhận hàng trăm kiện mỗi ngày.",
+    "Chủ đầu tư nâng hạng tiện ích bàn giao, tăng giá trị và sức hút của căn hộ.",
+    "Cư dân cần nhận bưu phẩm 24/7 không phụ thuộc giờ trực của lễ tân.",
+  ],
+  "tu-locker-van-phong": [
+    "Doanh nghiệp muốn bỏ tủ chìa cơ, quản lý đồ nhân viên bằng thẻ chấm công sẵn có.",
+    "Nhà máy/KCN cần phân quyền ô tủ theo ca làm, tự động reset giữa các ca.",
+    "Bộ phận hành chính cần lịch sử truy cập rõ ràng để quản lý tài sản nội bộ.",
+  ],
+  "tu-gui-do-thong-minh": [
+    "Phòng gym, hồ bơi cần tủ gửi đồ theo lượt, không phải quản lý chìa khóa.",
+    "Trường học, trung tâm thương mại phục vụ lượng lớn khách gửi đồ tạm thời.",
+    "Đơn vị muốn tùy chọn thu phí gửi đồ để tạo nguồn doanh thu phụ.",
+  ],
+  "tu-locker-giao-nhan-hang": [
+    "Đơn vị logistics, bưu cục cần điểm giao nhận hàng tự động 24/7.",
+    "Sàn TMĐT muốn giảm tỷ lệ giao thất bại nhờ tích hợp API vận đơn.",
+    "Chủ mặt bằng muốn thu phí dịch vụ từ shipper hoặc người nhận hàng.",
+  ],
+  "tu-locker-truong-hoc-dai-hoc": [
+    "Trường học, đại học muốn thay tủ chìa cơ bằng thẻ học sinh RFID sẵn có.",
+    "Ban cơ sở vật chất cần phân quyền theo lớp/học kỳ, tự thu hồi cuối kỳ.",
+    "Ký túc xá cần locker an toàn cho sinh viên sử dụng 24/7.",
+  ],
+  "tu-locker-khach-san-resort": [
+    "Khách sạn cần giải pháp lưu hành lý sau check-out, giảm tải cho lễ tân.",
+    "Resort phục vụ khách gửi đồ tại khu bãi biển, hồ bơi, spa.",
+    "Chuỗi khách sạn muốn quản lý tập trung và tích hợp với hệ thống PMS.",
+  ],
+  "tu-locker-sieu-thi-ban-le": [
+    "Siêu thị, TTTM muốn bỏ quầy gửi đồ thủ công, để khách tự phục vụ trong 30 giây.",
+    "Chuỗi bán lẻ cần quản lý tủ đồng bộ trên một dashboard toàn hệ thống.",
+    "Đơn vị muốn thu phí gửi đồ hoặc làm điểm click-and-collect cho đơn online.",
+  ],
+  "tu-locker-benh-vien-y-te": [
+    "Bệnh viện cần tủ bề mặt kháng khuẩn cho đồ cá nhân nhân viên y tế theo ca.",
+    "Cơ sở y tế cần mở khóa không chạm để giảm nguy cơ lây nhiễm chéo.",
+    "Ban quản lý cần phân vùng tủ riêng cho bệnh nhân và nhân viên.",
+  ],
+  "may-ban-nuoc-giai-khat": [
+    "Văn phòng, chung cư muốn phục vụ nước uống tiện lợi cho nhân viên/cư dân.",
+    "Nhà đầu tư tìm điểm doanh thu ổn định tại nơi đông người qua lại.",
+    "Trường học, KCN cần nước giải khát 24/7 mà không cần mở quầy.",
+  ],
+  "may-ban-do-an-vat": [
+    "Căng-tin nhà máy, trường học cần phục vụ snack nhanh trong giờ giải lao ngắn.",
+    "Văn phòng không có căng-tin cần đồ ăn nhẹ cho nhân viên giờ chiều/tăng ca.",
+    "Nhà đầu tư muốn biên lợi nhuận tốt và ít phụ thuộc thời tiết hơn máy nước.",
+  ],
+  "may-ban-hang-lanh": [
+    "Bệnh viện, KCN cần thực phẩm chế biến sẵn phục vụ ngoài giờ hành chính.",
+    "Đơn vị F&B muốn bán kem, sữa chua, suất ăn lạnh tự động không cần nhân viên.",
+    "Nhà đầu tư nhắm nhóm sản phẩm có giá trị đơn vị cao hơn máy thường.",
+  ],
+  "may-ban-gas": [
+    "Chung cư, khu dân cư cần mua gas mini ngoài giờ đại lý đóng cửa.",
+    "Cửa hàng tiện lợi muốn mở rộng mặt hàng thiết yếu mà không thêm nhân sự.",
+    "Nhà đầu tư muốn doanh thu ổn định quanh năm, ít biến động mùa vụ.",
+  ],
+  "linh-kien-phu-tung": [
+    "Đơn vị vận hành chuỗi máy cần dự phòng linh kiện hay hỏng tại chỗ.",
+    "Kỹ thuật viên cần linh kiện chính hãng đúng thông số để sửa nhanh.",
+    "Chủ máy muốn giảm thời gian downtime, phục hồi máy trong vài giờ.",
+  ],
+};
+
+const processBySilo: Record<string, { num: string; title: string; desc: string }[]> = {
+  "tu-locker-thong-minh": [
+    { num: "01", title: "Khảo sát nhu cầu & vị trí", desc: "Đánh giá số người dùng, tần suất, yêu cầu tích hợp và không gian để xác định cấu hình." },
+    { num: "02", title: "Thiết kế hệ thống & báo giá", desc: "Đề xuất số ô, kích thước, công nghệ xác thực và phần mềm; báo giá chi tiết không phát sinh phí ẩn." },
+    { num: "03", title: "Sản xuất & kiểm tra chất lượng", desc: "Sản xuất theo đơn đặt hàng, kiểm tra toàn bộ cơ khí và điện tử tại xưởng trước khi xuất." },
+    { num: "04", title: "Lắp đặt & tích hợp phần mềm", desc: "Lắp đặt, cài phần mềm, cấu hình người dùng, kiểm tra kết nối và đào tạo quản trị viên." },
+    { num: "05", title: "Hỗ trợ & bảo trì dài hạn", desc: "Bảo trì định kỳ cơ khí, cập nhật firmware tự động, hỗ trợ kỹ thuật và điều phối tại chỗ." },
+  ],
+  "may-ban-hang-tu-dong": [
+    { num: "01", title: "Liên hệ & tư vấn ban đầu", desc: "Phản hồi trong 2 giờ làm việc để hiểu nhu cầu và xác định lịch khảo sát." },
+    { num: "02", title: "Khảo sát & phân tích vị trí", desc: "Đo đạc, đánh giá lưu lượng và đề xuất dòng máy, danh mục sản phẩm phù hợp." },
+    { num: "03", title: "Báo giá & ký hợp đồng", desc: "Báo giá từng hạng mục; hợp đồng ghi rõ bảo hành và SLA kỹ thuật cụ thể." },
+    { num: "04", title: "Lắp đặt & đào tạo", desc: "Hoàn thành trong 1–2 ngày; đào tạo nạp hàng, xử lý sự cố và dùng phần mềm." },
+    { num: "05", title: "Vận hành & tối ưu liên tục", desc: "IoT giám sát 24/7; bảo trì định kỳ và tối ưu danh mục theo dữ liệu bán thực tế." },
+  ],
+};
+
 export function generateStaticParams() {
   return getAllCategorySlugs()
     .filter((e) => e.sub)
@@ -378,6 +465,8 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
   const siblings = silo.subcategories.filter((s) => s.slug !== sub.slug);
   const tier = investmentTierMeta[sub.investmentTier] ?? investmentTierMeta["Trung bình"];
   const blocks = subContent[sub.slug] ?? null;
+  const whyInvest = whyInvestBySub[sub.slug] ?? [];
+  const processSteps = processBySilo[silo.slug] ?? processBySilo["tu-locker-thong-minh"];
 
   return (
     <>
@@ -509,26 +598,15 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
       {/* ── INVESTMENT AUDIENCE ── */}
       <section className="border-t border-slate-100 bg-slate-50 py-14">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
-          <h2 className="mb-2 text-2xl font-extrabold text-slate-900">Ai nên đầu tư {sub.title.toLowerCase()}?</h2>
-          <p className="mb-8 max-w-3xl text-slate-600">Phù hợp với nhiều đối tượng — từ doanh nghiệp nâng cao tiện ích nội bộ đến nhà đầu tư tìm nguồn thu nhập thụ động ổn định.</p>
+          <h2 className="mb-2 text-2xl font-extrabold text-slate-900">Ai nên đầu tư {sub.shortTitle.toLowerCase()}?</h2>
+          <p className="mb-8 max-w-3xl text-slate-600">{sub.idealFor}</p>
           <div className="grid gap-5 sm:grid-cols-3">
-            {[
-              {
-                title: "Chủ mặt bằng & ban quản lý tòa nhà",
-                desc: `${sub.title} là tiện ích gia tăng giúp nâng chất lượng dịch vụ mà không cần nhân sự vận hành thêm. Nhiều chủ mặt bằng chọn hợp tác chia sẻ doanh thu với TSE Vending — không cần bỏ vốn đầu tư.`,
-              },
-              {
-                title: "Nhà đầu tư cá nhân",
-                desc: `Mô hình kinh doanh bán thụ động phù hợp cá nhân có vốn nhàn rỗi và muốn có thêm thu nhập mà không cần trông coi liên tục. Yêu cầu chính là tìm được vị trí tốt và chọn đúng cấu hình.`,
-              },
-              {
-                title: "Doanh nghiệp nâng cao phúc lợi",
-                desc: `Nhiều doanh nghiệp đầu tư ${sub.title.toLowerCase()} như một phần phúc lợi nhân viên — tăng hài lòng và giữ chân nhân tài với chi phí thấp hơn nhiều so với các hình thức truyền thống.`,
-              },
-            ].map((item) => (
-              <div key={item.title} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                <h3 className="text-sm font-bold text-slate-900">{item.title}</h3>
-                <p className="mt-2 text-sm leading-relaxed text-slate-600">{item.desc}</p>
+            {whyInvest.map((item, i) => (
+              <div key={i} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+                <div className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-brand-100 text-sm font-extrabold text-brand-700">
+                  {i + 1}
+                </div>
+                <p className="text-sm leading-relaxed text-slate-600">{item}</p>
               </div>
             ))}
           </div>
@@ -540,18 +618,12 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
         <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:40px_40px]" />
         <div className="pointer-events-none absolute right-8 top-8 h-64 w-64 rounded-full bg-brand-700/25 blur-3xl" />
         <div className="relative mx-auto max-w-6xl px-4 sm:px-6">
-          <h2 className="mb-10 text-2xl font-extrabold">Quy trình từ tư vấn đến vận hành</h2>
+          <h2 className="mb-10 text-2xl font-extrabold">Quy trình triển khai {sub.title.toLowerCase()}</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-5">
-            {[
-              { n: "01", title: "Liên hệ & xác định nhu cầu", desc: "Chia sẻ thông tin vị trí, mục tiêu, ngân sách. Đội tư vấn phản hồi trong 2 giờ làm việc." },
-              { n: "02", title: "Khảo sát thực địa miễn phí", desc: "Kỹ thuật viên đến đo đạc, đề xuất cấu hình tối ưu và lập báo giá chi tiết không ràng buộc." },
-              { n: "03", title: "Ký hợp đồng rõ ràng", desc: "Hợp đồng ghi đầy đủ phạm vi, thời gian, bảo hành và SLA kỹ thuật cụ thể." },
-              { n: "04", title: "Lắp đặt & chạy thử", desc: "Hoàn thành trong 1–3 ngày. Kiểm tra toàn bộ chức năng, đào tạo vận hành cơ bản." },
-              { n: "05", title: "Hỗ trợ vận hành dài hạn", desc: "IoT giám sát 24/7. Bảo trì định kỳ và hỗ trợ kỹ thuật theo điều khoản hợp đồng." },
-            ].map((step) => (
-              <div key={step.n}>
+            {processSteps.map((step) => (
+              <div key={step.num}>
                 <div className="mb-3 flex h-11 w-11 items-center justify-center rounded-full border border-white/20 bg-brand-700/60 text-sm font-extrabold">
-                  {step.n}
+                  {step.num}
                 </div>
                 <h3 className="text-sm font-bold">{step.title}</h3>
                 <p className="mt-1.5 text-xs leading-relaxed text-brand-300">{step.desc}</p>
