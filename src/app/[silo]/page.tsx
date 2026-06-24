@@ -112,6 +112,15 @@ const extendedContent: Record<string, {
         { anchor: "Liên hệ ngay để được tư vấn và khảo sát thực địa miễn phí", href: "/lien-he" },
         " — đội ngũ phản hồi trong vòng 2 giờ làm việc.",
       ],
+      [
+        "Trước khi đầu tư, tham khảo ",
+        { anchor: "bảng giá máy bán hàng tự động", href: "/may-ban-hang-tu-dong/bang-gia" },
+        ", cân nhắc ",
+        { anchor: "kinh doanh máy bán hàng tự động có lãi không", href: "/tin-tuc/kinh-doanh-may-ban-hang-tu-dong-co-lai-khong" },
+        ", hoặc chọn phương án ít vốn hơn với ",
+        { anchor: "dịch vụ cho thuê máy bán hàng tự động", href: "/may-ban-hang-tu-dong/thue-may" },
+        ".",
+      ],
     ],
     whatIs: {
       title: "Máy bán hàng tự động là gì? Cách hoạt động",
