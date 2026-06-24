@@ -56,7 +56,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     day: "2-digit",
   });
 
-  const breadcrumbs = [{ name: "Tin tức", path: "/tin-tuc" }, { name: post.title, path: `/tin-tuc/${slug}` }];
+  const breadcrumbs = [
+    { name: "Tin tức", path: "/tin-tuc" },
+    ...(post.category
+      ? [{ name: CATEGORY_META[post.category].label, path: `/tin-tuc/${post.category}` }]
+      : []),
+    { name: post.title, path: `/tin-tuc/${slug}` },
+  ];
   const relatedPosts = getRelatedPosts(slug, 3);
 
   return (

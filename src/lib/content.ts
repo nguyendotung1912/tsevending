@@ -9,7 +9,7 @@ const BLOG_DIR = path.join(process.cwd(), "src", "content", "blog");
 const PUBLIC_DIR = path.join(process.cwd(), "public");
 // Shown when an article's frontmatter image is missing on disk, so the page
 // never renders a broken hero (LCP) image or emits a 404 og:image.
-const FALLBACK_IMAGE = "/og-default.svg";
+const FALLBACK_IMAGE = "/og-default.png";
 
 // Validates the frontmatter image at build time: returns it only if the file
 // actually exists under /public, otherwise falls back to a known-good banner.

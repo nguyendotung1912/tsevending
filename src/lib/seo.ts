@@ -38,7 +38,7 @@ export function buildMetadata({
   datePublished,
 }: BuildMetadataInput): Metadata {
   const url = absoluteUrl(path);
-  const ogImage = image ?? `${siteConfig.url}/og-default.svg`;
+  const ogImage = image ?? `${siteConfig.url}/og-default.png`;
   const seoTitle = truncateTitle(title);
   const seoDesc = truncateDesc(description);
 
@@ -325,7 +325,7 @@ export function productJsonLd({ name, description, path, image, lowPrice, highPr
     "@type": "Product",
     name,
     description,
-    image: image ?? absoluteUrl("/og-default.svg"),
+    image: image ?? absoluteUrl("/og-default.png"),
     url: absoluteUrl(path),
     brand: { "@type": "Brand", name: siteConfig.name },
     ...(lowPrice
