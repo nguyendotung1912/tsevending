@@ -17,11 +17,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: '20'
           cache: 'npm'
@@ -51,6 +51,9 @@ jobs:
           GEMINI_MODEL: gemini-2.5-flash
         run: npm run generate:article:gemini
 
+      - name: Optimize new images to WebP
+        run: npm run images:webp
+
       - name: Commit new article
         run: |
           git config user.name "TSE Bot"
@@ -60,7 +63,8 @@ jobs:
             git commit -m "feat: auto article $(date -u +%Y-%m-%d\ %H:%M) [skip ci]"
           git push
 
-      - name: Deploy to Vercel
+      - name: Deploy to Cloudflare Workers
         env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-        run: npx vercel --prod --yes --token $VERCEL_TOKEN
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npm run deploy
