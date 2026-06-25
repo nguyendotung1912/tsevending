@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { buildMetadata, articleJsonLd } from "@/lib/seo";
+import { buildMetadata, articleJsonLd, howToJsonLd } from "@/lib/seo";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
 import FaqSection from "@/components/Faq";
@@ -65,6 +65,18 @@ export default function SmartLockerLaGiPage() {
           path: "/tu-locker-thong-minh/smart-locker-la-gi",
           datePublished: "2026-06-15",
           articleSection: "Kiến thức tủ locker thông minh",
+        })}
+      />
+      <JsonLd
+        data={howToJsonLd({
+          name: "Cách gửi và nhận đồ qua smart locker",
+          description: "Quy trình gửi và nhận đồ qua tủ locker thông minh trong vài bước.",
+          steps: [
+            { name: "Gửi đồ", text: "Chọn ô trống trên màn hình (hoặc shipper quét mã đơn), đặt đồ vào và đóng cửa — hệ thống tự khóa." },
+            { name: "Cấp mã", text: "Hệ thống sinh mã QR/PIN một lần và gửi cho người nhận qua màn hình, SMS hoặc app." },
+            { name: "Nhận đồ", text: "Người nhận quét QR, nhập PIN, quẹt thẻ hoặc vân tay — khóa điện tử nhả và mở ô để lấy đồ." },
+            { name: "Ghi nhận", text: "Mỗi thao tác được lưu log kèm thời gian, ô và người dùng, đồng bộ lên hệ thống quản lý." },
+          ],
         })}
       />
       <PageHeader

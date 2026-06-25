@@ -147,6 +147,13 @@ export function organizationJsonLd() {
         { "@type": "Offer", itemOffered: { "@type": "Service", name: "Lắp đặt và bảo trì" } },
       ],
     },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: aggregateRating.ratingValue,
+      bestRating: aggregateRating.bestRating,
+      worstRating: aggregateRating.worstRating,
+      ratingCount: aggregateRating.ratingCount,
+    },
     sameAs: [siteConfig.social.facebook, siteConfig.social.facebookAlt],
   };
 }
@@ -369,6 +376,29 @@ export function itemListJsonLd({ name, description, path, items }: ItemListJsonL
       name: item.name,
       url: item.url,
       ...(item.description ? { description: item.description } : {}),
+    })),
+  };
+}
+
+export interface HowToJsonLdInput {
+  name: string;
+  description: string;
+  steps: { name: string; text: string }[];
+}
+
+// HowTo schema — eligible for Google's HowTo rich result. Use for genuine
+// step-by-step procedures (e.g. how a smart locker drop-off/pick-up works).
+export function howToJsonLd({ name, description, steps }: HowToJsonLdInput) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name,
+    description,
+    step: steps.map((s, i) => ({
+      "@type": "HowToStep",
+      position: i + 1,
+      name: s.name,
+      text: s.text,
     })),
   };
 }
