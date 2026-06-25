@@ -451,6 +451,17 @@ export default function ReportPage() {
               <Link href="/du-an" className="text-brand-600 underline">các dự án tiêu biểu đã triển khai</Link>.
             </p>
 
+            <h3 className="text-lg font-bold text-slate-900">Một số dự án smart locker tiêu biểu</h3>
+            <ul className="space-y-2">
+              <li><strong>24 tủ locker nhận hàng tự động 24/7 — Chung cư cao tầng, TP. Thủ Đức (TP.HCM):</strong> tích hợp API GHN/GHTK/Shopee Express, giảm khoảng 80% khối lượng nhận hàng của bảo vệ.</li>
+              <li><strong>50 ô locker giao nhận hàng 24/7 — Khu dân cư, Bình Dương:</strong> phục vụ hơn 200 hộ gia đình, tỷ lệ giao thành công tăng lên khoảng 95%.</li>
+              <li><strong>40 tủ locker sinh viên dùng thẻ RFID — Trường đại học, TP.HCM:</strong> phân quyền theo lớp/khoa/học kỳ, loại bỏ hoàn toàn tủ chìa khóa cơ.</li>
+            </ul>
+            <p className="text-sm text-slate-500">
+              Xem thêm danh mục công trình tại{" "}
+              <Link href="/du-an" className="text-brand-600 underline">trang dự án thực tế của TSE Vending</Link>.
+            </p>
+
             <h3 className="text-lg font-bold text-slate-900">Nguồn dữ liệu</h3>
             <ul className="space-y-1.5 text-sm">
               <li>• <strong>Mobility Foresights</strong> — Vietnam Smart Parcel Locker Market (2025).</li>
