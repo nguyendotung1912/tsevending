@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { siteConfig } from "@/content/site";
 import { SILOS, SOLUTIONS_SILO } from "@/content/categories";
+import { lockerAreas } from "@/content/locker-areas";
 import { getAllPostsMeta } from "@/lib/content";
 
 const PRIORITY_PROVINCE_SLUGS = ["ho-chi-minh", "ha-noi", "da-nang", "binh-duong"];
@@ -19,6 +20,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteConfig.url}/tu-locker-thong-minh/cho-thue`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/tu-locker-thong-minh/smart-locker-la-gi`, lastModified: new Date("2026-06-15"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/tu-locker-thong-minh/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.9 },
+    ...lockerAreas.map((a) => ({
+      url: `${siteConfig.url}/tu-locker-thong-minh/khu-vuc/${a.slug}`,
+      lastModified: new Date("2026-06-25"),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    })),
     {
       url: `${siteConfig.url}/${SOLUTIONS_SILO.slug}`,
       lastModified: new Date("2025-06-01"),

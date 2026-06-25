@@ -31,6 +31,9 @@ Thực hiện: 2026-06-25 · Next.js 16 + OpenNext + Cloudflare · Không đổi
 |---|---|
 | `/video` | Thư viện video (hạ tầng, empty-state) |
 | `/tin-tuc/tieu-chi-chon-don-vi-cung-cap-smart-locker` | Bài commercial-investigation (679 từ) |
+| `/tu-locker-thong-minh/khu-vuc/ho-chi-minh` | Local landing — Smart Locker TP.HCM |
+| `/tu-locker-thong-minh/khu-vuc/ha-noi` | Local landing — Smart Locker Hà Nội |
+| `/tu-locker-thong-minh/khu-vuc/da-nang` | Local landing — Smart Locker Đà Nẵng |
 
 ## 3. Chỗ [CẦN DỮ LIỆU THẬT]
 
@@ -48,7 +51,7 @@ Thực hiện: 2026-06-25 · Next.js 16 + OpenNext + Cloudflare · Không đổi
 - [ ] Cung cấp địa chỉ HN/ĐN thật → bật LocalBusiness 3 cơ sở.
 - [ ] Bổ sung link mạng xã hội (LinkedIn/YouTube/Zalo OA) vào `site.ts` → tăng entity sameAs.
 - [ ] Tạo/cập nhật Google Business Profile cho từng cơ sở (rất quan trọng cho local SEO).
-- [ ] (Tùy chọn) Landing local "smart locker tphcm/hà nội/đà nẵng": **KHÔNG tạo trang mỏng** khi chưa có nội dung/GBP địa phương thật (rủi ro doorway page). Tạo khi có dữ liệu thật.
+- [x] **Landing local "smart locker tphcm/hà nội/đà nẵng" — ĐÃ TẠO** (2026-06-25): 3 trang `/tu-locker-thong-minh/khu-vuc/{ho-chi-minh,ha-noi,da-nang}` với nội dung RIÊNG từng thành phố (dựa trên kỹ thuật viên thường trú THẬT, không bịa địa chỉ). Mỗi trang: QuickAnswer + use-case theo thành phố + Service/Breadcrumb/FAQPage schema + internal link. → **Cần người:** tạo Google Business Profile từng thành phố và (nếu có) gắn địa chỉ thật để mạnh hơn.
 
 ## 5. Kết quả validate schema (parse JSON-LD thực tế, 2026-06-25)
 | Trang | Schema |
