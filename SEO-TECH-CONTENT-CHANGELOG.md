@@ -12,7 +12,7 @@ Ngày: 2026-06-24/25 · Phạm vi: cụm nội dung kỹ thuật smart locker (E
 |---|---|---|
 | **A — Cấu tạo & vật liệu** | A1, A2, A3 | ✅ ĐÃ TẠO |
 | **B — Công nghệ mở khóa** | B1–B5 | ✅ ĐÃ TẠO |
-| C — Phân loại theo ứng dụng | C1–C3 | ⏳ kế tiếp |
+| **C — Phân loại theo ứng dụng** | C1–C3 | ✅ ĐÃ TẠO |
 | D — Kiến trúc & sản xuất | D1–D3 | ⏳ kế tiếp |
 
 ## Bài đã tạo (Cụm A) + sơ đồ SVG
@@ -32,6 +32,13 @@ Ngày: 2026-06-24/25 · Phạm vi: cụm nội dung kỹ thuật smart locker (E
 | `/tin-tuc/smart-locker-mo-khoa-app-bluetooth-cloud` | Kiến trúc app ↔ cloud ↔ tủ + Bluetooth |
 
 Mỗi bài B: bảng đánh giá, FAQ (FAQPage), link chéo trong cụm B + sang cụm A + ngách dùng công nghệ (giao nhận/văn phòng/trường học/y tế). Thông số/chuẩn/giao thức cụ thể → [CẦN KIỂM CHỨNG].
+
+## Bài đã tạo (Cụm C — phân loại theo ứng dụng) + sơ đồ
+| URL | Sơ đồ SVG |
+|---|---|
+| `/tin-tuc/cac-loai-smart-locker-phan-loai-toan-dien` | Cây phân loại 3 trục (ứng dụng/môi trường/cơ chế) |
+| `/tin-tuc/smart-locker-lanh-kiem-soat-nhiet-do` | Nguyên lý kiểm soát nhiệt độ (vòng điều khiển) |
+| `/tin-tuc/smart-locker-ngoai-troi-chong-nuoc-bui-pha` | Giải thích mã IP (chống bụi/nước) |
 
 ## Schema
 - ✅ **Article (BlogPosting)** + author Person (mainAuthor) — tự động qua trang [slug].
