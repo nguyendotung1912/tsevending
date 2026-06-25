@@ -118,7 +118,10 @@ export async function getPostBySlug(slug: string): Promise<BlogPost | undefined>
   const raw = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(raw);
 
-  const processed = await remark().use(remarkGfm).use(remarkHtml).process(content);
+  // sanitize:false lets first-party article markdown embed inline SVG diagrams
+  // and semantic HTML (e.g. <figure>, <h2 id> anchors for technical articles).
+  // All blog markdown is authored in-repo (no user input), so this is safe.
+  const processed = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(content);
   // (1) Swap inline body images to their WebP sibling when one exists on disk.
   // (2) Lazy-load + async-decode body images (they're below the fold; the hero
   //     is rendered separately with next/image priority) — improves LCP/CWV.
