@@ -445,8 +445,10 @@ export default function ReportPage() {
             <H2 id="ve-tse">9. Về TSE Vending &amp; nguồn dữ liệu</H2>
             <p>
               <strong>TSE Vending (Công ty Cổ phần Công nghệ TSE)</strong> là đơn vị cung cấp giải pháp smart locker và máy bán hàng tự động
-              trọn gói tại Việt Nam — từ tư vấn, thiết kế, sản xuất, tích hợp IoT đến lắp đặt và bảo trì.
-              {" "}<span className="rounded bg-amber-100 px-1.5 py-0.5 text-xs font-semibold text-amber-700">[CẦN SỐ THẬT: số dự án đã triển khai, số tỉnh/thành phục vụ]</span>
+              trọn gói tại Việt Nam — từ tư vấn, thiết kế, sản xuất, tích hợp IoT đến lắp đặt và bảo trì. Với hơn <strong>10 năm kinh nghiệm</strong>,
+              TSE hiện vận hành <strong>500+ thiết bị</strong>, phục vụ <strong>50+ đối tác doanh nghiệp</strong> và duy trì đội kỹ thuật thường trú tại
+              <strong> 4 tỉnh/thành</strong> (TP.HCM, Hà Nội, Đà Nẵng, Bình Dương). Tham khảo{" "}
+              <Link href="/du-an" className="text-brand-600 underline">các dự án tiêu biểu đã triển khai</Link>.
             </p>
 
             <h3 className="text-lg font-bold text-slate-900">Nguồn dữ liệu</h3>
