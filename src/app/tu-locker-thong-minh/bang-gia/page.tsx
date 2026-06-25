@@ -5,6 +5,7 @@ import { siteConfig } from "@/content/site";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
 import FaqSection from "@/components/Faq";
+import QuickAnswer from "@/components/QuickAnswer";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
@@ -104,6 +105,14 @@ export default function SmartLockerPricingPage() {
       {/* Pricing tiers */}
       <section className="py-12">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
+          <div className="mb-8">
+            <QuickAnswer>
+              Giá tủ locker thông minh (smart locker) tham khảo trên thị trường khoảng <strong>2 – 5 triệu đồng/ô</strong>;
+              cụm nhỏ 4–12 ô khoảng <strong>15 – 40 triệu</strong>, cụm vừa 16–40 ô <strong>40 – 120 triệu</strong>,
+              cụm lớn 40–100+ ô <strong>từ 120 triệu</strong>. Giá phụ thuộc số ô, vật liệu và công nghệ mở khóa —
+              liên hệ TSE Vending để nhận báo giá chính xác miễn phí.
+            </QuickAnswer>
+          </div>
           <h2 className="mb-6 text-2xl font-extrabold text-slate-900">Khoảng giá theo quy mô</h2>
           <div className="grid gap-6 md:grid-cols-3">
             {tiers.map((t) => (

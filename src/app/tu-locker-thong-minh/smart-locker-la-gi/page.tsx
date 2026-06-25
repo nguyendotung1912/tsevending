@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { buildMetadata, articleJsonLd, howToJsonLd } from "@/lib/seo";
+import { videosForPage } from "@/content/videos";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
+import VideoEmbed from "@/components/VideoEmbed";
 import FaqSection from "@/components/Faq";
 import Cta from "@/components/Cta";
+
+const pageVideos = videosForPage("/tu-locker-thong-minh/smart-locker-la-gi");
 
 export const metadata: Metadata = buildMetadata({
   title: "Smart Locker Là Gì? Tủ Locker Thông Minh A-Z | TSE Vending",
@@ -114,8 +118,9 @@ export default function SmartLockerLaGiPage() {
             <h2 id="dinh-nghia">Smart locker là gì? (tiếng Việt)</h2>
             <p>
               Trong tiếng Việt, smart locker được gọi là <strong>tủ locker thông minh</strong>, tủ khóa thông
-              minh, <strong>tủ locker điện tử</strong> hoặc tủ gửi đồ thông minh — tất cả đều chỉ cùng một loại
-              thiết bị. Khác với tủ khóa truyền thống dùng ổ khóa và chìa cơ, mỗi ô của smart locker được điều
+              minh, <strong>tủ locker điện tử</strong>, locker tự động hoặc tủ gửi đồ thông minh; khi dùng để giao
+              nhận hàng còn gọi là <strong>parcel locker / delivery locker</strong> (tủ giao nhận hàng) — tất cả
+              đều chỉ cùng một loại thiết bị. Khác với tủ khóa truyền thống dùng ổ khóa và chìa cơ, mỗi ô của smart locker được điều
               khiển bằng khóa điện tử và một bộ xử lý trung tâm, cho phép mở khóa không cần chìa và quản lý từ xa.
             </p>
             <p>
@@ -204,6 +209,15 @@ export default function SmartLockerLaGiPage() {
           </article>
         </div>
       </section>
+
+      {pageVideos.length > 0 && (
+        <section className="border-t border-slate-100 py-12">
+          <div className="mx-auto max-w-3xl px-4 sm:px-6">
+            <h2 className="mb-5 text-xl font-extrabold text-slate-900">Video: smart locker hoạt động thế nào?</h2>
+            <VideoEmbed video={pageVideos[0]} />
+          </div>
+        </section>
+      )}
 
       <div id="faq" />
       <FaqSection faqs={faqs} title="Câu hỏi thường gặp về smart locker" />

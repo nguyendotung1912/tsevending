@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteConfig.url}/du-an`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/lien-he`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
     { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
+    { url: `${siteConfig.url}/video`, lastModified: new Date("2026-06-25"), changeFrequency: "monthly", priority: 0.5 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/thue-may`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/tu-locker-thong-minh/cho-thue`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
@@ -35,11 +36,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     });
     for (const sub of silo.subcategories) {
+      const folder = sub.slug.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d");
       siloRoutes.push({
         url: `${siteConfig.url}/${silo.slug}/${sub.slug}`,
         lastModified: new Date("2025-06-01"),
         changeFrequency: "weekly",
         priority: 0.8,
+        images: [`${siteConfig.url}/images/products/${silo.slug}/${folder}/01.jpg`],
       });
     }
   }
@@ -61,6 +64,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(post.date),
       changeFrequency: "monthly",
       priority: 0.6,
+      // Image sitemap: advertise the article hero so it can rank in Google Images.
+      ...(post.image ? { images: [`${siteConfig.url}${post.image}`] } : {}),
     }));
 
   return [...staticRoutes, ...siloRoutes, ...provinceRoutes, ...postRoutes];
