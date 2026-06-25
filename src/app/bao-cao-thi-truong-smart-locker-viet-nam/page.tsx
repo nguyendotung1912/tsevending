@@ -456,7 +456,12 @@ export default function ReportPage() {
               <li><strong>24 tủ locker nhận hàng tự động 24/7 — Chung cư cao tầng, TP. Thủ Đức (TP.HCM):</strong> tích hợp API GHN/GHTK/Shopee Express, giảm khoảng 80% khối lượng nhận hàng của bảo vệ.</li>
               <li><strong>50 ô locker giao nhận hàng 24/7 — Khu dân cư, Bình Dương:</strong> phục vụ hơn 200 hộ gia đình, tỷ lệ giao thành công tăng lên khoảng 95%.</li>
               <li><strong>40 tủ locker sinh viên dùng thẻ RFID — Trường đại học, TP.HCM:</strong> phân quyền theo lớp/khoa/học kỳ, loại bỏ hoàn toàn tủ chìa khóa cơ.</li>
+              <li><strong>12 tủ gửi hành lý tự phục vụ — Resort 4 sao, Đà Nẵng:</strong> mã OTP dùng một lần qua SMS/email, tích hợp hệ thống quản lý khách sạn (PMS).</li>
             </ul>
+            <p>
+              TSE Vending triển khai smart locker và máy bán hàng tự động trên <strong>toàn quốc</strong>, phục vụ các đô thị lớn ở cả ba miền,
+              với đội kỹ thuật thường trú tại TP.HCM, Hà Nội, Đà Nẵng và Bình Dương.
+            </p>
             <p className="text-sm text-slate-500">
               Xem thêm danh mục công trình tại{" "}
               <Link href="/du-an" className="text-brand-600 underline">trang dự án thực tế của TSE Vending</Link>.
