@@ -7,6 +7,8 @@ import { PROVINCES, getProvince } from "@/content/provinces";
 import { siteConfig } from "@/content/site";
 import PageHeader from "@/components/PageHeader";
 import FaqSection from "@/components/Faq";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 
@@ -126,6 +128,16 @@ export default async function ProvincePage({
           { name: province.name, path: `/may-ban-hang-tu-dong/tinh-thanh/${tinh}` },
         ]}
       />
+
+      {/* Snippet-ready direct answer + E-E-A-T byline */}
+      {faqs[0] && (
+        <div className="mx-auto max-w-6xl px-4 pt-8 sm:px-6">
+          <QuickAnswer>{faqs[0].a}</QuickAnswer>
+          <div className="mt-3">
+            <AuthorByline />
+          </div>
+        </div>
+      )}
 
       {/* ── PROVINCE OVERVIEW ── */}
       <section className="py-14">

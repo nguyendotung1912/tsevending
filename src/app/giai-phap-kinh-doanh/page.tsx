@@ -6,6 +6,8 @@ import PageHeader from "@/components/PageHeader";
 import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
 import FaqSection from "@/components/Faq";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 
@@ -33,6 +35,16 @@ export default function SolutionsPage() {
         description={SOLUTIONS_SILO.intro[0]}
         breadcrumbs={[{ name: SOLUTIONS_SILO.title, path: `/${SOLUTIONS_SILO.slug}` }]}
       />
+
+      {/* Snippet-ready direct answer + E-E-A-T byline */}
+      {SOLUTIONS_SILO.faqs[0] && (
+        <div className="mx-auto max-w-6xl px-4 pt-8 sm:px-6">
+          <QuickAnswer>{SOLUTIONS_SILO.faqs[0].a}</QuickAnswer>
+          <div className="mt-3">
+            <AuthorByline />
+          </div>
+        </div>
+      )}
 
       {/* ── INTRO ── */}
       <section className="py-14">

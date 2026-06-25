@@ -116,6 +116,12 @@ Legend: Depth = độ sâu/sub-intent · Snippet = có đoạn trả lời thẳ
 - Head-term thương mại: "smart locker", "tủ locker thông minh", "tủ locker thông minh giá rẻ", "công ty smart locker uy tín".
 → Cần backlink/PR (xem `OFFPAGE-EXECUTION-PLAYBOOK.md`): danh bạ NAP, guest post, digital PR listicle, brand mention.
 
+## MỞ RỘNG SANG CỤM MÁY BÁN HÀNG TỰ ĐỘNG (2026-06-25)
+Áp dụng cùng pattern QuickAnswer + AuthorByline cho toàn cụm vending:
+- Pillar `/may-ban-hang-tu-dong` + 5 ngách: tự có sẵn (dùng chung route `[silo]` / `[silo]/[sub]`).
+- Standalone đã thêm: `/may-ban-hang-tu-dong/bang-gia`, `/may-ban-hang-tu-dong/thue-may`, `/giai-phap-kinh-doanh`, và route tỉnh-thành vending `[silo]/tinh-thanh/[tinh]`.
+→ Toàn bộ cụm vending giờ có đoạn trả lời thẳng (snippet/AI Overview) + byline E-E-A-T. Đã verify live.
+
 ## VIỆC NÊN LÀM TIẾP
 - ✅ (đã làm) QuickAnswer + byline cho `/cho-thue`.
 - ✅ (đã làm) 3 FAQ kỹ thuật (điện/mất điện/bảo trì) thêm vào `smart-locker-la-gi` — đặt 1 chỗ (hub informational) thay vì nhân bản ra 8 ngách để **tránh duplicate content**; tự vào FAQPage schema qua FaqSection.

@@ -5,6 +5,8 @@ import { siteConfig } from "@/content/site";
 import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
 import FaqSection from "@/components/Faq";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 
 export const metadata: Metadata = buildMetadata({
@@ -188,6 +190,14 @@ export default function BangGiaMayBanHangPage() {
           vận chuyển và lắp đặt. Liên hệ TSE Vending để nhận báo giá chính xác theo nhu
           cầu cụ thể của bạn.
         </p>
+      </div>
+
+      {/* Snippet-ready direct answer + E-E-A-T byline */}
+      <div className="mx-auto max-w-6xl px-4 pt-8 sm:px-6">
+        <QuickAnswer>{faqs[0].a}</QuickAnswer>
+        <div className="mt-3">
+          <AuthorByline updated="Q2/2026" />
+        </div>
       </div>
 
       {/* Pricing cards */}
