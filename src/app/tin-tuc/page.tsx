@@ -188,7 +188,7 @@ export default function BlogIndexPage() {
 
             {/* Featured industry report */}
             <Link
-              href="/bao-cao"
+              href="/bao-cao-thi-truong-smart-locker-viet-nam"
               className="group flex flex-col gap-4 rounded-2xl border border-brand-200 bg-gradient-to-br from-brand-50 to-white p-5 hover:shadow-lg transition-shadow sm:flex-row sm:items-center"
             >
               <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-brand-700 text-3xl text-white">

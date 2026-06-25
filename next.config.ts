@@ -53,6 +53,14 @@ const nextConfig: NextConfig = {
         destination: "/",
         permanent: true,
       },
+      {
+        // The short landing was superseded by the full long-form report at the
+        // keyword URL. Redirect to consolidate link equity and avoid duplicate
+        // report pages competing in the index.
+        source: "/bao-cao",
+        destination: "/bao-cao-thi-truong-smart-locker-viet-nam",
+        permanent: true,
+      },
       ...legacyRedirects,
     ];
   },
