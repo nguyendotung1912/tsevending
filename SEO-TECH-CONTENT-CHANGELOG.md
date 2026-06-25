@@ -10,8 +10,8 @@ Ngày: 2026-06-24/25 · Phạm vi: cụm nội dung kỹ thuật smart locker (E
 ## Tiến độ theo cụm
 | Cụm | Bài | Trạng thái |
 |---|---|---|
-| **A — Cấu tạo & vật liệu** | A1, A2, A3 | ✅ ĐÃ TẠO (đợt này) |
-| B — Công nghệ mở khóa | B1–B5 | ⏳ kế tiếp |
+| **A — Cấu tạo & vật liệu** | A1, A2, A3 | ✅ ĐÃ TẠO |
+| **B — Công nghệ mở khóa** | B1–B5 | ✅ ĐÃ TẠO |
 | C — Phân loại theo ứng dụng | C1–C3 | ⏳ kế tiếp |
 | D — Kiến trúc & sản xuất | D1–D3 | ⏳ kế tiếp |
 
@@ -21,6 +21,17 @@ Ngày: 2026-06-24/25 · Phạm vi: cụm nội dung kỹ thuật smart locker (E
 | `/tin-tuc/cau-tao-smart-locker-giai-phau-tu-locker-thong-minh` | Sơ đồ khối giải phẫu (7 khối + quan hệ) |
 | `/tin-tuc/co-cau-khoa-dien-tu-smart-locker` | Nguyên lý khóa solenoid vs motor |
 | `/tin-tuc/he-thong-dien-nguon-smart-locker` | Sơ đồ cấp nguồn + UPS dự phòng |
+
+## Bài đã tạo (Cụm B — công nghệ mở khóa) + sơ đồ luồng xác thực
+| URL | Sơ đồ SVG |
+|---|---|
+| `/tin-tuc/smart-locker-mo-khoa-qr-pin-otp` | Luồng xác thực QR/PIN |
+| `/tin-tuc/smart-locker-mo-khoa-rfid-nfc` | Luồng xác thực RFID/NFC |
+| `/tin-tuc/smart-locker-mo-khoa-van-tay` | Luồng xác thực vân tay |
+| `/tin-tuc/smart-locker-mo-khoa-nhan-dien-khuon-mat` | Luồng xác thực khuôn mặt + liveness |
+| `/tin-tuc/smart-locker-mo-khoa-app-bluetooth-cloud` | Kiến trúc app ↔ cloud ↔ tủ + Bluetooth |
+
+Mỗi bài B: bảng đánh giá, FAQ (FAQPage), link chéo trong cụm B + sang cụm A + ngách dùng công nghệ (giao nhận/văn phòng/trường học/y tế). Thông số/chuẩn/giao thức cụ thể → [CẦN KIỂM CHỨNG].
 
 ## Schema
 - ✅ **Article (BlogPosting)** + author Person (mainAuthor) — tự động qua trang [slug].
