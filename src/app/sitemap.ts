@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteConfig.url}/lien-he`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
     { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
     { url: `${siteConfig.url}/video`, lastModified: new Date("2026-06-25"), changeFrequency: "monthly", priority: 0.5 },
+    { url: `${siteConfig.url}/bao-cao`, lastModified: new Date("2026-06-25"), changeFrequency: "yearly", priority: 0.8 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/thue-may`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/tu-locker-thong-minh/cho-thue`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
