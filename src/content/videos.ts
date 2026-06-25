@@ -102,7 +102,7 @@ export const videos: VideoItem[] = [
     title: "Case study: tủ locker chung cư Vinhomes Grand Park",
     description: "Dự án thực tế tủ locker nhận hàng 24/7 tại chung cư Vinhomes Grand Park, TP. Thủ Đức.",
     group: "case-study",
-    pages: [`${LOCKER}/tu-locker-chung-cu`],
+    pages: [`${LOCKER}/tu-locker-chung-cu`, "/case-study/smart-locker-vinhomes-grand-park"],
   },
   {
     key: "vi-sao-chon-tse",

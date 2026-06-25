@@ -254,6 +254,9 @@ export default function ProjectsPage() {
                 {projects.length} dự án đã hoàn thành
               </h2>
             </div>
+            <Link href="/khach-hang" className="shrink-0 text-sm font-semibold text-brand-600 hover:underline">
+              Xem case study chi tiết →
+            </Link>
           </div>
           <div className="grid gap-6 md:grid-cols-2">
             {projects.map((p) => (

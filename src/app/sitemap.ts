@@ -4,6 +4,7 @@ import { SILOS, SOLUTIONS_SILO } from "@/content/categories";
 import { lockerAreas } from "@/content/locker-areas";
 import { getAllPostsMeta } from "@/lib/content";
 import { readyVideos } from "@/content/videos";
+import { caseStudies } from "@/content/case-studies";
 
 const PRIORITY_PROVINCE_SLUGS = ["ho-chi-minh", "ha-noi", "da-nang", "binh-duong"];
 
@@ -13,6 +14,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: siteConfig.url, lastModified: new Date("2025-06-01"), changeFrequency: "weekly", priority: 1 },
     { url: `${siteConfig.url}/gioi-thieu`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.7 },
     { url: `${siteConfig.url}/du-an`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
+    { url: `${siteConfig.url}/khach-hang`, lastModified: new Date("2026-06-25"), changeFrequency: "monthly", priority: 0.8 },
+    { url: `${siteConfig.url}/bao-chi`, lastModified: new Date("2026-06-25"), changeFrequency: "monthly", priority: 0.5 },
+    ...caseStudies.map((c) => ({
+      url: `${siteConfig.url}/case-study/${c.slug}`,
+      lastModified: new Date("2026-06-25"),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    })),
     { url: `${siteConfig.url}/lien-he`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
     { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
     {
