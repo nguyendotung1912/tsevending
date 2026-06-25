@@ -116,8 +116,9 @@ Legend: Depth = độ sâu/sub-intent · Snippet = có đoạn trả lời thẳ
 - Head-term thương mại: "smart locker", "tủ locker thông minh", "tủ locker thông minh giá rẻ", "công ty smart locker uy tín".
 → Cần backlink/PR (xem `OFFPAGE-EXECUTION-PLAYBOOK.md`): danh bạ NAP, guest post, digital PR listicle, brand mention.
 
-## VIỆC NÊN LÀM TIẾP (đề xuất, chưa làm trong đợt này)
-1. Thêm QuickAnswer cho `/cho-thue` + một số blog trụ.
-2. Bổ sung 2–3 FAQ kỹ thuật (điện/mất điện/bảo trì) vào ngách để phủ sub-intent.
-3. Khi có địa chỉ HN/ĐN → bật LocalBusiness 3 cơ sở (tăng local + trust).
-4. Khi có video → điền id (hạ tầng VideoObject sẵn) để chiếm video result.
+## VIỆC NÊN LÀM TIẾP
+- ✅ (đã làm) QuickAnswer + byline cho `/cho-thue`.
+- ✅ (đã làm) 3 FAQ kỹ thuật (điện/mất điện/bảo trì) thêm vào `smart-locker-la-gi` — đặt 1 chỗ (hub informational) thay vì nhân bản ra 8 ngách để **tránh duplicate content**; tự vào FAQPage schema qua FaqSection.
+- ⏳ QuickAnswer cho một số blog trụ (tùy bài).
+- ⏳ Khi có địa chỉ HN/ĐN → bật LocalBusiness 3 cơ sở (tăng local + trust).
+- ⏳ Khi có video → điền id (hạ tầng VideoObject sẵn) để chiếm video result.

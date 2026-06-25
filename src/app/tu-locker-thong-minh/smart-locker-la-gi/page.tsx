@@ -58,6 +58,18 @@ const faqs = [
     q: "Smart locker dùng được ở đâu?",
     a: "Chung cư, văn phòng và khu công nghiệp, trường học, gym và hồ bơi, bệnh viện, khách sạn, siêu thị/TTTM, và điểm giao nhận hàng logistics — mỗi môi trường có cấu hình ô tủ và phương thức xác thực riêng.",
   },
+  {
+    q: "Smart locker tiêu thụ bao nhiêu điện?",
+    a: "Smart locker tiêu thụ rất ít điện vì chỉ cấp nguồn cho bộ điều khiển, màn hình và khóa điện từ — phần lớn thời gian ở chế độ chờ. Một cụm tủ thông thường dùng điện tương đương vài bóng đèn, chỉ cần ổ cắm điện dân dụng 220V tiêu chuẩn, không cần đường điện riêng.",
+  },
+  {
+    q: "Mất điện thì smart locker có mở được không?",
+    a: "Có. Smart locker được thiết kế an toàn khi mất điện: hệ thống có pin/UPS dự phòng để vẫn mở ô và lấy đồ, đồng thời có cơ chế mở cơ khẩn cấp dành cho quản trị viên. Dữ liệu giao dịch được lưu lại và đồng bộ khi có điện trở lại nên không bị thất lạc.",
+  },
+  {
+    q: "Smart locker cần bảo trì như thế nào?",
+    a: "Smart locker cần bảo trì định kỳ nhẹ: kiểm tra khóa điện từ, vệ sinh bề mặt và đầu đọc, cập nhật firmware và kiểm tra kết nối mạng. TSE Vending theo dõi tình trạng từ xa qua IoT để phát hiện sớm và bảo trì dự đoán, hạn chế thời gian tủ ngừng hoạt động.",
+  },
 ];
 
 export default function SmartLockerLaGiPage() {
