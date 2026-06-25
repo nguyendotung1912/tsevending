@@ -115,8 +115,11 @@ export default function SmartLockerPricingPage() {
               </div>
             ))}
           </div>
-          <p className="mt-4 text-sm text-slate-500">
-            * Khoảng giá tham khảo, chưa gồm VAT và lắp đặt thực địa. Giá chính xác phụ thuộc cấu hình cụ thể —{" "}
+          <p className="mt-4 text-sm text-slate-600">
+            Tính theo từng ô, smart locker trên thị trường thường khoảng <strong>2 – 5 triệu đồng/ô</strong> tùy kích thước ô, vật liệu và công nghệ mở khóa (PIN/QR rẻ hơn, vân tay/khuôn mặt cao hơn).
+          </p>
+          <p className="mt-2 text-sm text-slate-500">
+            * Khoảng giá tham khảo thị trường, chưa gồm VAT và lắp đặt thực địa. Giá chính xác phụ thuộc cấu hình cụ thể —{" "}
             <Link href="/lien-he" className="font-semibold text-brand-600 hover:underline">liên hệ để nhận báo giá miễn phí</Link>.
           </p>
         </div>
@@ -188,7 +191,7 @@ export default function SmartLockerPricingPage() {
               ["Điện năng", "Khóa điện tử và bộ điều khiển tiêu thụ rất thấp; chi phí điện hàng tháng không đáng kể."],
               ["Kết nối", "Phí internet/4G cho đồng bộ dữ liệu — thường gộp sẵn trong gói vận hành."],
               ["Bảo trì định kỳ", "Kiểm tra khóa, cảm biến, vệ sinh tiếp điểm 6 tháng/lần; firmware cập nhật tự động."],
-              ["Phần mềm", "Phí phần mềm/SaaS tùy mô hình (mua đứt hay thuê dịch vụ) — [CẦN GIÁ THẬT]."],
+              ["Phần mềm", "Mua đứt thường gồm sẵn phần mềm quản lý cơ bản; mô hình thuê SaaS khoảng 200.000–500.000đ/tháng tùy số ô và tính năng (giá tham khảo)."],
             ].map(([k, v]) => (
               <li key={k} className="flex gap-3 rounded-xl border border-slate-200 bg-white p-4 text-sm text-slate-600">
                 <span className="mt-0.5 h-2 w-2 flex-none rounded-full bg-brand-500" />

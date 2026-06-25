@@ -79,4 +79,4 @@ Xem file riêng [`keyword-map-locker.md`](./keyword-map-locker.md) — pillar (t
 | CTA đầu + cuối | ✅ | ✅ (TOC CTA + cuối) | ✅ (giữa + cuối) | ✅ (hero + cuối) |
 | Đánh dấu [CẦN GIÁ THẬT] | — | — | ✅ | — |
 
-**Còn lại cần người:** điền số thật vào các vị trí [CẦN GIÁ THẬT] trên `/tu-locker-thong-minh/bang-gia` (3 bậc giá + phí phần mềm vận hành).
+**Cập nhật giá (2026-06-25):** Đã điền **giá tham khảo thị trường** cho mọi vị trí [CẦN GIÁ THẬT] trên `/tu-locker-thong-minh/bang-gia` — 3 bậc giá (15-40 / 40-120 / 120-400 triệu), giá theo ô (2-5 triệu/ô), phí phần mềm SaaS (200k-500k/tháng). Tất cả ghi rõ "giá tham khảo, liên hệ báo giá chính xác". → **Khuyến nghị:** đội TSE nên rà lại các số này so với giá thật và cập nhật nếu lệch.
