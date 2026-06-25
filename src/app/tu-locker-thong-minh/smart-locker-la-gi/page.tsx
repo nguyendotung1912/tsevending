@@ -6,6 +6,8 @@ import PageHeader from "@/components/PageHeader";
 import JsonLd from "@/components/JsonLd";
 import VideoEmbed from "@/components/VideoEmbed";
 import FaqSection from "@/components/Faq";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 
 const pageVideos = videosForPage("/tu-locker-thong-minh/smart-locker-la-gi");
@@ -89,6 +91,19 @@ export default function SmartLockerLaGiPage() {
         description="Tất tần tật về smart locker: định nghĩa, cấu tạo, cơ chế hoạt động, phân loại, so sánh với tủ khóa cơ, lợi ích và ứng dụng thực tế tại Việt Nam."
         breadcrumbs={breadcrumbs}
       />
+
+      {/* Snippet-ready direct answer (40-60 từ) + E-E-A-T byline */}
+      <div className="mx-auto max-w-5xl px-4 pt-8 sm:px-6">
+        <QuickAnswer>
+          Smart locker (tủ locker thông minh) là hệ thống tủ khóa điện tử cho phép gửi và nhận đồ tự phục vụ
+          mà không cần chìa khóa cơ. Người dùng mở ô bằng QR code, mã PIN, thẻ RFID, vân tay hoặc Face ID;
+          mọi lượt gửi/nhận được ghi log và quản lý từ xa qua phần mềm — ứng dụng cho chung cư, logistics,
+          văn phòng, trường học, bệnh viện.
+        </QuickAnswer>
+        <div className="mt-3">
+          <AuthorByline updated="tháng 6/2026" />
+        </div>
+      </div>
 
       <section className="py-12">
         <div className="mx-auto grid max-w-5xl gap-10 px-4 sm:px-6 lg:grid-cols-[230px_1fr]">

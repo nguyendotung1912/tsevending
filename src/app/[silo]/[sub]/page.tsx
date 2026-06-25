@@ -19,6 +19,8 @@ import ProductGallery from "@/components/ProductGallery";
 import ArticleCard from "@/components/ArticleCard";
 import FaqSection from "@/components/Faq";
 import VideoSection from "@/components/VideoSection";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 
@@ -524,6 +526,14 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
           <div className="grid gap-10 lg:grid-cols-3">
             {/* Content column */}
             <div className="lg:col-span-2">
+              {/* Snippet-ready direct answer (40-60 từ) + E-E-A-T byline */}
+              {sub.faqs[0] && (
+                <div className="mb-6 space-y-3">
+                  <QuickAnswer>{sub.faqs[0].a}</QuickAnswer>
+                  <AuthorByline />
+                </div>
+              )}
+
               {/* Short intro from categories.ts */}
               {sub.intro.length > 1 && (
                 <div className="prose prose-slate max-w-none text-sm">

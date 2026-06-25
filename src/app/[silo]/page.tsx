@@ -10,6 +10,8 @@ import ArticleCard from "@/components/ArticleCard";
 import ComparisonTable from "@/components/ComparisonTable";
 import FaqSection from "@/components/Faq";
 import VideoSection from "@/components/VideoSection";
+import QuickAnswer from "@/components/QuickAnswer";
+import AuthorByline from "@/components/AuthorByline";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 import RoiCalculator from "@/components/RoiCalculator";
@@ -401,6 +403,14 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           <div className="grid gap-10 lg:grid-cols-3">
             {/* Main */}
             <div className="lg:col-span-2">
+              {/* Snippet-ready direct answer + E-E-A-T byline */}
+              {silo.faqs[0] && (
+                <div className="mb-6 space-y-3">
+                  <QuickAnswer>{silo.faqs[0].a}</QuickAnswer>
+                  <AuthorByline />
+                </div>
+              )}
+
               <h2 className="mb-5 text-xl font-extrabold text-slate-900">Danh mục sản phẩm</h2>
               <div className="grid gap-4 sm:grid-cols-2">
                 {silo.subcategories.map((sub) => (
