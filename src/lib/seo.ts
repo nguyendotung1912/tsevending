@@ -386,6 +386,39 @@ export interface HowToJsonLdInput {
   steps: { name: string; text: string }[];
 }
 
+export interface VideoObjectJsonLdInput {
+  /** YouTube video id */
+  id: string;
+  name: string;
+  description: string;
+  /** ISO date, e.g. "2026-07-01" */
+  uploadDate: string;
+  /** ISO 8601 duration, e.g. "PT2M30S" (optional) */
+  duration?: string;
+}
+
+// VideoObject schema — eligible for Google's video rich result / video tab.
+// Only call with a real YouTube id (see content/videos.ts), never placeholders.
+export function videoObjectJsonLd({ id, name, description, uploadDate, duration }: VideoObjectJsonLdInput) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name,
+    description,
+    thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+    uploadDate,
+    ...(duration ? { duration } : {}),
+    embedUrl: `https://www.youtube-nocookie.com/embed/${id}`,
+    contentUrl: `https://www.youtube.com/watch?v=${id}`,
+    publisher: {
+      "@type": "Organization",
+      "@id": `${siteConfig.url}/#organization`,
+      name: siteConfig.name,
+      logo: { "@type": "ImageObject", url: absoluteUrl("/logo.svg"), width: 200, height: 60 },
+    },
+  };
+}
+
 // HowTo schema — eligible for Google's HowTo rich result. Use for genuine
 // step-by-step procedures (e.g. how a smart locker drop-off/pick-up works).
 export function howToJsonLd({ name, description, steps }: HowToJsonLdInput) {

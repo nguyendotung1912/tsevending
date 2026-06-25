@@ -18,6 +18,7 @@ import CategoryCard from "@/components/CategoryCard";
 import ProductGallery from "@/components/ProductGallery";
 import ArticleCard from "@/components/ArticleCard";
 import FaqSection from "@/components/Faq";
+import VideoSection from "@/components/VideoSection";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 
@@ -671,6 +672,9 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
           </div>
         </div>
       </section>
+
+      {/* ── VIDEO (live embed or "coming soon" placeholder if mapped) ── */}
+      <VideoSection path={`/${silo.slug}/${sub.slug}`} title={`Video về ${sub.title.toLowerCase()}`} />
 
       <FaqSection faqs={sub.faqs} title={`Câu hỏi thường gặp về ${sub.title.toLowerCase()}`} />
       <Cta />

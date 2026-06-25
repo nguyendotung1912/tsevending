@@ -9,6 +9,7 @@ import CategoryCard from "@/components/CategoryCard";
 import ArticleCard from "@/components/ArticleCard";
 import ComparisonTable from "@/components/ComparisonTable";
 import FaqSection from "@/components/Faq";
+import VideoSection from "@/components/VideoSection";
 import Cta from "@/components/Cta";
 import JsonLd from "@/components/JsonLd";
 import RoiCalculator from "@/components/RoiCalculator";
@@ -724,6 +725,8 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
           </div>
         </section>
       )}
+
+      <VideoSection path={`/${siloSlug}`} title={`Video về ${silo.title.toLowerCase()}`} />
 
       <FaqSection faqs={silo.faqs} title={`Câu hỏi thường gặp về ${silo.title.toLowerCase()}`} />
       <Cta />

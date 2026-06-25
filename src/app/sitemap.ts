@@ -3,6 +3,7 @@ import { siteConfig } from "@/content/site";
 import { SILOS, SOLUTIONS_SILO } from "@/content/categories";
 import { lockerAreas } from "@/content/locker-areas";
 import { getAllPostsMeta } from "@/lib/content";
+import { readyVideos } from "@/content/videos";
 
 const PRIORITY_PROVINCE_SLUGS = ["ho-chi-minh", "ha-noi", "da-nang", "binh-duong"];
 
@@ -14,7 +15,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteConfig.url}/du-an`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/lien-he`, lastModified: new Date("2025-05-01"), changeFrequency: "monthly", priority: 0.6 },
     { url: `${siteConfig.url}/tin-tuc`, lastModified: new Date(), changeFrequency: "daily", priority: 0.7 },
-    { url: `${siteConfig.url}/video`, lastModified: new Date("2026-06-25"), changeFrequency: "monthly", priority: 0.5 },
+    {
+      url: `${siteConfig.url}/video`,
+      lastModified: new Date("2026-06-25"),
+      changeFrequency: "monthly",
+      priority: 0.5,
+      // Google video sitemap extension — only emitted once a video has a real
+      // YouTube id (readyVideos), so we never advertise placeholder videos.
+      ...(readyVideos().length
+        ? {
+            videos: readyVideos().map((v) => ({
+              title: v.title,
+              thumbnail_loc: `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
+              description: v.description,
+              player_loc: `https://www.youtube-nocookie.com/embed/${v.id}`,
+              ...(v.uploadDate ? { publication_date: v.uploadDate } : {}),
+            })),
+          }
+        : {}),
+    },
     { url: `${siteConfig.url}/bao-cao-thi-truong-smart-locker-viet-nam`, lastModified: new Date("2026-06-25"), changeFrequency: "yearly", priority: 0.8 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/bang-gia`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${siteConfig.url}/may-ban-hang-tu-dong/thue-may`, lastModified: new Date("2026-06-20"), changeFrequency: "monthly", priority: 0.8 },
