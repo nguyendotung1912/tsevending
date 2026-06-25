@@ -186,6 +186,28 @@ export default function BlogIndexPage() {
           {/* ── LEFT ────────────────────────────────────────────── */}
           <div className="space-y-10">
 
+            {/* Featured industry report */}
+            <Link
+              href="/bao-cao"
+              className="group flex flex-col gap-4 rounded-2xl border border-brand-200 bg-gradient-to-br from-brand-50 to-white p-5 hover:shadow-lg transition-shadow sm:flex-row sm:items-center"
+            >
+              <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-brand-700 text-3xl text-white">
+                📊
+              </div>
+              <div className="flex-1">
+                <span className="text-xs font-black uppercase tracking-widest text-accent-600">Báo cáo ngành · Mới</span>
+                <h2 className="mt-1 text-lg font-extrabold text-slate-900 leading-snug group-hover:text-brand-700">
+                  Báo cáo Thị trường Smart Locker Việt Nam 2026
+                </h2>
+                <p className="mt-1 text-sm text-slate-600">
+                  Quy mô, động lực tăng trưởng, phân khúc, xu hướng công nghệ &amp; dự báo 2026–2031 — kèm trích dẫn nguồn. Tải PDF miễn phí.
+                </p>
+              </div>
+              <span className="shrink-0 self-start sm:self-center rounded-lg bg-brand-700 px-4 py-2 text-xs font-bold text-white group-hover:bg-brand-800 transition">
+                Xem báo cáo →
+              </span>
+            </Link>
+
             {/* Featured article */}
             {featured && (
               <div>
