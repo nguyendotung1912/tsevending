@@ -13,7 +13,9 @@ Ngày: 2026-06-24/25 · Phạm vi: cụm nội dung kỹ thuật smart locker (E
 | **A — Cấu tạo & vật liệu** | A1, A2, A3 | ✅ ĐÃ TẠO |
 | **B — Công nghệ mở khóa** | B1–B5 | ✅ ĐÃ TẠO |
 | **C — Phân loại theo ứng dụng** | C1–C3 | ✅ ĐÃ TẠO |
-| D — Kiến trúc & sản xuất | D1–D3 | ⏳ kế tiếp |
+| **D — Kiến trúc & sản xuất** | D1–D3 | ✅ ĐÃ TẠO |
+
+**→ HOÀN TẤT 14/14 bài (Cụm A+B+C+D).**
 
 ## Bài đã tạo (Cụm A) + sơ đồ SVG
 | URL | Sơ đồ SVG (inline) |
@@ -39,6 +41,13 @@ Mỗi bài B: bảng đánh giá, FAQ (FAQPage), link chéo trong cụm B + sang
 | `/tin-tuc/cac-loai-smart-locker-phan-loai-toan-dien` | Cây phân loại 3 trục (ứng dụng/môi trường/cơ chế) |
 | `/tin-tuc/smart-locker-lanh-kiem-soat-nhiet-do` | Nguyên lý kiểm soát nhiệt độ (vòng điều khiển) |
 | `/tin-tuc/smart-locker-ngoai-troi-chong-nuoc-bui-pha` | Giải thích mã IP (chống bụi/nước) |
+
+## Bài đã tạo (Cụm D — kiến trúc & sản xuất) + sơ đồ
+| URL | Sơ đồ SVG |
+|---|---|
+| `/tin-tuc/kien-truc-iot-smart-locker-tu-tu-toi-dam-may` | Kiến trúc IoT 4 lớp (edge→kết nối→cloud→app/dashboard) |
+| `/tin-tuc/quy-trinh-san-xuat-smart-locker` | Luồng sản xuất 7 bước + QC (nhấn năng lực tự sản xuất TSE) |
+| `/tin-tuc/tieu-chuan-chung-nhan-smart-locker` | 5 nhóm tiêu chuẩn (điện/cháy/IP/dữ liệu/ISO) |
 
 ## Schema
 - ✅ **Article (BlogPosting)** + author Person (mainAuthor) — tự động qua trang [slug].
