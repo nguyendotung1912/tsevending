@@ -736,6 +736,23 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
         </section>
       )}
 
+      {siloSlug === "tu-locker-thong-minh" && (
+        <section className="border-t border-slate-100 py-12">
+          <div className="mx-auto max-w-6xl px-4 sm:px-6">
+            <div className="flex flex-col gap-4 rounded-2xl border border-brand-200 bg-gradient-to-br from-brand-50 to-white p-6 sm:flex-row sm:items-center sm:justify-between">
+              <div>
+                <p className="text-xs font-black uppercase tracking-widest text-accent-600">Chuyên môn kỹ thuật</p>
+                <h2 className="mt-1 text-xl font-extrabold text-slate-900">Kiến thức kỹ thuật chuyên sâu về smart locker</h2>
+                <p className="mt-1 text-sm text-slate-600">14 bài về cấu tạo, công nghệ mở khóa, phân loại, kiến trúc IoT và sản xuất — kèm sơ đồ nguyên lý.</p>
+              </div>
+              <Link href="/kien-thuc-ky-thuat" className="shrink-0 self-start rounded-xl bg-brand-700 px-5 py-3 text-sm font-bold text-white hover:bg-brand-800 sm:self-center">
+                Xem loạt bài kỹ thuật →
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
+
       <VideoSection path={`/${siloSlug}`} title={`Video về ${silo.title.toLowerCase()}`} />
 
       <FaqSection faqs={silo.faqs} title={`Câu hỏi thường gặp về ${silo.title.toLowerCase()}`} />
