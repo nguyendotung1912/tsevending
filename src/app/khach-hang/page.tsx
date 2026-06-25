@@ -23,9 +23,17 @@ const trust = [
   { value: "4", label: "Tỉnh thành có kỹ thuật viên" },
 ];
 
+// Khách hàng ngành y tế dùng máy bán hàng tự động TSE (tên thật do TSE xác nhận).
+const healthcareClients = [
+  "Hệ thống BVĐK Tâm Anh",
+  "Bệnh viện Đa khoa Đồng Nai",
+  "Bệnh viện Quân y 175",
+];
+
 // Text logo tiles. ⚠ [CẦN QUYỀN LOGO] — thay bằng logo thật sau khi có chấp thuận.
 const logos = [
   ...caseStudies.map((c) => c.logoText),
+  ...healthcareClients,
   ...reviews.map((r) => r.company),
 ];
 
@@ -82,6 +90,31 @@ export default function KhachHangPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Healthcare vending clients (named, real) */}
+      <section className="border-t border-slate-100 py-12">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-accent-600">Ngành y tế</p>
+          <h2 className="mt-1 mb-2 text-2xl font-extrabold text-slate-900">Máy bán hàng tự động tại bệnh viện</h2>
+          <p className="mb-6 max-w-3xl text-sm text-slate-600">
+            TSE Vending phục vụ nhiều cơ sở y tế lớn với hệ thống máy bán hàng tự động — đáp ứng nhu cầu đồ uống,
+            thực phẩm tiện lợi cho nhân viên y tế và người nhà bệnh nhân 24/7.
+          </p>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+            {healthcareClients.map((name) => (
+              <div key={name} className="flex items-center gap-3 rounded-xl border border-slate-200 bg-white p-5">
+                <span className="text-2xl">🏥</span>
+                <span className="text-sm font-bold text-slate-700">{name}</span>
+              </div>
+            ))}
+          </div>
+          <p className="mt-4 text-sm">
+            <Link href="/may-ban-hang-tu-dong" className="font-semibold text-brand-600 hover:underline">
+              → Xem giải pháp máy bán hàng tự động
+            </Link>
+          </p>
         </div>
       </section>
 
