@@ -420,11 +420,6 @@
     "permanent": true
   },
   {
-    "source": "/chinh-sach-bao-mat",
-    "destination": "/gioi-thieu",
-    "permanent": true
-  },
-  {
     "source": "/chinh-sach-va-quy-dinh",
     "destination": "/gioi-thieu",
     "permanent": true

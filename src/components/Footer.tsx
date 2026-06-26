@@ -59,6 +59,31 @@ export default function Footer() {
                 Công trình thực tế
               </Link>
             </li>
+            <li>
+              <Link href="/khach-hang" className="hover:text-white transition-colors text-slate-400">
+                Khách hàng &amp; dự án
+              </Link>
+            </li>
+            <li>
+              <Link href="/kien-thuc-ky-thuat" className="hover:text-white transition-colors text-slate-400">
+                Kiến thức kỹ thuật
+              </Link>
+            </li>
+            <li>
+              <Link href="/bao-cao-thi-truong-smart-locker-viet-nam" className="hover:text-white transition-colors text-slate-400">
+                Báo cáo thị trường
+              </Link>
+            </li>
+            <li>
+              <Link href="/video" className="hover:text-white transition-colors text-slate-400">
+                Video
+              </Link>
+            </li>
+            <li>
+              <Link href="/bao-chi" className="hover:text-white transition-colors text-slate-400">
+                Báo chí
+              </Link>
+            </li>
           </ul>
         </div>
 

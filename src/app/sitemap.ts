@@ -2,9 +2,16 @@ import type { MetadataRoute } from "next";
 import { siteConfig } from "@/content/site";
 import { SILOS, SOLUTIONS_SILO } from "@/content/categories";
 import { lockerAreas } from "@/content/locker-areas";
-import { getAllPostsMeta } from "@/lib/content";
+import { getAllPostsMeta, CATEGORY_META } from "@/lib/content";
+import type { ArticleCategory } from "@/lib/content";
 import { readyVideos } from "@/content/videos";
 import { caseStudies } from "@/content/case-studies";
+
+// Legal/policy pages linked sitewide from the footer — indexable, so advertise them.
+const POLICY_PAGES = ["/chinh-sach-bao-mat", "/chinh-sach-van-chuyen", "/chinh-sach-thanh-toan", "/dieu-khoan-su-dung"];
+// Blog category index pages (real routes under /tin-tuc/<cat>). "tin-tuc" is the
+// default bucket, not a real /tin-tuc/tin-tuc route, so it is excluded.
+const BLOG_CATEGORY_SLUGS = (Object.keys(CATEGORY_META) as ArticleCategory[]).filter((c) => c !== "tin-tuc");
 
 const PRIORITY_PROVINCE_SLUGS = ["ho-chi-minh", "ha-noi", "da-nang", "binh-duong"];
 
@@ -62,6 +69,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
+    { url: `${siteConfig.url}/tin-tuc/the-gioi`, lastModified: new Date(), changeFrequency: "daily", priority: 0.5 },
+    ...BLOG_CATEGORY_SLUGS.map((slug) => ({
+      url: `${siteConfig.url}/tin-tuc/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
+    ...POLICY_PAGES.map((path) => ({
+      url: `${siteConfig.url}${path}`,
+      lastModified: new Date("2025-06-01"),
+      changeFrequency: "yearly" as const,
+      priority: 0.3,
+    })),
   ];
 
   const siloRoutes: MetadataRoute.Sitemap = [];
