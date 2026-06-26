@@ -11,6 +11,8 @@
     "cf:build": "opennextjs-cloudflare build",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "postdeploy": "node scripts/indexnow-submit.mjs || exit 0",
+    "indexnow": "node scripts/indexnow-submit.mjs",
     "generate:article": "tsx scripts/generate-article.ts",
     "generate:article:gemini": "tsx scripts/generate-article-gemini.ts",
     "generate:article:groq": "tsx scripts/generate-article-groq.ts",
