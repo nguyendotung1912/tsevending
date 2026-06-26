@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { buildMetadata, articleJsonLd, faqJsonLd } from "@/lib/seo";
+import { buildMetadata, articleJsonLd, faqJsonLd, breadcrumbJsonLd } from "@/lib/seo";
 import { siteConfig } from "@/content/site";
 import { mainAuthor } from "@/content/authors";
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts, CATEGORY_META } from "@/lib/content";
@@ -83,6 +83,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       {post.faqs && post.faqs.length > 0 && (
         <JsonLd data={faqJsonLd(post.faqs)} />
       )}
+      <JsonLd data={breadcrumbJsonLd([{ name: "Trang chủ", path: "/" }, ...breadcrumbs])} />
       <PageHeader title={post.title} breadcrumbs={breadcrumbs} />
 
       {post.image && (
