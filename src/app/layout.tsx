@@ -8,13 +8,17 @@ const inter = Inter({
   subsets: ["latin", "vietnamese"],
   variable: "--font-inter",
   display: "swap",
+  // Body font paints via system fallback first (swap); skip preload so it
+  // doesn't contend for bandwidth with the LCP heading font + CSS on mobile.
+  preload: false,
 });
 
 // Headings — bold geometric sans built for Vietnamese, echoes the logo's
-// heavy "TS" wordmark.
+// heavy "TS" wordmark. This is the LCP element's font (H1), so it stays
+// preloaded; trimmed to the two weights actually used heavily (700/800).
 const beVietnamPro = Be_Vietnam_Pro({
   subsets: ["latin", "vietnamese"],
-  weight: ["600", "700", "800"],
+  weight: ["700", "800"],
   variable: "--font-bevn",
   display: "swap",
 });
@@ -65,9 +69,9 @@ export default function RootLayout({
       <body className="flex min-h-full flex-col antialiased">
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-VR47QNZRT8"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}

@@ -1,8 +1,5 @@
-"use client";
-
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
 
 interface CategoryCardProps {
   href: string;
@@ -13,8 +10,6 @@ interface CategoryCardProps {
 }
 
 export default function CategoryCard({ href, icon, title, description, image }: CategoryCardProps) {
-  const [imgError, setImgError] = useState(false);
-  const showImage = image && !imgError;
 
   return (
     <Link
@@ -23,17 +18,17 @@ export default function CategoryCard({ href, icon, title, description, image }: 
     >
       {/* Image / Gradient header */}
       <div className="relative h-44 overflow-hidden bg-gradient-to-br from-brand-800 to-brand-950 flex-shrink-0">
-        {showImage && (
+        {image && (
           <Image
             src={image}
             alt={title}
             fill
             className="object-cover transition-transform duration-500 group-hover:scale-105"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            onError={() => setImgError(true)}
+
           />
         )}
-        {!showImage && (
+        {!image && (
           <div className="absolute inset-0 flex items-center justify-center">
             <span className="text-6xl opacity-40">{icon}</span>
           </div>

@@ -1,6 +1,3 @@
-"use client";
-
-import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import type { BlogPostMeta } from "@/lib/categories";
@@ -47,8 +44,6 @@ interface ArticleCardProps {
 }
 
 export default function ArticleCard({ post, variant = "default" }: ArticleCardProps) {
-  const [imgError, setImgError] = useState(false);
-
   const date = new Date(post.date).toLocaleDateString("vi-VN", {
     year: "numeric",
     month: "2-digit",
@@ -62,9 +57,9 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
   if (variant === "compact") {
     return (
       <Link href={`/tin-tuc/${post.slug}`} className="group flex items-start gap-3 py-3 border-b border-slate-100 last:border-0 hover:bg-slate-50 rounded-lg px-1 transition">
-        {post.image && !imgError && (
+        {post.image && (
           <div className="relative h-14 w-20 flex-none overflow-hidden rounded-lg bg-slate-100">
-            <Image src={post.image} alt={post.imageAlt ?? post.title} fill className="object-cover" sizes="80px" onError={() => setImgError(true)} />
+            <Image src={post.image} alt={post.imageAlt ?? post.title} fill className="object-cover" sizes="80px" />
           </div>
         )}
         <div className="min-w-0">
@@ -79,8 +74,8 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
     return (
       <Link href={`/tin-tuc/${post.slug}`} className="group flex gap-4 rounded-xl border border-slate-200 bg-white overflow-hidden hover:shadow-md transition-shadow">
         <div className="relative h-28 w-36 flex-none overflow-hidden bg-slate-100">
-          {post.image && !imgError ? (
-            <Image src={post.image} alt={post.imageAlt ?? post.title} fill className="object-cover transition-transform duration-300 group-hover:scale-105" sizes="144px" onError={() => setImgError(true)} />
+          {post.image ? (
+            <Image src={post.image} alt={post.imageAlt ?? post.title} fill className="object-cover transition-transform duration-300 group-hover:scale-105" sizes="144px" />
           ) : (
             <div className="absolute inset-0 bg-gradient-to-br from-brand-700 to-brand-950" />
           )}
@@ -101,7 +96,7 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
       href={`/tin-tuc/${post.slug}`}
       className="group flex flex-col rounded-2xl border border-slate-200 bg-white overflow-hidden transition-all hover:-translate-y-0.5 hover:shadow-md"
     >
-      {post.image && !imgError ? (
+      {post.image ? (
         <div className="relative h-48 w-full overflow-hidden bg-slate-100">
           <Image
             src={post.image}
@@ -109,7 +104,7 @@ export default function ArticleCard({ post, variant = "default" }: ArticleCardPr
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-cover transition-transform duration-300 group-hover:scale-105"
-            onError={() => setImgError(true)}
+           
           />
           {catMeta && (
             <span className={`absolute top-3 left-3 rounded-full px-2.5 py-0.5 text-xs font-bold shadow-sm ${catMeta.bg} ${catMeta.color}`}>

@@ -26,10 +26,12 @@ export default function ProductGallery({ title, siloSlug, subSlug }: ProductGall
   // cached 30 days (see public/_headers), so reusing the same filename without a
   // new query string would keep serving the old (stock) photo from edge/browser.
   const v = "2";
+  // Serve the smaller WebP siblings (≈30-40% lighter than the .jpg) — improves
+  // the gallery LCP image on mobile. All product folders have fresh 0N.webp.
   const allImages = [
-    { src: `${base}/01.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 1` },
-    { src: `${base}/02.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 2` },
-    { src: `${base}/03.jpg?v=${v}`, alt: `${title} — hình ảnh thực tế 3` },
+    { src: `${base}/01.webp?v=${v}`, alt: `${title} — hình ảnh thực tế 1` },
+    { src: `${base}/02.webp?v=${v}`, alt: `${title} — hình ảnh thực tế 2` },
+    { src: `${base}/03.webp?v=${v}`, alt: `${title} — hình ảnh thực tế 3` },
   ];
 
   const [active, setActive] = useState(0);
