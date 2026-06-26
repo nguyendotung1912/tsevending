@@ -91,7 +91,11 @@ export default function BlogIndexPage() {
   const posts = getAllPostsMeta();
   const featured = posts[0];
   const recent = posts.slice(1, 9);
-  const olderPosts = posts.slice(9);
+  // Cap the index grid — rendering all ~700 posts here ballooned the DOM to
+  // ~10k elements (3.4s styleLayout / huge TBT on mobile). The rest stay
+  // reachable via category pages + sitemap, so this only trims the index.
+  const olderPosts = posts.slice(9, 30);
+  const totalPosts = posts.length;
 
   const byCategory = CATEGORIES.map((cat) => ({
     ...cat,
@@ -495,10 +499,17 @@ export default function BlogIndexPage() {
 
           {olderPosts.length > 0 && (
             <div>
-              <SectionHeader label="Tất cả bài viết" count={olderPosts.length} />
+              <SectionHeader label="Bài viết khác" count={totalPosts} />
               <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {olderPosts.map((post) => (
                   <ArticleCard key={post.slug} post={post} />
+                ))}
+              </div>
+              <div className="mt-6 flex flex-wrap gap-2">
+                {CATEGORIES.map((cat) => (
+                  <Link key={cat.slug} href={cat.href} className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-brand-300 hover:text-brand-700">
+                    {cat.icon} {cat.label}
+                  </Link>
                 ))}
               </div>
             </div>
