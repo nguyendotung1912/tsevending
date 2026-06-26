@@ -100,6 +100,8 @@ export function organizationJsonLd() {
     "@id": `${siteConfig.url}/#organization`,
     name: siteConfig.name,
     legalName: siteConfig.legalName,
+    alternateName: [siteConfig.shortName, "TSE", "TSE Vending Machine"],
+    slogan: siteConfig.tagline,
     url: siteConfig.url,
     logo: {
       "@type": "ImageObject",
