@@ -676,7 +676,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ si
                 icon={s.icon}
                 title={s.title}
                 description={s.metaDescription}
-                image={`/images/products/${silo.slug}/${normalizeSubSlug(s.slug)}/01.webp`}
+                image={`/images/products/${silo.slug}/${normalizeSubSlug(s.slug)}/01.webp?v=3`}
               />
             ))}
           </div>

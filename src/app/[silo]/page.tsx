@@ -420,7 +420,7 @@ export default async function SiloPage({ params }: { params: Promise<{ silo: str
                     icon={sub.icon}
                     title={sub.title}
                     description={sub.metaDescription}
-                    image={`/images/products/${silo.slug}/${normalizeSlugForImage(sub.slug)}/01.webp`}
+                    image={`/images/products/${silo.slug}/${normalizeSlugForImage(sub.slug)}/01.webp?v=3`}
                   />
                 ))}
               </div>

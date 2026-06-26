@@ -25,7 +25,7 @@ export default function ProductGallery({ title, siloSlug, subSlug }: ProductGall
   // Bump `v` whenever the underlying 01/02/03.jpg are replaced — the images are
   // cached 30 days (see public/_headers), so reusing the same filename without a
   // new query string would keep serving the old (stock) photo from edge/browser.
-  const v = "2";
+  const v = "3";
   // Serve the smaller WebP siblings (≈30-40% lighter than the .jpg) — improves
   // the gallery LCP image on mobile. All product folders have fresh 0N.webp.
   const allImages = [
@@ -95,8 +95,10 @@ export default function ProductGallery({ title, siloSlug, subSlug }: ProductGall
                   src={img.src}
                   alt={img.alt}
                   fill
+                  loading="lazy"
+                  fetchPriority="low"
                   className="object-cover"
-                  sizes="25vw"
+                  sizes="120px"
                   onError={() => markFailed(img.originalIdx)}
                 />
               </button>
